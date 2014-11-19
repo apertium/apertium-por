@@ -1,0 +1,1069 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+	<pardefs>
+		<pardef n="caracter_general">
+			<e>
+				<i>;</i>
+			</e>
+			<e>
+				<i>#</i>
+			</e>
+			<e>
+				<i>)</i>
+			</e>
+			<e>
+				<i>:</i>
+			</e>
+			<e>
+				<i>(</i>
+			</e>
+			<e>
+				<i>[</i>
+			</e>
+			<e>
+				<i>]</i>
+			</e>
+			<e>
+				<i>"</i>
+			</e>
+			<e>
+				<i>'</i>
+			</e>
+			<e>
+				<i>*</i>
+			</e>
+			<e>
+				<i>@</i>
+			</e>
+			<e>
+				<i>«</i>
+			</e>
+			<e>
+				<i>-</i>
+			</e>
+			<e>
+				<i>,</i>
+			</e>
+			<e>
+				<i>?</i>
+			</e>
+			<e>
+				<i>/</i>
+			</e>
+			<e>
+				<i>`</i>
+			</e>
+			<e>
+				<i>±</i>
+			</e>
+			<e>
+				<i>­</i>
+			</e>
+			<e>
+				<i>$</i>
+			</e>
+      <e>
+        <i>)</i>
+      </e>
+      <e>
+        <i>:</i>
+      </e>
+			<e>
+				<i>.</i>
+			</e>
+		</pardef>
+		
+		<pardef n="artigo_m">
+			<e>
+				<p>
+					<l><a/>o<b/></l>
+					<r>o<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>o<b/></i>
+			</e>
+			<e>
+				<i>o</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>os<b/></l>
+					<r>os<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>os<b/></i>
+			</e>
+			<e>
+				<i>os</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="artigo_f">
+			<e>
+				<p>
+					<l><a/>a<b/></l>
+					<r>a<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>a<b/></i>
+			</e>
+			<e>
+				<i>a</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>as<b/></l>
+					<r>as<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>as<b/></i>
+			</e>
+			<e>
+				<i>as</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="à">
+			<e>
+				<p>
+					<l><a/>a<b/></l>
+					<r>à<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>a<b/></l>
+					<r>à<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>a</l>
+					<r>à</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="às">
+			<e>
+				<p>
+					<l><a/>as<b/></l>
+					<r>às<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>as<b/></l>
+					<r>às<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>as</l>
+					<r>às</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="artigo_ind">
+			<e>
+				<p>
+					<l><a/>um<b/></l>
+					<r>um<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>um<b/></i>
+			</e>
+			<e>
+				<i>um</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>uns<b/></l>
+					<r>uns<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>uns<b/></i>
+			</e>
+			<e>
+				<i>uns</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>uma<b/></l>
+					<r>uma<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>uma<b/></i>
+			</e>
+			<e>
+				<i>uma</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>umas<b/></l>
+					<r>umas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>uma<b/></i>
+			</e>
+			<e>
+				<i>uma</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>umas<b/></l>
+					<r>umas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>umas<b/></i>
+			</e>
+			<e>
+				<i>umas</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="dem_1">
+			<e>
+				<p>
+					<l><a/>este<b/></l>
+					<r>este<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>este<b/></i>
+			</e>
+			<e>
+				<i>este</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>estes<b/></l>
+					<r>estes<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>estes<b/></i>
+			</e>
+			<e>
+				<i>estes</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>esta<b/></l>
+					<r>esta<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>esta<b/></i>
+			</e>
+			<e>
+				<i>esta</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>estas<b/></l>
+					<r>estas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>estas<b/></i>
+			</e>
+			<e>
+				<i>estas</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="dem_2">
+			<e>
+				<p>
+					<l><a/>esse<b/></l>
+					<r>esse<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>esse<b/></i>
+			</e>
+			<e>
+				<i>esse</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>esses<b/></l>
+					<r>esses<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>esses<b/></i>
+			</e>
+			<e>
+				<i>esses</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>essa<b/></l>
+					<r>essa<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>essa<b/></i>
+			</e>
+			<e>
+				<i>essa</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>essas<b/></l>
+					<r>essas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>essas<b/></i>
+			</e>
+			<e>
+				<i>essas</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="dem_3">
+			<e>
+				<p>
+					<l><a/>aquele<b/></l>
+					<r>aquele<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>aquele<b/></i>
+			</e>
+			<e>
+				<i>aquele</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aqueles<b/></l>
+					<r>aqueles<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>aqueles<b/></i>
+			</e>
+			<e>
+				<i>aqueles</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aquela<b/></l>
+					<r>aquela<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>aquela<b/></i>
+			</e>
+			<e>
+				<i>aquela</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aquelas<b/></l>
+					<r>aquelas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>aquelas<b/></i>
+			</e>
+			<e>
+				<i>aquelas</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="dem_3_a">
+			<e>
+				<p>
+					<l><a/>aquele<b/></l>
+					<r>àquele<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquele<b/></l>
+					<r>àquele<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquele</l>
+					<r>àquele</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aqueles<b/></l>
+					<r>àqueles<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aqueles<b/></l>
+					<r>àqueles<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aqueles</l>
+					<r>àqueles</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aquela<b/></l>
+					<r>àquela<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquela<b/></l>
+					<r>àquela<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquela</l>
+					<r>àquela</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>aquelas<b/></l>
+					<r>àquelas<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquelas<b/></l>
+					<r>àquelas<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquelas</l>
+					<r>àquelas</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="prn_tn_nt_1">
+			<e>
+				<p>
+					<l><a/>isto<b/></l>
+					<r>isto<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>isto<b/></i>
+			</e>
+			<e>
+				<i>isto</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="prn_tn_nt_2">
+			<e>
+				<p>
+					<l><a/>isso<b/></l>
+					<r>isso<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>isso<b/></i>
+			</e>
+			<e>
+				<i>isso</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="prn_tn_nt_3">
+			<e>
+				<p>
+					<l><a/>aquilo<b/></l>
+					<r>aquilo<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>aquilo<b/></i>
+			</e>
+			<e>
+				<i>aquilo</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="prn_tn_nt_3_a">
+			<e>
+				<p>
+					<l><a/>aquilo<b/></l>
+					<r>àquilo<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquilo<b/></l>
+					<r>àquilo<b/></r>
+				</p>
+			</e>
+			<e>
+				<p>
+					<l>aquilo</l>
+					<r>àquilo</r>
+				</p>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+		<pardef n="prn_pessoal_3">
+			<e>
+				<p>
+					<l><a/>ele<b/></l>
+					<r>ele<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>ele<b/></i>
+			</e>
+			<e>
+				<i>ele</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>eles<b/></l>
+					<r>eles<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>eles<b/></i>
+			</e>
+			<e>
+				<i>eles</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>ela<b/></l>
+					<r>ela<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>ela<b/></i>
+			</e>
+			<e>
+				<i>ela</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>elas<b/></l>
+					<r>elas<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>elas<b/></i>
+			</e>
+			<e>
+				<i>elas</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		<pardef n="outro">
+			<e>
+				<p>
+					<l><a/>outro<b/></l>
+					<r>outro<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>outro<b/></i>
+			</e>
+			<e>
+				<i>outro</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>outros<b/></l>
+					<r>outros<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>outros<b/></i>
+			</e>
+			<e>
+				<i>outros</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>outra<b/></l>
+					<r>outra<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>outra<b/></i>
+			</e>
+			<e>
+				<i>outra</i>
+				<par n="caracter_general"/>
+			</e>
+			<e>
+				<p>
+					<l><a/>outras<b/></l>
+					<r>outras<b/></r>
+				</p>
+			</e>
+			<e>
+				<i>outras<b/></i>
+			</e>
+			<e>
+				<i>outras</i>
+				<par n="caracter_general"/>
+			</e>
+		</pardef>
+		
+	</pardefs>
+	
+	<section id="main" type="standard">
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+<!--		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="artigo_ind"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="outro"/>
+		</e>-->
+		<e>
+			<p>
+				<l><a/>a<b/></l>
+				<r/>
+			</p>
+			<par n="à"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>a<b/></l>
+				<r/>
+			</p>
+			<par n="às"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>a<b/></l>
+				<r>a</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e v="pt">
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="artigo_ind"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>por<b/></l>
+				<r>pel</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>por<b/></l>
+				<r>pel</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="dem_1"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="dem_1"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="dem_2"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="dem_2"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="dem_3"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="dem_3"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="prn_tn_nt_1"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="prn_tn_nt_2"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="prn_tn_nt_3"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>a<b/></l>
+				<r/>
+			</p>
+			<par n="prn_tn_nt_3_a"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>de<b/></l>
+				<r>d</r>
+			</p>
+			<par n="prn_pessoal_3"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="prn_pessoal_3"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>a<b/></l>
+				<r/>
+			</p>
+			<par n="dem_3_a"/>
+		</e>
+<!--		<e>
+			<p>
+				<l><a/>em<b/></l>
+				<r>n</r>
+			</p>
+			<par n="outro"/>
+		</e> -->
+		<e>
+			<p>
+				<l><a/>me<b/></l>
+				<r>m</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>me<b/></l>
+				<r>m</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>te<b/></l>
+				<r>t</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>te<b/></l>
+				<r>t</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>lhe<b/></l>
+				<r>lh</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>lhe<b/></l>
+				<r>lh</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>nos<b/></l>
+				<r>no-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>nos<b/></l>
+				<r>no-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>vos<b/></l>
+				<r>vo-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>vos<b/></l>
+				<r>vo-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		
+		<e>
+			<p>
+				<l><a/>-me<b/></l>
+				<r>-m</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-me<b/></l>
+				<r>-m</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-te<b/></l>
+				<r>-t</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-te<b/></l>
+				<r>-t</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-lhe<b/></l>
+				<r>-lh</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-lhe<b/></l>
+				<r>-lh</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-nos<b/></l>
+				<r>-no-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-nos<b/></l>
+				<r>-no-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-vos<b/></l>
+				<r>-vo-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>-vos<b/></l>
+				<r>-vo-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		
+		
+		<e>
+			<p>
+				<l><a/>me-l</l>
+				<r>m</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>me-l</l>
+				<r>m</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>te-l</l>
+				<r>t</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>te-l</l>
+				<r>t</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>lhe-l</l>
+				<r>lh</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>lhe-l</l>
+				<r>lh</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>nos-l</l>
+				<r>no-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>nos-l</l>
+				<r>no-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>vos-l</l>
+				<r>vo-l</r>
+			</p>
+			<par n="artigo_m"/>
+		</e>
+		<e>
+			<p>
+				<l><a/>vos-l</l>
+				<r>vo-l</r>
+			</p>
+			<par n="artigo_f"/>
+		</e>
+	</section>
+	
+</dictionary>
