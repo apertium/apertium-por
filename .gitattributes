@@ -1,0 +1,4 @@
+* text=auto !eol
+/apertium-por.por.dix -text
+/apertium-por.por.tsx -text
+/por.prob -text svneol=unset#unset
