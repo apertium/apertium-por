@@ -1,0 +1,485 @@
+"<Este>"
+	"este" det dem m sg
+"<artigo>"
+	"artigo" n m sg
+"<ou>"
+	"ou" cnjcoo
+"<seção>"
+	"seção" n f sg
+"<contém>"
+	"conter" vblex pri p3 sg
+"<informações>"
+	"informação" n f pl
+"<sobre>"
+	"sobre" pr
+"<uma>"
+	"um" det ind f sg
+"<futura>"
+	"futuro" adj f sg
+"<missão>"
+	"missão" n f sg
+"<espacial>"
+	"espacial" adj mf sg
+"<.>"
+	"." sent
+
+"<As>"
+	"o" det def f pl
+"<informações>"
+	"informação" n f pl
+"<apresentadas>"
+	"apresentar" vblex pp f pl
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<artigo>"
+	"artigo" n m sg
+"<podem>"
+	"poder" vbmod pri p3 pl
+"<não>"
+	"não" adv
+"<ser>"
+	"ser" vbser inf
+"<exatas>"
+	"exato" adj f pl
+"<e>"
+	"e" cnjcoo
+"<mudar>"
+;	"mudar" vblex inf
+;	"mudar" vblex fts p1 sg
+	"mudar" vblex fts p3 sg
+;	"mudar" vblex infps p1 sg
+;	"mudar" vblex infps p3 sg
+"<até>"
+	"até" pr
+"<a>"
+	"o" det def f sg
+"<realização>"
+	"realização" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<missão>"
+	"missão" n f sg
+"<.>"
+	"." sent
+
+"<Akatsuki>"
+	"Akatsuki" np al sg
+"<,>"
+	"," cm
+"<antes>"
+	"antes" adv
+"<chamada>"
+	"chamar" vblex pp f sg
+"<de>"
+	"de" pr
+"<PLANET>"
+	"PLANET" np al
+"<C>"
+	"C" n m sg
+"<e>"
+	"e" cnjcoo
+"<também>"
+	"também" adv
+"<de>"
+	"de" pr
+"<Venus>"
+	"Venus" np al
+"<Climate>"
+	"Climate" np al
+"<Orbiter>"
+	"Orbiter" np al
+"<(>"
+	"(" lpar
+"<VCO>"
+	"VCO" np al
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<é>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<nave>"
+	"nave" n f sg
+"<espacial>"
+	"espacial" adj mf sg
+"<japonesa>"
+	"japonês" adj f sg
+"<não>"
+	"não" adv
+"<tripulada>"
+	"tripular" vblex pp f sg
+"<que>"
+	"que" rel an mf sp
+"<vai>"
+	"ir" vblex pri p3 sg
+"<explorar>"
+	"explorar" vblex inf
+"<Vênus>"
+	"Vênus" np loc
+"<.>"
+	"." sent
+ 
+"<Foi>"
+	"ser" vbser ifi p3 sg
+"<lançada>"
+	"lançar" vblex pp f sg
+"<em>"
+	"em" pr
+"<20>"
+	"20" num
+"<de>"
+	"de" pr
+"<Maio>"
+	"maio" n m sg
+"<de>"
+	"de" pr
+"<2010>"
+	"2010" num
+"<,>"
+	"," cm
+"<prevista>"
+	"prever" vblex pp f sg
+"<para>"
+	"para" pr
+"<chegar>"
+	"chegar" vblex inf
+"<em>"
+	"em" pr
+"<Dezembro>"
+	"dezembro" n m sg
+"<de>"
+	"de" pr
+"<2010>"
+	"2010" num
+"<para>"
+	"para" pr
+"<uma>"
+	"um" det ind f sg
+"<missão>"
+	"missão" n f sg
+"<de>"
+	"de" pr
+"<dois>"
+	"dois" num m sp
+"<anos>"
+	"ano" n m pl
+"<ou>"
+	"ou" cnjcoo
+"<mais>"
+	"mais" adv
+"<.>"
+	"." sent
+ 
+"<Com>"
+	"com" pr
+"<o>"
+	"o" det def m sg
+"<fim>"
+	"fim" n m sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<programa>"
+	"programa" n m sg
+"<F>"
+	"F" n m sg
+"<5>"
+	"5" num
+"<em>"
+	"em" pr
+"<2006>"
+	"2006" num
+"<,>"
+	"," cm
+"<Akatsuki>"
+	"Akatsuki" np al sg
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<lançado>"
+	"lançar" vblex pp m sg
+"<pela>"
+	"o" det def f sg
+		"por" pr
+"<H>"
+	"H" n m sg
+"<IIA>"
+	"IIA" np al
+"<(>"
+	"(" lpar
+"<tipo>"
+	"tipo" n m sg
+"<202>"
+	"202" num
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<As>"
+	"o" det def f pl
+"<investigações>"
+	"investigação" n f pl
+"<planejadas>"
+	"planejar" vblex pp f pl
+"<incluem>"
+	"incluir" vblex pri p3 pl
+"<o>"
+	"o" det def m sg
+"<mapeamento>"
+	"mapeamento" n m sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<superfície>"
+	"superfície" n f sg
+"<de>"
+	"de" pr
+"<Vênus>"
+	"Vênus" np loc
+"<com>"
+	"com" pr
+"<câmeras>"
+	"câmera" n f pl
+"<infravermelho>"
+	"infravermelho" adj m sg
+	"<,>"
+	"," cm
+"<experimentos>"
+	"experimento" n m pl
+"<desenhados>"
+	"desenhar" vblex pp m pl
+"<para>"
+	"para" pr
+"<prever>"
+	"prever" vblex inf
+"<a>"
+	"o" det def f sg
+"<existência>"
+	"existência" n f sg
+"<de>"
+	"de" pr
+"<Raios>"
+	"raio" n m pl
+"<e>"
+	"e" cnjcoo
+"<determinar>"
+	"determinar" vblex inf
+"<se>"
+	"se" cnjadv
+"<ocorre>"
+	"ocorrer" vblex pri p3 sg
+"<vulcanismo>"
+	"vulcanismo" n m sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<superfície>"
+	"superfície" n f sg
+"<.>"
+	"." sent
+
+"<Akatsuki>"
+	"Akatsuki" np al sg
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<lançada>"
+	"lançar" vblex pp f sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<dia>"
+	"dia" n m sg
+"<20>"
+	"20" num
+"<de>"
+	"de" pr
+"<maio>"
+	"maio" n m sg
+"<de>"
+	"de" pr
+"<2010>"
+	"2010" num
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<manobra>"
+	"manobra" n f sg
+"<de>"
+	"de" pr
+"<inserção>"
+	"inserção" n f sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<orbita>"
+	"órbita" n f sg
+"<de>"
+	"de" pr
+"<Vênus>"
+	"Vênus" np loc
+"<,>"
+	"," cm
+"<ocorrida>"
+	"ocorrer" vblex pp f sg
+"<em>"
+	"em" pr
+"<dezembro>"
+	"dezembro" n m sg
+"<de>"
+	"de" pr
+"<2010>"
+	"2010" num
+"<,>"
+	"," cm
+"<falhou>"
+	"falhar" vblex ifi p3 sg
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<2015>"
+	"2015" num
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<sonda>"
+	"sonda" n f sg
+"<Akatsuki>"
+	"Akatsuki" np al sg
+"<voltou>"
+	"voltar" vblex ifi p3 sg
+"<a>"
+	"a" pr
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<reencontrar>"
+	"reencontrar" vblex inf
+"<com>"
+	"com" pr
+"<Vênus>"
+	"Vênus" np loc
+"<após>"
+	"após" pr
+"<cinco>"
+	"cinco" num mf sp
+"<anos>"
+	"ano" n m pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<tentativa>"
+	"tentativa" n f sg
+"<de>"
+	"de" pr
+"<entrar>"
+	"entrar" vblex inf
+"<órbita>"
+	"órbita" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<ter>"
+	"ter" vbhaver inf
+"<falhado>"
+	"falhar" vblex pp m sg
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<sonda>"
+	"sonda" n f sg
+"<entrou>"
+	"entrar" vblex ifi p3 sg
+"<em>"
+	"em" pr
+"<órbita>"
+	"órbita" n f sg
+"<equatorial>"
+	"equatorial" adj mf sg
+"<de>"
+	"de" pr
+"<Vênus>"
+	"Vênus" np loc
+"<em>"
+	"em" pr
+"<7>"
+	"7" num
+"<de>"
+	"de" pr
+"<dezembro>"
+	"dezembro" n m sg
+"<de>"
+	"de" pr
+"<2015>"
+	"2015" num
+"<,>"
+	"," cm
+"<após>"
+	"após" pr
+"<uma>"
+	"um" det ind f sg
+"<outra>"
+	"outro" adj f sg
+"<tentativa>"
+	"tentativa" n f sg
+"<bem>"
+	"bem" adv
+"<sucedida>"
+	"suceder" vblex pp f sg
+"<,>"
+	"," cm
+"<desta vez>"
+	"desta vez" adv
+"<usando>"
+	"usar" vblex ger
+"<os>"
+	"o" det def m pl
+"<propulsores>"
+	"propulsor" n m pl
+"<RCS>"
+	"RCS" np al
+"<.>"
+	"." sent
+
+"<Sonda>"
+	"sonda" n f sg
+"<japonesa>"
+	"japonês" adj f sg
+"<Akatsuki>"
+	"Akatsuki" np al sg
+"<volta>"
+	"voltar" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<reencontrar>"
+	"reencontrar" vblex inf
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<com>"
+	"com" pr
+"<Vénus>"
+	"Vénus" np loc
+"<6>"
+	"6" num
+"<anos>"
+	"ano" n m pl
+"<após>"
+	"após" pr
+"<órbita>"
+	"órbita" n f sg
+"<falhada>"
+	"falhar" vblex pp f sg
+"<.>"
+	"." sent
+
