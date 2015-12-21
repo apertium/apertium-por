@@ -16,5 +16,6 @@
 /filter.xsl -text
 /modes.xml -text
 /por.prob -text svneol=unset#unset
+texts/akatsuki.tagged.txt -text
 texts/akatsuki.txt -text
 texts/akatsuki.vislcg.txt -text
