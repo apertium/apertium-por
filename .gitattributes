@@ -1,5 +1,7 @@
 * text=auto !eol
+/apertium-por.por.acx -text
 /apertium-por.por.dix -text
 /apertium-por.por.tsx -text
 /apertium-por.post-por.dix -text
 /por.prob -text svneol=unset#unset
+texts/akatsuki.txt -text
