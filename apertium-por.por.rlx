@@ -1,5 +1,9 @@
 DELIMITERS = "<.>" ;
 
+LIST Inf = inf ;
+LIST Para = "para" ;
+LIST V = vblex ;
+
 SECTION
 
-REMOVE (@X);
+SELECT Inf IF (-1 Para) (0C V) ;
