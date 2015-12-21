@@ -12,6 +12,8 @@
 /apertium-por.por.tsx -text
 /apertium-por.post-por.dix -text
 /configure.ac -text
+/filter.sh -text
+/filter.xsl -text
 /modes.xml -text
 /por.prob -text svneol=unset#unset
 texts/akatsuki.txt -text
