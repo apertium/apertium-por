@@ -1,8 +1,18 @@
 * text=auto !eol
+/AUTHORS -text
+/COPYING -text
+/INSTALL -text
+/Makefile.am -text
+/NEWS -text
+/README -text
+/apertium-por.pc.in -text
 /apertium-por.por.acx -text
 /apertium-por.por.dix -text
+/apertium-por.por.rlx -text
 /apertium-por.por.tsx -text
 /apertium-por.post-por.dix -text
+/configure.ac -text
+/modes.xml -text
 /por.prob -text svneol=unset#unset
 texts/akatsuki.txt -text
 texts/akatsuki.vislcg.txt -text

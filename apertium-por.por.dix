@@ -153910,7 +153910,7 @@
 <e a="prompsit" lm="intercalar"><i>intercal</i><par n="abal/ar__vblex"/></e>
 <e a="prompsit" lm="interatuar"><i>interatu</i><par n="abal/ar__vblex"/></e>
 <e a="prompsit" lm="quicar"><i>qui</i><par n="abdi/car__vblex"/></e>
-<e R="LR" a="prompsit" lm="alavancar"><i>alavan</i><par n="abdi/car__vblex"/></e>
+<e r="LR" a="prompsit" lm="alavancar"><i>alavan</i><par n="abdi/car__vblex"/></e>
 <e a="prompsit" lm="reatar"><i>reat</i><par n="abal/ar__vblex"/></e>
 <e a="prompsit" lm="alojar"><i>aloj</i><par n="abal/ar__vblex"/></e>
 <e a="prompsit" lm="expulsar"><i>expuls</i><par n="abal/ar__vblex"/></e>

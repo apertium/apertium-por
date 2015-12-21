@@ -1,0 +1,10 @@
+prefix=@prefix@
+exec_prefix=${prefix}
+libdir=@libdir@
+dir=@libdir@/apertium/apertium-por
+srcdir=@datarootdir@/apertium/apertium-por
+
+Name: apertium-por
+Description: Finite-state morphological transducer and constraint grammar for Portuguese 
+Version: @VERSION@
+
