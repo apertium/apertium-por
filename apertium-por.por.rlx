@@ -3,7 +3,12 @@ DELIMITERS = "<.>" ;
 LIST Inf = inf ;
 LIST Para = "para" ;
 LIST V = vblex ;
+LIST Ser = vbser ;
+LIST PrfPrc = pp ;
+LIST Foi = "<foi>"i ;
 
 SECTION
 
 SELECT Inf IF (-1 Para) (0C V) ;
+
+SELECT Ser IF (0 Foi) (1 PrfPrc) ;
