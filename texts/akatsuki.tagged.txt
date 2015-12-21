@@ -45,11 +45,7 @@
 "<e>"
 	"e" cnjcoo
 "<mudar>"
-;	"mudar" vblex inf
-;	"mudar" vblex fts p1 sg
-	"mudar" vblex fts p3 sg
-;	"mudar" vblex infps p1 sg
-;	"mudar" vblex infps p3 sg
+	"mudar" vblex inf
 "<até>"
 	"até" pr
 "<a>"
@@ -246,7 +242,7 @@
 	"câmera" n f pl
 "<infravermelho>"
 	"infravermelho" adj m sg
-	"<,>"
+"<,>"
 	"," cm
 "<experimentos>"
 	"experimento" n m pl
