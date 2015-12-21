@@ -5,3 +5,4 @@
 /apertium-por.post-por.dix -text
 /por.prob -text svneol=unset#unset
 texts/akatsuki.txt -text
+texts/akatsuki.vislcg.txt -text
