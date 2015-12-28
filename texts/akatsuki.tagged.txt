@@ -169,7 +169,7 @@
 	"mais" adv
 "<.>"
 	"." sent
- 
+
 "<Com>"
 	"com" pr
 "<o>"

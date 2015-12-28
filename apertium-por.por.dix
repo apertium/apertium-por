@@ -119528,9 +119528,14 @@
         <i>educaç</i>
         <par n="aceitaç/ão__n"/>
       </e>
-      
+       
       <e lm="efeito">
         <i>efeito</i>
+        <par n="livro__n"/>
+      </e>
+
+      <e lm="estreito">
+        <i>estreito</i>
         <par n="livro__n"/>
       </e>
       
@@ -133255,7 +133260,12 @@
         <i>atenu</i>
         <par n="abal/ar__vblex"/>
       </e>
-      
+       
+      <e lm="colonizar">
+        <i>coloniz</i>
+        <par n="abal/ar__vblex"/>
+      </e>
+
       <e lm="constitucionalizar">
         <i>constitucionaliz</i>
         <par n="abal/ar__vblex"/>
@@ -148209,6 +148219,10 @@
 <e lm="atendimento" a="carmentano">
 	<i>atendimento</i>
 	<par n="livro__n"/>
+</e>
+<e lm="intercontinental" a="carmentano">
+	<i>intercontinenta</i>
+	<par n="aceitáve/l__adj"/>
 </e>
 <e lm="continental" a="carmentano">
 	<i>continenta</i>
