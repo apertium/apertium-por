@@ -1,17 +1,48 @@
 DELIMITERS = "<.>" ;
 
-LIST Inf = inf ;
 LIST V = vblex ;
 LIST Ser = vbser ;
+LIST Pr = pr ;
+LIST Det = det ;
+LIST Prn = prn ;
+LIST N = n ;
+LIST Detnt = detnt ;
+
+LIST Inf = inf ;
 LIST PrfPrc = pp ;
+
+LIST Pro = pro ;
 
 LIST Para = "para" ;
 LIST De = "de" ;
+LIST Entre = "entre" ;
+LIST Outro = "outro" ;
+LIST Se = "se" ; 
+LIST Que = "que" ; 
 
 LIST Foi = "<foi>"i ;
+LIST Vai = "<vai>"i ;
+LIST É = "<é>"i ;
+LIST Uma = "<uma>"i ;
 
 SECTION
 
 SELECT Inf IF (-1 Para OR De) (0C V) ;
 
 SELECT Ser IF (0 Foi) (1 PrfPrc) ;
+
+SELECT Pr IF (0 Entre) (1C N) ;
+
+SELECT Inf IF (-1C Vai) ;
+
+SELECT Det IF (-1C É) (0 Det OR Prn) (1C N) ;
+
+REMOVE Pro IF (NOT 1 V OR Prn) (NOT -1 Inf) ;
+
+SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
+
+SELECT Pro IF (-1 Pr) (0 Se) (1 Inf) ;
+
+SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
+
+REMOVE Detnt IF (NOT 1 Que) ;

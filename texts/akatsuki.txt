@@ -238,3 +238,4 @@
 ^órbita/órbita<n><f><sg>$
 ^falhada/falhar<vblex><pp><f><sg>$
 ^./.<sent>$
+
