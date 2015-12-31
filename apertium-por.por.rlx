@@ -1,6 +1,7 @@
 DELIMITERS = "<.>" ;
 
 LIST V = vblex ;
+LIST A = adj ;
 LIST Ser = vbser ;
 LIST Pr = pr ;
 LIST Det = det ;
@@ -12,6 +13,15 @@ LIST Inf = inf ;
 LIST PrfPrc = pp ;
 
 LIST Pro = pro ;
+LIST Enc = enc ;
+
+LIST Pri = pri ;
+LIST Pii = pii ;
+LIST Pis = pis ;
+LIST Prs = prs ;
+LIST Fti = fti ;
+
+LIST Imp = imp ;
 
 LIST Para = "para" ;
 LIST De = "de" ;
@@ -19,11 +29,14 @@ LIST Entre = "entre" ;
 LIST Outro = "outro" ;
 LIST Se = "se" ; 
 LIST Que = "que" ; 
+LIST Estar = "estar" ;
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
 LIST É = "<é>"i ;
 LIST Uma = "<uma>"i ;
+
+SET Fin = Pri | Prs | Pii | Pis | Fti ;
 
 SECTION
 
@@ -46,3 +59,21 @@ SELECT Pro IF (-1 Pr) (0 Se) (1 Inf) ;
 SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
 
 REMOVE Detnt IF (NOT 1 Que) ;
+
+REMOVE Pr IF (1C Fin) ;
+
+REMOVE Pr IF (-1C Pr) ;
+
+REMOVE Pr IF (-1 Entre) ;
+
+SELECT Ser IF (1C PrfPrc) ; 
+
+SELECT N IF (-1 Det) (0C N OR A) (1C A) ;
+
+REMOVE Det IF (1C Fin) ;
+
+SELECT PrfPrc IF (-1C Estar) ;
+
+SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N);
+
+REMOVE Imp IF (-1C Se) ;

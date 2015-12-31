@@ -134,7 +134,7 @@
 "<o>"
 	"o" det def m sg
 "<extremo>"
-	"extremo" adj m sg
+	"extremo" n m sg
 "<ocidental>"
 	"ocidental" adj mf sg
 "<do>"
