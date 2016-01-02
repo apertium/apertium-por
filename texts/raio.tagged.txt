@@ -138,7 +138,7 @@
 	"associar" vblex pp m pl
 "<.>"
 	"." sent
- 
+
 "<Embora>"
 	"embora" cnjadv
 "<sejam>"
@@ -147,78 +147,63 @@
 	"mais" adv
 "<frequentes>"
 	"frequente" adj mf pl
+"<descargas>"
+	"descarga" n f pl
+"<dentro>"
+	"dentro" adv
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<nuvens>"
+	"nuvem" n f pl
+"<(>"
+	"(" lpar
+"<as>"
+	"o" det def f pl
 "<intra>"
 	"intra" adv
 "<->"
 	"-" guio
 "<nuvens>"
 	"nuvem" n f pl
+"<)>"
+	")" rpar
 "<e>"
 	"e" cnjcoo
+"<entre>"
+	"entre" pr
+"<duas>"
+	"dois" num f sp
+"<nuvens>"
+	"nuvem" n f pl
+"<(>"
+	"(" lpar
+"<as>"
+	"o" det def f pl
 "<inter>"
 	"inter" adv
 "<->"
 	"-" guio
 "<nuvens>"
 	"nuvem" n f pl
+"<)>"
+	")" rpar
 "<,>"
 	"," cm
-"<as>"
-	"o" det def f pl
 "<descargas>"
 	"descarga" n f pl
-"<diretamente>"
-	"diretamente" adv
-"<no>"
-	"em" pr
-		"o" det def m sg
-"<solo>"
-	"solo" n m sg
-"<,>"
-	"," cm
-"<a>"
-	"o" prn pro p3 f sg
-"<transferirem>"
-	"transferir" vblex infps p3 pl
-;	"transferir" vblex fts p3 pl                               hhsukdsgh
-"<elétrons>"
-	"elétron" n m pl
-"<de>"
-	"de" pr
-"<nuvem>"
-	"nuvem" n f sg
-"<para>"
-	"para" pr
+"<entre>"
+	"entre" pr 
+"<nuvens>"
+	"nuvem" n f pl
+"<e>"
+	"e" cnjcoo
 "<a>"
 	"o" det def f sg
 "<terra>"
 	"terra" n f sg
-"<(>"
-	"(" lpar
-"<ou>"
-	"ou" cnjcoo
-"<o>"
-	"o" det def m sg
-"<contrário>"
-	"contrário" adj m sg
-"<,>"
-	"," cm
-"<conforme>"
-	"conforme" adv
-;	"conformar" vblex prs p1 sg
-;	"conformar" vblex prs p3 sg
-"<as>"
-	"o" det def f pl
-"<polarizações>"
-	"polarização" n f pl
-"<mútuas>"
-	"mútuo" adj f pl
-"<)>"
-	")" rpar
 "<são>"
 	"ser" vbser pri p3 pl
-"<objeto>"
-	"objeto" n m sg
 "<de>"
 	"de" pr
 "<maior>"
