@@ -62,11 +62,9 @@
 "<aquele>"
 	"aquele" det dem m sg
 "<complexo>"
-	"complexo" adj m sg
+	"complexo" n m sg
 "<que>"
-	"que" cnjsub
-;	"que" prn itg mf sg
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<inclui>"
 	"incluir" vblex pri p3 sg
 "<o>"
@@ -664,11 +662,9 @@
 	"característica" n f sg
 "<do>"
 	"de" pr
-		"o" det def m sg
+		"o" detnt
 "<que>"
-	"que" cnjsub
-;	"que" prn itg mf sg
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<é>"
 	"ser" vbser pri p3 sg
 "<cultura>"
@@ -887,11 +883,9 @@
 	"rápido" adj f sg
 "<do>"
 	"de" pr
-		"o" det def m sg
+		"o" detnt
 "<que>"
-	"que" cnjsub
-;	"que" prn itg mf sg	
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<uma>"
 	"um" det ind f sg
 "<possível>"
@@ -998,11 +992,9 @@
 	"rápido" adj f sg
 "<do>"
 	"de" pr
-		"o" det def m sg
+		"o" detnt
 "<que>"
-	"que" cnjsub
-;	"que" prn itg mf sg
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<a>"
 	"o" det def f sg
 "<biológica>"
@@ -1376,8 +1368,6 @@
 	"," cm
 "<que>"
 	"que" rel an mf sp
-;	"que" cnjsub
-;	"que" prn itg mf sg
 "<gerou>"
 	"gerar" vblex ifi p3 sg
 "<novo>"
@@ -1796,8 +1786,7 @@
 "<de>"
 	"de" pr
 "<que>"
-	"que" cnjsub
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<somente>"
 	"somente" adv
 "<modificações>"
