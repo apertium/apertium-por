@@ -428,9 +428,7 @@
 "<Por>"
 	"por" pr
 "<ter>"
-	"ter" vbhaver infps p3 sg
-;	"ter" vbhaver inf
-;	"ter" vbhaver infps p1 sg
+	"ter" vbhaver inf
 "<sido>"
 	"ser" vbser pp m sg
 "<fortemente>"
@@ -724,12 +722,8 @@
 "<,>"
 	"," cm
 "<fala-se>"
-	"falir" vblex imp p3 sg
+	"falar" vblex pri p3 sg
 		"se" prn enc ref p3 mf sp
-;	"se" prn enc ref p3 mf sp
-;	   "falar" vblex pri p3 sg
-;	"se" prn enc ref p3 mf sp
-;	   "falir" vblex prs p3 sg
 "<também>"
 	"também" adv
 "<em>"
