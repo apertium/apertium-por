@@ -1,9 +1,13 @@
 DELIMITERS = "<.>" ;
 
+LIST BOS = (>>>) sent ;
+LIST EOS = (<<<) sent ;
+
 LIST V = vblex ;
 LIST Vbmod = vbmod ;
 LIST A = adj ;
 LIST Pr = pr ;
+LIST Adv = adv ; 
 LIST Det = det ;
 LIST Prn = prn ;
 LIST N = n ;
@@ -13,6 +17,7 @@ LIST Inf = inf ;
 LIST PrfPrc = pp ;
 
 LIST Pro = pro ;
+LIST Rel = rel ;
 LIST Enc = enc ;
 
 LIST Masc = m ;
@@ -24,10 +29,16 @@ LIST Pii = pii ;
 LIST Pis = pis ;
 LIST Prs = prs ;
 LIST Fti = fti ;
+LIST Ifi = ifi ;
+LIST Pmp = pmp ;
 LIST Fts = fts ;
 
-LIST Imp = imp ;
+LIST Imper = imp ;
 
+LIST Interr = itg ;
+
+LIST Sg1 = (p1 sg) ;
+LIST Sg3 = (p3 sg) ;
 
 LIST Ser = vbser ;
 LIST Haver = vbhaver ;
@@ -41,6 +52,14 @@ LIST Se = "se" ;
 LIST Que = "que" ; 
 LIST Estar = "estar" ;
 LIST Ir = "ir" ; 
+LIST Humano = "humano" ;
+LIST Como = "como" ;
+LIST Todo = "todo" ;
+LIST O = "o" ;
+LIST Seu = "seu" ; 
+LIST Um = "um" ;
+LIST Algum = "algum" ;
+LIST Esse = "esse" ;
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
@@ -49,13 +68,20 @@ LIST Uma = "<uma>"i ;
 LIST Sido = "<sido>"i ;
 LIST Sua = "<sua>"i ;
 
+LIST Guess/Inf = "\*[a-z]+[aei]r"i ;
+
+LIST Quest = "?" ;
+LIST Excl = "!" ;
+LIST Cm = cm ;
+
 SET Fin = Pri | Prs | Pii | Pis | Fti | Fts ; 
 SET Gender = Fem + MascFem | Masc + MascFem;
 
 SECTION
 
-SELECT Inf IF (-1 Para OR De) (0C V) ;
+SELECT Inf IF (-1 Pr) (0C V) ;
 
+#SELECT Inf IF (-1 Para OR De) (0C V) ;
 
 SELECT Ser IF (0 Foi) (1 PrfPrc) ;
 
@@ -64,8 +90,6 @@ SELECT Pr IF (0 Entre) (1C N) ;
 SELECT Inf IF (-1C Vai) ;
 
 SELECT Det IF (-1C É) (0 Det OR Prn) (1C N) ;
-
-REMOVE Pro IF (NOT 1 V OR Prn) (NOT -1 Inf) ;
 
 SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
 
@@ -91,7 +115,7 @@ SELECT PrfPrc IF (-1C Estar) ;
 
 SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N);
 
-REMOVE Imp IF (-1C Se) ;
+REMOVE Imper IF (-1C Se) ;
 
 SELECT N IF (-1C Det) (1 N OR Inf) ;
 
@@ -105,4 +129,47 @@ SELECT Vbmod IF (0 Poder) (1 Inf) ;
 
 SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
 
-SELECT Ser IF (0C Ser OR Ir) (1 A) ;
+SELECT Ser IF (0C Ser OR Ir) (1 A OR N) ;
+
+SELECT Det IF (0 Det OR Prn) (1 A LINK 1 N) ;
+
+SELECT N IF (-1 Det) (0 Ser) (1 Humano) ;
+
+SELECT Det IF (-1 Pr) (0 Outro) (1 N OR A) ;
+
+REMOVE Det IF (0 Outro) (-1 Det) ;
+
+SELECT Rel IF (-1 Cm) (0 Como) ;
+
+SELECT Det IF (-1 Todo) (0 O) ;
+
+REMOVE Fin IF (-1 Adv LINK -1C Fin) ;
+
+REMOVE Fin IF (0 Como) (0 Sg1) (NOT -1* Sg1) ;
+
+SELECT Det IF (-1 Pr OR Fin) (0 Seu) (1 N OR A) ;
+
+SELECT Det IF (-1 Rel) (0 O) (1 N OR A) ;
+
+SELECT Det IF (-1 BOS) (0 O) (1 N OR A) ;
+
+SELECT Prn IF (0 Um) (1 De) ;
+
+SELECT Det IF (0 O) (1 Poder) ;
+
+SELECT N IF (-1 O) (0 Poder) ;
+
+SELECT Det IF (0 Algum OR Esse) (1C N) ;
+
+SECTION
+
+SELECT Ifi IF (0C Ifi OR Pmp) ;
+
+REMOVE Interr IF (NOT 1* Quest) ;
+
+SELECT Sg3 IF (0C Sg3 OR Sg1) (NOT -1* Sg1) ;
+
+REMOVE Imper IF (NOT 1* Excl) (NOT -1 Cm) ;
+  ## Por favor, adicione isso.
+
+#REMOVE Pro IF (NOT 1 V OR Prn) (NOT -1 Inf) (NOT -1 Guess/Inf) ;

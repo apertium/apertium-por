@@ -133,7 +133,7 @@
       <e>
         <p>
           <l>-</l>
-         <r><s n="guio"/></r>
+         <r>-<s n="guio"/></r>
         </p>
       </e>
     </pardef>
@@ -96317,7 +96317,14 @@
 				 <r>de<s n="pr"/></r>
 			 </p>
 		 </e>
-		 
+		  
+		 <e r="LR">
+			 <p>
+				 <l>do</l>
+				 <r>de<s n="pr"/><j/>o<s n="detnt"/></r>
+			 </p>
+		 </e>
+
 		 <e r="LR">
 			 <p>
 				 <l>do</l>
@@ -115514,7 +115521,12 @@
         <i>adversári</i>
         <par n="adept/o__n"/>
       </e>
-      
+       
+      <e lm="contingência">
+        <i>contingência</i>
+        <par n="abadia__n"/>
+      </e>
+
       <e lm="advertência">
         <i>advertência</i>
         <par n="abadia__n"/>
@@ -117770,7 +117782,12 @@
         <i>combate</i>
         <par n="livro__n"/>
       </e>
-      
+       
+      <e lm="fascinação">
+        <i>fascinaç</i>
+        <par n="aceitaç/ão__n"/>
+      </e>
+
       <e lm="combinação">
         <i>combinaç</i>
         <par n="aceitaç/ão__n"/>
@@ -126057,6 +126074,11 @@
         <par n="amor__n"/>
       </e>
       
+      <e lm="complexo">
+        <i>complexo</i>
+        <par n="livro__n"/>
+      </e>
+
       <e lm="sexo">
         <i>sexo</i>
         <par n="livro__n"/>
