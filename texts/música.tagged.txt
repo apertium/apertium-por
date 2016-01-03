@@ -528,7 +528,6 @@
 	"de" pr
 "<que>"
 	"que" cnjsub
-;	"que" rel an mf sp
 "<a>"
 	"o" det def f sg
 "<música>"
@@ -948,8 +947,7 @@
 "<linguagem>"
 	"linguagem" n f sg
 "<que>"
-	"que" cnjsub
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<se>"
 	"se" prn pro ref p3 mf sp
 "<utiliza>"
@@ -1000,7 +998,6 @@
 	"ser" vbser pri p3 sg
 "<que>"
 	"que" cnjsub
-;	"que" rel an mf sp
 "<ela>"
 	"ele" prn tn p3 f sg
 "<consiste>"
@@ -1043,7 +1040,6 @@
 "<simultâneas>"
 	"simultâneo" adj f pl
 "<que>"
-;	"que" cnjsub
 	"que" rel an mf sp
 "<se>"
 	"se" prn pro ref p3 mf sp
@@ -1132,7 +1128,6 @@
 "<)>"
 	")" rpar
 "<que>"
-;	"que" cnjsub
 	"que" rel an mf sp
 "<podem>"
 	"poder" vbmod pri p3 pl
@@ -1267,8 +1262,7 @@
 "<ponto>"
 	"ponto" n m sg
 "<que>"
-	"que" cnjsub
-;	"que" rel an mf sp
+	"que" rel an mf sp
 "<o>"
 	"o" det def m sg
 "<consenso>"
@@ -1287,7 +1281,6 @@
 "<perguntas>"
 	"pergunta" n f pl
 "<que>"
-;	"que" cnjsub
 	"que" rel an mf sp
 "<decorrem>"
 	"decorrer" vblex pri p3 pl
