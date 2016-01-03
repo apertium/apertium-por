@@ -1,0 +1,1418 @@
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+;	"comer" vblex pri p1 sg 
+"<está>"
+	"estar" vblex pri p3 sg
+;	"estar" vblex imp p2 sg 
+"<?>"
+	"?" sent
+
+"<Pode>"
+	"poder" vbmod pri p3 sg 
+;	"podar" vblex imp p3 sg 
+;	"podar" vblex prs p1 sg 
+;	"podar" vblex prs p3 sg 
+;	"poder" vbmod imp p2 sg 
+"<dar-me>"
+	"dar" vblex inf
+		"me" prn enc p1 mf sg
+	"dar" vblex infps p1 sg
+		"me" prn enc p1 mf sg
+	"dar" vblex infps p3 sg
+		"me" prn enc p1 mf sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<copo>"
+	"copo" n m sg
+"<do>"
+	"de" pr
+		"o" detnt
+	"de" pr
+		"o" det def m sg
+"<vinho>"
+	"vinho" n m sg
+"<?>"
+	"?" sent
+
+"<Pode>"
+	"poder" vbmod pri p3 sg 
+;	"podar" vblex imp p3 sg 
+;	"podar" vblex prs p1 sg 
+;	"podar" vblex prs p3 sg 
+;	"poder" vbmod imp p2 sg 
+"<preparar>"
+	"preparar" vblex inf
+	"preparar" vblex fts p1 sg
+	"preparar" vblex fts p3 sg
+	"preparar" vblex infps p1 sg
+	"preparar" vblex infps p3 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<comida>"
+	"comida" n f sg
+	"comer" vblex pp f sg
+"<com>"
+	"com" pr
+"<menos>"
+	"menos" adv
+"<gordura>"
+	"gordura" n f sg
+"<,>"
+	"," cm
+"<se>"
+	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<faz favor>"
+	"faz favor" ij
+"<?>"
+	"?" sent
+
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+	"comer" vblex pri p1 sg
+"<estás>"
+	"estar" vblex pri p2 sg
+"<?>"
+	"?" sent
+
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+	"comer" vblex pri p1 sg
+"<te>"
+	"te" prn pro p2 mf sg
+"<chamas>"
+	"chamar" vblex pri p2 sg
+"<?>"
+	"?" sent
+
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+	"comer" vblex pri p1 sg
+"<se>"
+	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<chama>"
+	"chamar" vblex pri p3 sg
+;	"chamar" vblex imp p2 sg 
+"<?>"
+	"?" sent
+
+"<Qual>"
+	"qual" rel adv
+	"qual" prn itg mf sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<o teu>"
+	"o teu" det pos m sg 
+;	"o teu" prn tn pos m sg 
+"<nome>"
+	"nome" n m sg
+"<?>"
+	"?" sent
+
+"<Qual>"
+	"qual" rel adv
+	"qual" prn itg mf sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<o seu>"
+	"o seu" det pos m sg 
+;	"o seu" prn tn pos m sg 
+"<nome>"
+	"nome" n m sg
+"<?>"
+	"?" sent
+
+"<Prazer>"
+	"prazer" n m sg
+"<em>"
+	"em" pr
+"<conhecer>"
+	"conhecer" vblex inf 
+;	"conhecer" vblex fts p1 sg 
+;	"conhecer" vblex fts p3 sg 
+;	"conhecer" vblex infps p1 sg 
+;	"conhecer" vblex infps p3 sg 
+"<.>"
+	"." sent
+
+"<Não>"
+	"não" adv
+"<falo>"
+	"falar" vblex pri p1 sg
+	"falir" vblex pri p1 sg
+"<bem>"
+	"bem" adv
+	"bem" n m sg
+"<português>"
+	"português" adj m sg
+	"português" n m sg
+"<.>"
+	"." sent
+
+"<Alguém>"
+	"alguém" prn tn mf sg
+"<aqui>"
+	"aqui" adv
+"<fala>"
+	"fala" n f sg
+	"falar" vblex imp p2 sg
+	"falar" vblex pri p3 sg
+	"falir" vblex imp p3 sg
+	"falir" vblex prs p1 sg
+	"falir" vblex prs p3 sg
+"<espanhol>"
+	"espanhol" adj m sg
+	"espanhol" n m sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg 
+;	"a" pr 
+;	"o" prn pro p3 f sg 
+"<casa de banho>"
+	"casa de banho" n f sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<fica>"
+	"ficar" vblex imp p2 sg
+	"ficar" vblex pri p3 sg
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<banheiro>"
+	"banheiro" n m sg
+"<?>"
+	"?" sent
+
+"<Deixa-me>"
+	"deixar" vblex imp p2 sg
+		"me" prn enc p1 mf sg
+	"deixar" vblex pri p3 sg
+		"me" prn enc p1 mf sg
+"<em>"
+	"em" pr
+"<paz>"
+	"paz" n f sg
+"<!>"
+	"!" sent
+
+"<Me>"
+	"me" prn pro p1 mf sg
+"<deixa>"
+	"deixar" vblex imp p2 sg
+	"deixar" vblex pri p3 sg
+"<em>"
+	"em" pr
+"<paz>"
+	"paz" n f sg
+"<!>"
+	"!" sent
+
+"<Não>"
+	"não" adv
+"<me>"
+	"me" prn pro p1 mf sg
+"<toque>"
+	"toque" n m sg
+	"tocar" vblex imp p3 sg
+	"tocar" vblex prs p1 sg
+	"tocar" vblex prs p3 sg
+"<!>"
+	"!" sent
+
+"<Não>"
+	"não" adv
+"<me>"
+	"me" prn pro p1 mf sg
+"<toques>"
+	"toque" n m pl
+	"tocar" vblex prs p2 sg
+"<!>"
+	"!" sent
+
+"<Vou>"
+	"ir" vblex pri p1 sg
+"<chamar>"
+	"chamar" vblex inf
+	"chamar" vblex fts p1 sg
+	"chamar" vblex fts p3 sg
+	"chamar" vblex infps p1 sg
+	"chamar" vblex infps p3 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<polícia>"
+	"polícia" n mf sg
+"<.>"
+	"." sent
+
+"<Preciso>"
+	"preciso" adj m sg
+	"precisar" vblex pri p1 sg
+"<da tua>"
+	"de" pr
+		"o teu" det pos f sg
+"<ajuda>"
+	"ajuda" n f sg
+	"ajudar" vblex pri p3 sg
+;	"ajudar" vblex imp p2 sg 
+"<.>"
+	"." sent
+
+"<Preciso>"
+	"preciso" adj m sg
+	"precisar" vblex pri p1 sg
+"<da sua>"
+	"de" pr
+		"o seu" det pos f sg
+"<ajuda>"
+	"ajuda" n f sg
+	"ajudar" vblex pri p3 sg
+;	"ajudar" vblex imp p2 sg 
+"<.>"
+	"." sent
+
+"<É>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg 
+;	"um" prn tn f sg 
+"<emergência>"
+	"emergência" n f sg
+"<.>"
+	"." sent
+
+"<Estou>"
+	"estar" vblex pri p1 sg
+"<perdido>"
+	"perder" vblex pp m sg
+"<.>"
+	"." sent
+
+"<Estou>"
+	"estar" vblex pri p1 sg
+"<perdida>"
+	"perder" vblex pp f sg
+"<.>"
+	"." sent
+
+"<Perdi>"
+	"perder" vblex ifi p1 sg
+"<o meu>"
+	"o meu" det pos m sg
+	"o meu" prn tn pos m sg
+"<saco>"
+	"saco" n m sg
+	"sacar" vblex pri p1 sg
+"<.>"
+	"." sent
+
+"<Perdi>"
+	"perder" vblex ifi p1 sg
+"<minha>"
+	"meu" det pos f sg
+	"meu" prn tn pos f sg
+"<bolsa>"
+	"bolsa" n f sg
+"<.>"
+	"." sent
+
+"<Perdi>"
+	"perder" vblex ifi p1 sg
+"<a minha>"
+	"o meu" det pos f sg
+	"o meu" prn tn pos f sg
+"<carteira>"
+	"carteira" n f sg
+	"carteiro" n f sg
+"<.>"
+	"." sent
+
+"<Eu>"
+	"eu" prn tn p1 mf sg
+"<estou>"
+	"estar" vblex pri p1 sg
+"<doente>"
+	"doente" adj mf sg
+	"doente" n mf sg
+"<.>"
+	"." sent
+
+"<Eu>"
+	"eu" prn tn p1 mf sg
+"<fui>"
+	"ser" vbser ifi p1 sg 
+;	"ir" vblex ifi p1 sg 
+"<ferido>"
+	"ferido" n m sg
+	"ferir" vblex pp m sg
+"<.>"
+	"." sent
+
+"<Preciso>"
+	"preciso" adj m sg
+	"precisar" vblex pri p1 sg
+"<de>"
+	"de" pr
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<médico>"
+	"médico" adj m sg
+	"médico" n m sg
+"<.>"
+	"." sent
+
+"<Posso>"
+	"poder" vbmod pri p1 sg
+"<usar>"
+	"usar" vblex inf
+	"usar" vblex fts p1 sg
+	"usar" vblex fts p3 sg
+	"usar" vblex infps p1 sg
+	"usar" vblex infps p3 sg
+"<o teu>"
+	"o teu" det pos m sg
+	"o teu" prn tn pos m sg
+"<telefone>"
+	"telefone" n m sg
+	"telefonar" vblex prs p3 sg
+	"telefonar" vblex prs p1 sg
+;	"telefonar" vblex imp p3 sg 
+"<?>"
+	"?" sent
+
+"<Posso>"
+	"poder" vbmod pri p1 sg
+"<usar>"
+	"usar" vblex inf
+	"usar" vblex fts p1 sg
+	"usar" vblex fts p3 sg
+	"usar" vblex infps p1 sg
+	"usar" vblex infps p3 sg
+"<o seu>"
+	"o seu" det pos m sg
+	"o seu" prn tn pos m sg
+"<telefone>"
+	"telefone" n m sg
+	"telefonar" vblex prs p3 sg
+	"telefonar" vblex prs p1 sg
+;	"telefonar" vblex imp p3 sg 
+"<?>"
+	"?" sent
+
+"<Quanto>"
+	"quanto" adv itg
+	"quanto" prn itg m sg
+	"quanto" rel nn m sg
+"<custa>"
+	"custar" vblex pri p3 sg
+;	"custar" vblex imp p2 sg 
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<bilhete>"
+	"bilhete" n m sg
+"<para>"
+	"para" pr
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<bilhete>"
+	"bilhete" n m sg
+"<para>"
+	"para" pr
+"<São Paulo>"
+	"São Paulo" np loc
+"<,>"
+	"," cm
+"<por favor>"
+	"por favor" ij
+"<.>"
+	"." sent
+
+"<Para>"
+	"para" pr
+"<onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<vai>"
+	"ir" vblex pri p3 sg
+;	"ir" vblex imp p2 sg 
+"<este>"
+	"este" prn tn m sg
+	"este" det dem m sg
+"<autocarro>"
+	"autocarro" n m sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<apanho>"
+	"apanhar" vblex pri p1 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<comboio>"
+	"comboio" n m sg
+"<para>"
+	"para" pr
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Esse>"
+	"esse" det dem m sg 
+;	"esse" prn tn m sg 
+"<autocarro>"
+	"autocarro" n m sg
+"<pára>"
+	"parar" vblex pri p3 sg
+;	"parar" vblex imp p2 sg 
+"<em>"
+	"em" pr
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<sai>"
+	"sair" vblex pri p3 sg
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<autocarro>"
+	"autocarro" n m sg
+"<para>"
+	"para" pr
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<este>"
+	"este" prn tn m sg
+	"este" det dem m sg
+"<autocarro>"
+	"autocarro" n m sg
+"<chega>"
+	"chegar" vblex pri p3 sg
+;	"chegar" vblex imp p2 sg 
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+	"comer" vblex pri p1 sg
+"<chego>"
+	"chegar" vblex pri p1 sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<São Paulo>"
+	"São Paulo" np loc
+"<?>"
+	"?" sent
+
+"<Como>"
+	"como" adv itg
+	"como" rel adv
+	"comer" vblex pri p1 sg
+"<chego>"
+	"chegar" vblex pri p1 sg
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<estação>"
+	"estação" n f sg
+"<de>"
+	"de" pr
+"<comboio>"
+	"comboio" n m sg
+"<?>"
+	"?" sent
+
+"<Você>"
+	"você" prn tn p3 mf sg
+"<pode>"
+	"podar" vblex prs p1 sg
+	"poder" vbmod pri p3 sg
+	"podar" vblex prs p3 sg
+;	"poder" vbmod imp p2 sg 
+;	"podar" vblex imp p3 sg 
+"<me>"
+	"me" prn pro p1 mf sg
+"<mostrar>"
+	"mostrar" vblex inf
+	"mostrar" vblex fts p1 sg
+	"mostrar" vblex fts p3 sg
+	"mostrar" vblex infps p1 sg
+	"mostrar" vblex infps p3 sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<mapa>"
+	"mapa" n m sg
+"<?>"
+	"?" sent
+
+"<Há>"
+	"há" vblex pri p3 sg
+"<quartos>"
+	"quarto" adj m pl
+"<disponíveis>"
+	"disponível" adj mf pl
+"<?>"
+	"?" sent
+
+"<O>"
+	"o" det def m sg 
+;	"o" detnt 
+;	"o" prn pro p3 m sg 
+;	"o" prn pro p3 nt 
+"<pequeno>"
+	"pequeno" adj m sg
+"<->"
+	"-" guio
+"<almoço>"
+	"almoço" n m sg
+	"almoçar" vblex pri p1 sg
+"<está>"
+	"estar" vblex pri p3 sg
+;	"estar" vblex imp p2 sg 
+"<incluído>"
+	"incluir" vblex pp m sg
+"<?>"
+	"?" sent
+
+"<A>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<horas>"
+	"hora" n f pl
+"<é>"
+	"ser" vbser pri p3 sg
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<pequeno>"
+	"pequeno" adj m sg
+"<->"
+	"-" guio
+"<almoço>"
+	"almoço" n m sg
+	"almoçar" vblex pri p1 sg
+"<?>"
+	"?" sent
+
+"<Aceita>"
+	"aceitar" vblex pri p3 sg
+;	"aceitar" vblex imp p2 sg 
+"<Euros>"
+	"euro" n m pl
+"<?>"
+	"?" sent
+
+"<Aceita>"
+	"aceitar" vblex pri p3 sg
+;	"aceitar" vblex imp p2 sg 
+"<cartões>"
+	"cartão" n m pl
+"<de>"
+	"de" pr
+"<crédito>"
+	"crédito" n m sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<posso>"
+	"poder" vbmod pri p1 sg
+"<trocar>"
+	"trocar" vblex inf
+	"trocar" vblex fts p1 sg
+	"trocar" vblex fts p3 sg
+	"trocar" vblex infps p1 sg
+	"trocar" vblex infps p3 sg
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<dinheiro>"
+	"dinheiro" n m sg
+"<?>"
+	"?" sent
+
+"<Pode>"
+	"poder" vbmod pri p3 sg 
+;	"podar" vblex imp p3 sg 
+;	"podar" vblex prs p1 sg 
+;	"podar" vblex prs p3 sg 
+;	"poder" vbmod imp p2 sg 
+"<trocar>"
+	"trocar" vblex inf
+	"trocar" vblex fts p1 sg
+	"trocar" vblex fts p3 sg
+	"trocar" vblex infps p1 sg
+	"trocar" vblex infps p3 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<cheque>"
+	"cheque" n m sg
+"<de>"
+	"de" pr
+"<viagem>"
+	"viagem" n f sg
+"<para>"
+	"para" pr
+"<mim>"
+	"mim" prn tn p1 mf sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<posso>"
+	"poder" vbmod pri p1 sg
+"<trocar>"
+	"trocar" vblex inf
+	"trocar" vblex fts p1 sg
+	"trocar" vblex fts p3 sg
+	"trocar" vblex infps p1 sg
+	"trocar" vblex infps p3 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<cheque>"
+	"cheque" n m sg
+"<de>"
+	"de" pr
+"<viagem>"
+	"viagem" n f sg
+"<?>"
+	"?" sent
+
+"<Qual>"
+	"qual" rel adv
+	"qual" prn itg mf sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg 
+;	"a" pr 
+;	"o" prn pro p3 f sg 
+"<taxa>"
+	"taxa" n f sg
+"<de>"
+	"de" pr
+"<câmbio>"
+	"câmbio" n m sg
+"<?>"
+	"?" sent
+
+"<Onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt 
+"<multibanco>"
+	"multibanco" n m sg
+"<?>"
+	"?" sent
+
+"<Desejo>"
+	"desejo" n m sg
+	"desejar" vblex pri p1 sg
+"<trocar>"
+	"trocar" vblex inf
+	"trocar" vblex fts p1 sg
+	"trocar" vblex fts p3 sg
+	"trocar" vblex infps p1 sg
+	"trocar" vblex infps p3 sg
+"<parte>"
+	"parte" n f sg
+	"partir" vblex pri p3 sg
+;	"partir" vblex imp p2 sg 
+"<deste>"
+	"de" pr
+		"este" prn tn m sg
+	"de" pr
+		"este" det dem m sg
+"<cheque>"
+	"cheque" n m sg
+"<de>"
+	"de" pr
+"<viagem>"
+	"viagem" n f sg
+"<.>"
+	"." sent
+
+"<Posso>"
+	"poder" vbmod pri p1 sg
+"<receber>"
+	"receber" vblex inf
+	"receber" vblex fts p1 sg
+	"receber" vblex fts p3 sg
+	"receber" vblex infps p1 sg
+	"receber" vblex infps p3 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<diferença>"
+	"diferença" n f sg
+"<em>"
+	"em" pr
+"<dinheiro>"
+	"dinheiro" n m sg
+"<do meu>"
+	"de" pr
+		"o meu" det pos m sg
+"<país>"
+	"país" n m sg
+"<?>"
+	"?" sent
+
+"<Sinto>"
+	"sentir" vblex pri p1 sg
+"<muito>"
+	"muito" adv
+	"muito" preadv
+	"muito" adj m sg
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<não>"
+	"não" adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<possível>"
+	"possível" adj mf sg
+"<.>"
+	"." sent
+
+"<Toda>"
+	"todo" predet f sg
+"<divisa>"
+	"divisa" n f sg
+	"divisar" vblex pri p3 sg
+;	"divisar" vblex imp p2 sg 
+"<estrangeira>"
+	"estrangeiro" adj f sg
+"<entrega-se>"
+	"entregar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
+"<diariamente>"
+	"diariamente" adv
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<Banco>"
+	"banco" n m sg
+"<do>"
+	"de" pr
+		"o" detnt
+	"de" pr
+		"o" det def m sg
+"<Governo>"
+	"governo" n m sg
+	"governar" vblex pri p1 sg
+"<.>"
+	"." sent
+
+"<Não>"
+	"não" adv
+"<neste>"
+	"em" pr
+		"este" prn tn m sg
+	"em" pr
+		"este" det dem m sg
+"<banco>"
+	"banco" n m sg
+"<,>"
+	"," cm
+"<senhor>"
+	"senhor" n m sg
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<os>"
+	"o" det def m pl
+	"o" prn pro p3 m pl
+"<correios>"
+	"correio" n m pl
+"<perto>"
+	"perto" adv
+"<daqui>"
+	"de" pr
+		"aqui" adv
+"<,>"
+	"," cm
+"<nesta>"
+	"em" pr
+		"este" prn tn f sg
+	"em" pr
+		"este" det dem f sg
+"<mesma>"
+	"mesmo" adj f sg
+"<rua>"
+	"rua" n f sg
+"<talvez>"
+	"talvez" adv
+"<você>"
+	"você" prn tn p3 mf sg
+"<possa>"
+	"poder" vbmod prs p3 sg 
+;	"poder" vbmod prs p1 sg 
+;	"poder" vbmod imp p3 sg 
+"<fazê-lo>"
+	"fazer" vblex inf
+		"o" prn enc p3 nt
+	"fazer" vblex inf
+		"o" prn enc p3 m sg
+"<.>"
+	"." sent
+
+"<Uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<mesa>"
+	"mesa" n f sg
+"<para>"
+	"para" pr
+"<duas>"
+	"dois" num f sp
+"<pessoas>"
+	"pessoa" n f pl
+"<.>"
+	"." sent
+
+"<Podemos>"
+	"poder" vbmod pri p1 pl 
+;	"podar" vblex prs p1 pl 
+;	"podar" vblex imp p1 pl 
+"<sentar-nos>"
+	"sentar" vblex inf
+		"nos" prn enc p1 mf pl
+	"sentar" vblex fts p2 sg
+		"nos" prn enc p1 mf pl
+	"sentar" vblex fts p3 sg
+		"nos" prn enc p1 mf pl
+	"sentar" vblex infps p1 sg
+		"nos" prn enc p1 mf pl
+	"sentar" vblex infps p3 sg
+		"nos" prn enc p1 mf pl
+"<junto>"
+	"junto" adj m sg
+	"juntar" vblex pri p1 sg
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<janela>"
+	"janela" n f sg
+"<?>"
+	"?" sent
+
+"<Há>"
+	"há" vblex pri p3 sg
+"<alguma>"
+	"algum" prn tn f sg
+	"algum" det ind f sg
+"<especialidade>"
+	"especialidade" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg 
+"<?>"
+	"?" sent
+
+"<Existe>"
+	"existir" vblex pri p3 sg
+;	"existir" vblex imp p2 sg 
+"<alguma>"
+	"algum" prn tn f sg
+	"algum" det ind f sg
+"<especialidade>"
+	"especialidade" n f sg
+"<típica>"
+	"típico" adj f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<localidade>"
+	"localidade" n f sg
+"<?>"
+	"?" sent
+
+"<Se>"
+	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<faz favor>"
+	"faz favor" ij
+"<traga>"
+	"trazer" vblex prs p3 sg
+	"trazer" vblex prs p1 sg
+;	"trazer" vblex imp p3 sg 
+"<me>"
+	"me" prn pro p1 mf sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<prato>"
+	"prato" n m sg
+"<de>"
+	"de" pr
+"<entradas>"
+	"entrada" n f pl
+	"entrar" vblex pp f pl
+"<.>"
+	"." sent
+
+"<Eu>"
+	"eu" prn tn p1 mf sg
+"<sou>"
+	"ser" vbser pri p1 sg
+"<vegetariano>"
+	"vegetariano" adj m sg
+"<.>"
+	"." sent
+
+"<Não>"
+	"não" adv
+"<como>"
+	"como" rel adv
+;	"comer" vblex pri p1 sg 
+;	"como" adv itg 
+"<carne>"
+	"carne" n f sg
+"<de>"
+	"de" pr
+"<porco>"
+	"porco" n m sg
+"<.>"
+	"." sent
+
+"<Não>"
+	"não" adv
+"<como>"
+	"como" rel adv
+;	"comer" vblex pri p1 sg 
+;	"como" adv itg 
+"<carne>"
+	"carne" n f sg
+"<de>"
+	"de" pr
+"<boi>"
+	"boi" n m sg
+"<.>"
+	"." sent
+
+"<Tem>"
+	"ter" vblex pri p3 sg
+	"ter" vbhaver pri p3 sg
+;	"ter" vbhaver imp p2 sg 
+;	"ter" vblex imp p2 sg 
+"<isto>"
+	"isto" prn tn nt
+"<no meu>"
+	"em" pr
+		"o meu" det pos m sg
+"<tamanho>"
+	"tamanho" n m sg
+	"tamanho" det ind m sg
+"<?>"
+	"?" sent
+
+"<Quanta>"
+	"quanto" prn itg f sg
+	"quanto" rel nn f sg
+"<custa>"
+	"custar" vblex pri p3 sg
+;	"custar" vblex imp p2 sg 
+"<é>"
+	"ser" vbser pri p3 sg
+"<isto>"
+	"isto" prn tn nt
+"<?>"
+	"?" sent
+
+"<Isso>"
+	"isso" prn tn nt
+"<é>"
+	"ser" vbser pri p3 sg
+"<caro>"
+	"caro" adj m sg
+"<de>"
+	"de" pr
+"<mais>"
+	"mais" adv
+"<.>"
+	"." sent
+
+"<Isso>"
+	"isso" prn tn nt
+"<é>"
+	"ser" vbser pri p3 sg
+"<muito>"
+	"muito" adv
+	"muito" preadv
+	"muito" adj m sg
+"<caro>"
+	"caro" adj m sg
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg 
+;	"o" detnt 
+;	"o" prn pro p3 m sg 
+;	"o" prn pro p3 nt 
+"<senhor>"
+	"senhor" n m sg
+"<está>"
+	"estar" vblex pri p3 sg
+;	"estar" vblex imp p2 sg 
+"<brincando>"
+	"brincar" vblex ger
+"<comigo>"
+	"comigo" prn tn p1 mf sg
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg 
+;	"o" detnt 
+;	"o" prn pro p3 m sg 
+;	"o" prn pro p3 nt 
+"<senhor>"
+	"senhor" n m sg
+"<está>"
+	"estar" vblex pri p3 sg
+;	"estar" vblex imp p2 sg 
+"<me>"
+	"me" prn pro p1 mf sg
+"<enganando>"
+	"enganar" vblex ger
+"<.>"
+	"." sent
+
+"<Não>"
+	"não" adv
+"<estou>"
+	"estar" vblex pri p1 sg
+"<interessado>"
+	"interessar" vblex pp m sg
+"<.>"
+	"." sent
+
+"<Pode>"
+	"poder" vbmod pri p3 sg 
+;	"podar" vblex imp p3 sg 
+;	"podar" vblex prs p1 sg 
+;	"podar" vblex prs p3 sg 
+;	"poder" vbmod imp p2 sg 
+"<dar-me>"
+	"dar" vblex inf
+		"me" prn enc p1 mf sg
+	"dar" vblex infps p1 sg
+		"me" prn enc p1 mf sg
+	"dar" vblex infps p3 sg
+		"me" prn enc p1 mf sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<saco>"
+	"saco" n m sg
+	"sacar" vblex pri p1 sg
+"<?>"
+	"?" sent
+
+"<Traga-me>"
+	"trazer" vblex prs p3 sg
+		"me" prn enc p1 mf sg
+	"trazer" vblex prs p1 sg
+		"me" prn enc p1 mf sg
+;	"trazer" vblex imp p3 sg 
+;		"me" prn enc p1 mf sg
+"<outro>"
+	"outro" adj m sg
+	"outro" prn tn m sg
+	"outro" det ind m sg
+"<,>"
+	"," cm
+"<por favor>"
+	"por favor" ij
+"<.>"
+	"." sent
+
+"<Outra>"
+	"outro" adj f sg
+	"outro" prn tn f sg
+	"outro" det ind f sg
+"<rodada>"
+	"rodada" n f sg
+	"rodar" vblex pp f sg
+"<,>"
+	"," cm
+"<por favor>"
+	"por favor" ij
+"<.>"
+	"." sent
+
+"<A>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<horas>"
+	"hora" n f pl
+"<fecham>"
+	"fechar" vblex pri p3 pl
+"<?>"
+	"?" sent
+
+"<Eu>"
+	"eu" prn tn p1 mf sg
+"<quero>"
+	"querer" vblex pri p1 sg
+	"querer" vbmod pri p1 sg
+"<alugar>"
+	"alugar" vblex inf
+	"alugar" vblex fts p1 sg
+	"alugar" vblex fts p3 sg
+	"alugar" vblex infps p1 sg
+	"alugar" vblex infps p3 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<carro>"
+	"carro" n m sg
+"<.>"
+	"." sent
+
+"<Posso>"
+	"poder" vbmod pri p1 sg
+"<contratar>"
+	"contratar" vblex inf
+	"contratar" vblex fts p1 sg
+	"contratar" vblex fts p3 sg
+	"contratar" vblex infps p1 sg
+	"contratar" vblex infps p3 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<seguro>"
+	"seguro" adv
+	"seguro" adj m sg
+	"segurar" vblex pri p1 sg
+"<?>"
+	"?" sent
+
+"<Não>"
+	"não" adv
+"<fiz>"
+	"fazer" vblex ifi p1 sg
+"<nada>"
+	"nada" adv
+	"nada" prn tn nt
+	"nada" n m sg
+	"nadar" vblex pri p3 sg
+;	"nadar" vblex imp p2 sg 
+"<de>"
+	"de" pr
+"<errado>"
+	"errar" vblex pp m sg
+"<.>"
+	"." sent
+
+"<Foi>"
+	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<mal>"
+	"mal" adv
+	"mal" n m sg
+"<->"
+	"-" guio
+"<entendido>"
+	"entender" vblex pp m sg
+"<.>"
+	"." sent
+
+"<Para>"
+	"para" pr
+"<onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<me>"
+	"me" prn pro p1 mf sg
+"<levam>"
+	"levar" vblex pri p3 pl
+"<?>"
+	"?" sent
+
+"<Estou>"
+	"estar" vblex pri p1 sg
+"<sob>"
+	"sob" pr
+"<custódia>"
+	"custódia" n f sg
+"<?>"
+	"?" sent
+
+"<Quero>"
+	"querer" vblex pri p1 sg
+	"querer" vbmod pri p1 sg
+"<falar>"
+	"falar" vblex inf
+	"falar" vblex fts p1 sg
+	"falar" vblex fts p3 sg
+	"falar" vblex infps p1 sg
+	"falar" vblex infps p3 sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg 
+;	"a" pr 
+;	"o" prn pro p3 f sg 
+"<embaixada>"
+	"embaixada" n f sg
+"<.>"
+	"." sent
+
+"<Quero>"
+	"querer" vblex pri p1 sg
+	"querer" vbmod pri p1 sg
+"<falar>"
+	"falar" vblex inf
+	"falar" vblex fts p1 sg
+	"falar" vblex fts p3 sg
+	"falar" vblex infps p1 sg
+	"falar" vblex infps p3 sg
+"<com>"
+	"com" pr
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<advogado>"
+	"advogado" n m sg
+"<.>"
+	"." sent
+
+"<Posso>"
+	"poder" vbmod pri p1 sg
+"<pagar>"
+	"pagar" vblex inf
+	"pagar" vblex fts p1 sg
+	"pagar" vblex fts p3 sg
+	"pagar" vblex infps p1 sg
+	"pagar" vblex infps p3 sg
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<multa>"
+	"multa" n f sg
+"<já>"
+	"já" ij
+	"já" adv
+"<?>"
+	"?" sent
+
