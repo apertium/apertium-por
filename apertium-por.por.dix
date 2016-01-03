@@ -116753,7 +116753,12 @@
         <i>basquetebol</i>
         <par n="atletismo__n"/>
       </e>
-      
+       
+      <e lm="músicica">
+        <i>músicica</i>
+        <par n="abadia__n"/>
+      </e>
+
       <e lm="basílica">
         <i>basílica</i>
         <par n="abadia__n"/>
@@ -133500,7 +133505,7 @@
         <par n="abdi/car__vblex"/>
       </e>
       
-      <e lm="buscar" r="RL">
+      <e lm="buscar">
         <i>bus</i>
         <par n="abdi/car__vblex"/>
       </e>
