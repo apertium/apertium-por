@@ -9,8 +9,10 @@
     <sdef n="acr"/>
     <sdef n="predet"/>
     <sdef n="detnt"/>
+    <sdef n="abbr"/>
     <sdef n="loc"/>
     <sdef n="ant"/>
+    <sdef n="guio"/>
     <sdef n="al"/>
     <sdef n="atn"/>
     <sdef n="enc"/>
@@ -124,6 +126,36 @@
          <r><s n="sent"/></r>
         </p>
       </e>
+    </pardef>
+
+    <pardef n="guio">
+    
+      <e>
+        <p>
+          <l>-</l>
+         <r><s n="guio"/></r>
+        </p>
+      </e>
+    </pardef>
+
+    <pardef n="abbr">
+    
+      <e>
+        <re>[A-Z]</re>
+        <p>
+          <l>.</l>
+         <r>.<s n="abbr"/></r>
+        </p>
+      </e>
+ 
+      <e>
+        <re>[A-Z]</re>
+        <p>
+          <l>.</l>
+         <r><s n="abbr"/><j/>.<s n="sent"/></r>
+        </p>
+      </e>
+
     </pardef>
 
     <pardef n="coma">
@@ -148024,6 +148056,14 @@
 	<i>córtex<b/>pré-frontal</i>
 	<par n="atletismo__n"/>
 </e>
+<e lm="para-raios">
+	<p>
+	  <l>para-raios</l>
+	  <r>para-raios</r>
+	</p>
+	<par n="pandarecos__n"/>
+</e>
+
 <e lm="córtex pré-frontal">
 	<p>
 	  <l>córtices<b/>pré-frontais</l>
@@ -153985,6 +154025,12 @@
         <par n="pardret"/>
       </e>
       
+      <e lm="">
+        <par n="guio"/>
+      </e>
+      <e lm="">
+        <par n="abbr"/>
+      </e>
       <e lm="">
         <par n="separ"/>
       </e>

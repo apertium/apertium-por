@@ -1,8 +1,8 @@
 DELIMITERS = "<.>" ;
 
 LIST V = vblex ;
+LIST Vbmod = vbmod ;
 LIST A = adj ;
-LIST Ser = vbser ;
 LIST Pr = pr ;
 LIST Det = det ;
 LIST Prn = prn ;
@@ -15,14 +15,24 @@ LIST PrfPrc = pp ;
 LIST Pro = pro ;
 LIST Enc = enc ;
 
+LIST Masc = m ;
+LIST Fem = f ;
+LIST MascFem = mf ;
+
 LIST Pri = pri ;
 LIST Pii = pii ;
 LIST Pis = pis ;
 LIST Prs = prs ;
 LIST Fti = fti ;
+LIST Fts = fts ;
 
 LIST Imp = imp ;
 
+
+LIST Ser = vbser ;
+LIST Haver = vbhaver ;
+
+LIST Poder = "poder" ;
 LIST Para = "para" ;
 LIST De = "de" ;
 LIST Entre = "entre" ;
@@ -30,17 +40,22 @@ LIST Outro = "outro" ;
 LIST Se = "se" ; 
 LIST Que = "que" ; 
 LIST Estar = "estar" ;
+LIST Ir = "ir" ; 
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
 LIST É = "<é>"i ;
 LIST Uma = "<uma>"i ;
+LIST Sido = "<sido>"i ;
+LIST Sua = "<sua>"i ;
 
-SET Fin = Pri | Prs | Pii | Pis | Fti ;
+SET Fin = Pri | Prs | Pii | Pis | Fti | Fts ; 
+SET Gender = Fem + MascFem | Masc + MascFem;
 
 SECTION
 
 SELECT Inf IF (-1 Para OR De) (0C V) ;
+
 
 SELECT Ser IF (0 Foi) (1 PrfPrc) ;
 
@@ -77,3 +92,17 @@ SELECT PrfPrc IF (-1C Estar) ;
 SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N);
 
 REMOVE Imp IF (-1C Se) ;
+
+SELECT N IF (-1C Det) (1 N OR Inf) ;
+
+SELECT PrfPrc IF (-1 Ser) (0C A OR PrfPrc) ;
+
+SELECT N + $$Gender IF (-1C Det + $$Gender) (0C N OR V) ;
+
+SELECT Haver IF (1C Sido) ;
+
+SELECT Vbmod IF (0 Poder) (1 Inf) ;
+
+SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
+
+SELECT Ser IF (0C Ser OR Ir) (1 A) ;
