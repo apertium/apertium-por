@@ -1,0 +1,2416 @@
+"<Água>"
+	"água" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<substância>"
+	"substância" n f sg
+"<química>"
+	"químico" adj f sg
+"<cujas>"
+	"cujo" rel aa f pl
+"<moléculas>"
+	"molécula" n f pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<formadas>"
+	"formar" vblex pp f pl
+"<por>"
+	"por" pr
+"<dois>"
+	"dois" num m sp
+"<átomos>"
+	"átomo" n m pl
+"<de>"
+	"de" pr
+"<hidrogênio>"
+	"hidrogênio" n m sg
+"<e>"
+	"e" cnjcoo
+"<um>"
+	"um" num m sp
+"<de>"
+	"de" pr
+"<oxigênio>"
+	"oxigênio" n m sg
+"<.>"
+	"." sent
+ 
+"<É>"
+	"ser" vbser pri p3 sg
+"<abundante>"
+	"abundante" adj mf sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<Universo>"
+	"universo" n m sg
+"<,>"
+	"," cm
+"<inclusive>"
+	"inclusive" adv
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<Terra>"
+	"terra" n f sg
+"<,>"
+	"," cm
+"<onde>"
+	"onde" rel adv
+"<cobre>"
+	"cobrir" vblex pri p3 sg
+"<grande>"
+	"grande" adj mf sg
+"<parte>"
+	"parte" n f sg
+"<de>"
+	"de" pr
+"<sua>"
+	"seu" det pos f sg
+"<superfície>"
+	"superfície" n f sg
+"<e>"
+	"e" cnjcoo
+"<é>"
+	"ser" vbser pri p3 sg
+"<o>"
+	"o" det def m sg
+"<maior>"
+	"maior" adj mf sg
+"<constituinte>"
+	"constituinte" adj mf sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<fluidos>"
+	"fluido" n sg pl
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<seres>"
+	"ser" n m pl
+"<vivos>"
+	"vivo" adj m pl
+"<.>"
+	"." sent
+ 
+"<As>"
+	"o" det def f pl
+"<temperaturas>"
+	"temperatura" n f pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<permitem>"
+	"permitir" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<ocorrência>"
+	"ocorrência" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<em>"
+	"em" pr
+"<seus>"
+	"seu" det pos m pl
+"<três>"
+	"três" num mf sp
+"<estados>"
+	"estado" n m pl
+"<físicos>"
+	"físico" adj m pl
+"<principais>"
+	"principal" adj mf pl
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<líquida>"
+	"líquido" adj f sg
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<em>"
+	"em" pr
+"<pequenas>"
+	"pequeno" adj f pl
+"<quantidades>"
+	"quantidade" n f pl
+"<é>"
+	"ser" vbser pri p3 sg
+"<incolor>"
+	"incolor" adj mf sg
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<manifesta>"
+	"manifestar" vblex pri p3 sg
+"<sua>"
+	"seu" det pos f sg
+"<coloração>"
+	"coloração" n f sg
+"<azulada>"
+	"azulado" adj f sg
+"<em>"
+	"em" pr
+"<grandes>"
+	"grande" adj mf pl
+"<volumes>"
+	"volume" n m pl
+"<,>"
+	"," cm
+"<constitui>"
+	"constituir" vblex pri p3 sg
+"<os>"
+	"o" det def m pl
+"<oceanos>"
+	"oceano" n m pl
+"<,>"
+	"," cm
+"<rios>"
+	"rio" n m pl
+"<e>"
+	"e" cnjcoo
+"<lagos>"
+	"lago" n m pl
+"<que>"
+	"que" rel an mf sp
+"<cobrem>"
+	"cobrir" vblex pri p3 pl
+"<quase>"
+	"quase" adv
+"<três>"
+	"três" num mf sp
+"<quartos>"
+	"quarto" adj m pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<superfície>"
+	"superfície" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<.>"
+	"." sent
+ 
+"<Nas>"
+	"o" det def f pl
+		"em" pr
+"<regiões>"
+	"região" n f pl
+"<polares>"
+	"polar" adj mf pl
+"<,>"
+	"," cm
+"<concentram-se>"
+	"se" prn enc ref p3 mf sp
+		"concentrar" vblex pri p3 pl
+"<as>"
+	"o" det def f pl
+"<massas>"
+	"massa" n f pl
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<e>"
+	"e" cnjcoo
+"<vapor>"
+	"vapor" n m sg
+"<constitui>"
+	"constituir" vblex pri p3 sg
+"<parte>"
+	"parte" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<atmosfera>"
+	"atmosfera" n f sg
+"<terrestre>"
+	"terrestre" adj mf sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<série>"
+	"série" n f sg
+"<de>"
+	"de" pr
+"<características>"
+	"característica" n f pl
+"<peculiares>"
+	"peculiar" adj m pl
+"<,>"
+	"," cm
+"<como>"
+	"como" rel adv
+"<sua>"
+	"seu" det pos f sg
+"<dilatação>"
+	"dilatação" n f sg
+"<anômala>"
+	"anômalo" adj f sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<alto>"
+	"alto" adj m sg
+"<calor>"
+	"calor" n m sg
+"<específico>"
+	"específico" adj m sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"o" det def f sg
+"<capacidade>"
+	"capacidade" n f sg
+"<de>"
+	"de" pr
+"<dissolver>"
+	"dissolver" vblex inf
+"<um>"
+	"um" det ind m sg
+"<grande>"
+	"grande" adj mf sg
+"<número>"
+	"número" n m sg
+"<de>"
+	"de" pr
+"<substâncias>"
+	"substância" n f pl
+"<.>"
+	"." sent
+ 
+"<De fato>"
+	"de fato" adv
+"<estas>"
+	"este" det dem f pl
+"<peculiaridades>"
+	"peculiaridade" n f pl
+"<foram>"
+	"ser" vbser ifi p3 pl
+"<favoráveis>"
+	"favorável" adj mf pl
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg
+"<surgimento>"
+	"surgimento" n m sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<vida>"
+	"vida" n f sg
+"<nos>"
+	"o" det def m pl
+		"em" pr
+"<oceanos>"
+	"oceano" n m pl
+"<primitivos>"
+	"primitivo" adj m pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Terra>"
+	"terra" n f sg
+"<,>"
+	"," cm
+"<bem como>"
+	"bem como" cnjadv
+"<propiciaram>"
+	"propiciar" vblex ifi p3 pl
+"<sua>"
+	"seu" det pos f sg
+"<evolução>"
+	"evolução" n f sg
+"<.>"
+	"." sent
+ 
+"<Atualmente>"
+	"atualmente" adv
+"<,>"
+	"," cm
+"<todos>"
+	"todo" predet m pl
+"<os>"
+	"o" det def m pl
+"<seres>"
+	"ser" n m pl
+"<vivos>"
+	"vivo" adj m pl
+"<existentes>"
+	"existente" adj mf pl
+"<precisam>"
+	"precisar" vblex pri p3 pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<para>"
+	"para" pr
+"<sua>"
+	"seu" det pos f sg
+"<sobrevivência>"
+	"sobrevivência" n f sg
+"<.>"
+	"." sent
+
+"<Embora>"
+	"embora" cnjadv
+"<os>"
+	"o" det def m pl
+"<oceanos>"
+	"oceano" n m pl
+"<cubram>"
+	"cobrir" vblex prs p3 pl
+"<a>"
+	"o" det def f sg
+"<maior>"
+	"maior" adj mf sg
+"<parte>"
+	"parte" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<superfície>"
+	"superfície" n f sg
+"<terrestre>"
+	"terrestre" adj mf sg
+"<,>"
+	"," cm
+"<sua>"
+	"seu" det pos f sg
+"<água>"
+	"água" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<inadequada>"
+	"inadequado" adj f sg
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg
+"<consumo>"
+	"consumo" n m sg
+"<humano>"
+	"humano" adj m sg
+"<por>"
+	"por" pr
+"<conta>"
+	"conta" n f sg
+"<de>"
+	"de" pr
+"<sua>"
+	"seu" det pos f sg
+"<salinidade>"
+	"salinidade" n f sg
+"<.>"
+	"." sent
+ 
+"<Somente>"
+	"somente" adv
+"<uma>"
+	"um" det ind f sg
+"<pequena>"
+	"pequeno" adj f sg
+"<fração>"
+	"fração" n f sg
+"<disponível>"
+	"disponível" adj mf sg
+"<sobre>"
+	"sobre" pr
+"<a>"
+	"o" det def f sg
+"<superfície>"
+	"superfície" n f sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<continentes>"
+	"continente" n m pl
+"<que>"
+	"que" rel an mf sp
+"<contém>"
+	"conter" vblex pri p3 sg
+"<poucos>"
+	"pouco" adj m pl
+"<sais>"
+	"sal" n m pl
+"<dissolvidos>"
+	"dissolver" vblex pp m pl
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<doce>"
+	"doce" adj mf sg
+"<,>"
+	"," cm
+"<está>"
+	"estar" vblex pri p3 sg
+"<disponível>"
+	"disponível" adj mf sg
+"<para>"
+	"para" pr
+"<consumo>"
+	"consumo" n m sg
+"<direto>"
+	"direto" adj m sg
+"<.>"
+	"." sent
+ 
+"<Contudo>"
+	"contudo" cnjcoo
+"<,>"
+	"," cm
+"<sua>"
+	"seu" det pos f sg
+"<distribuição>"
+	"distribuição" n f sg
+"<não>"
+	"não" adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<uniforme>"
+	"uniforme" adj mf sg
+"<,>"
+	"," cm
+"<o>"
+	"o" detnt
+"<que>"
+	"que" rel an mf sp
+"<faz>"
+	"fazer" vblex pri p3 sg
+"<com>"
+	"com" pr
+"<que>"
+	"que" cnjsub
+"<diversas>"
+	"diverso" adj f pl
+"<regiões>"
+	"região" n f pl
+"<sofram>"
+	"sofrer" vblex prs p3 pl
+"<de>"
+	"de" pr
+"<escassez>"
+	"escassez" n f sg
+"<hídrica>"
+	"hídrico" adj f sg
+"<.>"
+	"." sent
+ 
+"<As>"
+	"o" det def f pl
+"<atividades>"
+	"atividade" n f pl
+"<humanas>"
+	"humano" adj f pl
+"<,>"
+	"," cm
+"<principalmente>"
+	"principalmente" adv
+"<a>"
+	"o" det def f sg
+"<agricultura>"
+	"agricultura" n f sg
+"<,>"
+	"," cm
+"<possuem>"
+	"possuir" vblex pri p3 pl
+"<grandes>"
+	"grande" adj mf pl
+"<necessidades>"
+	"necessidade" n f pl
+"<de>"
+	"de" pr
+"<retirada>"
+	"retirada" n f sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<de>"
+	"de" pr
+"<seu>"
+	"seu" det pos m sg
+"<leito>"
+	"leito" n m sg
+"<natural>"
+	"natural" adj mf sg
+"<,>"
+	"," cm
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" prn pro p3 m sg
+"<que>"
+;	"que" cnjsub
+;	"que" prn itg mf sg
+	"que" rel an mf sp
+"<tem>"
+	"ter" vbhaver pri p3 sg
+"<afetado>"
+	"afetar" vblex pp m sg
+"<negativamente>"
+	"negativamente" adv
+"<sua>"
+	"seu" det pos f sg
+"<distribuição>"
+	"distribuição" n f sg
+"<sobre>"
+	"sobre" pr
+"<os>"
+	"o" det def m pl
+"<continentes>"
+	"continente" n m pl
+"<,>"
+	"," cm
+"<bem como>"
+	"bem como" cnjadv
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<subterrânea>"
+	"subterrâneo" adj f sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<poluição>"
+	"poluição" n f sg
+"<hídrica>"
+	"hídrico" adj f sg
+"<compromete>"
+	"comprometer" vblex pri p3 sg
+"<a>"
+	"o" det def f sg
+"<qualidade>"
+	"qualidade" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<,>"
+	"," cm
+"<prejudicando>"
+	"prejudicar" vblex ger
+"<a>"
+	"o" det def f sg
+"<biodiversidade>"
+	"biodiversidade" n f sg
+"<,>"
+	"," cm
+"<bem como>"
+	"bem como" cnjadv
+"<o>"
+	"o" det def m sg
+"<abastecimento>"
+	"abastecimento" n m sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"o" det def f sg
+"<produção>"
+	"produção" n f sg
+"<de>"
+	"de" pr
+"<alimentos>"
+	"alimento" n m pl
+"<.>"
+	"." sent
+ 
+"<Além>"
+	"além" adv
+"<disso>"
+	"isso" prn tn nt
+		"de" pr
+"<,>"
+	"," cm
+"<uma>"
+	"um" det ind f sg
+"<parcela>"
+	"parcela" n f sg
+"<considerável>"
+	"considerável" adj mf sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<população>"
+	"população" n f sg
+"<mundial>"
+	"mundial" adj mf sg
+"<ainda>"
+	"ainda" adv
+"<não>"
+	"não" adv
+"<tem>"
+	"ter" vblex pri p3 sg
+"<acesso>"
+	"acesso" n m sg
+"<à>"
+	"o" det def f sg
+		"a" pr
+"<água>"
+	"água" n f sg
+"<potável>"
+	"potável" adj mf sg
+"<,>"
+	"," cm
+"<o>"
+	"o" detnt
+"<que>"
+	"que" rel an mf sp
+"<traz>"
+	"trazer" vblex pri p3 sg
+"<diversos>"
+	"diverso" adj m pl
+"<problemas>"
+	"problema" n m pl
+"<de>"
+	"de" pr
+"<saúde>"
+	"saúde" n f sg
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<indispensável>"
+	"indispensável" adj mf sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<modo>"
+	"modo" n m sg
+"<de>"
+	"de" pr
+"<vida>"
+	"vida" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<humanidade>"
+	"humanidade" n f sg
+"<,>"
+	"," cm
+"<de>"
+	"de" pr
+"<forma>"
+	"forma" n f sg
+"<que>"
+;	"que" cnjsub
+;	"que" prn itg mf sg
+	"que" rel an mf sp
+"<está>"
+	"estar" vblex pri p3 sg
+"<fortemente>"
+	"fortemente" adv
+"<ligada>"
+	"ligar" vblex pp f sg
+"<à>"
+	"o" det def f sg
+		"a" pr
+"<cultura>"
+	"cultura" n f sg
+"<de>"
+	"de" pr
+"<todos>"
+	"todo" predet m pl
+"<os>"
+	"o" det def m pl
+"<povos>"
+	"povo" n m pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Terra>"
+	"terra" n f sg
+"<.>"
+	"." sent
+ 
+"<Diante>"
+	"diante" adv
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<problemas>"
+	"problema" n m pl
+"<advindos>"
+	"advindo" adj m pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<mau>"
+	"mau" adj m sg
+"<uso>"
+	"uso" n m sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<recursos>"
+	"recurso" n m pl
+"<hídricos>"
+	"hídrico" adj m pl
+"<,>"
+	"," cm
+"<surge>"
+	"surgir" vblex pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<nova>"
+	"novo" adj f sg
+"<consciência>"
+	"consciência" n f sg
+"<de>"
+	"de" pr
+"<que>"
+	"que" cnjsub
+;	"que" prn itg mf sg
+;	"que" rel an mf sp
+"<é>"
+	"ser" vbser pri p3 sg
+"<necessário>"
+	"necessário" adj m sg
+"<utilizar>"
+	"utilizar" vblex inf
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<racionalmente>"
+	"racionalmente" adv
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl
+"<primeiros>"
+	"primeiro" adj m pl
+"<átomos>"
+	"átomo" n m pl
+"<de>"
+	"de" pr
+"<hidrogênio>"
+	"hidrogênio" n m sg
+"<,>"
+	"," cm
+"<elemento>"
+	"elemento" n m sg
+"<mais>"
+	"mais" adv
+"<simples>"
+	"simples" adj mf sp
+"<,>"
+	"," cm
+"<formaram-se>"
+	"se" prn enc ref p3 mf sp
+		"formar" vblex ifi p3 pl
+"<logo>"
+	"logo" adv
+"<após>"
+	"após" pr
+"<o>"
+	"o" det def m sg
+"<Big>"
+	"Big" np al
+"<Bang>"
+	"Bang" np al
+"<,>"
+	"," cm
+"<espalhando-se>"
+	"se" prn enc ref p3 mf sp
+		"espalhar" vblex ger
+"<por>"
+	"por" pr
+"<todo>"
+	"todo" predet m sg
+"<o>"
+	"o" det def m sg
+"<Universo>"
+	"universo" n m sg
+"<primordial>"
+	"primordial" adj mf sg
+"<.>"
+	"." sent
+ 
+"<Milhões>"
+	"milhão" num mf pl
+"<de>"
+	"de" pr
+"<anos>"
+	"ano" n m pl
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<passaram>"
+	"passar" vblex ifi p3 pl
+"<,>"
+	"," cm
+"<quando>"
+	"quando" rel adv
+"<nuvens>"
+	"nuvem" n f pl
+"<deste>"
+	"este" det dem m sg
+		"de" pr
+"<elemento>"
+	"elemento" n m sg
+"<colapsaram>"
+	"colapsar" vblex ifi p3 pl                         
+"<gravitacionalmente>"
+	"gravitacionalmente" adv
+"<.>"
+	"." sent
+ 
+"<Conforme>"
+	"conforme" adv
+"<estes>"
+	"este" det dem m pl
+"<corpos>"
+	"corpo" n m pl
+"<agregavam>"
+	"agregar" vblex pii p3 pl
+"<massa>"
+	"massa" n f sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<núcleo>"
+	"núcleo" n m sg
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<tornava>"
+	"tornar" vblex pii p3 sg
+"<cada>"
+	"cada" det ind mf sp
+"<vez>"
+	"vez" n f sg
+"<mais>"
+	"mais" adv
+"<quente>"
+	"quente" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<submetido>"
+	"submeter" vblex pp m sg
+"<a>"
+	"a" pr
+"<pressões>"
+	"pressão" n f pl
+"<cada>"
+	"cada" det ind mf sp
+"<vez>"
+	"vez" n f sg
+"<maiores>"
+	"maior" adj mf pl
+"<,>"
+	"," cm
+"<até>"
+	"até" pr
+"<que>"
+	"que" cnjsub
+;	"que" prn itg mf sg
+;	"que" rel an mf sp
+"<os>"
+	"o" det def m pl
+"<núcleos>"
+	"núcleo" n m pl
+"<atômicos>"
+	"atômico" adj m pl
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<fundissem>"
+	"fundir" vblex pis p3 pl
+"<liberando>"
+	"liberar" vblex ger
+"<,>"
+	"," cm
+"<assim>"
+	"assim" adv
+"<,>"
+	"," cm
+"<grande>"
+	"grande" adj mf sg
+"<quantidade>"
+	"quantidade" n f sg
+"<de>"
+	"de" pr
+"<energia>"
+	"energia" n f sg
+"<e>"
+	"e" cnjcoo
+"<dando>"
+	"dar" vblex ger
+"<nascimento>"
+	"nascimento" n m sg
+"<às>"
+	"o" det def f pl
+		"a" pr
+"<primeiras>"
+	"primeiro" adj f pl
+"<estrelas>"
+	"estrela" n f pl
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<fusão>"
+	"fusão" n f sg
+"<nuclear>"
+	"nuclear" adj mf sg
+"<em>"
+	"em" pr
+"<estrelas>"
+	"estrela" n f pl
+"<cada>"
+	"cada" det ind mf sp
+"<vez>"
+	"vez" n f sg
+"<maiores>"
+	"maior" adj mf pl
+"<criou>"
+	"criar" vblex ifi p3 sg
+"<núcleos>"
+	"núcleo" n m pl
+"<atômicos>"
+	"atômico" adj m pl
+"<cada>"
+	"cada" det ind mf sp
+"<vez>"
+	"vez" n f sg
+"<mais>"
+	"mais" adv
+"<pesados>"
+	"pesado" adj m pl
+"<,>"
+	"," cm
+"<dentre>"
+	"dentre" pr
+"<eles>"
+	"ele" prn tn p3 m pl
+"<o>"
+	"o" det def m sg
+"<oxigênio>"
+	"oxigênio" n m sg
+"<.>"
+	"." sent
+ 
+"<Assim>"
+	"assim" adv
+"<,>"
+	"," cm
+"<ao>"
+	"o" det def m sg
+		"a" pr
+"<fim>"
+	"fim" n m sg
+"<de>"
+	"de" pr
+"<sua>"
+	"seu" det pos f sg
+"<existência>"
+	"existência" n f sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<estrela>"
+	"estrela" n f sg
+"<ejeta>"
+	"ejetar" vblex pri p3 sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<espaço>"
+	"espaço" n m sg
+"<estes>"
+	"este" det dem m pl
+"<novos>"
+	"novo" adj m pl
+"<elementos>"
+	"elemento" n m pl
+"<criados>"
+	"criar" vblex pp m pl
+"<.>"
+	"." sent
+ 
+"<Desta>"
+	"este" det dem f sg
+		"de" pr
+"<forma>"
+	"forma" n f sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<comumente>"
+	"comumente" adv
+"<encontrada>"
+	"encontrar" vblex pp f sg
+"<no meio>"
+	"no meio" adv
+"<interestelar>"
+	"interestelar" adj mf sg
+"<,>"
+	"," cm
+"<já que>"
+	"já que" cnjadv
+"<,>"
+	"," cm
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<estágio>"
+	"estágio" n m sg
+"<atual>"
+	"atual" adj mf sg
+"<de>"
+	"de" pr
+"<evolução>"
+	"evolução" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<Universo>"
+	"universo" n m sg
+"<,>"
+	"," cm
+"<ambos os>"
+	"ambos os" prn tn m pl
+"<constituintes>"
+	"constituinte" adj mf pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<estão>"
+	"estar" vblex pri p3 pl
+"<entre>"
+	"entre" pr
+"<os>"
+	"o" det def m pl
+"<elementos>"
+	"elemento" n m pl
+"<mais>"
+	"mais" adv
+"<abundantes>"
+	"abundante" adj mf pl
+"<.>"
+	"." sent
+ 
+"<Contudo>"
+	"contudo" cnjcoo
+"<,>"
+	"," cm
+"<acredita-se>"
+	"se" prn enc ref p3 mf sp
+		"acreditar" vblex pri p3 sg
+"<que>"
+	"que" cnjsub
+"<seu>"
+	"seu" det pos m sg
+"<processo>"
+	"processo" n m sg
+"<de>"
+	"de" pr
+"<formação>"
+	"formação" n f sg
+"<seja>"
+	"ser" vbser prs p3 sg
+"<auxiliado>"
+	"auxiliar" vblex pp m sg
+"<pela>"
+	"o" det def f sg
+		"por" pr
+"<presença>"
+	"presença" n f sg
+"<de>"
+	"de" pr
+"<grãos>"
+	"grão" n m pl
+"<de>"
+	"de" pr
+"<poeira>"
+	"poeira" n f sg
+"<no meio>"
+	"no meio" adv
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<facilitam>"
+	"facilitar" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<ligação>"
+	"ligação" n f sg
+"<entre>"
+	"entre" pr
+"<os>"
+	"o" det def m pl
+"<átomos>"
+	"átomo" n m pl
+"<de>"
+	"de" pr
+"<hidrogênio>"
+	"hidrogênio" n m sg
+"<e>"
+	"e" cnjcoo
+"<oxigênio>"
+	"oxigênio" n m sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<relativamente>"
+	"relativamente" adv
+"<comum>"
+	"comum" adj mf sg
+"<por>"
+	"por" pr
+"<todo>"
+	"todo" predet m sg
+"<o>"
+	"o" det def m sg
+"<Sistema>"
+	"sistema" n m sg
+"<Solar>"
+	"solar" n m sg
+"<.>"
+	"." sent
+ 
+"<Mesmo>"
+	"mesmo" adv
+"<Mercúrio>"
+	"Mercúrio" np loc
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<planeta>"
+	"planeta" n m sg
+"<mais>"
+	"mais" adv
+"<próximo do>"
+	"o" det def m sg
+		"próximo de" pr
+"<Sol>"
+	"sol" n m sg
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<massas>"
+	"massa" n f pl
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<em>"
+	"em" pr
+"<crateras>"
+	"cratera" n f pl
+"<que>"
+	"que" rel an mf sp
+"<não>"
+	"não" adv
+"<recebem>"
+	"receber" vblex pri p3 pl
+"<luz>"
+	"luz" n f sg
+"<solar>"
+	"solar" n m sg
+"<em>"
+	"em" pr
+"<seus>"
+	"seu" det pos m pl
+"<polos>"
+	"polo" n m pl
+"<.>"
+	"." sent
+ 
+"<Vênus>"
+	"Vênus" np loc
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<espessa>"
+	"espesso" adj f sg
+"<atmosfera>"
+	"atmosfera" n f sg
+"<que>"
+	"que" rel an mf sp
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<traços>"
+	"traço" n m pl
+"<consideráveis>"
+	"considerável" adj mf pl
+"<de>"
+	"de" pr
+"<vapor>"
+	"vapor" n m sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<que>"
+	"que" rel an mf sp
+"<contribuem>"
+	"contribuir" vblex pri p3 pl
+"<para>"
+	"para" pr
+"<a>"
+	"o" det def f sg
+"<manutenção>"
+	"manutenção" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<intenso>"
+	"intenso" adj m sg
+"<efeito>"
+	"efeito" n m sg
+"<estufa>"
+	"estufa" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<.>"
+	"." sent
+ 
+"<Na>"
+	"o" det def f sg
+		"em" pr
+"<Lua>"
+	"lua" n f sg
+"<,>"
+	"," cm
+"<quantidades>"
+	"quantidade" n f pl
+"<consideráveis>"
+	"considerável" adj mf pl
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<estão>"
+	"estar" vblex pri p3 pl
+"<presentes>"
+	"presente" adj mf pl
+"<em>"
+	"em" pr
+"<crateras>"
+	"cratera" n f pl
+"<que>"
+	"que" rel an mf sp
+"<não>"
+	"não" adv
+"<recebem>"
+	"receber" vblex pri p3 pl
+"<diretamente>"
+	"diretamente" adv
+"<luz>"
+	"luz" n f sg
+"<solar>"
+	"solar" n m sg
+"<em>"
+	"em" pr
+"<ambos os>"
+	"ambos os" prn tn m pl
+"<polos>"
+	"polo" n m pl
+"<.>"
+	"." sent
+ 
+"<Marte>"
+	"Marte" np loc
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<formações>"
+	"formação" n f pl
+"<geológicas>"
+	"geológico" adj f pl
+"<que>"
+	"que" rel an mf sp
+"<fortemente>"
+	"fortemente" adv
+"<evidenciam>"
+	"evidenciar" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<existência>"
+	"existência" n f sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<líquida>"
+	"líquido" adj f sg
+"<em abundância>"
+	"em abundância" adv
+"<em>"
+	"em" pr
+"<sua>"
+	"seu" det pos f sg
+"<superfície>"
+	"superfície" n f sg
+"<em>"
+	"em" pr
+"<algum>"
+	"algum" det ind m sg
+"<momento>"
+	"momento" n m sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<passado>"
+	"passar" vblex pp m sg
+"<.>"
+	"." sent
+ 
+"<Contudo>"
+	"contudo" cnjcoo
+"<,>"
+	"," cm
+"<devido a>"
+	"devido a" pr
+"<baixa>"
+	"baixo" adj f sg
+"<pressão>"
+	"pressão" n f sg
+"<atmosférica>"
+	"atmosférico" adj f sg
+"<atual>"
+	"atual" adj mf sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<só>"
+	"só" adv
+"<existe>"
+	"existir" vblex pri p3 sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<planeta>"
+	"planeta" n m sg
+"<sob>"
+	"sob" pr
+"<a>"
+	"o" det def f sg
+"<forma>"
+	"forma" n f sg
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<ou>"
+	"ou" cnjcoo
+"<vapor>"
+	"vapor" n m sg
+"<.>"
+	"." sent
+ 
+"<As>"
+	"o" det def f pl
+"<calotas>"
+	"calota" n f pl
+"<polares>"
+	"polar" adj mf pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<possuem>"
+	"possuir" vblex pri p3 pl
+"<quantidade>"
+	"quantidade" n f sg
+"<considerável>"
+	"considerável" adj mf sg
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<sob>"
+	"sob" pr
+"<as>"
+	"o" det def f pl
+"<camadas>"
+	"camada" n f pl
+"<sazonais>"
+	"sazonal" adj mf pl               
+"<de>"
+	"de" pr
+"<dióxido>"
+	"dióxido" n m sg
+"<de>"
+	"de" pr
+"<carbono>"
+	"carbono" n m sg
+"<sólido>"
+	"sólido" adj m sg
+"<que>"
+	"que" rel an mf sp
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<formam>"
+	"formar" vblex pri p3 pl
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<inverno>"
+	"inverno" n m sg
+"<.>"
+	"." sent
+
+"<Júpiter>"
+	"Júpiter" np loc
+"<e>"
+	"e" cnjcoo
+"<Saturno>"
+	"Saturno" np loc
+"<possuem>"
+	"possuir" vblex pri p3 pl
+"<vapor>"
+	"vapor" n m sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<em>"
+	"em" pr
+"<suas>"
+	"seu" det pos f pl
+"<atmosferas>"
+	"atmosfera" n f pl
+"<e>"
+	"e" cnjcoo
+"<podem>"
+	"poder" vbmod pri p3 pl
+"<conter>"
+	"conter" vblex inf
+"<camadas>"
+	"camada" n f pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<substância>"
+	"substância" n f sg
+"<em>"
+	"em" pr
+"<seu>"
+	"seu" det pos m sg
+"<interior>"
+	"interior" n m sg
+"<.>"
+	"." sent
+ 
+"<Urano>"
+	"Urano" np loc
+"<e>"
+	"e" cnjcoo
+"<Netuno>"
+	"Netuno" np loc
+"<possuem>"
+	"possuir" vblex pri p3 pl
+"<grandes>"
+	"grande" adj mf pl
+"<quantidades>"
+	"quantidade" n f pl
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<,>"
+	"," cm
+"<além de>"
+	"além de" pr
+"<metano>"
+	"metano" n m sg
+"<e>"
+	"e" cnjcoo
+"<amônia>"
+	"amônia" n f sg
+"<,>"
+	"," cm
+"<tanto>"
+	"tanto" adv
+"<em>"
+	"em" pr
+"<suas>"
+	"seu" det pos f pl
+"<atmosferas>"
+	"atmosfera" n f pl
+"<quanto>"
+	"quanto" adv itg
+;	"quanto" prn itg m sg
+;	"quanto" rel nn m sg
+"<em>"
+	"em" pr
+"<suas>"
+	"seu" det pos f pl
+"<camadas>"
+	"camada" n f pl
+"<inferiores>"
+	"inferior" adj mf pl
+"<,>"
+	"," cm
+"<onde>"
+	"onde" rel adv
+"<deve>"
+	"dever" vbmod pri p3 sg
+"<adquirir>"
+	"adquirir" vblex inf
+"<características>"
+	"característica" n f pl
+"<exóticas>"
+	"exótico" adj f pl
+"<,>"
+	"," cm
+"<dada>"
+	"dar" vblex pp f sg
+"<a>"
+;	"a" pr
+	"o" det def f sg
+"<imensa>"
+	"imenso" adj f sg
+"<pressão>"
+	"pressão" n f sg
+"<e>"
+	"e" cnjcoo
+"<temperatura>"
+	"temperatura" n f sg
+"<às quais>"
+	"o qual" rel an f pl
+		"a" pr
+"<estaria>"
+	"estar" vblex cni p3 sg
+"<submetida>"
+	"submeter" vblex pp f sg
+"<.>"
+	"." sent
+ 
+"<Grandes>"
+	"grande" adj mf pl
+"<massas>"
+	"massa" n f pl
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<estão>"
+	"estar" vblex pri p3 pl
+"<presentes>"
+	"presente" adj mf pl
+"<ainda>"
+	"ainda" adv
+"<,>"
+	"," cm
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<maioria>"
+	"maioria" n f sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<satélites>"
+	"satélite" n m pl
+"<naturais>"
+	"natural" adj mf pl
+"<destes>"
+	"este" det dem m pl
+		"de" pr
+"<planetas>"
+	"planeta" n m pl
+"<.>"
+	"." sent
+ 
+"<Uma>"
+	"um" det ind f sg
+"<das>"
+	"o" det def f pl
+		"de" pr
+"<ocorrências>"
+	"ocorrência" n f pl
+"<mais>"
+	"mais" adv
+"<notáveis>"
+	"notável" adj mf pl
+"<está>"
+	"estar" vblex pri p3 sg
+"<em>"
+	"em" pr
+"<Europa>"
+	"Europa" np loc f sg
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<orbita>"
+	"orbitar" vblex pri p3 sg
+"<Júpiter>"
+	"Júpiter" np loc
+"<,>"
+	"," cm
+"<onde>"
+	"onde" adv itg
+;	"onde" rel adv
+"<pode>"
+	"poder" vbmod pri p3 sg
+"<existir>"
+	"existir" vblex inf
+"<um>"
+	"um" det ind m sg
+"<grande>"
+	"grande" adj mf sg
+"<oceano>"
+	"oceano" n m sg
+"<líquido>"
+	"líquido" adj m sg
+"<sob>"
+	"sob" pr
+"<a>"
+	"o" det def f sg
+"<camada>"
+	"camada" n f sg
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<que>"
+	"que" rel an mf sp
+"<recobre>"
+;	"recobrar" vblex prs p1 sg
+	"recobrar" vblex prs p3 sg
+;	"recobrir" vblex pri p3 sg
+"<o>"
+	"o" det def m sg
+"<satélite>"
+	"satélite" n m sg
+"<.>"
+	"." sent
+ 
+"<Outro>"
+	"outro" det ind m sg
+"<candidato>"
+	"candidato" n m sg
+"<a>"
+;	"a" pr
+	"o" prn pro p3 f sg
+"<possuir>"
+	"possuir" vblex inf
+"<um>"
+	"um" det ind m sg
+"<oceano>"
+	"oceano" n m sg
+"<líquido>"
+	"líquido" adj m sg
+"<em>"
+	"em" pr
+"<seu>"
+	"seu" det pos m sg
+"<interior>"
+	"interior" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<Encélado>"
+	"Encélado" np loc
+"<,>"
+	"," cm
+"<um>"
+	"um" det ind m sg
+"<satélite>"
+	"satélite" n m sg
+"<de>"
+	"de" pr
+"<Saturno>"
+	"Saturno" np loc
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<gêiseres>"
+	"gêiser" n m sg
+"<e>"
+	"e" cnjcoo
+"<criovulcões>"
+	"criovulcão" n f pl
+"<que>"
+	"que" rel an mf sp
+"<ejetam>"
+	"ejetar" vblex pri p3 pl
+"<água>"
+	"água" n f sg
+"<acima da>"
+	"o" det def f sg
+		"acima de" pr
+"<superfície>"
+	"superfície" n f sg
+"<recoberta>"
+	"recobrir" vblex pp f sg
+"<por>"
+	"por" pr
+"<gelo>"
+	"gelo" n m sg
+"<.>"
+	"." sent
+  
+"<Outros>"
+	"outro" det ind m pl
+"<satélites>"
+	"satélite" n m pl
+"<,>"
+	"," cm
+"<corpos>"
+	"corpo" n m pl
+"<menores>"
+	"menor" adj mf pl
+"<e>"
+	"e" cnjcoo
+"<planetas>"
+	"planeta" n m pl
+"<anões>"
+	"anão" n m pl
+"<afastados>"
+	"afastar" vblex pp m pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<Sol>"
+	"sol" n m sg
+"<possuem>"
+	"possuir" vblex pri p3 pl
+"<camadas>"
+	"camada" n f pl
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<ao seu>"
+	"o seu" det pos m sg
+		"a" pr
+"<redor>"
+	"redor" n m sg
+"<.>"
+	"." sent
+ 
+"<Em>"
+	"em" pr
+"<especial>"
+	"especial" adj mf sg
+"<destacam-se>"
+	"se" prn enc ref p3 mf sp
+		"destacar" vblex pri p3 pl
+"<os>"
+	"o" det def m pl
+"<cometas>"
+	"cometa" n m pl
+"<,>"
+	"," cm
+"<grandes>"
+	"grande" adj mf pl
+"<aglomerados>"
+	"aglomerador" n m pl    
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<e>"
+	"e" cnjcoo
+"<poeira>"
+	"poeira" n f sg
+"<que>"
+	"que" rel an mf sp
+"<viajam>"
+	"viajar" vblex pri p3 pl
+"<pelo>"
+	"o" det def m sg
+		"por" pr
+"<Sistema>"
+	"sistema" n m sg
+"<Solar>"
+	"solar" n m sg
+"<e>"
+	"e" cnjcoo
+"<,>"
+	"," cm
+"<quando>"
+	"quando" adv itg
+;	"quando" rel adv
+"<aproximam-se>"
+	"se" prn enc ref p3 mf sp
+		"aproximar" vblex pri p3 pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<Sol>"
+	"sol" n m sg
+"<,>"
+	"," cm
+"<ejetam>"
+	"ejetar" vblex pri p3 pl
+"<vapor>"
+	"vapor" n m sg
+"<e>"
+	"e" cnjcoo
+"<partículas>"
+	"partícula" n f pl
+"<que>"
+	"que" rel an mf sp
+"<formam>"
+	"formar" vblex pri p3 pl
+"<sua>"
+	"seu" det pos f sg
+"<cauda>"
+	"cauda" n f sg
+"<cometária>"
+	"cometário" adj f sg 
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<posição>"
+	"posição" n f sg
+"<favorável>"
+	"favorável" adj mf sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Terra>"
+	"terra" n f sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<zona>"
+	"zona" n f sg
+"<habitável>"
+	"habitável" adj mf sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<Sistema>"
+	"sistema" n m sg
+"<Solar>"
+	"solar" n m sg
+"<permite>"
+	"permitir" vblex pri p3 sg
+"<que>"
+	"que" cnjsub
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<ocorra>"
+	"ocorrer" vblex prs p3 sg
+"<naturalmente>"
+	"naturalmente" adv
+"<em>"
+	"em" pr
+"<seus>"
+	"seu" det pos m pl
+"<três>"
+	"três" num mf sp
+"<estados>"
+	"estado" n m pl
+"<físicos>"
+	"físico" adj m pl
+"<.>"
+	"." sent
+ 
+"<A>"
+	"o" det def f sg
+"<superfície>"
+	"superfície" n f sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<coberta>"
+	"cobrir" vblex pp f sg
+"<em>"
+	"em" pr
+"<mais>"
+	"mais" adv
+"<de>"
+	"de" pr
+"<três>"
+	"três" num mf sp
+"<quartos>"
+	"quarto" adj m pl
+"<por>"
+	"por" pr
+"<um>"
+	"um" det ind m sg
+"<grande>"
+	"grande" adj mf sg
+"<oceano>"
+	"oceano" n m sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<líquida>"
+	"líquido" adj f sg
+"<,>"
+	"," cm
+"<além de>"
+	"além de" pr
+"<grandes>"
+	"grande" adj mf pl
+"<massas>"
+	"massa" n f pl
+"<de>"
+	"de" pr
+"<gelo>"
+	"gelo" n m sg
+"<calotas>"
+	"calota" n f pl
+"<polares>"
+	"polar" adj mf pl
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<vapor>"
+	"vapor" n m sg
+"<presente>"
+	"presente" adj mf sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<atmosfera>"
+	"atmosfera" n f sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<que>"
+	"que" rel an mf sp
+"<circula>"
+	"circular" vblex pri p3 sg
+"<sobre>"
+	"sobre" pr
+"<os>"
+	"o" det def m pl
+"<continentes>"
+	"continente" n m pl
+"<em>"
+	"em" pr
+"<rios>"
+	"rio" n m pl
+"<e>"
+	"e" cnjcoo
+"<lagos>"
+	"lago" n m pl
+"<.>"
+	"." sent
+ 
+"<Entretanto>"
+	"entretanto" cnjadv
+"<,>"
+	"," cm
+"<toda>"
+	"todo" predet f sg
+"<a>"
+	"o" det def f sg
+"<massa>"
+	"massa" n f sg
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<representa>"
+	"representar" vblex pri p3 sg
+"<somente>"
+	"somente" adv
+"<0,02%>"
+	"0,02%" num percent
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<massa>"
+	"massa" n f sg
+"<total>"
+	"total" adj mf sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<.>"
+	"." sent
+ 
+"<Todos>"
+	"todo" predet m pl
+"<os>"
+	"o" det def m pl
+"<recursos>"
+	"recurso" n m pl
+"<hídricos>"
+	"hídrico" adj m pl
+"<globais>"
+	"global" adj mf pl
+"<formam>"
+	"formar" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<hidrosfera>"
+	"hidrosfera" n f sg
+"<terrestre>"
+	"terrestre" adj mf sg
+"<.>"
+	"." sent
+ 
+"<Uma>"
+	"um" det ind f sg
+"<quantidade>"
+	"quantidade" n f sg
+"<considerável>"
+	"considerável" adj mf sg
+"<pode>"
+	"poder" vbmod pri p3 sg
+"<existir>"
+	"existir" vblex inf
+"<ainda>"
+	"ainda" adv
+"<misturada>"
+	"misturar" vblex pp f sg
+"<ao>"
+	"o" det def m sg
+		"a" pr
+"<magma>"
+	"magma" n m sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<manto>"
+	"manto" n m sg
+"<terrestre>"
+	"terrestre" adj mf sg
+
+"<Ainda>"
+	"ainda" adv
+"<não>"
+	"não" adv
+"<há>"
+	"há" vblex pri p3 sg
+"<consenso>"
+	"consenso" n m sg
+"<sobre>"
+	"sobre" pr
+"<como>"
+	"como" adv itg
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<deu>"
+	"dar" vblex ifi p3 sg
+"<a>"
+;	"a" pr
+	"o" det def f sg
+"<origem>"
+	"origem" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<água>"
+	"água" n f sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<planeta>"
+	"planeta" n m sg
+"<.>"
+	"." sent
+ 
+"<Por>"
+	"por" pr
+"<um>"
+	"um" det ind m sg
+"<lado>"
+	"lado" n m sg
+"<acredita-se>"
+	"se" prn enc ref p3 mf sp
+		"acreditar" vblex pri p3 sg
+"<que>"
+	"que" cnjsub
+"<a>"
+	"o" det def f sg
+"<água>"
+	"água" n f sg
+"<provém>"
+	"provir" vblex prs p3 pl 
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<próprio>"
+	"próprio" adj m sg
+"<processo>"
+	"processo" n m sg
+"<de>"
+	"de" pr
+"<acreção>"
+	"acreção" n f sg
+"<de>"
+	"de" pr
+"<hidrossilicatos>"
+	"hidrossilicato" n m pl
+"<durante>"
+	"durante" pr
+"<a>"
+	"o" det def f sg
+"<formação>"
+	"formação" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Terra>"
+	"terra" n f sg
+"<.>"
+	"." sent
+ 
+"<Estes>"
+	"este" det dem m pl
+"<compostos>"
+	"composto" n m pl
+"<posteriormente>"
+	"posteriormente" adv
+"<liberaram>"
+	"liberar" vblex ifi p3 pl
+"<as>"
+	"o" det def f pl
+"<moléculas>"
+	"molécula" n f pl
+"<de>"
+	"de" pr
+"<água>"
+	"água" n f sg
+"<que>"
+	"que" rel an mf sp
+"<viriam>"
+	"vir" vblex cni p3 pl
+"<a>"
+	"a" pr
+"<formar>"
+	"formar" vblex inf
+"<os>"
+	"o" det def m pl
+"<oceanos>"
+	"oceano" n m pl
+"<primitivos>"
+	"primitivo" adj m pl
+"<.>"
+	"." sent
+ 
+"<Contudo>"
+	"contudo" cnjcoo
+"<,>"
+	"," cm
+"<uma>"
+	"um" det ind f sg
+"<provável>"
+	"provável" adj mf sg
+"<fonte>"
+	"fonte" n f sg
+"<seria>"
+	"ser" vbser cni p3 sg
+"<a>"
+	"o" det def f sg
+"<grande>"
+	"grande" adj mf sg
+"<quantidade>"
+	"quantidade" n f sg
+"<de>"
+	"de" pr
+"<cometas>"
+	"cometa" n m pl
+"<,>"
+	"," cm
+"<meteoroides>"
+	"meteoroide" n m pl
+"<e>"
+	"e" cnjcoo
+"<asteroides>"
+	"asteroide" n m pl  
+"<que>"
+	"que" rel an mf sp
+"<atingiram>"
+	"atingir" vblex ifi p3 pl
+"<a>"
+	"o" det def f sg
+"<Terra>"
+	"terra" n f sg
+"<durante>"
+	"durante" pr
+"<o>"
+	"o" det def m sg
+"<último>"
+	"último" adj m sg
+"<bombardeio>"
+	"bombardeio" n m sg
+"<tardio>"
+	"tardio" adj m sg
+"<,>"
+	"," cm
+"<um>"
+	"um" det ind m sg
+"<evento>"
+	"evento" n m sg
+"<turbulento>"
+	"turbulento" adj m sg
+"<nos>"
+	"o" det def m pl
+		"em" pr
+"<primórdios>"
+	"primórdio" n m pl
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<Sistema>"
+	"sistema" n m sg
+"<Solar>"
+	"solar" n m sg
+"<.>"
+	"." sent
+ 
+"<Esta>"
+	"este" det dem f sg
+"<teoria>"
+	"teoria" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<apoiada>"
+	"apoiar" vblex pp f sg
+"<pelo>"
+	"o" det def m sg
+		"por" pr
+"<fato>"
+	"fato" n m sg
+"<de>"
+	"de" pr
+"<que>"
+	"que" cnjsub
+;	"que" rel an mf sp
+"<a>"
+	"o" det def f sg
+"<proporção>"
+	"proporção" n f sg
+"<entre>"
+	"entre" pr
+"<hidrogênio>"
+	"hidrogênio" n m sg
+"<e>"
+	"e" cnjcoo
+"<deutério>"
+	"deutério" n m sg
+"<(>"
+	"(" lpar
+"<um>"
+	"um" det ind m sg
+"<isótopo>"
+	"isótopo" n m sg
+"<do>"
+	"o" det def m sg
+		"de" pr
+"<hidrogênio>"
+	"hidrogênio" n m sg
+"<)>"
+	")" rpar
+"<presentes>"
+	"presente" adj mf pl
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<gelo>"
+	"gelo" n m sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<cometas>"
+	"cometa" n m pl
+"<e>"
+	"e" cnjcoo
+"<nos>"
+	"o" det def m pl
+		"em" pr
+"<oceanos>"
+	"oceano" n m pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Terra>"
+	"terra" n f sg
+"<ser>"
+;	"ser" vbser inf
+	"ser" vbser infps p3 sg
+"<similar>"
+	"similar" adj mf sg
+"<.>"
+	"." sent
+
