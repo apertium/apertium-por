@@ -25,8 +25,8 @@
 "<especialmente>"
 	"especialmente" adv
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<senso>"
 	"senso" n m sg
 "<comum>"
@@ -120,8 +120,8 @@
 "<adquiridos>"
 	"adquirir" vblex pp m pl
 "<pelo>"
-	"o" det def m sg
-		"por" pr
+	"por" pr
+		"o" det def m sg
 "<homem>"
 	"homem" n m sg
 "<como>"
@@ -129,13 +129,12 @@
 "<membro>"
 	"membro" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<sociedade>"
 	"sociedade" n f sg
 "<.>"
 	"." sent
- 
 "<Embora>"
 	"embora" cnjadv
 "<a>"
@@ -194,10 +193,9 @@
 	"único" adj m sg
 "<.>"
 	"." sent
- 
 "<Na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<Roma>"
 	"Roma" np loc
 "<antiga>"
@@ -262,7 +260,6 @@
 	"exemplo" n m sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<cultura>"
@@ -276,8 +273,8 @@
 "<associada>"
 	"associar" vblex pp f sg
 "<às>"
-	"o" det def f pl
-		"a" pr
+	"a" pr
+		"o" det def f pl
 "<formas>"
 	"forma" n f pl
 "<de>"
@@ -293,8 +290,8 @@
 "<técnica>"
 	"técnica" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<humanidade>"
 	"humanidade" n f sg
 "<,>"
@@ -318,7 +315,7 @@
 "<alemão>"
 	"alemão" n m sg
 "<Kultur>"
-	"*Kultur" 
+	"*Kultur"
 "<cultura>"
 	"cultura" n f sg
 "<se>"
@@ -328,15 +325,14 @@
 "<mais>"
 	"mais" adv
 "<desta>"
-	"este" det dem f sg
-		"de" pr
+	"de" pr
+		"este" det dem f sg
 "<definição>"
 	"definição" n f sg
 "<)>"
 	")" rpar
 "<.>"
 	"." sent
- 
 "<Definições>"
 	"definição" n f pl
 "<de>"
@@ -385,7 +381,6 @@
 	"social" adj mf pl
 "<.>"
 	"." sent
- 
 "<Em>"
 	"em" pr
 "<um>"
@@ -430,13 +425,12 @@
 	"cultura" n f sg
 "<.>"
 	"." sent
- 
 "<Por>"
 	"por" pr
 "<ter>"
+	"ter" vbhaver infps p3 sg
 ;	"ter" vbhaver inf
 ;	"ter" vbhaver infps p1 sg
-	"ter" vbhaver infps p3 sg
 "<sido>"
 	"ser" vbser pp m sg
 "<fortemente>"
@@ -444,8 +438,8 @@
 "<associada>"
 	"associar" vblex pp f sg
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<conceito>"
 	"conceito" n m sg
 "<de>"
@@ -453,8 +447,8 @@
 "<civilização>"
 	"civilização" n f sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<século>"
 	"século" n m sg
 "<XVIII>"
@@ -511,7 +505,6 @@
 	"elite" n f sg
 "<.>"
 	"." sent
- 
 "<Essa>"
 	"esse" det dem f sg
 "<confusão>"
@@ -535,20 +528,20 @@
 "<,>"
 	"," cm
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<França>"
 	"França" np loc
 "<e>"
 	"e" cnjcoo
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<Inglaterra>"
 	"Inglaterra" np loc f sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<séculos>"
 	"século" n m pl
 "<XVIII>"
@@ -579,7 +572,6 @@
 	"elite" n f sg
 "<.>"
 	"." sent
- 
 "<Ela>"
 	"ele" prn tn p3 f sg
 "<possibilitou>"
@@ -589,8 +581,8 @@
 "<surgimento>"
 	"surgimento" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<dicotomia>"
 	"dicotomia" n f sg
 "<(>"
@@ -626,8 +618,8 @@
 "<representada>"
 	"representar" vblex pp f sg
 "<nos>"
-	"o" det def m pl
-		"em" pr
+	"em" pr
+		"o" det def m pl
 "<textos>"
 	"texto" n m pl
 "<de>"
@@ -645,20 +637,19 @@
 "<presente>"
 	"presente" adj mf sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<imaginário>"
 	"imaginário" adj m sg
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<sociedades>"
 	"sociedade" n f pl
 "<ocidentais>"
 	"ocidental" adj mf pl
 "<.>"
 	"." sent
- 
 "<O>"
 	"o" det def m sg
 "<uso>"
@@ -674,8 +665,8 @@
 "<característica>"
 	"característica" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<que>"
 	"que" cnjsub
 ;	"que" prn itg mf sg
@@ -697,13 +688,13 @@
 "<existem>"
 	"existir" vblex pri p3 pl
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<mente>"
 	"mente" n f sg
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<pessoas>"
 	"pessoa" n f pl
 "<,>"
@@ -728,16 +719,15 @@
 	"mito" n m pl
 "<.>"
 	"." sent
- 
 "<Entretanto>"
 	"entretanto" cnjadv
 "<,>"
 	"," cm
 "<fala-se>"
+	"falir" vblex imp p3 sg
+		"se" prn enc ref p3 mf sp
 ;	"se" prn enc ref p3 mf sp
 ;	   "falar" vblex pri p3 sg
-	"se" prn enc ref p3 mf sp
-		"falir" vblex imp p3 sg
 ;	"se" prn enc ref p3 mf sp
 ;	   "falir" vblex prs p3 sg
 "<também>"
@@ -765,8 +755,8 @@
 "<quando>"
 	"quando" rel adv
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<estudo>"
 	"estudo" n m sg
 "<de>"
@@ -801,7 +791,6 @@
 	")" rpar
 "<.>"
 	"." sent
- 
 "<Essa>"
 	"esse" det dem f sg
 "<forma>"
@@ -821,8 +810,8 @@
 "<preservada>"
 	"preservar" vblex pp f sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<tempo>"
 	"tempo" n m sg
 "<com>"
@@ -853,7 +842,6 @@
 	"frágil" adj mf sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<principal>"
@@ -861,8 +849,8 @@
 "<característica>"
 	"característica" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<é>"
@@ -904,8 +892,8 @@
 "<rápida>"
 	"rápido" adj f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<que>"
 	"que" cnjsub
 ;	"que" prn itg mf sg	
@@ -920,7 +908,6 @@
 	"biológico" adj f sg
 "<.>"
 	"." sent
- 
 "<O>"
 	"o" det def m sg
 "<homem>"
@@ -976,8 +963,8 @@
 "<simplesmente>"
 	"simplesmente" adv
 "<adaptou-se>"
-	"se" prn enc ref p3 mf sp
-		"adaptar" vblex ifi p3 sg
+	"adaptar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
 "<com>"
 	"com" pr
 "<o>"
@@ -991,8 +978,8 @@
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<fogo>"
 	"fogo" n m sg
 "<e>"
@@ -1003,7 +990,6 @@
 	"habitação" n f pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<evolução>"
@@ -1017,8 +1003,8 @@
 "<rápida>"
 	"rápido" adj f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<que>"
 	"que" cnjsub
 ;	"que" prn itg mf sg
@@ -1029,17 +1015,16 @@
 	"biológico" adj f sg
 "<.>"
 	"." sent
- 
 "<No entanto>"
 	"no entanto" cnjadv
 "<,>"
 	"," cm
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<rejeitar>"
 	"rejeitar" vblex inf
-	"rejeitar" vblex fts p3 sg		i think that is now a noun
+	"rejeitar" vblex fts p3 sg i think that is now a noun
 "<a>"
 	"o" det def f sg
 "<evolução>"
@@ -1053,13 +1038,14 @@
 "<homem>"
 	"homem" n m sg
 "<torna-se>"
-	"se" prn enc ref p3 mf sp
-		"tornar" vblex pri p3 sg
+	"tornar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
 "<dependente>"
 	"dependente" adj mf sg
+
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<,>"
@@ -1099,8 +1085,8 @@
 "<um>"
 	"um" prn tn m sg
 "<destes>"
-	"este" det dem m pl
-		"de" pr
+	"de" pr
+		"este" det dem m pl
 "<elementos>"
 	"elemento" n m pl
 "<(>"
@@ -1122,8 +1108,8 @@
 "<aspecto>"
 	"aspecto" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<)>"
@@ -1158,12 +1144,11 @@
 	"pior" adj mf sg
 "<.>"
 	"." sent
- 
 "<Além>"
 	"além" adv
 "<disso>"
-	"isso" prn tn nt
-		"de" pr
+	"de" pr
+		"isso" prn tn nt
 "<,>"
 	"," cm
 "<a>"
@@ -1186,7 +1171,6 @@
 	"cumulativo" adj m sg
 "<.>"
 	"." sent
- 
 "<As>"
 	"o" det def f pl
 "<modificações>"
@@ -1202,8 +1186,8 @@
 "<passam>"
 	"passar" vblex pri p3 pl
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<geração>"
 	"geração" n f sg
 "<seguinte>"
@@ -1217,8 +1201,8 @@
 "<cultura>"
 	"cultura" n f sg
 "<transforma-se>"
-	"se" prn enc ref p3 mf sp
-		"transformar" vblex pri p3 sg
+	"transformar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
 "<perdendo>"
 	"perder" vblex ger
 "<e>"
@@ -1232,8 +1216,8 @@
 "<adequados>"
 	"adequado" adj m pl
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<sobrevivência>"
 	"sobrevivência" n f sg
 "<,>"
@@ -1245,15 +1229,14 @@
 "<esforço>"
 	"esforço" n m sg
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<novas>"
 	"novo" adj f pl
 "<gerações>"
 	"geração" n f pl
 "<.>"
 	"." sent
- 
 "<Um>"
 	"um" det ind m sg
 "<exemplo>"
@@ -1267,8 +1250,8 @@
 "<através>"
 	"através" adv
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<é>"
@@ -1278,13 +1261,13 @@
 "<desenvolvimento>"
 	"desenvolvimento" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<cultivo>"
 	"cultivo" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<solo>"
 	"solo" n m sg
 "<,>"
@@ -1295,7 +1278,6 @@
 	"agricultura" n f sg
 "<.>"
 	"." sent
- 
 "<Com>"
 	"com" pr
 "<ela>"
@@ -1344,7 +1326,6 @@
 	"coleta" n f sg
 "<.>"
 	"." sent
- 
 "<Também>"
 	"também" adv
 "<pôde>"
@@ -1377,7 +1358,6 @@
 	"estado" n m pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<agricultura>"
@@ -1401,9 +1381,9 @@
 "<,>"
 	"," cm
 "<que>"
+	"que" rel an mf sp
 ;	"que" cnjsub
 ;	"que" prn itg mf sg
-	"que" rel an mf sp
 "<gerou>"
 	"gerar" vblex ifi p3 sg
 "<novo>"
@@ -1426,7 +1406,6 @@
 	"maior" adj mf sg
 "<.>"
 	"." sent
- 
 "<Desenvolvimentos>"
 	"desenvolvimento" n m pl
 "<técnicos>"
@@ -1434,8 +1413,8 @@
 "<facilitados>"
 	"facilitar" vblex pp m pl
 "<pelo>"
-	"o" det def m sg
-		"por" pr
+	"por" pr
+		"o" det def m sg
 "<maior>"
 	"maior" adj mf sg
 "<número>"
@@ -1475,8 +1454,8 @@
 "<aumento>"
 	"aumento" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<população>"
 	"população" n f sg
 "<;>"
@@ -1498,15 +1477,14 @@
 "<consequência>"
 	"consequência" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<avanço>"
 	"avanço" n m sg
 "<cultural>"
 	"cultural" adj mf sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<cultura>"
@@ -1517,7 +1495,6 @@
 	"dinâmico" adj f sg
 "<.>"
 	"." sent
- 
 "<Como>"
 	"como" rel adv
 "<mecanismo>"
@@ -1540,7 +1517,6 @@
 	"mudança" n f pl
 "<.>"
 	"." sent
- 
 "<Traços>"
 	"traço" n m pl
 "<se>"
@@ -1564,15 +1540,14 @@
 "<distintas>"
 	"distinto" adj f pl
 "<nas>"
-	"o" det def f pl
-		"em" pr
+	"em" pr
+		"o" det def f pl
 "<diferentes>"
 	"diferente" adj mf pl
 "<sociedades>"
 	"sociedade" n f pl
 "<.>"
 	"." sent
- 
 "<Dois>"
 	"dois" num m sp
 "<mecanismos>"
@@ -1627,7 +1602,6 @@
 	"cultura" n f pl
 "<.>"
 	"." sent
- 
 "<Há>"
 	"há" vblex pri p3 sg
 "<também>"
@@ -1655,8 +1629,8 @@
 "<originado>"
 	"originar" vblex pp m sg
 "<pela>"
-	"o" det def f sg
-		"por" pr
+	"por" pr
+		"o" det def f sg
 "<revelação>"
 	"revelação" n f sg
 "<de>"
@@ -1666,8 +1640,8 @@
 "<desconhecido>"
 	"desconhecer" vblex pp m sg
 "<pela>"
-	"o" det def f sg
-		"por" pr
+	"por" pr
+		"o" det def f sg
 "<própria>"
 	"próprio" adj f sg
 "<sociedade>"
@@ -1684,7 +1658,6 @@
 	"adotar" vblex inf
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<mudança>"
@@ -1699,7 +1672,6 @@
 	"resistência" n f sg
 "<.>"
 	"." sent
- 
 "<Visto que>"
 	"visto que" cnjadv
 "<os>"
@@ -1707,8 +1679,8 @@
 "<aspectos>"
 	"aspecto" n m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<vida>"
 	"vida" n f sg
 "<cultural>"
@@ -1736,8 +1708,8 @@
 "<um>"
 	"um" prn tn m sg
 "<deles>"
-	"ele" prn tn p3 m pl
-		"de" pr
+	"de" pr
+		"ele" prn tn p3 m pl
 "<pode>"
 	"poder" vbmod pri p3 sg
 "<ocasionar>"
@@ -1754,12 +1726,11 @@
 	"outro" prn tn m pl
 "<.>"
 	"." sent
- 
 "<Modificações>"
 	"modificação" n f pl
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<maneira>"
 	"maneira" n f sg
 "<de>"
@@ -1779,8 +1750,8 @@
 "<interferir>"
 	"interferir" vblex inf
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<escolha>"
 	"escolha" n f sg
 "<de>"
@@ -1796,8 +1767,8 @@
 "<ou>"
 	"ou" cnjcoo
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<aplicação>"
 	"aplicação" n f sg
 "<de>"
@@ -1806,14 +1777,13 @@
 	"lei" n f pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<resistência>"
 	"resistência" n f sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<mudança>"
 	"mudança" n f sg
 "<representa>"
@@ -1825,8 +1795,8 @@
 "<,>"
 	"," cm
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<sentido>"
 	"sentido" n m sg
 "<de>"
@@ -1869,8 +1839,8 @@
 "<esforço>"
 	"esforço" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<sociedade>"
 	"sociedade" n f sg
 "<em>"
@@ -1893,7 +1863,6 @@
 	"conceito" n m sg
 "<.>"
 	"." sent
- 
 "<O>"
 	"o" det def m sg
 "<ambiente>"
@@ -1957,8 +1926,8 @@
 "<transformações>"
 	"transformação" n f pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<consciência>"
 	"consciência" n f sg
 "<social>"
