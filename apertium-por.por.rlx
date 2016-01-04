@@ -153,23 +153,28 @@ SELECT Det IF (-1 Rel) (0 O) (1 N OR A) ;
 
 SELECT Det IF (-1 BOS) (0 O) (1 N OR A) ;
 
-SELECT Prn IF (0 Um) (1 De) ;
-
 SELECT Det IF (0 O) (1 Poder) ;
 
 SELECT N IF (-1 O) (0 Poder) ;
 
 SELECT Det IF (0 Algum OR Esse) (1C N) ;
 
+REMOVE Fin IF (-1 De) (0 Fin OR N) ;
+
 SECTION
 
 SELECT Ifi IF (0C Ifi OR Pmp) ;
-
-REMOVE Interr IF (NOT 1* Quest) ;
 
 SELECT Sg3 IF (0C Sg3 OR Sg1) (NOT -1* Sg1) ;
 
 REMOVE Imper IF (NOT 1* Excl) (NOT -1 Cm) ;
   ## Por favor, adicione isso.
 
+
+
+#REMOVE Interr IF (NOT 1* Quest) ;
+
 #REMOVE Pro IF (NOT 1 V OR Prn) (NOT -1 Inf) (NOT -1 Guess/Inf) ;
+
+#SELECT Prn IF (0 Um) (1 De) ;
+

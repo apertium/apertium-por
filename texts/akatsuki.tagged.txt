@@ -22,7 +22,6 @@
 	"espacial" adj mf sg
 "<.>"
 	"." sent
-
 "<As>"
 	"o" det def f pl
 "<informações>"
@@ -30,8 +29,8 @@
 "<apresentadas>"
 	"apresentar" vblex pp f pl
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<artigo>"
 	"artigo" n m sg
 "<podem>"
@@ -53,13 +52,12 @@
 "<realização>"
 	"realização" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<missão>"
 	"missão" n f sg
 "<.>"
 	"." sent
-
 "<Akatsuki>"
 	"Akatsuki" np al sg
 "<,>"
@@ -118,7 +116,6 @@
 	"Vênus" np loc
 "<.>"
 	"." sent
- 
 "<Foi>"
 	"ser" vbser ifi p3 sg
 "<lançada>"
@@ -169,7 +166,6 @@
 	"mais" adv
 "<.>"
 	"." sent
-
 "<Com>"
 	"com" pr
 "<o>"
@@ -177,8 +173,8 @@
 "<fim>"
 	"fim" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<programa>"
 	"programa" n m sg
 "<F>"
@@ -198,8 +194,8 @@
 "<lançado>"
 	"lançar" vblex pp m sg
 "<pela>"
-	"o" det def f sg
-		"por" pr
+	"por" pr
+		"o" det def f sg
 "<H>"
 	"H" n m sg
 "<IIA>"
@@ -214,7 +210,6 @@
 	")" rpar
 "<.>"
 	"." sent
-
 "<As>"
 	"o" det def f pl
 "<investigações>"
@@ -228,8 +223,8 @@
 "<mapeamento>"
 	"mapeamento" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<de>"
@@ -271,13 +266,12 @@
 "<vulcanismo>"
 	"vulcanismo" n m sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<.>"
 	"." sent
-
 "<Akatsuki>"
 	"Akatsuki" np al sg
 "<foi>"
@@ -285,8 +279,8 @@
 "<lançada>"
 	"lançar" vblex pp f sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<dia>"
 	"dia" n m sg
 "<20>"
@@ -301,7 +295,6 @@
 	"2010" num
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<manobra>"
@@ -311,8 +304,8 @@
 "<inserção>"
 	"inserção" n f sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<orbita>"
 	"órbita" n f sg
 "<de>"
@@ -337,7 +330,6 @@
 	"falhar" vblex ifi p3 sg
 "<.>"
 	"." sent
-
 "<Em>"
 	"em" pr
 "<2015>"
@@ -369,8 +361,8 @@
 "<anos>"
 	"ano" n m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<tentativa>"
 	"tentativa" n f sg
 "<de>"
@@ -380,8 +372,8 @@
 "<órbita>"
 	"órbita" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<ter>"
@@ -390,7 +382,6 @@
 	"falhar" vblex pp m sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<sonda>"
@@ -447,7 +438,6 @@
 	"RCS" np al
 "<.>"
 	"." sent
-
 "<Sonda>"
 	"sonda" n f sg
 "<japonesa>"
