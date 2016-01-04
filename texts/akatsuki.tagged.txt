@@ -71,7 +71,7 @@
 "<PLANET>"
 	"PLANET" np al
 "<C>"
-	"C" n m sg
+	"c" n m sg
 "<e>"
 	"e" cnjcoo
 "<também>"
@@ -178,7 +178,7 @@
 "<programa>"
 	"programa" n m sg
 "<F>"
-	"F" n m sg
+	"f" n m sg
 "<5>"
 	"5" num
 "<em>"
@@ -197,7 +197,7 @@
 	"por" pr
 		"o" det def f sg
 "<H>"
-	"H" n m sg
+	"h" n m sg
 "<IIA>"
 	"IIA" np al
 "<(>"

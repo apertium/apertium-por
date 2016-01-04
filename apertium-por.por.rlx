@@ -1,11 +1,15 @@
 DELIMITERS = "<.>" ;
 
+SUBREADINGS = LTR ;
+
 LIST BOS = (>>>) sent ;
 LIST EOS = (<<<) sent ;
 
 LIST V = vblex ;
 LIST Vbmod = vbmod ;
 LIST A = adj ;
+LIST CS = cnjsub ;
+LIST Interj = ij ;
 LIST Pr = pr ;
 LIST Adv = adv ; 
 LIST Det = det ;
@@ -16,9 +20,12 @@ LIST Detnt = detnt ;
 LIST Inf = inf ;
 LIST PrfPrc = pp ;
 
+LIST Tonic = tn ;
 LIST Pro = pro ;
 LIST Rel = rel ;
 LIST Enc = enc ;
+
+LIST Dem = dem ; 
 
 LIST Masc = m ;
 LIST Fem = f ;
@@ -46,6 +53,7 @@ LIST Haver = vbhaver ;
 LIST Poder = "poder" ;
 LIST Para = "para" ;
 LIST De = "de" ;
+LIST Em = "em" ; 
 LIST Entre = "entre" ;
 LIST Outro = "outro" ;
 LIST Se = "se" ; 
@@ -59,7 +67,10 @@ LIST O = "o" ;
 LIST Seu = "seu" ; 
 LIST Um = "um" ;
 LIST Algum = "algum" ;
+LIST Ponto = "ponto" ;
 LIST Esse = "esse" ;
+LIST Ter = "ter" ; 
+LIST Qualquer = "qualquer" ;
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
@@ -67,6 +78,7 @@ LIST É = "<é>"i ;
 LIST Uma = "<uma>"i ;
 LIST Sido = "<sido>"i ;
 LIST Sua = "<sua>"i ;
+LIST Vista = "<vista>"i ;
 
 LIST Guess/Inf = "\*[a-z]+[aei]r"i ;
 
@@ -74,8 +86,10 @@ LIST Quest = "?" ;
 LIST Excl = "!" ;
 LIST Cm = cm ;
 
-SET Fin = Pri | Prs | Pii | Pis | Fti | Fts ; 
-SET Gender = Fem + MascFem | Masc + MascFem;
+SET Fin = Pri | Prs | Pii | Pis | Fti | Fts | Ifi ; 
+SET NotMasc = Fem | MascFem ;
+SET NotFem = Masc | MascFem ;
+SET Gender = NotMasc | NotFem ;
 
 SECTION
 
@@ -99,6 +113,8 @@ SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
 
 REMOVE Detnt IF (NOT 1 Que) ;
 
+REMOVE SUB:1 Detnt IF (NOT 1 Que) ;
+
 REMOVE Pr IF (1C Fin) ;
 
 REMOVE Pr IF (-1C Pr) ;
@@ -113,7 +129,7 @@ REMOVE Det IF (1C Fin) ;
 
 SELECT PrfPrc IF (-1C Estar) ;
 
-SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N);
+SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N OR A);
 
 REMOVE Imper IF (-1C Se) ;
 
@@ -129,7 +145,7 @@ SELECT Vbmod IF (0 Poder) (1 Inf) ;
 
 SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
 
-SELECT Ser IF (0C Ser OR Ir) (1 A OR N) ;
+SELECT Ser IF (0C Ser OR Ir) (1* A OR N BARRIER (*) - Adv) ;
 
 SELECT Det IF (0 Det OR Prn) (1 A LINK 1 N) ;
 
@@ -159,18 +175,42 @@ SELECT N IF (-1 O) (0 Poder) ;
 
 SELECT Det IF (0 Algum OR Esse) (1C N) ;
 
-REMOVE Fin IF (-1 De) (0 Fin OR N) ;
+REMOVE Fin IF (-1 De) (NOT -1/* Prn) (0 Fin OR N) ;
+
+REMOVE Fin IF (-1 Fin) (0 Seu) ;
+
+SELECT N IF (-1 De) (0 Vista) ;
+
+REMOVE Pro IF (1C N) ;
+
+REMOVE Tonic IF (0 Dem) (1 N) ;
+
+REMOVE N IF (-1C N) (0 A OR PrfPrc) (0 N) ;
+
+REMOVE SUB:1 Prn IF (0 De OR Em) (1 N) ;
+
+SELECT Rel IF (-1 N) (0 Que) (1 Se LINK 1 Fin) ;
+
+SELECT CS IF (-1C Fin) (0 Que) ;
+
+SELECT Det + $$Gender IF (0 Qualquer) (1 N + $$Gender) ;
+
+REMOVE Haver IF (NOT 1* PrfPrc) ;
+
+SELECT Haver IF (0C Ter) (1C PrfPrc) ;
+
+SELECT Rel IF (-1 De) (-1/* Detnt) ;
 
 SECTION
+
+REMOVE Interr IF (0 Que) (1* Prs BARRIER Fin) ;
 
 SELECT Ifi IF (0C Ifi OR Pmp) ;
 
 SELECT Sg3 IF (0C Sg3 OR Sg1) (NOT -1* Sg1) ;
 
-REMOVE Imper IF (NOT 1* Excl) (NOT -1 Cm) ;
+REMOVE Imper IF (NOT -1* Interj) (NOT 1* Excl) (NOT -1 Cm) ;
   ## Por favor, adicione isso.
-
-
 
 #REMOVE Interr IF (NOT 1* Quest) ;
 
