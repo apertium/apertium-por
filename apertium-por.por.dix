@@ -28436,6 +28436,10 @@
     <e lm="Orbiter" a="nuboro"><i>Orbiter</i><par n="ABC__np"/></e>
     <e lm="Big" a="nuboro"><i>Big</i><par n="ABC__np"/></e>
     <e lm="Bang" a="nuboro"><i>Bang</i><par n="ABC__np"/></e>
+    <e lm="Climate" a="nuboro"><i>Climate</i><par n="ABC__np"/></e>
+    <e lm="Akatsuki" a="nuboro"><i>Akatsuki</i><par n="ABC__np"/></e>
+    <e lm="Venus" a="nuboro"><i>Venus</i><par n="ABC__np"/></e>
+
 
 
     <e lm="calota" a="nuboro"><i>calota</i><par n="accionista__n"/></e>
@@ -28469,6 +28473,7 @@
     <e lm="dióxido" a="nuboro"><i>dióxido</i><par n="livro__n"/></e>
     <e lm="fluido" a="nuboro"><i>fluido</i><par n="livro__n"/></e>
     <e lm="antropólogo" a="nuboro"><i>antropólogo</i><par n="livro__n"/></e>
+    <e lm="aglomerado" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
 
 
     <e lm="reencontrar" a="nuboro"><i>reencontr</i><par n="abal/ar__vblex"/></e> 
