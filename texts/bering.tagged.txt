@@ -32,7 +32,6 @@
 	"credibilidade" n f sg
 "<.>"
 	"." sent
-
 "<Por favor>"
 	"por favor" ij
 "<,>"
@@ -44,25 +43,24 @@
 "<e>"
 	"e" cnjcoo
 "<insira-as>"
-	"o" prn enc p3 f pl
-		"inserir" vblex imp p3 sg
+	"inserir" vblex imp p3 sg
+		"o" prn enc p3 f pl
 "<corretamente>"
 	"corretamente" adv
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<texto>"
 	"texto" n m sg
 "<ou>"
 	"ou" cnjcoo
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<rodapé>"
 	"rodapé" n m sg
 "<.>"
 	"." sent
-
 "<Conteúdo>"
 	"conteúdo" n m sg
 "<sem>"
@@ -77,7 +75,6 @@
 	"remover" vblex pp m sg
 "<.>"
 	"." sent
-
 "<O>"
 	"o" det def m sg
 "<estreito>"
@@ -111,8 +108,8 @@
 "<oriental>"
 	"oriental" adj mf sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<continente>"
 	"continente" n m sg
 "<asiático>"
@@ -138,8 +135,8 @@
 "<ocidental>"
 	"ocidental" adj mf sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<continente>"
 	"continente" n m sg
 "<americano>"
@@ -174,7 +171,6 @@
 	"m" n m sp
 "<.>"
 	"." sent
-
 "<O>"
 	"o" det def m sg
 "<estreito>"
@@ -194,8 +190,8 @@
 "<parte>"
 	"parte" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<oceano>"
 	"oceano" n m sg
 "<Ártico>"
@@ -205,8 +201,8 @@
 "<,>"
 	"," cm
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<norte>"
 	"norte" n m sg
 "<,>"
@@ -226,8 +222,8 @@
 "<parte>"
 	"parte" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<oceano>"
 	"oceano" n m sg
 "<Pacífico>"
@@ -237,13 +233,12 @@
 "<,>"
 	"," cm
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<sul>"
 	"sul" n m sg
 "<.>"
 	"." sent
-
 "<Tem>"
 	"ter" vblex pri p3 sg
 "<seu>"
@@ -251,8 +246,8 @@
 "<nome>"
 	"nome" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<explorador>"
 	"explorador" n m sg
 "<Vitus>"
@@ -266,8 +261,8 @@
 "<nascido>"
 	"nascer" vblex pp m sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<Dinamarca>"
 	"Dinamarca" np loc f sg
 "<e>"
@@ -304,7 +299,6 @@
 	"Alasca" np loc
 "<.>"
 	"." sent
-
 "<As>"
 	"o" det def f pl
 "<ilhas>"
@@ -312,13 +306,13 @@
 "<Diomedes>"
 	"Diomedes" np loc
 "<situam-se>"
-	"se" prn enc ref p3 mf sp
-		"situar" vblex pri p3 pl
+	"situar" vblex pri p3 pl
+		"se" prn enc ref p3 mf sp
 "<exatamente>"
 	"exatamente" adv
 "<no meio do>"
-	"o" det def m sg
-		"no meio de" pr
+	"no meio de" pr
+		"o" det def m sg
 "<estreito>"
 	"estreito" n m sg
 "<de>"
@@ -327,7 +321,6 @@
 	"Bering" np loc
 "<.>"
 	"." sent
-
 "<Durante>"
 	"durante" pr
 "<a>"
@@ -337,8 +330,8 @@
 "<era>"
 	"era" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<gelo>"
 	"gelo" n m sg
 "<,>"
@@ -350,13 +343,13 @@
 "<recessão>"
 	"recessão" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<oceanos>"
 	"oceano" n m pl
 "<,>"
@@ -366,16 +359,16 @@
 "<área>"
 	"área" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<estreito>"
 	"estreito" n m sg
 "<transformou-se>"
-	"se" prn enc ref p3 mf sp
-		"transformar" vblex ifi p3 sg
+	"transformar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
 "<numa>"
-	"um" det ind f sg
-		"em" pr
+	"em" pr
+		"um" det ind f sg
 "<ponte>"
 	"ponte" n f sg
 "<natural>"
@@ -419,8 +412,8 @@
 "<chegado>"
 	"chegar" vblex pp m sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<América>"
 	"América" np loc f sg
 "<os>"
@@ -442,15 +435,14 @@
 "<Arqueologia>"
 	"arqueologia" n f sg
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<Américas>"
 	"Américas" np loc
 "<)>"
 	")" rpar
 "<.>"
 	"." sent
-
 "<Tanto>"
 	"tanto" cnjadv
 "<o>"
@@ -512,16 +504,16 @@
 "<água>"
 	"água" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<mar>"
 	"mar" n m sg
 "<concentrava-se>"
-	"se" prn enc ref p3 mf sp
-		"concentrar" vblex pii p3 sg
+	"concentrar" vblex pii p3 sg
+		"se" prn enc ref p3 mf sp
 "<nas>"
-	"o" det def f pl
-		"em" pr
+	"em" pr
+		"o" det def f pl
 "<calotas>"
 	"calota" n f pl
 "<polares>"
@@ -529,8 +521,8 @@
 "<e>"
 	"e" cnjcoo
 "<nas>"
-	"o" det def f pl
-		"em" pr
+	"em" pr
+		"o" det def f pl
 "<geleiras>"
 	"geleira" n f pl
 "<,>"
@@ -544,8 +536,8 @@
 "<nível>"
 	"nível" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<mar>"
 	"mar" n m sg
 "<e>"
@@ -566,7 +558,6 @@
 	"profundidade" n f pl
 "<.>"
 	"." sent
-
 "<Outras>"
 	"outro" det ind f pl
 "<pontes>"
@@ -582,8 +573,8 @@
 "<desapareceram>"
 	"desaparecer" vblex ifi p3 pl
 "<nos>"
-	"o" det def m pl
-		"em" pr
+	"em" pr
+		"o" det def m pl
 "<períodos>"
 	"período" n m pl
 "<interglaciais>"
@@ -607,8 +598,8 @@
 "<unida>"
 	"unir" vblex pp f sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<Nova>"
 	"novo" adj f sg
 "<Guiné>"
@@ -616,8 +607,8 @@
 "<e>"
 	"e" cnjcoo
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<Tasmânia>"
 	"Tasmânia" np loc
 "<e>"
@@ -633,13 +624,12 @@
 "<ligadas>"
 	"ligar" vblex pp f pl
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<Europa>"
 	"Europa" np loc f sg
 "<.>"
 	"." sent
-
 "<Sugestões>"
 	"sugestão" n f pl
 "<foram>"
@@ -699,8 +689,8 @@
 "<Intercontinental>"
 	"intercontinental" adj mf sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Paz>"
 	"paz" n f sg
 "<e>"

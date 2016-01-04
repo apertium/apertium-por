@@ -90,6 +90,9 @@
 		<def-label name="NOMMF">
 			<tags-item tags="n.mf.*"/>
 		</def-label>
+		<def-label name="COGNOMEN">
+			<tags-item tags="np.cog"/>
+		</def-label>
 		<def-label name="ANTROPONIM">
 			<tags-item tags="np.ant"/>
 		</def-label>
@@ -99,6 +102,7 @@
 		</def-label>
 		<def-label name="NPALTRES">
 			<tags-item tags="np.al"/>
+			<tags-item tags="np.al.*"/>
 		</def-label>
 		<def-label name="NUM" closed="true">
                         <tags-item tags="num"/>
@@ -158,6 +162,12 @@
 			<tags-item tags="vblex.prs.*"/>
 			<tags-item tags="vblex.pis.*"/>
 			<tags-item tags="vblex.fts.*"/>
+		</def-label>
+		<def-label name="GUIO">
+			<tags-item tags="guio"/>
+		</def-label>
+		<def-label name="ABBR">
+			<tags-item tags="abbr"/>
 		</def-label>
 		<def-label name="VLEXIMP">
 			<tags-item tags="vblex.imp.*"/>
@@ -282,6 +292,13 @@
 		<def-label name="CUAVB" closed="true">
 			<tags-item tags="cuavb.*"/>
 		</def-label>
+		<def-mult name="ABBRSENT">
+			<sequence>
+				<label-item label="ABBR"/>
+				<label-item label="SENT"/>
+			</sequence>
+		</def-mult>
+
 		<def-mult name="PREPDETM" closed="true">
 			<sequence>
 				<label-item label="PREP"/>

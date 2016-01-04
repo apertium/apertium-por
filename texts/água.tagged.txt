@@ -36,14 +36,13 @@
 	"oxigênio" n m sg
 "<.>"
 	"." sent
- 
 "<É>"
 	"ser" vbser pri p3 sg
 "<abundante>"
 	"abundante" adj mf sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<Universo>"
 	"universo" n m sg
 "<,>"
@@ -51,8 +50,8 @@
 "<inclusive>"
 	"inclusive" adv
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<,>"
@@ -82,27 +81,26 @@
 "<constituinte>"
 	"constituinte" adj mf sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<fluidos>"
 	"fluido" n sg pl
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<seres>"
 	"ser" n m pl
 "<vivos>"
 	"vivo" adj m pl
 "<.>"
 	"." sent
- 
 "<As>"
 	"o" det def f pl
 "<temperaturas>"
 	"temperatura" n f pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<permitem>"
@@ -112,8 +110,8 @@
 "<ocorrência>"
 	"ocorrência" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<em>"
@@ -130,7 +128,6 @@
 	"principal" adj mf pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<água>"
@@ -196,21 +193,20 @@
 "<quartos>"
 	"quarto" adj m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<.>"
 	"." sent
- 
 "<Nas>"
-	"o" det def f pl
-		"em" pr
+	"em" pr
+		"o" det def f pl
 "<regiões>"
 	"região" n f pl
 "<polares>"
@@ -218,8 +214,8 @@
 "<,>"
 	"," cm
 "<concentram-se>"
-	"se" prn enc ref p3 mf sp
-		"concentrar" vblex pri p3 pl
+	"concentrar" vblex pri p3 pl
+		"se" prn enc ref p3 mf sp
 "<as>"
 	"o" det def f pl
 "<massas>"
@@ -237,15 +233,14 @@
 "<parte>"
 	"parte" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<atmosfera>"
 	"atmosfera" n f sg
 "<terrestre>"
 	"terrestre" adj mf sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<água>"
@@ -304,7 +299,6 @@
 	"substância" n f pl
 "<.>"
 	"." sent
- 
 "<De fato>"
 	"de fato" adv
 "<estas>"
@@ -322,20 +316,20 @@
 "<surgimento>"
 	"surgimento" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<vida>"
 	"vida" n f sg
 "<nos>"
-	"o" det def m pl
-		"em" pr
+	"em" pr
+		"o" det def m pl
 "<oceanos>"
 	"oceano" n m pl
 "<primitivos>"
 	"primitivo" adj m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<,>"
@@ -350,7 +344,6 @@
 	"evolução" n f sg
 "<.>"
 	"." sent
- 
 "<Atualmente>"
 	"atualmente" adv
 "<,>"
@@ -368,8 +361,8 @@
 "<precisam>"
 	"precisar" vblex pri p3 pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<para>"
@@ -380,7 +373,6 @@
 	"sobrevivência" n f sg
 "<.>"
 	"." sent
-
 "<Embora>"
 	"embora" cnjadv
 "<os>"
@@ -396,8 +388,8 @@
 "<parte>"
 	"parte" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<terrestre>"
@@ -432,7 +424,6 @@
 	"salinidade" n f sg
 "<.>"
 	"." sent
- 
 "<Somente>"
 	"somente" adv
 "<uma>"
@@ -450,8 +441,8 @@
 "<superfície>"
 	"superfície" n f sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<continentes>"
 	"continente" n m pl
 "<que>"
@@ -486,7 +477,6 @@
 	"direto" adj m sg
 "<.>"
 	"." sent
- 
 "<Contudo>"
 	"contudo" cnjcoo
 "<,>"
@@ -527,7 +517,6 @@
 	"hídrico" adj f sg
 "<.>"
 	"." sent
- 
 "<As>"
 	"o" det def f pl
 "<atividades>"
@@ -593,15 +582,14 @@
 "<bem como>"
 	"bem como" cnjadv
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<subterrânea>"
 	"subterrâneo" adj f sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<poluição>"
@@ -615,8 +603,8 @@
 "<qualidade>"
 	"qualidade" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<,>"
@@ -651,12 +639,11 @@
 	"alimento" n m pl
 "<.>"
 	"." sent
- 
 "<Além>"
 	"além" adv
 "<disso>"
-	"isso" prn tn nt
-		"de" pr
+	"de" pr
+		"isso" prn tn nt
 "<,>"
 	"," cm
 "<uma>"
@@ -666,8 +653,8 @@
 "<considerável>"
 	"considerável" adj mf sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<população>"
 	"população" n f sg
 "<mundial>"
@@ -681,8 +668,8 @@
 "<acesso>"
 	"acesso" n m sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<potável>"
@@ -705,7 +692,6 @@
 	"saúde" n f sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<água>"
@@ -715,8 +701,8 @@
 "<indispensável>"
 	"indispensável" adj mf sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<modo>"
 	"modo" n m sg
 "<de>"
@@ -724,8 +710,8 @@
 "<vida>"
 	"vida" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<humanidade>"
 	"humanidade" n f sg
 "<,>"
@@ -743,8 +729,8 @@
 "<ligada>"
 	"ligar" vblex pp f sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<de>"
@@ -756,32 +742,31 @@
 "<povos>"
 	"povo" n m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<.>"
 	"." sent
- 
 "<Diante>"
 	"diante" adv
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<problemas>"
 	"problema" n m pl
 "<advindos>"
 	"advindo" adj m pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<mau>"
 	"mau" adj m sg
 "<uso>"
 	"uso" n m sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<recursos>"
 	"recurso" n m pl
 "<hídricos>"
@@ -814,7 +799,6 @@
 	"racionalmente" adv
 "<.>"
 	"." sent
-
 "<Os>"
 	"o" det def m pl
 "<primeiros>"
@@ -836,8 +820,8 @@
 "<,>"
 	"," cm
 "<formaram-se>"
-	"se" prn enc ref p3 mf sp
-		"formar" vblex ifi p3 pl
+	"formar" vblex ifi p3 pl
+		"se" prn enc ref p3 mf sp
 "<logo>"
 	"logo" adv
 "<após>"
@@ -851,8 +835,8 @@
 "<,>"
 	"," cm
 "<espalhando-se>"
-	"se" prn enc ref p3 mf sp
-		"espalhar" vblex ger
+	"espalhar" vblex ger
+		"se" prn enc ref p3 mf sp
 "<por>"
 	"por" pr
 "<todo>"
@@ -865,7 +849,6 @@
 	"primordial" adj mf sg
 "<.>"
 	"." sent
- 
 "<Milhões>"
 	"milhão" num mf pl
 "<de>"
@@ -883,17 +866,16 @@
 "<nuvens>"
 	"nuvem" n f pl
 "<deste>"
-	"este" det dem m sg
-		"de" pr
+	"de" pr
+		"este" det dem m sg
 "<elemento>"
 	"elemento" n m sg
 "<colapsaram>"
-	"colapsar" vblex ifi p3 pl                         
+	"colapsar" vblex ifi p3 pl
 "<gravitacionalmente>"
 	"gravitacionalmente" adv
 "<.>"
 	"." sent
- 
 "<Conforme>"
 	"conforme" adv
 "<estes>"
@@ -975,15 +957,14 @@
 "<nascimento>"
 	"nascimento" n m sg
 "<às>"
-	"o" det def f pl
-		"a" pr
+	"a" pr
+		"o" det def f pl
 "<primeiras>"
 	"primeiro" adj f pl
 "<estrelas>"
 	"estrela" n f pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<fusão>"
@@ -1026,14 +1007,13 @@
 	"oxigênio" n m sg
 "<.>"
 	"." sent
- 
 "<Assim>"
 	"assim" adv
 "<,>"
 	"," cm
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<fim>"
 	"fim" n m sg
 "<de>"
@@ -1051,8 +1031,9 @@
 "<ejeta>"
 	"ejetar" vblex pri p3 sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
+
 "<espaço>"
 	"espaço" n m sg
 "<estes>"
@@ -1065,10 +1046,9 @@
 	"criar" vblex pp m pl
 "<.>"
 	"." sent
- 
 "<Desta>"
-	"este" det dem f sg
-		"de" pr
+	"de" pr
+		"este" det dem f sg
 "<forma>"
 	"forma" n f sg
 "<,>"
@@ -1094,8 +1074,8 @@
 "<,>"
 	"," cm
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<estágio>"
 	"estágio" n m sg
 "<atual>"
@@ -1105,8 +1085,8 @@
 "<evolução>"
 	"evolução" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<Universo>"
 	"universo" n m sg
 "<,>"
@@ -1116,8 +1096,8 @@
 "<constituintes>"
 	"constituinte" adj mf pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<estão>"
@@ -1134,14 +1114,13 @@
 	"abundante" adj mf pl
 "<.>"
 	"." sent
- 
 "<Contudo>"
 	"contudo" cnjcoo
 "<,>"
 	"," cm
 "<acredita-se>"
-	"se" prn enc ref p3 mf sp
-		"acreditar" vblex pri p3 sg
+	"acreditar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
 "<que>"
 	"que" cnjsub
 "<seu>"
@@ -1157,8 +1136,8 @@
 "<auxiliado>"
 	"auxiliar" vblex pp m sg
 "<pela>"
-	"o" det def f sg
-		"por" pr
+	"por" pr
+		"o" det def f sg
 "<presença>"
 	"presença" n f sg
 "<de>"
@@ -1197,7 +1176,6 @@
 	"oxigênio" n m sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<água>"
@@ -1220,7 +1198,6 @@
 	"solar" n m sg
 "<.>"
 	"." sent
- 
 "<Mesmo>"
 	"mesmo" adv
 "<Mercúrio>"
@@ -1234,8 +1211,8 @@
 "<mais>"
 	"mais" adv
 "<próximo do>"
-	"o" det def m sg
-		"próximo de" pr
+	"próximo de" pr
+		"o" det def m sg
 "<Sol>"
 	"sol" n m sg
 "<possui>"
@@ -1268,7 +1245,6 @@
 	"polo" n m pl
 "<.>"
 	"." sent
- 
 "<Vênus>"
 	"Vênus" np loc
 "<possui>"
@@ -1306,8 +1282,8 @@
 "<manutenção>"
 	"manutenção" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<intenso>"
 	"intenso" adj m sg
 "<efeito>"
@@ -1315,16 +1291,15 @@
 "<estufa>"
 	"estufa" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<.>"
 	"." sent
- 
 "<Na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<Lua>"
 	"lua" n f sg
 "<,>"
@@ -1365,7 +1340,6 @@
 	"polo" n m pl
 "<.>"
 	"." sent
- 
 "<Marte>"
 	"Marte" np loc
 "<possui>"
@@ -1405,13 +1379,12 @@
 "<momento>"
 	"momento" n m sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<passado>"
 	"passar" vblex pp m sg
 "<.>"
 	"." sent
- 
 "<Contudo>"
 	"contudo" cnjcoo
 "<,>"
@@ -1437,8 +1410,8 @@
 "<existe>"
 	"existir" vblex pri p3 sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<sob>"
@@ -1457,7 +1430,6 @@
 	"vapor" n m sg
 "<.>"
 	"." sent
- 
 "<As>"
 	"o" det def f pl
 "<calotas>"
@@ -1465,8 +1437,8 @@
 "<polares>"
 	"polar" adj mf pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<possuem>"
@@ -1486,7 +1458,7 @@
 "<camadas>"
 	"camada" n f pl
 "<sazonais>"
-	"sazonal" adj mf pl               
+	"sazonal" adj mf pl
 "<de>"
 	"de" pr
 "<dióxido>"
@@ -1504,13 +1476,12 @@
 "<formam>"
 	"formar" vblex pri p3 pl
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<inverno>"
 	"inverno" n m sg
 "<.>"
 	"." sent
-
 "<Júpiter>"
 	"Júpiter" np loc
 "<e>"
@@ -1540,8 +1511,8 @@
 "<camadas>"
 	"camada" n f pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<substância>"
 	"substância" n f sg
 "<em>"
@@ -1552,7 +1523,6 @@
 	"interior" n m sg
 "<.>"
 	"." sent
- 
 "<Urano>"
 	"Urano" np loc
 "<e>"
@@ -1626,15 +1596,14 @@
 "<temperatura>"
 	"temperatura" n f sg
 "<às quais>"
-	"o qual" rel an f pl
-		"a" pr
+	"a" pr
+		"o qual" rel an f pl
 "<estaria>"
 	"estar" vblex cni p3 sg
 "<submetida>"
 	"submeter" vblex pp f sg
 "<.>"
 	"." sent
- 
 "<Grandes>"
 	"grande" adj mf pl
 "<massas>"
@@ -1652,30 +1621,29 @@
 "<,>"
 	"," cm
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<maioria>"
 	"maioria" n f sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<satélites>"
 	"satélite" n m pl
 "<naturais>"
 	"natural" adj mf pl
 "<destes>"
-	"este" det dem m pl
-		"de" pr
+	"de" pr
+		"este" det dem m pl
 "<planetas>"
 	"planeta" n m pl
 "<.>"
 	"." sent
- 
 "<Uma>"
 	"um" det ind f sg
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<ocorrências>"
 	"ocorrência" n f pl
 "<mais>"
@@ -1732,7 +1700,6 @@
 	"satélite" n m sg
 "<.>"
 	"." sent
- 
 "<Outro>"
 	"outro" det ind m sg
 "<candidato>"
@@ -1786,8 +1753,8 @@
 "<água>"
 	"água" n f sg
 "<acima da>"
-	"o" det def f sg
-		"acima de" pr
+	"acima de" pr
+		"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<recoberta>"
@@ -1798,7 +1765,6 @@
 	"gelo" n m sg
 "<.>"
 	"." sent
-  
 "<Outros>"
 	"outro" det ind m pl
 "<satélites>"
@@ -1818,8 +1784,8 @@
 "<afastados>"
 	"afastar" vblex pp m pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<Sol>"
 	"sol" n m sg
 "<possuem>"
@@ -1831,20 +1797,19 @@
 "<gelo>"
 	"gelo" n m sg
 "<ao seu>"
-	"o seu" det pos m sg
-		"a" pr
+	"a" pr
+		"o seu" det pos m sg
 "<redor>"
 	"redor" n m sg
 "<.>"
 	"." sent
- 
 "<Em>"
 	"em" pr
 "<especial>"
 	"especial" adj mf sg
 "<destacam-se>"
-	"se" prn enc ref p3 mf sp
-		"destacar" vblex pri p3 pl
+	"destacar" vblex pri p3 pl
+		"se" prn enc ref p3 mf sp
 "<os>"
 	"o" det def m pl
 "<cometas>"
@@ -1854,7 +1819,7 @@
 "<grandes>"
 	"grande" adj mf pl
 "<aglomerados>"
-	"aglomerador" n m pl    
+	"aglomerador" n m pl
 "<de>"
 	"de" pr
 "<gelo>"
@@ -1868,8 +1833,8 @@
 "<viajam>"
 	"viajar" vblex pri p3 pl
 "<pelo>"
-	"o" det def m sg
-		"por" pr
+	"por" pr
+		"o" det def m sg
 "<Sistema>"
 	"sistema" n m sg
 "<Solar>"
@@ -1881,11 +1846,11 @@
 "<quando>"
 	"quando" rel adv
 "<aproximam-se>"
-	"se" prn enc ref p3 mf sp
-		"aproximar" vblex pri p3 pl
+	"aproximar" vblex pri p3 pl
+		"se" prn enc ref p3 mf sp
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<Sol>"
 	"sol" n m sg
 "<,>"
@@ -1907,10 +1872,9 @@
 "<cauda>"
 	"cauda" n f sg
 "<cometária>"
-	"cometário" adj f sg 
+	"cometário" adj f sg
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<posição>"
@@ -1918,20 +1882,20 @@
 "<favorável>"
 	"favorável" adj mf sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<zona>"
 	"zona" n f sg
 "<habitável>"
 	"habitável" adj mf sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<Sistema>"
 	"sistema" n m sg
 "<Solar>"
@@ -1960,14 +1924,13 @@
 	"físico" adj m pl
 "<.>"
 	"." sent
- 
 "<A>"
 	"o" det def f sg
 "<superfície>"
 	"superfície" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<é>"
@@ -2023,8 +1986,8 @@
 "<presente>"
 	"presente" adj mf sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<atmosfera>"
 	"atmosfera" n f sg
 "<e>"
@@ -2053,7 +2016,6 @@
 	"lago" n m pl
 "<.>"
 	"." sent
- 
 "<Entretanto>"
 	"entretanto" cnjadv
 "<,>"
@@ -2075,20 +2037,19 @@
 "<0,02%>"
 	"0,02%" num percent
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<massa>"
 	"massa" n f sg
 "<total>"
 	"total" adj mf sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<.>"
 	"." sent
- 
 "<Todos>"
 	"todo" predet m pl
 "<os>"
@@ -2107,9 +2068,9 @@
 	"hidrosfera" n f sg
 "<terrestre>"
 	"terrestre" adj mf sg
+
 "<.>"
 	"." sent
- 
 "<Uma>"
 	"um" det ind f sg
 "<quantidade>"
@@ -2125,18 +2086,17 @@
 "<misturada>"
 	"misturar" vblex pp f sg
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<magma>"
 	"magma" n m sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<manto>"
 	"manto" n m sg
 "<terrestre>"
 	"terrestre" adj mf sg
-
 "<Ainda>"
 	"ainda" adv
 "<não>"
@@ -2158,18 +2118,17 @@
 "<origem>"
 	"origem" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<água>"
 	"água" n f sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<planeta>"
 	"planeta" n m sg
 "<.>"
 	"." sent
- 
 "<Por>"
 	"por" pr
 "<um>"
@@ -2177,8 +2136,8 @@
 "<lado>"
 	"lado" n m sg
 "<acredita-se>"
-	"se" prn enc ref p3 mf sp
-		"acreditar" vblex pri p3 sg
+	"acreditar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
 "<que>"
 	"que" cnjsub
 "<a>"
@@ -2186,10 +2145,10 @@
 "<água>"
 	"água" n f sg
 "<provém>"
-	"provir" vblex prs p3 pl 
+	"provir" vblex prs p3 pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<próprio>"
 	"próprio" adj m sg
 "<processo>"
@@ -2209,13 +2168,12 @@
 "<formação>"
 	"formação" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<.>"
 	"." sent
- 
 "<Estes>"
 	"este" det dem m pl
 "<compostos>"
@@ -2248,7 +2206,6 @@
 	"primitivo" adj m pl
 "<.>"
 	"." sent
- 
 "<Contudo>"
 	"contudo" cnjcoo
 "<,>"
@@ -2278,7 +2235,7 @@
 "<e>"
 	"e" cnjcoo
 "<asteroides>"
-	"asteroide" n m pl  
+	"asteroide" n m pl
 "<que>"
 	"que" rel an mf sp
 "<atingiram>"
@@ -2306,20 +2263,19 @@
 "<turbulento>"
 	"turbulento" adj m sg
 "<nos>"
-	"o" det def m pl
-		"em" pr
+	"em" pr
+		"o" det def m pl
 "<primórdios>"
 	"primórdio" n m pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<Sistema>"
 	"sistema" n m sg
 "<Solar>"
 	"solar" n m sg
 "<.>"
 	"." sent
- 
 "<Esta>"
 	"este" det dem f sg
 "<teoria>"
@@ -2329,8 +2285,8 @@
 "<apoiada>"
 	"apoiar" vblex pp f sg
 "<pelo>"
-	"o" det def m sg
-		"por" pr
+	"por" pr
+		"o" det def m sg
 "<fato>"
 	"fato" n m sg
 "<de>"
@@ -2356,8 +2312,8 @@
 "<isótopo>"
 	"isótopo" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<hidrogênio>"
 	"hidrogênio" n m sg
 "<)>"
@@ -2365,25 +2321,25 @@
 "<presentes>"
 	"presente" adj mf pl
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<gelo>"
 	"gelo" n m sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<cometas>"
 	"cometa" n m pl
 "<e>"
 	"e" cnjcoo
 "<nos>"
-	"o" det def m pl
-		"em" pr
+	"em" pr
+		"o" det def m pl
 "<oceanos>"
 	"oceano" n m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<Terra>"
 	"terra" n f sg
 "<ser>"

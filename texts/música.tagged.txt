@@ -19,8 +19,8 @@
 "<constitui>"
 	"constituir" vblex pri p3 sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<combinação>"
 	"combinação" n f sg
 "<de>"
@@ -44,18 +44,17 @@
 "<organização>"
 	"organização" n f sg
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<longo>"
 	"longo" adj m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<tempo>"
 	"tempo" n m sg
 "<.>"
 	"." sent
-
 "<É>"
 	"ser" vbser pri p3 sg
 "<considerada>"
@@ -80,7 +79,6 @@
 	"humano" adj f sg
 "<.>"
 	"." sent
-
 "<Não>"
 	"não" adv
 "<se>"
@@ -109,7 +107,6 @@
 	"próprio" adj f pl
 "<.>"
 	"." sent
-
 "<No entanto>"
 	"no entanto" cnjadv
 "<nem>"
@@ -166,7 +163,6 @@
 	"função" n f sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<criação>"
@@ -215,7 +211,6 @@
 	"social" adj mf sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<música>"
@@ -239,8 +234,8 @@
 "<recriação>"
 	"recriação" n f sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<performance>"
 	"performance" n f sg
 "<)>"
@@ -259,7 +254,6 @@
 	"aleatório" adj f pl
 "<.>"
 	"." sent
-
 "<Pode>"
 	"poder" vbmod pri p3 sg
 "<ser>"
@@ -313,8 +307,8 @@
 "<abertas>"
 	"abrir" vblex pp f pl
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<interpretação>"
 	"interpretação" n f sg
 "<individual>"
@@ -327,12 +321,11 @@
 	"controverso" adj f pl
 "<.>"
 	"." sent
-
 "<Dentro>"
 	"dentro" adv
 "<das>"
-	"o" det def f pl
-		"de" pr
+	"de" pr
+		"o" det def f pl
 "<artes>"
 	"arte" n f pl
 "<,>"
@@ -377,7 +370,6 @@
 	"espetáculo" n m sg
 "<.>"
 	"." sent
-
 "<Para>"
 	"para" pr
 "<indivíduos>"
@@ -401,28 +393,27 @@
 "<ligada>"
 	"ligar" vblex pp f sg
 "<à sua>"
-	"o seu" det pos f sg
-		"a" pr
+	"a" pr
+		"o seu" det pos f sg
 "<vida>"
 	"vida" n f sg
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<música>"
 	"música" n f sg
 "<expandiu-se>"
-	"se" prn enc ref p3 mf sp
-		"expandir" vblex ifi p3 sg
+	"expandir" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<longo>"
 	"longo" adj m sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<anos>"
 	"ano" n m pl
 "<,>"
@@ -477,12 +468,11 @@
 	")" rpar
 "<.>"
 	"." sent
-
 "<Além>"
 	"além" adv
 "<disso>"
-	"isso" prn tn nt
-		"de" pr
+	"de" pr
+		"isso" prn tn nt
 "<,>"
 	"," cm
 "<tem>"
@@ -519,7 +509,6 @@
 	"funeral" n m pl
 "<.>"
 	"." sent
-
 "<Há>"
 	"há" vblex pri p3 sg
 "<evidências>"
@@ -550,7 +539,6 @@
 	"história" n f sg
 "<.>"
 	"." sent
-
 "<Provavelmente>"
 	"provavelmente" adv
 "<a>"
@@ -558,13 +546,13 @@
 "<observação>"
 	"observação" n f sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<sons>"
 	"som" n m pl
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<natureza>"
 	"natureza" n f sg
 "<tenha>"
@@ -572,8 +560,8 @@
 "<despertado>"
 	"despertar" vblex pp m sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<homem>"
 	"homem" n m sg
 "<,>"
@@ -581,8 +569,8 @@
 "<através>"
 	"através" adv
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<sentido>"
 	"sentido" n m sg
 "<auditivo>"
@@ -610,8 +598,8 @@
 "<baseasse>"
 	"basear" vblex pis p3 sg
 "<na>"
-	"o" det def f sg
-		"em" pr
+	"em" pr
+		"o" det def f sg
 "<organização>"
 	"organização" n f sg
 "<de>"
@@ -620,7 +608,6 @@
 	"som" n m pl
 "<.>"
 	"." sent
-
 "<Embora>"
 	"embora" cnjadv
 "<nenhum>"
@@ -650,13 +637,13 @@
 "<história>"
 	"história" n f sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<música>"
 	"música" n f sg
 "<confunde-se>"
-	"se" prn enc ref p3 mf sp
-		"confundir" vblex pri p3 sg
+	"confundir" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
 "<,>"
 	"," cm
 "<com>"
@@ -668,27 +655,26 @@
 "<história>"
 	"história" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<desenvolvimento>"
 	"desenvolvimento" n m sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<inteligência>"
 	"inteligência" n f sg
 "<e>"
 	"e" cnjcoo
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<cultura>"
 	"cultura" n f sg
 "<humana>"
 	"humano" adj f sg
 "<.>"
 	"." sent
-
 "<Definir>"
 	"definir" vblex inf
 "<a>"
@@ -744,18 +730,17 @@
 "<significados>"
 	"significar" vblex pp m pl
 "<dessa>"
-	"esse" det dem f sg
-		"de" pr
+	"de" pr
+		"esse" det dem f sg
 "<prática>"
 	"prática" n f sg
 "<.>"
 	"." sent
-
 "<Mais>"
 	"mais" adv
 "<do>"
-	"o" detnt
-		"de" pr
+	"de" pr
+		"o" detnt
 "<que>"
 	"que" rel an mf sp
 "<qualquer>"
@@ -789,13 +774,12 @@
 "<organiza>"
 	"organizar" vblex pri p3 sg
 "<no>"
-	"o" det def m sg
-		"em" pr
+	"em" pr
+		"o" det def m sg
 "<tempo>"
 	"tempo" n m sg
 "<.>"
 	"." sent
-
 "<Talvez>"
 	"talvez" adv
 "<por>"
@@ -823,11 +807,11 @@
 "<pois>"
 	"pois" cnjadv
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<buscá-la>"
-	"o" prn enc p3 f sg
-		"buscar" vblex inf
+	"buscar" vblex inf
+		"o" prn enc p3 f sg
 "<,>"
 	"," cm
 "<a>"
@@ -848,7 +832,6 @@
 	"evoluir" vblex ifi p3 sg
 "<.>"
 	"." sent
-
 "<E>"
 	"e" cnjcoo
 "<esse>"
@@ -856,8 +839,8 @@
 "<jogo>"
 	"jogo" n m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<tempo>"
 	"tempo" n m sg
 "<é>"
@@ -872,14 +855,13 @@
 	"emocional" adj mf sg
 "<.>"
 	"." sent
-
 "<Como>"
 	"como" rel adv
 "<arte>"
 	"arte" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<efêmero>"
 	"efêmero" adj m sg
 "<,>"
@@ -911,8 +893,8 @@
 "<difícil>"
 	"difícil" adj mf sg
 "<enquadrá-la>"
-	"o" prn enc p3 f sg
-		"enquadrar" vblex inf
+	"enquadrar" vblex inf
+		"o" prn enc p3 f sg
 "<em>"
 	"em" pr
 "<um>"
@@ -923,7 +905,6 @@
 	"simples" adj mf sp
 "<.>"
 	"." sent
-
 "<A>"
 	"o" det def f sg
 "<música>"
@@ -953,8 +934,8 @@
 "<utiliza>"
 	"utilizar" vblex pri p3 sg
 "<da>"
-	"o" det def f sg
-		"de" pr
+	"de" pr
+		"o" det def f sg
 "<voz>"
 	"voz" n f sg
 "<,>"
@@ -978,18 +959,17 @@
 "<algo>"
 	"algo" prn tn nt sg
 "<à>"
-	"o" det def f sg
-		"a" pr
+	"a" pr
+		"o" det def f sg
 "<alguém>"
 	"alguém" prn tn mf sg
 "<.>"
 	"." sent
-
 "<Um>"
 	"um" prn tn m sg
 "<dos>"
-	"o" det def m pl
-		"de" pr
+	"de" pr
+		"o" det def m pl
 "<poucos>"
 	"pouco" adj m pl
 "<consensos>"
@@ -1021,8 +1001,8 @@
 "<,>"
 	"," cm
 "<numa>"
-	"um" det ind f sg
-		"em" pr
+	"em" pr
+		"um" det ind f sg
 "<sequência>"
 	"sequência" n f sg
 "<simultânea>"
@@ -1046,21 +1026,21 @@
 "<desenvolvem>"
 	"desenvolver" vblex pri p3 pl
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<longo>"
 	"longo" adj m sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
+
 "<tempo>"
 	"tempo" n m sg
 "<.>"
 	"." sent
-
 "<Neste>"
-	"este" det dem m sg
-		"em" pr
+	"em" pr
+		"este" det dem m sg
 "<sentido>"
 	"sentido" n m sg
 "<,>"
@@ -1086,13 +1066,12 @@
 "<percebidos>"
 	"perceber" vblex pp m pl
 "<pela>"
-	"o" det def f sg
-		"por" pr
+	"por" pr
+		"o" det def f sg
 "<audição>"
 	"audição" n f sg
 "<.>"
 	"." sent
-
 "<Isso>"
 	"isso" prn tn nt
 "<inclui>"
@@ -1100,13 +1079,13 @@
 "<variações>"
 	"variação" n f pl
 "<nas>"
-	"o" det def f pl
-		"em" pr
+	"em" pr
+		"o" det def f pl
 "<características>"
 	"característica" n f pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<som>"
 	"som" n m sg
 "<(>"
@@ -1157,7 +1136,6 @@
 	")" rpar
 "<.>"
 	"." sent
-
 "<Ritmo>"
 	"ritmo" n m sg
 "<,>"
@@ -1221,8 +1199,8 @@
 "<externos>"
 	"externo" adj m pl
 "<ao>"
-	"o" det def m sg
-		"a" pr
+	"a" pr
+		"o" det def m sg
 "<tradicional>"
 	"tradicional" adj mf sg
 "<)>"
@@ -1251,14 +1229,13 @@
 	")" rpar
 "<.>"
 	"." sent
-
 "<E>"
 	"e" cnjcoo
 "<é>"
 	"ser" vbser pri p3 sg
 "<nesse>"
-	"esse" det dem m sg
-		"em" pr
+	"em" pr
+		"esse" det dem m sg
 "<ponto>"
 	"ponto" n m sg
 "<que>"
@@ -1275,7 +1252,6 @@
 	"existir" vblex inf
 "<.>"
 	"." sent
-
 "<As>"
 	"o" det def f pl
 "<perguntas>"
@@ -1285,8 +1261,8 @@
 "<decorrem>"
 	"decorrer" vblex pri p3 pl
 "<desta>"
-	"este" det dem f sg
-		"de" pr
+	"de" pr
+		"este" det dem f sg
 "<simples>"
 	"simples" adj mf sp
 "<constatação>"
@@ -1304,8 +1280,8 @@
 "<encaradas>"
 	"encarar" vblex pp f pl
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<ponto>"
 	"ponto" n m sg
 "<de>"
@@ -1313,8 +1289,8 @@
 "<vista>"
 	"vista" n f sg
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<criador>"
 	"criador" n m sg
 "<(>"
@@ -1326,8 +1302,8 @@
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<executante>"
 	"executante" n m sg
 "<(>"
@@ -1339,36 +1315,36 @@
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<historiador>"
 	"historiador" n m sg
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<filósofo>"
 	"filósofo" n m sg
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<antropólogo>"
 	"antropólogo" n m sg
 "<,>"
 	"," cm
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<linguista>"
 	"linguista" n f sg
 "<ou>"
 	"ou" cnjcoo
 "<do>"
-	"o" det def m sg
-		"de" pr
+	"de" pr
+		"o" det def m sg
 "<amador>"
 	"amador" n m sg
 "<.>"

@@ -12,6 +12,7 @@
     <sdef n="abbr"/>
     <sdef n="loc"/>
     <sdef n="ant"/>
+    <sdef n="cog"/>
     <sdef n="guio"/>
     <sdef n="al"/>
     <sdef n="atn"/>
@@ -4676,6 +4677,17 @@
         </p>
       </e>
     </pardef>
+
+    <pardef n="Tyers__np">
+      
+      <e>
+        <p>
+          <l/>
+          <r><s n="np"/><s n="cog"/></r>
+        </p>
+      </e>
+    </pardef>
+
 
     <pardef n="Abu__np">
       
@@ -115285,7 +115297,12 @@
         <i>a<b/>internet</i>
         <par n="a_internet__n"/>
       </e>
-      
+       
+      <e lm="química">
+        <i>química</i>
+        <par n="abadia__n"/>
+      </e>
+
       <e lm="abadia">
         <i>abadia</i>
         <par n="abadia__n"/>
@@ -128456,7 +128473,23 @@
         <i>AC</i>
         <par n="AC__np"/>
       </e>
-      
+       
+      <e lm="Tylor">
+        <i>Tylor</i>
+        <par n="Tyers__np"/>
+      </e>
+
+
+      <e lm="Tyers">
+        <i>Tyers</i>
+        <par n="Tyers__np"/>
+      </e>
+
+      <e lm="Edward">
+        <i>Edward</i>
+        <par n="Abu__np"/>
+      </e>
+
       <e lm="Abu">
         <i>Abu</i>
         <par n="Abu__np"/>
@@ -153170,6 +153203,7 @@
 <e a="prompsit" lm="auditado"><i>auditad</i><par n="abert/o__adj"/></e>
 <e a="prompsit" lm="pertinente"><i>pertinente</i><par n="agrícola__adj"/></e>
 <e a="prompsit" lm="expresso"><i>express</i><par n="abert/o__adj"/></e>
+<e a="prompsit" lm="espesso"><i>espess</i><par n="abert/o__adj"/></e>
 <e a="prompsit" lm="pertinente"><i>pertinente</i><par n="agrícola__adj"/></e>
 <e a="prompsit" lm="afirmativo"><i>afirmativ</i><par n="abert/o__adj"/></e>
 <e a="prompsit" lm="lucrativo"><i>lucrativ</i><par n="abert/o__adj"/></e>
