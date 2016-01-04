@@ -28393,6 +28393,168 @@
     <e lm="LANCE!Net" a="prompsit"><i>LANCE!Net</i><par n="ABC__np"/></e>
     <e lm="LANCE!Mobile" a="prompsit"><i>LANCE!Mobile</i><par n="ABC__np"/></e>
     <e lm="Lance" a="prompsit"><i>Lance</i><par n="ABC__np"/></e>
+
+    <e lm="White" a="nuboro"><i>White</i><par n="Tyers__np"/></e>
+    <e lm="Varrão" a="nuboro"><i>Varrão</i><par n="Tyers__np"/></e>
+    <e lm="Malinowski" a="nuboro"><i>Malinowski</i><par n="Tyers__np"/></e>
+    <e lm="Linton" a="nuboro"><i>Linton</i><par n="Tyers__np"/></e>
+    <e lm="Kroeber" a="nuboro"><i>Kroeber</i><par n="Tyers__np"/></e>
+    <e lm="Kluckhohn" a="nuboro"><i>Kluckhohn</i><par n="Tyers__np"/></e>
+    <e lm="Jonassen" a="nuboro"><i>Jonassen</i><par n="Tyers__np"/></e>
+    <e lm="Geertz" a="nuboro"><i>Geertz</i><par n="Tyers__np"/></e>
+    <e lm="Dezhnev" a="nuboro"><i>Dezhnev</i><par n="Tyers__np"/></e>
+    <e lm="Bering" a="nuboro"><i>Bering</i><par n="Tyers__np"/></e>
+    <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Tyers__np"/></e>
+
+
+    <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Abu__np"/></e>
+    <e lm="Vitus" a="Vitus"><i>White</i><par n="Abu__np"/></e>
+    <e lm="Ralph" a="nuboro"><i>Ralph</i><par n="Abu__np"/></e>
+    <e lm="Matthew" a="nuboro"><i>Matthew</i><par n="Abu__np"/></e>
+    <e lm="Leslie" a="nuboro"><i>Leslie</i><par n="Abu__np"/></e>
+    <e lm="Clyde" a="nuboro"><i>Clyde</i><par n="Abu__np"/></e>
+    <e lm="Clifford" a="nuboro"><i>Clifford</i><par n="Abu__np"/></e>
+    <e lm="Alfred" a="nuboro"><i>Alfred</i><par n="Abu__np"/></e>
+
+
+    <e lm="Bering" a="nuboro"><i>Bering</i><par n="AC__np"/></e>
+    <e lm="Vênus" a="nuboro"><i>Vênus</i><par n="AC__np"/></e>
+    <e lm="Saturno" a="nuboro"><i>Saturno</i><par n="AC__np"/></e>
+    <e lm="Júpiter" a="nuboro"><i>Júpiter</i><par n="AC__np"/></e>
+    <e lm="Chukchi" a="nuboro"><i>Chukchi</i><par n="AC__np"/></e>
+    <e lm="Urano" a="nuboro"><i>Urano</i><par n="AC__np"/></e>
+    <e lm="Tasmânia" a="nuboro"><i>Tasmânia</i><par n="AC__np"/></e>
+    <e lm="Netuno" a="nuboro"><i>Netuno</i><par n="AC__np"/></e>
+    <e lm="Mercúrio" a="nuboro"><i>Mercúrio</i><par n="AC__np"/></e>
+    <e lm="Encélado" a="nuboro"><i>Encélado</i><par n="AC__np"/></e>
+    <e lm="Diomedes" a="nuboro"><i>Diomedes</i><par n="AC__np"/></e>
+
+
+    <e lm="VCO" a="nuboro"><i>VCO</i><par n="ABC__np"/></e>
+    <e lm="PLANET" a="nuboro"><i>PLANET</i><par n="ABC__np"/></e>
+    <e lm="RCS" a="nuboro"><i>RCS</i><par n="ABC__np"/></e>
+    <e lm="Orbiter" a="nuboro"><i>Orbiter</i><par n="ABC__np"/></e>
+    <e lm="Big" a="nuboro"><i>Big</i><par n="ABC__np"/></e>
+    <e lm="Bang" a="nuboro"><i>Bang</i><par n="ABC__np"/></e>
+
+
+    <e lm="calota" a="nuboro"><i>calota</i><par n="accionista__n"/></e>
+    <e lm="poeira" a="nuboro"><i>poeira</i><par n="accionista__n"/></e>
+    <e lm="cratera" a="nuboro"><i>cratera</i><par n="accionista__n"/></e>
+    <e lm="trovoada" a="nuboro"><i>trovoada</i><par n="accionista__n"/></e>
+    <e lm="troposfera" a="nuboro"><i>troposfera</i><par n="accionista__n"/></e>
+    <e lm="musicoterapia" a="nuboro"><i>musicoterapia</i><par n="accionista__n"/></e>
+    <e lm="linguista" a="nuboro"><i>linguista</i><par n="accionista__n"/></e>
+    <e lm="hidrosfera" a="nuboro"><i>hidrosfera</i><par n="accionista__n"/></e>
+    <e lm="geleira" a="nuboro"><i>geleira</i><par n="accionista__n"/></e>
+    <e lm="dicotomia" a="nuboro"><i>dicotomia</i><par n="accionista__n"/></e>
+    <e lm="cauda" a="nuboro"><i>cauda</i><par n="accionista__n"/></e>
+    <e lm="arritmia" a="nuboro"><i>arritmia</i><par n="accionista__n"/></e>
+    <e lm="amônia" a="nuboro"><i>amônia</i><par n="accionista__n"/></e>
+
+
+    <e lm="átomo" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
+    <e lm="polo" a="nuboro"><i>polo</i><par n="livro__n"/></e>
+    <e lm="subgênero" a="nuboro"><i>subgênero</i><par n="livro__n"/></e>
+    <e lm="senso" a="nuboro"><i>senso</i><par n="livro__n"/></e>
+    <e lm="primórdio" a="nuboro"><i>primórdio</i><par n="livro__n"/></e>
+    <e lm="mapeamento" a="nuboro"><i>mapeamento</i><par n="livro__n"/></e>
+    <e lm="isótopo" a="nuboro"><i>isótopo</i><par n="livro__n"/></e>
+    <e lm="hidrossilicato" a="nuboro"><i>hidrossilicato</i><par n="livro__n"/></e>
+    <e lm="filósofo" a="nuboro"><i>filósofo</i><par n="livro__n"/></e>
+    <e lm="fascínio" a="nuboro"><i>fascínio</i><par n="livro__n"/></e>
+    <e lm="estágio" a="nuboro"><i>estágio</i><par n="livro__n"/></e>
+    <e lm="artifício" a="nuboro"><i>artifício</i><par n="livro__n"/></e>
+    <e lm="aldeamento" a="nuboro"><i>aldeamento</i><par n="livro__n"/></e>
+    <e lm="dióxido" a="nuboro"><i>dióxido</i><par n="livro__n"/></e>
+    <e lm="fluido" a="nuboro"><i>fluido</i><par n="livro__n"/></e>
+    <e lm="antropólogo" a="nuboro"><i>antropólogo</i><par n="livro__n"/></e>
+
+
+    <e lm="reencontrar" a="nuboro"><i>reencontr</i><par n="abal/ar__vblex"/></e> 
+    <e lm="ejetar" a="nuboro"><i>ejet</i><par n="abal/ar__vblex"/></e> 
+    <e lm="tripular" a="nuboro"><i>tripul</i><par n="abal/ar__vblex"/></e> 
+    <e lm="problematizar" a="nuboro"><i>problematiz</i><par n="abal/ar__vblex"/></e> 
+    <e lm="evidenciar" a="nuboro"><i>evidenci</i><par n="abal/ar__vblex"/></e> 
+    <e lm="colapsar" a="nuboro"><i>colaps</i><par n="abal/ar__vblex"/></e> 
+    <e lm="aclamar" a="nuboro"><i>aclam</i><par n="abal/ar__vblex"/></e> 
+
+
+    <e lm="performance" a="nuboro"><i>performance</i><par n="livro__n"/></e>
+    <e lm="timbre" a="nuboro"><i>timbre</i><par n="livro__n"/></e>
+    <e lm="salinidade" a="nuboro"><i>salinidade</i><par n="livro__n"/></e>
+    <e lm="rodapé" a="nuboro"><i>rodapé</i><par n="livro__n"/></e>
+    <e lm="meteoroide" a="nuboro"><i>meteoroide</i><par n="livro__n"/></e>
+    <e lm="executante" a="nuboro"><i>executante</i><par n="livro__n"/></e>
+    <e lm="asteroide" a="nuboro"><i>asteroide</i><par n="livro__n"/></e>
+
+
+    <e lm="exótico" a="nuboro"><i>exótic</i><par n="abert/o__adj"/></e>
+    <e lm="erudito" a="nuboro"><i>erudit</i><par n="abert/o__adj"/></e>
+    <e lm="cumulativo" a="nuboro"><i>cumulativ</i><par n="abert/o__adj"/></e>
+    <e lm="ruidoso" a="nuboro"><i>ruidos</i><par n="abert/o__adj"/></e>
+    <e lm="rítmico" a="nuboro"><i>rítmic</i><par n="abert/o__adj"/></e>
+    <e lm="etimológico" a="nuboro"><i>etimológic</i><par n="abert/o__adj"/></e>
+    <e lm="estrondoso" a="nuboro"><i>estrondos</i><par n="abert/o__adj"/></e>
+    <e lm="emerso" a="nuboro"><i>emers</i><par n="abert/o__adj"/></e>
+    <e lm="eletromagnético" a="nuboro"><i>eletromagnétic</i><par n="abert/o__adj"/></e>
+    <e lm="convectivo" a="nuboro"><i>convectiv</i><par n="abert/o__adj"/></e>
+    <e lm="controverso" a="nuboro"><i>controvers</i><par n="abert/o__adj"/></e>
+    <e lm="cometário" a="nuboro"><i>cometári</i><par n="abert/o__adj"/></e>
+    <e lm="azulado" a="nuboro"><i>azulad</i><par n="abert/o__adj"/></e>
+    <e lm="ártico" a="nuboro"><i>ártic</i><par n="abert/o__adj"/></e>
+    <e lm="auditivo" a="nuboro"><i>auditiv</i><par n="abert/o__adj"/></e>
+    <e lm="anômalo" a="nuboro"><i>anômal</i><par n="abert/o__adj"/></e>
+    <e lm="advindo" a="nuboro"><i>advind</i><par n="abert/o__adj"/></e>
+
+
+    <e lm="vulcanismo" a="nuboro"><i>vulcanismo</i><par n="atletismo__n"/></e>
+    <e lm="nomadismo" a="nuboro"><i>nomadismo</i><par n="atletismo__n"/></e>
+    <e lm="metano" a="nuboro"><i>metano</i><par n="atletismo__n"/></e>
+    <e lm="magma" a="nuboro"><i>magma</i><par n="atletismo__n"/></e>
+    <e lm="deutério" a="nuboro"><i>deutério</i><par n="atletismo__n"/></e>
+
+
+    <e lm="transiente" a="nuboro"><i>transiente</i><par n="agrícola__adj"/></e>
+    <e lm="pensante" a="nuboro"><i>pensante</i><par n="agrícola__adj"/></e>
+
+    <e lm="supressão" a="nuboro"><i>supress</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="recriação" a="nuboro"><i>recriaç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="hierarquização" a="nuboro"><i>hierarquizaç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="glaciação" a="nuboro"><i>glaciaç</i><par n="aceitaç/ão__n"/></e> > 
+    <e lm="edificação" a="nuboro"><i>edificaç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="dilatação" a="nuboro"><i>dilataç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="criovulcão" a="nuboro"><i>criovulc</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="constatação" a="nuboro"><i>constataç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="coloração" a="nuboro"><i>coloraç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="acreção" a="nuboro"><i>acreç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="acepção" a="nuboro"><i>acepç</i><par n="aceitaç/ão__n"/></e> 
+
+
+
+    <e lm="incolor" a="nuboro"><i>incolor</i><par n="conservador__adj"/></e>
+    <e lm="globular" a="nuboro"><i>globular</i><par n="conservador__adj"/></e>
+
+
+    <e  lm="sazonal" a="nuboro"><i>sazona</i><par n="aceitáve/l__adj"/></e> 
+    <e  lm="interglacial" a="nuboro"><i>interglacia</i><par n="aceitáve/l__adj"/></e> 
+    <e  lm="habitável" a="nuboro"><i>habitáve</i><par n="aceitáve/l__adj"/></e> 
+
+
+    <e lm="explorador" a="nuboro"><i>explorador</i><par n="admirador__n"/></e>
+
+
+    <e lm="gêiser" a="nuboro"><i>gêiser</i><par n="amor__n"/></e>
+    <e lm="redor" a="nuboro"><i>redor</i><par n="amor__n"/></e>
+    <e lm="aglomerador" a="nuboro"><i>aglomerador</i><par n="amor__n"/></e>
+
+
+    <e lm="pelagem" a="nuboro"><i>pelage</i><par n="aterrissage/m__n"/></e> 
+
+
+    <e lm="provir" a="nuboro"><i>pro</i><par n="ou/vir__vblex"/></e>
+
+    
 </section>  
   <section id="final" type="inconditional">            
     <e lm=""><par n="separa"/></e>            
