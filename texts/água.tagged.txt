@@ -84,7 +84,7 @@
 	"de" pr
 		"o" det def m pl
 "<fluidos>"
-	"fluido" n sg pl
+	"fluido" n m pl
 "<dos>"
 	"de" pr
 		"o" det def m pl
@@ -1741,7 +1741,7 @@
 "<possui>"
 	"possuir" vblex pri p3 sg
 "<gêiseres>"
-	"gêiser" n m sg
+	"gêiser" n m pl 
 "<e>"
 	"e" cnjcoo
 "<criovulcões>"

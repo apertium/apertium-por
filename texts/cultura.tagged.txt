@@ -1010,7 +1010,6 @@
 		"o" det def m sg
 "<rejeitar>"
 	"rejeitar" vblex inf
-	"rejeitar" vblex fts p3 sg i think that is now a noun
 "<a>"
 	"o" det def f sg
 "<evolução>"

@@ -444,7 +444,7 @@
 "<.>"
 	"." sent
 "<Tanto>"
-	"tanto" cnjadv
+	"tanto" adv
 "<o>"
 	"o" det def m sg
 "<estreito>"
@@ -454,7 +454,7 @@
 "<Bering>"
 	"Bering" np loc
 "<como>"
-	"como" cnjadv
+	"como" rel adv
 "<o>"
 	"o" det def m sg
 "<mar>"

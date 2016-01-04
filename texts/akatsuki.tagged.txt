@@ -59,7 +59,7 @@
 "<.>"
 	"." sent
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<,>"
 	"," cm
 "<antes>"
@@ -188,7 +188,7 @@
 "<,>"
 	"," cm
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<foi>"
 	"ser" vbser ifi p3 sg
 "<lançado>"
@@ -273,7 +273,7 @@
 "<.>"
 	"." sent
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<foi>"
 	"ser" vbser ifi p3 sg
 "<lançada>"
@@ -306,7 +306,7 @@
 "<na>"
 	"em" pr
 		"o" det def f sg
-"<orbita>"
+"<órbita>"
 	"órbita" n f sg
 "<de>"
 	"de" pr
@@ -341,7 +341,7 @@
 "<sonda>"
 	"sonda" n f sg
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<voltou>"
 	"voltar" vblex ifi p3 sg
 "<a>"
@@ -443,7 +443,7 @@
 "<japonesa>"
 	"japonês" adj f sg
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<volta>"
 	"voltar" vblex pri p3 sg
 "<a>"
