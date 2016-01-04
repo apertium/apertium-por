@@ -18,23 +18,17 @@
 /por.prob -text svneol=unset#unset
 texts/akatsuki.tagged.txt -text
 texts/akatsuki.txt -text
-texts/akatsuki.vislcg.txt -text
 texts/bering.tagged.txt -text
 texts/bering.txt -text
-texts/bering.vislcg.txt -text
 texts/beringia.txt -text
 texts/beringia.vislcg.txt -text
 texts/cultura.tagged.txt -text
 texts/cultura.txt -text
-texts/cultura.vislcg.txt -text
 texts/música.tagged.txt -text
 texts/música.txt -text
-texts/música.vislcg.txt -text
 texts/puupankki/puupankki.vislcg -text
 texts/raio.tagged.txt -text
 texts/raio.txt -text
-texts/raio.vislcg.txt -text
 texts/wikitravel.vislcg.txt -text
 texts/água.tagged.txt -text
 texts/água.txt -text
-texts/água.vislcg.txt -text
