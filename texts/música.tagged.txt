@@ -1339,7 +1339,7 @@
 	"de" pr
 		"o" det def m sg
 "<linguista>"
-	"linguista" n f sg
+	"linguista" n mf sg
 "<ou>"
 	"ou" cnjcoo
 "<do>"

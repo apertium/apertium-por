@@ -84,7 +84,7 @@
 	"de" pr
 		"o" det def m pl
 "<fluidos>"
-	"fluido" n sg pl
+	"fluido" n m pl
 "<dos>"
 	"de" pr
 		"o" det def m pl
@@ -1741,7 +1741,7 @@
 "<possui>"
 	"possuir" vblex pri p3 sg
 "<gêiseres>"
-	"gêiser" n m sg
+	"gêiser" n m pl 
 "<e>"
 	"e" cnjcoo
 "<criovulcões>"
@@ -2410,7 +2410,7 @@
 "<.>"
 	"." sent
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<,>"
 	"," cm
 "<antes>"
@@ -2539,7 +2539,7 @@
 "<,>"
 	"," cm
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<foi>"
 	"ser" vbser ifi p3 sg
 "<lançado>"
@@ -2624,7 +2624,7 @@
 "<.>"
 	"." sent
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<foi>"
 	"ser" vbser ifi p3 sg
 "<lançada>"
@@ -2657,7 +2657,7 @@
 "<na>"
 	"em" pr
 		"o" det def f sg
-"<orbita>"
+"<órbita>"
 	"órbita" n f sg
 "<de>"
 	"de" pr
@@ -2692,7 +2692,7 @@
 "<sonda>"
 	"sonda" n f sg
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<voltou>"
 	"voltar" vblex ifi p3 sg
 "<a>"
@@ -2794,7 +2794,7 @@
 "<japonesa>"
 	"japonês" adj f sg
 "<Akatsuki>"
-	"Akatsuki" np al sg
+	"Akatsuki" np al
 "<volta>"
 	"voltar" vblex pri p3 sg
 "<a>"
@@ -3266,7 +3266,7 @@
 "<.>"
 	"." sent
 "<Tanto>"
-	"tanto" cnjadv
+	"tanto" adv
 "<o>"
 	"o" det def m sg
 "<estreito>"
@@ -3276,7 +3276,7 @@
 "<Bering>"
 	"Bering" np loc
 "<como>"
-	"como" cnjadv
+	"como" rel adv
 "<o>"
 	"o" det def m sg
 "<mar>"
@@ -4554,7 +4554,6 @@
 		"o" det def m sg
 "<rejeitar>"
 	"rejeitar" vblex inf
-	"rejeitar" vblex fts p3 sg i think that is now a noun
 "<a>"
 	"o" det def f sg
 "<evolução>"
@@ -6803,7 +6802,7 @@
 	"de" pr
 		"o" det def m sg
 "<linguista>"
-	"linguista" n f sg
+	"linguista" n mf sg
 "<ou>"
 	"ou" cnjcoo
 "<do>"
