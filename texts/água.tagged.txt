@@ -1600,9 +1600,9 @@
 "<atmosferas>"
 	"atmosfera" n f pl
 "<quanto>"
-	"quanto" adv itg
+;	"quanto" adv itg
 ;	"quanto" prn itg m sg
-;	"quanto" rel nn m sg
+	"quanto" rel nn m sg
 "<em>"
 	"em" pr
 "<suas>"
