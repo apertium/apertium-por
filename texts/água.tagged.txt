@@ -1590,10 +1590,7 @@
 "<atmosferas>"
 	"atmosfera" n f pl
 "<quanto>"
-;	"quanto" adv itg
-;	"quanto" prn itg m sg
-;	"quanto" rel nn m sg
-the clodest is adv.itg
+	"quanto" rel adv
 "<em>"
 	"em" pr
 "<suas>"
