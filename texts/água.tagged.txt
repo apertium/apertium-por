@@ -569,13 +569,13 @@
 "<,>"
 	"," cm
 "<o>"
-;	"o" detnt
+	"o" detnt
 ;	"o" prn pro p3 nt
-	"o" prn pro p3 m sg
+;	"o" prn pro p3 m sg
 "<que>"
-;	"que" cnjsub
+	"que" cnjsub
 ;	"que" prn itg mf sg
-	"que" rel an mf sp
+;	"que" rel an mf sp
 "<tem>"
 	"ter" vbhaver pri p3 sg
 "<afetado>"
@@ -739,9 +739,9 @@
 "<forma>"
 	"forma" n f sg
 "<que>"
-;	"que" cnjsub
+	"que" cnjsub
 ;	"que" prn itg mf sg
-	"que" rel an mf sp
+;	"que" rel an mf sp
 "<está>"
 	"estar" vblex pri p3 sg
 "<fortemente>"
@@ -1628,8 +1628,8 @@
 "<dada>"
 	"dar" vblex pp f sg
 "<a>"
-;	"a" pr
-	"o" det def f sg
+	"a" pr
+;	"o" det def f sg
 "<imensa>"
 	"imenso" adj f sg
 "<pressão>"
@@ -1712,8 +1712,8 @@
 "<,>"
 	"," cm
 "<onde>"
-	"onde" adv itg
-;	"onde" rel adv
+;	"onde" adv itg
+	"onde" rel adv
 "<pode>"
 	"poder" vbmod pri p3 sg
 "<existir>"
@@ -1740,8 +1740,8 @@
 	"que" rel an mf sp
 "<recobre>"
 ;	"recobrar" vblex prs p1 sg
-	"recobrar" vblex prs p3 sg
-;	"recobrir" vblex pri p3 sg
+;	"recobrar" vblex prs p3 sg
+	"recobrir" vblex pri p3 sg
 "<o>"
 	"o" det def m sg
 "<satélite>"
@@ -1754,8 +1754,8 @@
 "<candidato>"
 	"candidato" n m sg
 "<a>"
-;	"a" pr
-	"o" prn pro p3 f sg
+	"a" pr
+;	"o" prn pro p3 f sg
 "<possuir>"
 	"possuir" vblex inf
 "<um>"
@@ -1896,8 +1896,8 @@
 "<,>"
 	"," cm
 "<quando>"
-	"quando" adv itg
-;	"quando" rel adv
+;	"quando" adv itg
+	"quando" rel adv
 "<aproximam-se>"
 	"se" prn enc ref p3 mf sp
 		"aproximar" vblex pri p3 pl
@@ -2407,8 +2407,8 @@
 "<Terra>"
 	"terra" n f sg
 "<ser>"
-;	"ser" vbser inf
-	"ser" vbser infps p3 sg
+	"ser" vbser inf
+;	"ser" vbser infps p3 sg
 "<similar>"
 	"similar" adj mf sg
 "<.>"
