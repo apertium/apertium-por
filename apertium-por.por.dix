@@ -28408,7 +28408,7 @@
 
 
     <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Abu__np"/></e>
-    <e lm="Vitus" a="Vitus"><i>White</i><par n="Abu__np"/></e>
+    <e lm="Vitus" a="nuboro"><i>Vitus</i><par n="Abu__np"/></e>
     <e lm="Ralph" a="nuboro"><i>Ralph</i><par n="Abu__np"/></e>
     <e lm="Matthew" a="nuboro"><i>Matthew</i><par n="Abu__np"/></e>
     <e lm="Leslie" a="nuboro"><i>Leslie</i><par n="Abu__np"/></e>
@@ -28442,19 +28442,19 @@
 
 
 
-    <e lm="calota" a="nuboro"><i>calota</i><par n="accionista__n"/></e>
-    <e lm="poeira" a="nuboro"><i>poeira</i><par n="accionista__n"/></e>
-    <e lm="cratera" a="nuboro"><i>cratera</i><par n="accionista__n"/></e>
-    <e lm="trovoada" a="nuboro"><i>trovoada</i><par n="accionista__n"/></e>
-    <e lm="troposfera" a="nuboro"><i>troposfera</i><par n="accionista__n"/></e>
-    <e lm="musicoterapia" a="nuboro"><i>musicoterapia</i><par n="accionista__n"/></e>
+    <e lm="calota" a="nuboro"><i>calota</i><par n="abadia__n"/></e>
+    <e lm="poeira" a="nuboro"><i>poeira</i><par n="abadia__n "/></e>
+    <e lm="cratera" a="nuboro"><i>cratera</i><par n="abadia__n "/></e>
+    <e lm="trovoada" a="nuboro"><i>trovoada</i><par n="abadia__n"/></e>
+    <e lm="troposfera" a="nuboro"><i>troposfera</i><par n="abadia__n "/></e>
+    <e lm="musicoterapia" a="nuboro"><i>musicoterapia</i><par n="abadia__n"/></e>
     <e lm="linguista" a="nuboro"><i>linguista</i><par n="accionista__n"/></e>
-    <e lm="hidrosfera" a="nuboro"><i>hidrosfera</i><par n="accionista__n"/></e>
-    <e lm="geleira" a="nuboro"><i>geleira</i><par n="accionista__n"/></e>
-    <e lm="dicotomia" a="nuboro"><i>dicotomia</i><par n="accionista__n"/></e>
-    <e lm="cauda" a="nuboro"><i>cauda</i><par n="accionista__n"/></e>
-    <e lm="arritmia" a="nuboro"><i>arritmia</i><par n="accionista__n"/></e>
-    <e lm="amônia" a="nuboro"><i>amônia</i><par n="accionista__n"/></e>
+    <e lm="hidrosfera" a="nuboro"><i>hidrosfera</i><par n="abadia__n "/></e>
+    <e lm="geleira" a="nuboro"><i>geleira</i><par n="abadia__n"/></e>
+    <e lm="dicotomia" a="nuboro"><i>dicotomia</i><par n="abadia__n"/></e>
+    <e lm="cauda" a="nuboro"><i>cauda</i><par n="abadia__n"/></e>
+    <e lm="arritmia" a="nuboro"><i>arritmia</i><par n="abadia__n"/></e>
+    <e lm="amônia" a="nuboro"><i>amônia</i><par n="abadia__n"/></e>
 
 
     <e lm="átomo" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
@@ -28542,8 +28542,8 @@
 
     <e  lm="sazonal" a="nuboro"><i>sazona</i><par n="aceitáve/l__adj"/></e> 
     <e  lm="interglacial" a="nuboro"><i>interglacia</i><par n="aceitáve/l__adj"/></e> 
-    <e  lm="habitável" a="nuboro"><i>habitáve</i><par n="aceitáve/l__adj"/></e> 
-
+    <e  lm="habitável" a="nuboro"><i>habitáve</i><par n="aceitáve/l__adj"/></e>
+    
 
     <e lm="explorador" a="nuboro"><i>explorador</i><par n="admirador__n"/></e>
 
@@ -28556,7 +28556,11 @@
     <e lm="pelagem" a="nuboro"><i>pelage</i><par n="aterrissage/m__n"/></e> 
 
 
-    <e lm="provir" a="nuboro"><i>pro</i><par n="ou/vir__vblex"/></e>
+    <e lm="provir" a="nuboro"><i>pro</i><par n="dev/ir__vblex"/></e>
+
+    <e lm="ritual" a="nuboro"><i>ritua</i><par n="anima/l__n"/></e>
+
+    
 
     
 </section>  
