@@ -28521,7 +28521,7 @@
     <e lm="supressão" a="nuboro"><i>supress</i><par n="aceitaç/ão__n"/></e> 
     <e lm="recriação" a="nuboro"><i>recriaç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="hierarquização" a="nuboro"><i>hierarquizaç</i><par n="aceitaç/ão__n"/></e> 
-    <e lm="glaciação" a="nuboro"><i>glaciaç</i><par n="aceitaç/ão__n"/></e> > 
+    <e lm="glaciação" a="nuboro"><i>glaciaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="edificação" a="nuboro"><i>edificaç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="dilatação" a="nuboro"><i>dilataç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="criovulcão" a="nuboro"><i>criovulc</i><par n="aceitaç/ão__n"/></e> 
@@ -28529,7 +28529,6 @@
     <e lm="coloração" a="nuboro"><i>coloraç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="acreção" a="nuboro"><i>acreç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="acepção" a="nuboro"><i>acepç</i><par n="aceitaç/ão__n"/></e> 
-
 
 
     <e lm="incolor" a="nuboro"><i>incolor</i><par n="conservador__adj"/></e>
