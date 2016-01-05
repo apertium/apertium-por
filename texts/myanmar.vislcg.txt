@@ -23,8 +23,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Milhares>"
 	"milhar" num mf pl
 "<de>"
@@ -73,8 +71,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Myanmar>"
 	"Myanmar" np loc
 "<foi>"
@@ -102,8 +98,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Serão>"
 	"ser" vbser fti p3 pl
 "<eleitos>"
@@ -126,8 +120,6 @@
 	"regional" adj mf sg
 "<.>"
 	"." sent
-
-
 
 "<De acordo>"
 	"de acordo" adv
@@ -188,8 +180,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Os>"
 	"o" det def m pl SELECT:182
 ;	"o" prn pro p3 m pl SELECT:182
@@ -219,11 +209,6 @@
 	"semana" n f pl
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<A>"
 	"o" det def f sg SELECT:202
@@ -311,8 +296,6 @@
 	"eleito" adj f sg
 "<.>"
 	"." sent
-
-
 
 "<A>"
 	"o" det def f sg SELECT:202
@@ -403,8 +386,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Aung>"
 	"*Aung"
 "<San>"
@@ -454,11 +435,6 @@
 	"vitória" n f sg
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<Logo>"
 	"logo" adv
@@ -532,11 +508,6 @@
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-
-
 "<A>"
 	"o" det def f sg SELECT:202
 ;	"a" pr SELECT:202
@@ -567,11 +538,13 @@
 "<registraram>"
 	"registrar" vblex ifi p3 pl SELECT:274
 ;	"registrar" vblex pmp p3 pl SELECT:274
- “
+"<“>"
+	"“" lquot
 "<falhas>"
 	"falha" n f pl
 ;	"falhar" vblex pri p2 sg REMOVE:282
-”
+"<”>"
+	"”" rquot
 "<,>"
 	"," cm
 "<mas>"
@@ -580,18 +553,17 @@
 	"em" pr
 "<clima>"
 	"clima" n m sg
- “
+"<“>"
+	"“" lquot
 "<aceitável>"
 	"aceitável" adj mf sg
-”
+"<”>"
+	"”" rquot
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-“
-
+"<“>"
+	"“" lquot
 "<No>"
 	"em" pr
 		"o" det def m sg
@@ -636,8 +608,6 @@
 ;	"falhar" vblex pri p2 sg REMOVE:210
 "<.>"
 	"." sent
-
-
 
 "<Temos de>"
 	"ter# de" vblex pri p1 pl
@@ -692,7 +662,8 @@
 	"ser" vbser pri p3 sg
 "<representativo>"
 	"representativo" adj m sg
-”
+"<”>"
+	"”" rquot
 "<,>"
 	"," cm
 "<disse>"
@@ -746,11 +717,6 @@
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-
-
 "<Lambsdorff>"
 	"*Lambsdorff"
 "<disse>"
@@ -758,7 +724,8 @@
 ;	"dizer" vblex ifi p1 sg SELECT:276
 "<ainda que>"
 	"ainda que" cnjadv
- “
+"<“>"
+	"“" lquot
 "<não>"
 	"não" adv
 "<há>"
@@ -774,14 +741,10 @@
 	"eleição" n f pl
 "<perfeitas>"
 	"perfeito" adj f pl
-”
+"<”>"
+	"”" rquot
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<Várias>"
 	"vário" det ind f pl
@@ -840,8 +803,6 @@
 "<.>"
 	"." sent
 
-
-
 "<Foram>"
 	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
 ;	"ir" vblex ifi p3 pl SELECT:156
@@ -871,8 +832,6 @@
 	"eleitor" n m pl
 "<.>"
 	"." sent
-
-
 
 "<O>"
 	"o" det def m sg SELECT:202
@@ -985,11 +944,6 @@
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-
-
 "<Várias>"
 	"vário" det ind f pl
 "<organizações>"
@@ -1049,11 +1003,6 @@
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-
-
 "<As>"
 	"o" det def f pl SELECT:202
 ;	"o" prn pro p3 f pl SELECT:202
@@ -1103,11 +1052,6 @@
 	"*palaung"
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<Seja>"
 	"ser" vbser prs p3 sg SELECT:276
@@ -1179,11 +1123,8 @@
 "<.>"
 	"." sent
 
-"<.>"
-	"." sent
-
-“
-
+"<“>"
+	"“" lquot
 "<Aceitaremos>"
 	"aceitar" vblex fti p1 pl
 "<o>"
@@ -1215,8 +1156,6 @@
 	"ser" vbser fts p3 sg
 "<.>"
 	"." sent
-
-
 
 "<O>"
 	"o" prn pro p3 m sg
@@ -1251,7 +1190,8 @@
 ;	"o" prn pro p3 nt REMOVE:216
 "<desenvolvimento>"
 	"desenvolvimento" n m sg
-” 
+"<”>"
+	"”" rquot
 "<disse>"
 	"dizer" vblex ifi p3 sg SELECT:276
 ;	"dizer" vblex ifi p1 sg SELECT:276
@@ -1306,11 +1246,6 @@
 	"*Naipyido"
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<Thein>"
 	"*Thein"
@@ -1391,19 +1326,16 @@
 "<uma>"
 	"um" det ind f sg SELECT:164
 ;	"um" prn tn f sg SELECT:164
- “
+"<“>"
+	"“" lquot
 "<democracia>"
 	"democracia" n f sg
 "<disciplinada>"
 	"*disciplinada"
-”
+"<”>"
+	"”" rquot
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
 "<O>"
 	"o" det def m sg SELECT:202
@@ -1438,8 +1370,6 @@
 	"2016" num
 "<.>"
 	"." sent
-
-
 
 "<Depois>"
 	"depois" adv
@@ -1490,9 +1420,4 @@
 	"ano" n m pl
 "<.>"
 	"." sent
-
-"<.>"
-	"." sent
-
-
 
