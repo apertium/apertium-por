@@ -1785,7 +1785,7 @@
 "<de>"
 	"de" pr
 "<que>"
-	"que" rel an mf sp
+	"que" cnjsub
 "<somente>"
 	"somente" adv
 "<modificações>"

@@ -560,7 +560,7 @@
 "<o>"
 	"o" detnt
 "<que>"
-	"que" cnjsub
+	"que" rel an mf sp
 "<tem>"
 	"ter" vbhaver pri p3 sg
 "<afetado>"
