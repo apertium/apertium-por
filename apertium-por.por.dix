@@ -17472,6 +17472,7 @@
     <e lm="HIV"><i>HIV</i><par n="FBI__n"/></e>            
     <e lm="IBM"><i>IBM</i><par n="AFP__n"/></e>            
     <e lm="Leste"><i>Leste</i><par n="livro__n"/></e>            
+    <e lm="mal-entendido"><i>mal-entendido</i><par n="livro__n"/></e>            
     <e lm="NASA"><i>NASA</i><par n="AFP__n"/></e>            
     <e lm="NBA"><i>NBA</i><par n="AFP__n"/></e>            
     <e lm="OCDE"><i>OCDE</i><par n="AFP__n"/></e>            
@@ -22709,6 +22710,7 @@
     <e lm="Alí"><i>Alí</i><par n="Abu__np"/></e>
     <e lm="almoçar"><i>almo</i><par n="abra/çar__vblex"/></e>
     <e lm="almoço"><i>almoço</i><par n="livro__n"/></e>
+    <e lm="pequeno-almoço"><i>pequeno-almoço</i><par n="atletismo__n"/></e>
     <e lm="alpino"><i>alpin</i><par n="abert/o__adj"/></e>
     <e lm="alquimia"><i>alquimia</i><par n="abadia__n"/></e>
     <e lm="altruísta"><i>altruísta</i><par n="agrícola__adj"/></e>

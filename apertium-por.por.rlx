@@ -94,6 +94,7 @@ LIST Ter = "ter" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
 
+LIST Querer = "querer" ;
 LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
 
@@ -192,7 +193,7 @@ SELECT Det IF (-1 Todo) (0 O) ;
 
 REMOVE Fin IF (-1 Adv LINK -1C Fin) ;
 
-REMOVE Fin IF (0 Como) (0 Sg1) (NOT -1* Sg1) ;
+REMOVE Fin IF (0 Como) (0 Sg1) (NOT -1* Sg1) (NOT -1 Não) ;
 
 SELECT Det IF (-1 Pr OR Fin) (0 Seu) (1 N OR A) ;
 
@@ -262,6 +263,10 @@ SELECT Pro IF (NOT -1* Fin) (NOT -1 BOS) (0 Se) ;
 
 SELECT Pr IF (0 Pr) (1 Como) (2 Se) (3 Fin) ;
 
+SELECT Adv IF (0C Adv OR Interj) (NOT -1 Cm) (NOT 1 Cm) (NOT 1* Excl) ;
+
+SELECT Vbmod IF (0 Querer) (1C Inf) ;
+
 SECTION
 
 REMOVE Interr IF (0 Que) (1* Prs BARRIER Fin) ;
@@ -269,6 +274,10 @@ REMOVE Interr IF (0 Que) (1* Prs BARRIER Fin) ;
 SELECT Ifi IF (0C Ifi OR Pmp) ;
 
 SELECT Sg3 IF (0C Sg3 OR Sg1) (NOT -1* Sg1) ;
+
+SELECT Imper IF (0 Sg2 LINK 1* Excl) ;
+
+SELECT Prs IF (-1* Não BARRIER (*) - Pro) (0 Sg2 LINK 1* Excl) ;
 
 REMOVE Sg2 IF (NOT -1* Sg2) (0 Sg2 OR A) ;
 
