@@ -11,6 +11,7 @@
 /apertium-por.por.rlx -text
 /apertium-por.por.tsx -text
 /apertium-por.post-por.dix -text
+/autogen.sh -text
 /configure.ac -text
 /filter.sh -text
 /filter.xsl -text
