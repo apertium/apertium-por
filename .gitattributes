@@ -1,6 +1,7 @@
 * text=auto !eol
 /AUTHORS -text
 /COPYING -text
+/ChangeLog -text
 /INSTALL -text
 /Makefile.am -text
 /NEWS -text
