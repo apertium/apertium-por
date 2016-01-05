@@ -3075,9 +3075,9 @@
 "<o>"
 	"o" det def m sg
 "<Mar>"
-	"Mar" np ant
+	"mar" n m sg
 "<Chukchi>"
-	"Chukchi" np al
+	"Chukchi" np loc
 "<a>"
 	"a" pr
 "<norte>"
