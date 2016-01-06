@@ -7689,6 +7689,1135 @@
 "<.>"
 	"." sent
 
+"<Myanmar>"
+	"Myanmar" np loc
+"<tem>"
+	"ter" vblex pri p3 sg
+"<primeira>"
+	"primeiro" adj f sg
+"<eleição>"
+	"eleição" n f sg
+"<livre>"
+	"livre" adj mf sg
+"<em>"
+	"em" pr
+"<25>"
+	"25" num
+"<anos>"
+	"ano" n m pl
+"<.>"
+	"." sent
+
+"<Milhares>"
+	"milhar" num mf pl
+"<de>"
+	"de" pr
+"<birmaneses>"
+	"birmanês" n m pl
+"<foram>"
+	"ir" vblex ifi p3 pl
+	"ser" vbser ifi p3 pl
+"<hoje>"
+	"hoje" adv
+"<(>"
+	"(" lpar
+"<8>"
+	"8" num
+"<)>"
+	")" rpar
+"<às>"
+	"a" pr
+		"o" det def f pl
+"<urnas>"
+	"urna" n f pl
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<primeira>"
+	"primeiro" adj f sg
+"<eleição>"
+	"eleição" n f sg
+"<livre>"
+	"livre" adj mf sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<últimos>"
+	"último" adj m pl
+"<25>"
+	"25" num
+"<anos>"
+	"ano" n m pl
+"<.>"
+	"." sent
+
+"<Myanmar>"
+	"Myanmar" np loc
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<governado>"
+	"governar" vblex pp m sg
+"<por>"
+	"por" pr
+"<militares>"
+	"militar" n mf pl
+"<de>"
+	"de" pr
+"<1962>"
+	"1962" num
+"<a>"
+	"a" pr
+"<2011>"
+	"2011" num
+"<.>"
+	"." sent
+
+"<Serão>"
+	"ser" vbser fti p3 pl
+"<eleitos>"
+	"eleger" vblex pp m pl
+"<membros>"
+	"membro" n m pl
+"<para>"
+	"para" pr
+"<os>"
+	"o" det def m pl
+"<parlamentos>"
+	"parlamento" n m pl
+"<nacional>"
+	"nacional" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<regional>"
+	"regional" adj mf sg
+"<.>"
+	"." sent
+
+"<De acordo>"
+	"de acordo" adv
+"<com>"
+	"com" pr
+"<observadores>"
+	"observador" n m pl
+"<internacionais>"
+	"internacional" adj mf pl
+"<,>"
+	"," cm
+"<as>"
+	"o" det def f pl
+"<eleições>"
+	"eleição" n f pl
+"<legislativas>"
+	"legislativo" adj f pl
+"<transcorreram>"
+	"transcorrer" vblex ifi p3 pl
+"<de>"
+	"de" pr
+"<forma>"
+	"forma" n f sg
+"<tranquila>"
+	"tranquilo" adj f sg
+"<,>"
+	"," cm
+"<pelo menos>"
+	"pelo menos" cnjadv
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<capital>"
+	"capital" n f sg
+"<,>"
+	"," cm
+"<porém>"
+	"porém" cnjadv
+"<foram>"
+	"ser" vbser ifi p3 pl
+"<registradas>"
+	"registrar" vblex pp f pl
+"<“>"
+	"“" lquot
+"<falhas>"
+	"falha" n f pl
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl
+"<primeiros>"
+	"primeiro" adj m pl
+"<resultados>"
+	"resultado" n m pl
+"<devem>"
+	"dever" vbmod pri p3 pl
+"<ser>"
+	"ser" vbser inf
+"<conhecidos>"
+	"conhecer" vblex pp m pl
+"<somente>"
+	"somente" adv
+"<nas>"
+	"em" pr
+		"o" det def f pl
+"<próximas>"
+	"próximo" adj f pl
+"<semanas>"
+	"semana" n f pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<líder>"
+	"líder" n mf sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Liga>"
+	"liga" n f sg
+"<Nacional>"
+	"nacional" adj mf sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<Democracia>"
+	"democracia" n f sg
+"<e>"
+	"e" cnjcoo
+"<prêmio>"
+	"prémio" n m sg
+"<Nobel>"
+	"Nobel" np al
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Paz>"
+	"paz" n f sg
+"<,>"
+	"," cm
+"<Aung>"
+	"Aung" np ant
+"<San>"
+	"San" np ant
+"<Suu>"
+	"Suu" np ant
+"<Kyi>"
+	"Kyi" np cog
+"<,>"
+	"," cm
+"<de>"
+	"de" pr
+"<70>"
+	"70" num
+"<anos>"
+	"ano" n m pl
+"<de>"
+	"de" pr
+"<idade>"
+	"idade" n f sg
+"<,>"
+	"," cm
+"<é>"
+	"ser" vbser pri p3 sg
+"<apontada>"
+	"apontar" vblex pp f sg
+"<como>"
+	"como" rel adv
+"<uma>"
+	"um" prn tn f sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<favoritas>"
+	"favorito" adj f pl
+"<a>"
+	"a" pr
+"<ser>"
+	"ser" vbser inf
+"<eleita>"
+	"eleito" adj f sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<líder>"
+	"líder" n mf sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<oposição>"
+	"oposição" n f sg
+"<viveu>"
+	"viver" vblex ifi p3 sg
+"<mais>"
+	"mais" adv
+"<de>"
+	"de" pr
+"<quinze>"
+	"quinze" num mf sp
+"<anos>"
+	"ano" n m pl
+"<em>"
+	"em" pr
+"<regime>"
+	"regime" n m sg
+"<de>"
+	"de" pr
+"<prisão>"
+	"prisão" n f sg
+"<domiciliar>"
+	"domiciliar" adj mf sg
+"<por>"
+	"por" pr
+"<exigir>"
+	"exigir" vblex inf
+"<,>"
+	"," cm
+"<de>"
+	"de" pr
+"<forma>"
+	"forma" n f sg
+"<pacífica>"
+	"pacífico" adj f sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<instauração>"
+	"instauração" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<democracia>"
+	"democracia" n f sg
+"<contra>"
+	"contra" pr
+"<o>"
+	"o" det def m sg
+"<regime>"
+	"regime" n m sg
+"<imposto>"
+	"impor" vblex pp m sg
+"<pelos>"
+	"por" pr
+		"o" det def m pl
+"<militares>"
+	"militar" n mf pl
+"<.>"
+	"." sent
+
+"<Aung>"
+	"Aung" np ant
+"<San>"
+	"San" np ant
+"<Suu>"
+	"Suu" np ant
+"<Kyi>"
+	"Kyi" np cog
+"<acredita>"
+	"acreditar" vblex pri p3 sg
+"<que>"
+	"que" cnjsub
+"<a>"
+	"o" det def f sg
+"<Liga>"
+	"liga" n f sg
+"<Nacional>"
+	"nacional" adj mf sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<Democracia>"
+	"democracia" n f sg
+"<vai>"
+	"ir" vblex pri p3 sg
+"<conseguir>"
+	"conseguir" vblex inf
+"<a>"
+	"o" det def f sg
+"<vitória>"
+	"vitória" n f sg
+"<.>"
+	"." sent
+
+"<Logo>"
+	"logo" adv
+"<após>"
+	"após" pr
+"<o>"
+	"o" det def m sg
+"<fechamento>"
+	"fechamento" n m sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<urnas>"
+	"urna" n f pl
+"<,>"
+	"," cm
+"<milhares>"
+	"milhar" num mf pl
+"<de>"
+	"de" pr
+"<birmaneses>"
+	"birmanês" n m pl
+"<dirigiram-se>"
+	"dirigir" vblex ifi p3 pl
+		"se" prn enc ref p3 mf sp
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<sede>"
+	"sede" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Liga>"
+	"liga" n f sg
+"<Nacional>"
+	"nacional" adj mf sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<Democracia>"
+	"democracia" n f sg
+"<para>"
+	"para" pr
+"<demonstrar>"
+	"demonstrar" vblex inf
+"<apoio>"
+	"apoio" n m sg
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<candidata>"
+	"candidato" n f sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<votação>"
+	"votação" n f sg
+"<contou>"
+	"contar" vblex ifi p3 sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg
+"<presença>"
+	"presença" n f sg
+"<de>"
+	"de" pr
+"<observadores>"
+	"observador" n m pl
+"<internacionais>"
+	"internacional" adj mf pl
+"<que>"
+	"que" rel an mf sp
+"<registraram>"
+	"registrar" vblex ifi p3 pl
+"<“>"
+	"“" lquot
+"<falhas>"
+	"falha" n f pl
+"<”>"
+	"”" rquot
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<em>"
+	"em" pr
+"<clima>"
+	"clima" n m sg
+"<“>"
+	"“" lquot
+"<aceitável>"
+	"aceitável" adj mf sg
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<geral>"
+	"geral" adj mf sg
+"<,>"
+	"," cm
+"<está>"
+	"estar" vblex pri p3 sg
+"<sendo>"
+	"ser" vbser ger
+"<um>"
+	"um" det ind m sg
+"<processo>"
+	"processo" n m sg
+"<ordeiro>"
+	"ordeiro" adj m sg
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<que>"
+	"que" cnjsub
+"<não>"
+	"não" adv
+"<está>"
+	"estar" vblex pri p3 sg
+"<isento>"
+	"isento" adj m sg
+"<de>"
+	"de" pr
+"<falhas>"
+	"falha" n f pl
+"<.>"
+	"." sent
+
+"<Temos de>"
+	"ter# de" vblex pri p1 pl
+"<esperar>"
+	"esperar" vblex inf
+"<pelas>"
+	"por" pr
+		"o" det def f pl
+"<informações>"
+	"informação" n f pl
+"<sobre>"
+	"sobre" pr
+"<o>"
+	"o" det def m sg
+"<resto>"
+	"resto" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<país>"
+	"país" n m sg
+"<para>"
+	"para" pr
+"<saber>"
+	"saber" vblex inf
+"<se>"
+	"se" cnjadv
+"<este>"
+	"este" det dem m sg
+"<comportamento>"
+	"comportamento" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<representativo>"
+	"representativo" adj m sg
+"<”>"
+	"”" rquot
+"<,>"
+	"," cm
+"<disse>"
+	"dizer" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<chefe>"
+	"chefe" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<missão>"
+	"missão" n f sg
+"<de>"
+	"de" pr
+"<observadores>"
+	"observador" n m pl
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<União>"
+	"união" n f sg
+"<Europeia>"
+	"europeu" adj f sg
+"<,>"
+	"," cm
+"<Alexander>"
+	"Alexander" np ant
+"<Lambsdorff>"
+	"Lambsdorff" np cog
+"<,>"
+	"," cm
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<rede>"
+	"rede" n f sg
+"<de>"
+	"de" pr
+"<televisão>"
+	"televisão" n f sg
+"<Channel>"
+	"Channel" np al
+"<News>"
+	"News" np al
+"<.>"
+	"." sent
+
+"<Lambsdorff>"
+	"Lambsdorff" np cog
+"<disse>"
+	"dizer" vblex ifi p3 sg
+"<ainda que>"
+	"ainda que" cnjadv
+"<“>"
+	"“" lquot
+"<não>"
+	"não" adv
+"<há>"
+	"há" vblex pri p3 sg
+"<nenhum>"
+	"nenhum" det ind m sg
+"<país>"
+	"país" n m sg
+"<com>"
+	"com" pr
+"<eleições>"
+	"eleição" n f pl
+"<perfeitas>"
+	"perfeito" adj f pl
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<Várias>"
+	"vário" det ind f pl
+"<denúncias>"
+	"denúncia" n f pl
+"<sobre>"
+	"sobre" pr
+"<infrações>"
+	"infração" n f pl
+"<foram>"
+	"ser" vbser ifi p3 pl
+"<apresentadas>"
+	"apresentar" vblex pp f pl
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<Comissão>"
+	"comissão" n f sg
+"<Eleitoral>"
+	"eleitoral" adj mf sg
+"<durante>"
+	"durante" pr
+"<a>"
+	"o" det def f sg
+"<campanha>"
+	"campanha" n f sg
+"<e>"
+	"e" cnjcoo
+"<outras>"
+	"outro" prn tn f pl
+"<foram>"
+	"ser" vbser ifi p3 pl
+"<formalizadas>"
+	"formalizar" vblex pp f pl
+"<em>"
+	"em" pr
+"<diversos>"
+	"diverso" adj m pl
+"<centros>"
+	"centro" n m pl
+"<eleitorais>"
+	"eleitoral" adj mf pl
+"<.>"
+	"." sent
+
+"<Foram>"
+	"ser" vbser ifi p3 pl
+"<registrados>"
+	"registrar" vblex pp m pl
+"<atos>"
+	"ato" n m pl
+"<de>"
+	"de" pr
+"<intimidação>"
+	"intimidação" n f sg
+"<e>"
+	"e" cnjcoo
+"<erros>"
+	"erro" n m pl
+"<nas>"
+	"em" pr
+		"o" det def f pl
+"<listas>"
+	"lista" n f pl
+"<de>"
+	"de" pr
+"<eleitores>"
+	"eleitor" n m pl
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg
+"<ministro>"
+	"ministro" n m sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<Transportes>"
+	"transporte" n m pl
+"<,>"
+	"," cm
+"<Than>"
+	"Than" np ant
+"<Tun>"
+	"Tun" np  cog
+"<,>"
+	"," cm
+"<por>"
+	"por" pr
+"<exemplo>"
+	"exemplo" n m sg
+"<,>"
+	"," cm
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<inicialmente>"
+	"inicialmente" adv
+"<impedido>"
+	"impedir" vblex pp m sg
+"<de>"
+	"de" pr
+"<votar>"
+	"votar" vblex inf
+"<,>"
+	"," cm
+"<porque>"
+	"porque" cnjadv
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<mesmo>"
+	"mesmo" adj m sg
+"<colégio>"
+	"colégio" n m sg
+"<eleitoral>"
+	"eleitoral" adj mf sg
+"<,>"
+	"," cm
+"<em>"
+	"em" pr
+"<Maubin>"
+	"Maubin" np loc
+"<,>"
+	"," cm
+"<um>"
+	"um" det ind m sg
+"<eleitor>"
+	"eleitor" n m sg
+"<exerceu>"
+	"exercer" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<direito>"
+	"direito" n m sg
+"<de>"
+	"de" pr
+"<voto>"
+	"voto" n m sg
+"<utilizando>"
+	"utilizar" vblex ger
+"<o>"
+	"o" det def m sg
+"<nome>"
+	"nome" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<membro>"
+	"membro" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<governo>"
+	"governo" n m sg
+"<.>"
+	"." sent
+
+"<Várias>"
+	"vário" det ind f pl
+"<organizações>"
+	"organização" n f pl
+"<não>"
+	"não" adv
+"<governamentais>"
+	"governamental" adj mf pl
+"<,>"
+	"," cm
+"<como>"
+	"como" rel adv
+"<a>"
+	"o" det def f sg
+"<Human>"
+	"Human" np al
+"<Rights>"
+	"Rights" np al
+"<Watch>"
+	"Watch" np al
+"<,>"
+	"," cm
+"<denunciaram>"
+	"denunciar" vblex ifi p3 pl
+"<também>"
+	"também" adv
+"<a>"
+	"o" det def f sg
+"<exclusão>"
+	"exclusão" n f sg
+"<de>"
+	"de" pr
+"<mais>"
+	"mais" adv
+"<de>"
+	"de" pr
+"<meio milhão>"
+	"meio milhão" n m sg
+"<de>"
+	"de" pr
+"<muçulmanos>"
+	"muçulmano" n m pl
+"<de>"
+	"de" pr
+"<etnia>"
+	"etnia" n f sg
+"<rohingya>"
+	"rohingyo" adj f sg
+"<.>"
+	"." sent
+
+"<As>"
+	"o" det def f pl
+"<eleições>"
+	"eleição" n f pl
+"<não>"
+	"não" adv
+"<ocorreram>"
+	"ocorrer" vblex ifi p3 pl
+"<em>"
+	"em" pr
+"<dezenas>"
+	"dezena" n f pl
+"<de>"
+	"de" pr
+"<localidades>"
+	"localidade" n f pl
+"<onde>"
+	"onde" rel adv
+"<há>"
+	"há" vblex pri p3 sg
+"<conflitos>"
+	"conflito" n m pl
+"<étnicos>"
+	"étnico" adj m pl
+"<,>"
+	"," cm
+"<envolvendo>"
+	"envolver" vblex ger
+"<os>"
+	"o" det def m pl
+"<kachin>"
+	"kachin" n m sg
+"<,>"
+	"," cm
+"<shan>"
+	"shan" n m sg
+"<e>"
+	"e" cnjcoo
+"<os>"
+	"o" det def m pl
+"<palaung>"
+	"palaung" n m sg
+"<.>"
+	"." sent
+
+"<Seja>"
+	"ser" vbser prs p3 sg
+"<qual>"
+	"qual" rel adv
+"<for>"
+	"ser" vbser fts p3 sg
+"<o>"
+	"o" det def m sg
+"<resultado>"
+	"resultado" n m sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<presidente>"
+	"presidente" n m sg
+"<de>"
+	"de" pr
+"<Myanmar>"
+	"Myanmar" np loc
+"<,>"
+	"," cm
+"<Thein>"
+	"Thein" np ant
+"<Sein>"
+	"Sein" np cog
+"<prometeu>"
+	"prometer" vblex ifi p3 sg
+"<respeitar>"
+	"respeitar" vblex inf
+"<a>"
+	"o" det def f sg
+"<vontade>"
+	"vontade" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<eleitores>"
+	"eleitor" n m pl
+"<expressa>"
+	"expresso" adj f sg
+"<nas>"
+	"em" pr
+		"o" det def f pl
+"<urnas>"
+	"urna" n f pl
+"<.>"
+	"." sent
+
+"<“>"
+	"“" lquot
+"<Aceitaremos>"
+	"aceitar" vblex fti p1 pl
+"<o>"
+	"o" det def m sg
+"<desejo>"
+	"desejo" n m sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<eleitores>"
+	"eleitor" n m pl
+"<,>"
+	"," cm
+"<seja>"
+	"ser" vbser prs p3 sg
+"<qual>"
+	"qual" rel adv
+"<for>"
+	"ser" vbser fts p3 sg
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg
+"<mais>"
+	"mais" adv
+"<importante>"
+	"importante" adj mf sg
+"<para>"
+	"para" pr
+"<este>"
+	"este" det dem m sg
+"<país>"
+	"país" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg
+"<estabilidade>"
+	"estabilidade" n f sg
+"<e>"
+	"e" cnjcoo
+"<o>"
+	"o" det def m sg
+"<desenvolvimento>"
+	"desenvolvimento" n m sg
+"<”>"
+	"”" rquot
+"<disse>"
+	"dizer" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<chefe>"
+	"chefe" n m sg
+"<de>"
+	"de" pr
+"<Estado>"
+	"estado" n m sg
+"<,>"
+	"," cm
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<momento>"
+	"momento" n m sg
+"<em>"
+	"em" pr
+"<que>"
+	"que" rel an mf sp
+"<votava>"
+	"votar" vblex pii p3 sg
+"<acompanhado>"
+	"acompanhar" vblex pp m sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<mulher>"
+	"mulher" n f sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<centro>"
+	"centro" n m sg
+"<eleitoral>"
+	"eleitoral" adj mf sg
+"<de>"
+	"de" pr
+"<Naipyido>"
+	"Naipyido" np loc
+"<.>"
+	"." sent
+
+"<Thein>"
+	"Thein" np ant
+"<Sein>"
+	"Sein" np cog
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<primeiro>"
+	"primeiro" adj m sg
+"<->"
+	"-" guio
+"<ministro>"
+	"ministro" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<última>"
+	"último" adj f sg
+"<Junta>"
+	"junta" n f sg
+"<Militar>"
+	"militar" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<desde>"
+	"desde" pr
+"<2001>"
+	"2001" num
+"<encabeça>"
+	"encabeçar" vblex pri p3 sg
+"<um>"
+	"um" det ind m sg
+"<governo>"
+	"governo" n m sg
+"<civil>"
+	"civil" adj mf sg
+"<que>"
+	"que" rel an mf sp
+"<defende>"
+	"defender" vblex pri p3 sg
+"<a>"
+	"o" det def f sg
+"<implementação>"
+	"implementação" n f sg
+"<de>"
+	"de" pr
+"<reformas>"
+	"reforma" n f pl
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<sentido>"
+	"sentido" n m sg
+"<de>"
+	"de" pr
+"<uma>"
+	"um" det ind f sg
+"<“>"
+	"“" lquot
+"<democracia>"
+	"democracia" n f sg
+"<disciplinada>"
+	"disciplinada" adj f sg
+"<”>"
+	"”" rquot
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg
+"<eleitos>"
+	"eleito" n m pl
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg
+"<Parlamento>"
+	"parlamento" n m sg
+"<nacional>"
+	"nacional" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<regional>"
+	"regional" adj mf sg
+"<tomarão>"
+	"tomar" vblex fti p3 pl
+"<posse>"
+	"posse" n f sg
+"<em>"
+	"em" pr
+"<2016>"
+	"2016" num
+"<.>"
+	"." sent
+
+"<Depois>"
+	"depois" adv
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Assembleia>"
+	"assembleia" n f sg
+"<Legislativa>"
+	"legislativo" adj f sg
+"<deve>"
+	"dever" vbmod pri p3 sg
+"<eleger>"
+	"eleger" vblex inf
+"<o>"
+	"o" det def m sg
+"<chefe>"
+	"chefe" n m sg
+"<de>"
+	"de" pr
+"<Estado>"
+	"estado" n m sg
+"<para>"
+	"para" pr
+"<um>"
+	"um" det ind m sg
+"<mandato>"
+	"mandato" n m sg
+"<de>"
+	"de" pr
+"<cinco>"
+	"cinco" num mf sp
+"<anos>"
+	"ano" n m pl
+"<.>"
+	"." sent
+
 "<Raio>"
 	"raio" n m sg
 "<é>"
