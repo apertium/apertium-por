@@ -141,8 +141,6 @@ SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
 
 SELECT Pro IF (-1 Pr) (0 Se) (1 Inf) ;
 
-SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
-
 REMOVE Detnt IF (NOT 1 Que) ;
 
 REMOVE SUB:1 Detnt IF (NOT 1 Que) ;
@@ -289,7 +287,7 @@ SELECT Det + $$Gender IF (0 Det OR Pr) (1C N + Sg + $$Gender) ;
 
 SELECT CA IF (0 Se) (1C Interj) ;
 
-REMOVE Imper IF (NOT -1* Interj) (NOT 1* Excl) (NOT -1 Cm) ;
+REMOVE Imper IF (NOT -1* Interj) (NOT 1* Interj) (NOT 1* Excl) (NOT -1 Cm) ;
   ## Por favor, adicione isso.
 
 SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR Se OR Não) ;
@@ -301,3 +299,5 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 
 #SELECT Prn IF (0 Um) (1 De) ;
 
+#SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
+  ## em saber se 

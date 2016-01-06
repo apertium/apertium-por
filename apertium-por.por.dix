@@ -9,6 +9,8 @@
     <sdef n="abbr"/>    
     <sdef n="loc"/>    
     <sdef n="ant"/>    
+    <sdef n="lquot"/>    
+    <sdef n="rquot"/>    
     <sdef n="cog"/>    
     <sdef n="guio"/>    
     <sdef n="al"/>    
@@ -89,6 +91,11 @@
     <pardef n="urls">
       <e><re>(http://|https://|ftp://)?[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*(.[áéíóúàèìòùäëïöüñça-z0-9](([\-_])?[áéíóúàèìòùäëïöüñça-z0-9])*)*(.[a-z][a-z]|.aero|.asia|.biz|.cat|.com|.coop|.edu|.gov|.info|.int|.jobs|.mil|.mobi|.museum|.name|.net|.org|.pro|.tel|.travel)(/([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*/)*([áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+(.[áéíóúàèìòùäëïöüñça-z0-9\-_\?=&amp;\*,]+)*)?)?</re>
 <!--<re>((www.)[a-z\-]+[.][a-z]+)</re>--><p><l/><r><s n="num"/></r></p></e>
+    </pardef>
+    
+    <pardef n="quotes">          
+      <e><re>[«“]</re><p><l/><r><s n="lquot"/></r></p></e>    
+      <e><re>[»”]</re><p><l/><r><s n="rquot"/></r></p></e>    
     </pardef>
     
     <pardef n="separa">          
@@ -28567,7 +28574,32 @@
     <e lm="ritual" a="nuboro"><i>ritua</i><par n="anima/l__n"/></e>
 
     
+<e lm="Lambsdorff" a="nuboro"><i>Lambsdorff</i><par n="Tyers__np"/></e>
+<e lm="Tun" a="nuboro"><i>Tun</i><par n="Tyers__np"/></e>
+<e lm="Thein" a="nuboro"><i>Thein</i><par n="Tyers__np"/></e>
 
+<e lm="Than" a="nuboro"><i>Than</i><par n="Abu__np"/></e>
+<e lm="Sein" a="nuboro"><i>Sein</i><par n="Abu__np"/></e>
+
+<e lm="Maubin" a="nuboro"><i>Maubin</i><par n="AC__np"/></e>
+<e lm="Naipyido" a="nuboro"><i>Naipyido</i><par n="AC__np"/></e>
+
+    
+<e lm="Channel" a="nuboro"><i>Channel</i><par n="ABC__np"/></e>
+<e lm="News" a="nuboro"><i>News</i><par n="ABC__np"/></e>
+<e lm="Human" a="nuboro"><i>Human</i><par n="ABC__np"/></e>
+<e lm="Rights" a="nuboro"><i>Rights</i><par n="ABC__np"/></e>
+<e lm="Watch" a="nuboro"><i>Watch</i><par n="ABC__np"/></e>
+
+<e lm="disciplinado" a="nuboro"><i>disciplinad</i><par n="abert/o__adj"/></e>
+<e lm="ordeiro" a="nuboro"><i>ordeir</i><par n="abert/o__adj"/></e>
+
+<e lm="instauração"><i>instauraç</i><par n="aceitaç/ão__n"/></e>            
+
+<e lm="birmanes"><i>birman</i><par n="alban/ês__n"/></e>   
+
+<e lm="rohinyo" a="nuboro"><p><l>rohiny</l><r>rohingy</r></p><par n="abert/o__adj"/></e>
+<e lm="rohingyo" a="nuboro"><i>rohingy</i><par n="abert/o__adj"/></e>
     
 </section>  
   <section id="final" type="inconditional">            
@@ -28577,6 +28609,7 @@
     <e lm=""><par n="paresq"/></e>            
     <e lm=""><par n="pardret"/></e>            
     <e lm=""><par n="guio"/></e>      
+    <e lm=""><par n="quotes"/></e>      
     <e lm=""><par n="abbr"/></e>      
     <e lm=""><par n="separ"/></e>      
     <e lm=""><par n="emails"/></e>      
