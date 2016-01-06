@@ -2,18 +2,12 @@
 	"Myanmar" np loc
 "<tem>"
 	"ter" vblex pri p3 sg
-;	"ter" vbhaver imp p2 sg REMOVE:234
-;	"ter" vbhaver pri p3 sg REMOVE:234
-;	"ter" vblex imp p2 sg REMOVE:282
 "<primeira>"
 	"primeiro" adj f sg
 "<eleição>"
 	"eleição" n f sg
 "<livre>"
 	"livre" adj mf sg
-	"livrar" vblex prs p3 sg
-	"livrar" vblex prs p1 sg
-;	"livrar" vblex imp p3 sg REMOVE:292
 "<em>"
 	"em" pr
 "<25>"
@@ -28,12 +22,10 @@
 "<de>"
 	"de" pr
 "<birmaneses>"
-	"*birmaneses"
+	"birmanes" n m pl
 "<foram>"
 	"ir" vblex ifi p3 pl SELECT:274
 	"ser" vbser ifi p3 pl SELECT:274
-;	"ir" vblex pmp p3 pl SELECT:274
-;	"ser" vbser pmp p3 pl SELECT:274
 "<hoje>"
 	"hoje" adv
 "<(>"
@@ -56,9 +48,6 @@
 	"eleição" n f sg
 "<livre>"
 	"livre" adj mf sg
-	"livrar" vblex prs p3 sg
-	"livrar" vblex prs p1 sg
-;	"livrar" vblex imp p3 sg REMOVE:292
 "<dos>"
 	"de" pr
 		"o" det def m pl
@@ -75,24 +64,18 @@
 	"Myanmar" np loc
 "<foi>"
 	"ser" vbser ifi p3 sg SELECT:132
-;	"ir" vblex ifi p3 sg SELECT:132
 "<governado>"
 	"governar" vblex pp m sg
 "<por>"
 	"por" pr
 "<militares>"
-	"militar" adj mf pl
 	"militar" n mf pl
-;	"militar" vblex infps p2 sg REMOVE:282
-;	"militar" vblex fts p2 sg REMOVE:282
 "<de>"
 	"de" pr
 "<1962>"
 	"1962" num
 "<a>"
 	"a" pr
-	"o" det def f sg
-	"o" prn pro p3 f sg
 "<2011>"
 	"2011" num
 "<.>"
@@ -102,14 +85,12 @@
 	"ser" vbser fti p3 pl
 "<eleitos>"
 	"eleger" vblex pp m pl SELECT:170
-;	"eleito" adj m pl SELECT:170
 "<membros>"
 	"membro" n m pl
 "<para>"
 	"para" pr
 "<os>"
 	"o" det def m pl SELECT:164
-;	"o" prn pro p3 m pl SELECT:164
 "<parlamentos>"
 	"parlamento" n m pl
 "<nacional>"
@@ -129,25 +110,20 @@
 	"observador" n m pl
 "<internacionais>"
 	"internacional" adj mf pl
-;	"internacional" n mf pl REMOVE:220
 "<,>"
 	"," cm
 "<as>"
 	"o" det def f pl
-;	"o" prn pro p3 f pl REMOVE:216
 "<eleições>"
 	"eleição" n f pl
 "<legislativas>"
 	"legislativo" adj f pl
 "<transcorreram>"
 	"transcorrer" vblex ifi p3 pl SELECT:274
-;	"transcorrer" vblex pmp p3 pl SELECT:274
 "<de>"
 	"de" pr
 "<forma>"
 	"forma" n f sg
-;	"formar" vblex pri p3 sg REMOVE:210
-;	"formar" vblex imp p2 sg REMOVE:282
 "<tranquila>"
 	"tranquilo" adj f sg
 "<,>"
@@ -158,43 +134,34 @@
 	"em" pr
 		"o" det def f sg
 "<capital>"
-	"capital" adj mf sg
 	"capital" n f sg
-	"capital" n m sg
 "<,>"
 	"," cm
 "<porém>"
 	"porém" cnjadv
 "<foram>"
-	"ir" vblex ifi p3 pl SELECT:274
 	"ser" vbser ifi p3 pl SELECT:274
-;	"ir" vblex pmp p3 pl SELECT:274
-;	"ser" vbser pmp p3 pl SELECT:274
 "<registradas>"
 	"registrar" vblex pp f pl
-	"
+"<“>"
+	"“" lquot
 "<falhas>"
 	"falha" n f pl
-;	"falhar" vblex pri p2 sg REMOVE:282
-"
+"<”>"
+	"”" rquot
 "<.>"
 	"." sent
 
 "<Os>"
 	"o" det def m pl SELECT:182
-;	"o" prn pro p3 m pl SELECT:182
 "<primeiros>"
 	"primeiro" adj m pl
 "<resultados>"
 	"resultado" n m pl
-	"resultar" vblex pp m pl
 "<devem>"
 	"dever" vbmod pri p3 pl
 "<ser>"
 	"ser" vbser inf SELECT:156
-	"ser" vbser infps p1 sg SELECT:156
-	"ser" vbser infps p3 sg SELECT:156
-;	"ser" n m sg SELECT:156
 "<conhecidos>"
 	"conhecer" vblex pp m pl
 "<somente>"
@@ -204,7 +171,6 @@
 		"o" det def f pl
 "<próximas>"
 	"próximo" adj f pl
-	"próximo" n f pl
 "<semanas>"
 	"semana" n f pl
 "<.>"
@@ -212,8 +178,6 @@
 
 "<A>"
 	"o" det def f sg SELECT:202
-;	"a" pr SELECT:202
-;	"o" prn pro p3 f sg SELECT:202
 "<líder>"
 	"líder" n mf sg
 "<da>"
@@ -221,15 +185,11 @@
 		"o" det def f sg
 "<Liga>"
 	"liga" n f sg
-;	"ligar" vblex pri p3 sg REMOVE:210
-;	"ligar" vblex imp p2 sg REMOVE:282
 "<Nacional>"
 	"nacional" adj mf sg
 "<pela>"
 	"por" pr
 		"o" det def f sg
-	"pelar" vblex pri p3 sg
-;	"pelar" vblex imp p2 sg REMOVE:282
 "<Democracia>"
 	"democracia" n f sg
 "<e>"
@@ -246,13 +206,13 @@
 "<,>"
 	"," cm
 "<Aung>"
-	"*Aung"
+	"Aung" np ant
 "<San>"
 	"San" np ant
 "<Suu>"
-	"*Suu"
+	"Suu" np ant
 "<Kyi>"
-	"*Kyi"
+	"Kyi" np cog
 "<,>"
 	"," cm
 "<de>"
@@ -272,12 +232,9 @@
 "<apontada>"
 	"apontar" vblex pp f sg
 "<como>"
-	"como" adv itg
 	"como" rel adv
-;	"comer" vblex pri p1 sg REMOVE:196
 "<uma>"
 	"um" prn tn f sg
-	"um" det ind f sg
 "<das>"
 	"de" pr
 		"o" det def f pl
@@ -285,13 +242,8 @@
 	"favorito" adj f pl
 "<a>"
 	"a" pr
-	"o" det def f sg
-	"o" prn pro p3 f sg
 "<ser>"
 	"ser" vbser inf
-	"ser" n m sg
-	"ser" vbser infps p1 sg
-	"ser" vbser infps p3 sg
 "<eleita>"
 	"eleito" adj f sg
 "<.>"
@@ -299,8 +251,6 @@
 
 "<A>"
 	"o" det def f sg SELECT:202
-;	"a" pr SELECT:202
-;	"o" prn pro p3 f sg SELECT:202
 "<líder>"
 	"líder" n mf sg
 "<da>"
@@ -327,37 +277,25 @@
 "<prisão>"
 	"prisão" n f sg
 "<domiciliar>"
-	"domiciliar" vblex inf
-	"domiciliar" vblex fts p1 sg
-	"domiciliar" vblex fts p3 sg
-	"domiciliar" vblex infps p1 sg
-	"domiciliar" vblex infps p3 sg
+	"domiciliar" adj mf sg
 "<por>"
 	"por" pr
 "<exigir>"
 	"exigir" vblex inf SELECT:128
-;	"exigir" vblex fts p1 sg SELECT:128
-;	"exigir" vblex fts p3 sg SELECT:128
-;	"exigir" vblex infps p1 sg SELECT:128
-;	"exigir" vblex infps p3 sg SELECT:128
 "<,>"
 	"," cm
 "<de>"
 	"de" pr
 "<forma>"
 	"forma" n f sg
-;	"formar" vblex pri p3 sg REMOVE:210
-;	"formar" vblex imp p2 sg REMOVE:282
 "<pacífica>"
 	"pacífico" adj f sg
 "<,>"
 	"," cm
 "<a>"
-	"a" pr
 	"o" det def f sg
-	"o" prn pro p3 f sg
 "<instauração>"
-	"*instauração"
+	"instauração" n f sg
 "<da>"
 	"de" pr
 		"o" det def f sg
@@ -367,70 +305,47 @@
 	"contra" pr
 "<o>"
 	"o" det def m sg SELECT:164
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg SELECT:164
-;	"o" prn pro p3 nt SELECT:164
 "<regime>"
 	"regime" n m sg
 "<imposto>"
 	"impor" vblex pp m sg
-;	"imposto" n m sg REMOVE:220
 "<pelos>"
 	"por" pr
 		"o" det def m pl
 "<militares>"
-	"militar" adj mf pl
 	"militar" n mf pl
-;	"militar" vblex infps p2 sg REMOVE:282
-;	"militar" vblex fts p2 sg REMOVE:282
 "<.>"
 	"." sent
 
 "<Aung>"
-	"*Aung"
+	"Aung" np ant
 "<San>"
 	"San" np ant
 "<Suu>"
-	"*Suu"
+	"Suu" np ant
 "<Kyi>"
-	"*Kyi"
+	"Kyi" np cog
 "<acredita>"
 	"acreditar" vblex pri p3 sg
-;	"acreditar" vblex imp p2 sg REMOVE:282
 "<que>"
 	"que" cnjsub SELECT:226
-;	"que" prn itg mf sg SELECT:226
-;	"que" rel an mf sp SELECT:226
 "<a>"
 	"o" det def f sg SELECT:200
-;	"a" pr SELECT:200
-;	"o" prn pro p3 f sg SELECT:200
 "<Liga>"
 	"liga" n f sg SELECT:172
-;	"ligar" vblex pri p3 sg REMOVE:256
-;	"ligar" vblex imp p2 sg SELECT:172
 "<Nacional>"
 	"nacional" adj mf sg
 "<pela>"
 	"por" pr
 		"o" det def f sg
-	"pelar" vblex pri p3 sg
-;	"pelar" vblex imp p2 sg REMOVE:282
 "<Democracia>"
 	"democracia" n f sg
 "<vai>"
 	"ir" vblex pri p3 sg
-;	"ir" vblex imp p2 sg REMOVE:282
 "<conseguir>"
 	"conseguir" vblex inf SELECT:136
-;	"conseguir" vblex fts p1 sg SELECT:136
-;	"conseguir" vblex fts p3 sg SELECT:136
-;	"conseguir" vblex infps p1 sg SELECT:136
-;	"conseguir" vblex infps p3 sg SELECT:136
 "<a>"
 	"o" det def f sg SELECT:288
-;	"o" prn pro p3 f sg REMOVE:216
-;	"a" pr SELECT:288
 "<vitória>"
 	"vitória" n f sg
 "<.>"
@@ -438,14 +353,10 @@
 
 "<Logo>"
 	"logo" adv
-	"logo" cnjadv
 "<após>"
 	"após" pr
 "<o>"
 	"o" det def m sg SELECT:164
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg SELECT:164
-;	"o" prn pro p3 nt SELECT:164
 "<fechamento>"
 	"fechamento" n m sg
 "<das>"
@@ -460,12 +371,10 @@
 "<de>"
 	"de" pr
 "<birmaneses>"
-	"*birmaneses"
+	"birmanes" n m pl
 "<dirigiram-se>"
 	"dirigir" vblex ifi p3 pl SELECT:274
 		"se" prn enc ref p3 mf sp
-;	"dirigir" vblex pmp p3 pl SELECT:274
-;		"se" prn enc ref p3 mf sp
 "<à>"
 	"a" pr
 		"o" det def f sg
@@ -476,42 +385,29 @@
 		"o" det def f sg
 "<Liga>"
 	"liga" n f sg
-;	"ligar" vblex pri p3 sg REMOVE:210
-;	"ligar" vblex imp p2 sg REMOVE:282
 "<Nacional>"
 	"nacional" adj mf sg
 "<pela>"
 	"por" pr
 		"o" det def f sg
-	"pelar" vblex pri p3 sg
-;	"pelar" vblex imp p2 sg REMOVE:282
 "<Democracia>"
 	"democracia" n f sg
 "<para>"
 	"para" pr
 "<demonstrar>"
 	"demonstrar" vblex inf SELECT:128
-;	"demonstrar" vblex fts p1 sg SELECT:128
-;	"demonstrar" vblex fts p3 sg SELECT:128
-;	"demonstrar" vblex infps p1 sg SELECT:128
-;	"demonstrar" vblex infps p3 sg SELECT:128
 "<apoio>"
 	"apoio" n m sg
-	"apoiar" vblex pri p1 sg
 "<à>"
 	"a" pr
 		"o" det def f sg
 "<candidata>"
 	"candidato" n f sg
-	"candidatar" vblex pri p3 sg
-;	"candidatar" vblex imp p2 sg REMOVE:282
 "<.>"
 	"." sent
 
 "<A>"
 	"o" det def f sg SELECT:202
-;	"a" pr SELECT:202
-;	"o" prn pro p3 f sg SELECT:202
 "<votação>"
 	"votação" n f sg
 "<contou>"
@@ -520,8 +416,6 @@
 	"com" pr
 "<a>"
 	"o" det def f sg SELECT:164
-;	"a" pr REMOVE:152
-;	"o" prn pro p3 f sg SELECT:164
 "<presença>"
 	"presença" n f sg
 "<de>"
@@ -530,19 +424,14 @@
 	"observador" n m pl
 "<internacionais>"
 	"internacional" adj mf pl
-;	"internacional" n mf pl REMOVE:220
 "<que>"
 	"que" rel an mf sp SELECT:295
-;	"que" cnjsub SELECT:295
-;	"que" prn itg mf sg SELECT:295
 "<registraram>"
 	"registrar" vblex ifi p3 pl SELECT:274
-;	"registrar" vblex pmp p3 pl SELECT:274
 "<“>"
 	"“" lquot
 "<falhas>"
 	"falha" n f pl
-;	"falhar" vblex pri p2 sg REMOVE:282
 "<”>"
 	"”" rquot
 "<,>"
@@ -573,39 +462,30 @@
 	"," cm
 "<está>"
 	"estar" vblex pri p3 sg
-;	"estar" vblex imp p2 sg REMOVE:282
 "<sendo>"
 	"ser" vbser ger
 "<um>"
-	"um" num m sp
-	"um" prn tn m sg
 	"um" det ind m sg
 "<processo>"
 	"processo" n m sg
-	"processar" vblex pri p1 sg
 "<ordeiro>"
-	"*ordeiro"
+	"ordeiro" adj m sg 
 "<,>"
 	"," cm
 "<mas>"
 	"mas" cnjcoo
 "<que>"
 	"que" cnjsub
-	"que" prn itg mf sg
-	"que" rel an mf sp
 "<não>"
 	"não" adv
 "<está>"
 	"estar" vblex pri p3 sg
-;	"estar" vblex imp p2 sg REMOVE:282
 "<isento>"
 	"isento" adj m sg
-	"isentar" vblex pri p1 sg
 "<de>"
 	"de" pr
 "<falhas>"
 	"falha" n f pl
-;	"falhar" vblex pri p2 sg REMOVE:210
 "<.>"
 	"." sent
 
@@ -613,49 +493,30 @@
 	"ter# de" vblex pri p1 pl
 "<esperar>"
 	"esperar" vblex inf
-	"esperar" vblex fts p1 sg
-	"esperar" vblex fts p3 sg
-	"esperar" vblex infps p1 sg
-	"esperar" vblex infps p3 sg
 "<pelas>"
 	"por" pr
 		"o" det def f pl
-;	"pelar" vblex pri p2 sg REMOVE:282
 "<informações>"
 	"informação" n f pl
 "<sobre>"
 	"sobre" pr
-	"sobrar" vblex prs p3 sg
-	"sobrar" vblex prs p1 sg
-;	"sobrar" vblex imp p3 sg REMOVE:292
 "<o>"
-	"o" prn pro p3 m sg
-	"o" prn pro p3 nt
 	"o" det def m sg
-;	"o" detnt REMOVE:146
 "<resto>"
 	"resto" n m sg
-	"restar" vblex pri p1 sg
 "<do>"
 	"de" pr
 		"o" det def m sg
-;	"de" pr
-;		"o" detnt REMOVE:148
 "<país>"
 	"país" n m sg
 "<para>"
 	"para" pr
 "<saber>"
 	"saber" vblex inf
-	"saber" n m sg
-	"saber" vblex infps p1 sg
-	"saber" vblex infps p3 sg
 "<se>"
-	"se" prn pro ref p3 mf sp SELECT:144
-;	"se" cnjadv SELECT:144
+	"se" cnjadv SELECT:144
 "<este>"
 	"este" det dem m sg
-;	"este" prn tn m sg REMOVE:218
 "<comportamento>"
 	"comportamento" n m sg
 "<é>"
@@ -667,13 +528,9 @@
 "<,>"
 	"," cm
 "<disse>"
-	"dizer" vblex ifi p1 sg
 	"dizer" vblex ifi p3 sg
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<chefe>"
 	"chefe" n m sg
 "<da>"
@@ -692,13 +549,12 @@
 	"união" n f sg
 "<Europeia>"
 	"europeu" adj f sg
-;	"europeu" n f sg REMOVE:220
 "<,>"
 	"," cm
 "<Alexander>"
 	"Alexander" np ant
 "<Lambsdorff>"
-	"*Lambsdorff"
+	"Lambsdorff" np cog
 "<,>"
 	"," cm
 "<à>"
@@ -711,17 +567,16 @@
 "<televisão>"
 	"televisão" n f sg
 "<Channel>"
-	"*Channel"
+	"Channel" np al
 "<News>"
-	"*News"
+	"News" np al
 "<.>"
 	"." sent
 
 "<Lambsdorff>"
-	"*Lambsdorff"
+	"Lambsdorff" np cog
 "<disse>"
 	"dizer" vblex ifi p3 sg SELECT:276
-;	"dizer" vblex ifi p1 sg SELECT:276
 "<ainda que>"
 	"ainda que" cnjadv
 "<“>"
@@ -732,7 +587,6 @@
 	"há" vblex pri p3 sg
 "<nenhum>"
 	"nenhum" det ind m sg SELECT:232
-;	"nenhum" prn tn m sg SELECT:232
 "<país>"
 	"país" n m sg
 "<com>"
@@ -752,16 +606,10 @@
 	"denúncia" n f pl
 "<sobre>"
 	"sobre" pr
-	"sobrar" vblex prs p3 sg
-	"sobrar" vblex prs p1 sg
-;	"sobrar" vblex imp p3 sg REMOVE:292
 "<infrações>"
 	"infração" n f pl
 "<foram>"
 	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
-;	"ir" vblex ifi p3 pl SELECT:156
-;	"ir" vblex pmp p3 pl SELECT:156
-;	"ser" vbser pmp p3 pl SELECT:156 SELECT:274
 "<apresentadas>"
 	"apresentar" vblex pp f pl
 "<à>"
@@ -775,21 +623,14 @@
 	"durante" pr
 "<a>"
 	"o" det def f sg SELECT:164
-;	"a" pr REMOVE:152
-;	"o" prn pro p3 f sg SELECT:164
 "<campanha>"
 	"campanha" n f sg
 "<e>"
 	"e" cnjcoo
 "<outras>"
-	"outro" adj f pl
 	"outro" prn tn f pl
-;	"outro" det ind f pl REMOVE:160
 "<foram>"
 	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
-;	"ir" vblex ifi p3 pl SELECT:156
-;	"ir" vblex pmp p3 pl SELECT:156
-;	"ser" vbser pmp p3 pl SELECT:156 SELECT:274
 "<formalizadas>"
 	"formalizar" vblex pp f pl
 "<em>"
@@ -805,9 +646,6 @@
 
 "<Foram>"
 	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
-;	"ir" vblex ifi p3 pl SELECT:156
-;	"ir" vblex pmp p3 pl SELECT:156
-;	"ser" vbser pmp p3 pl SELECT:156 SELECT:274
 "<registrados>"
 	"registrar" vblex pp m pl
 "<atos>"
@@ -825,7 +663,6 @@
 		"o" det def f pl
 "<listas>"
 	"lista" n f pl
-;	"listar" vblex pri p2 sg REMOVE:282
 "<de>"
 	"de" pr
 "<eleitores>"
@@ -835,9 +672,6 @@
 
 "<O>"
 	"o" det def m sg SELECT:202
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg SELECT:202
-;	"o" prn pro p3 nt SELECT:202
 "<ministro>"
 	"ministro" n m sg
 "<dos>"
@@ -845,13 +679,12 @@
 		"o" det def m pl
 "<Transportes>"
 	"transporte" n m pl
-;	"transportar" vblex prs p2 sg REMOVE:210
 "<,>"
 	"," cm
 "<Than>"
-	"*Than"
+	"Than" np ant
 "<Tun>"
-	"*Tun"
+	"Tun" np  cog
 "<,>"
 	"," cm
 "<por>"
@@ -861,7 +694,6 @@
 "<,>"
 	"," cm
 "<foi>"
-	"ir" vblex ifi p3 sg
 	"ser" vbser ifi p3 sg
 "<inicialmente>"
 	"inicialmente" adv
@@ -871,10 +703,6 @@
 	"de" pr
 "<votar>"
 	"votar" vblex inf SELECT:128
-;	"votar" vblex fts p1 sg SELECT:128
-;	"votar" vblex fts p3 sg SELECT:128
-;	"votar" vblex infps p1 sg SELECT:128
-;	"votar" vblex infps p3 sg SELECT:128
 "<,>"
 	"," cm
 "<porque>"
@@ -883,7 +711,6 @@
 	"em" pr
 		"o" det def m sg
 "<mesmo>"
-	"mesmo" adv
 	"mesmo" adj m sg
 "<colégio>"
 	"colégio" n m sg
@@ -894,53 +721,39 @@
 "<em>"
 	"em" pr
 "<Maubin>"
-	"*Maubin"
+	"Maubin" np top
 "<,>"
 	"," cm
 "<um>"
 	"um" det ind m sg SELECT:288
-;	"um" num m sp SELECT:288
-;	"um" prn tn m sg SELECT:288
 "<eleitor>"
 	"eleitor" n m sg
 "<exerceu>"
 	"exercer" vblex ifi p3 sg
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<direito>"
 	"direito" n m sg
 "<de>"
 	"de" pr
 "<voto>"
 	"voto" n m sg
-;	"votar" vblex pri p1 sg REMOVE:210
 "<utilizando>"
 	"utilizar" vblex ger
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<nome>"
 	"nome" n m sg
 "<do>"
 	"de" pr
 		"o" det def m sg
-;	"de" pr
-;		"o" detnt REMOVE:148
 "<membro>"
 	"membro" n m sg
 "<do>"
 	"de" pr
 		"o" det def m sg
-;	"de" pr
-;		"o" detnt REMOVE:148
 "<governo>"
 	"governo" n m sg
-;	"governar" vblex pri p1 sg REMOVE:210
 "<.>"
 	"." sent
 
@@ -956,29 +769,22 @@
 	"," cm
 "<como>"
 	"como" rel adv SELECT:190
-;	"como" adv itg SELECT:190
-;	"comer" vblex pri p1 sg SELECT:190
 "<a>"
-	"a" pr
 	"o" det def f sg
-	"o" prn pro p3 f sg
 "<Human>"
-	"*Human"
+	"Human" np al
 "<Rights>"
-	"*Rights"
+	"Rights" np al
 "<Watch>"
-	"*Watch"
+	"Watch" np al
 "<,>"
 	"," cm
 "<denunciaram>"
 	"denunciar" vblex ifi p3 pl SELECT:274
-;	"denunciar" vblex pmp p3 pl SELECT:274
 "<também>"
 	"também" adv
 "<a>"
 	"o" det def f sg SELECT:288
-;	"o" prn pro p3 f sg REMOVE:216
-;	"a" pr SELECT:288
 "<exclusão>"
 	"exclusão" n f sg
 "<de>"
@@ -992,27 +798,24 @@
 "<de>"
 	"de" pr
 "<muçulmanos>"
-	"muçulmano" adj m pl
 	"muçulmano" n m pl
 "<de>"
 	"de" pr
 "<etnia>"
 	"etnia" n f sg
 "<rohinya>"
-	"*rohinya"
+	"rohinyo" adj f sg
 "<.>"
 	"." sent
 
 "<As>"
 	"o" det def f pl SELECT:202
-;	"o" prn pro p3 f pl SELECT:202
 "<eleições>"
 	"eleição" n f pl
 "<não>"
 	"não" adv
 "<ocorreram>"
 	"ocorrer" vblex ifi p3 pl SELECT:274
-;	"ocorrer" vblex pmp p3 pl SELECT:274
 "<em>"
 	"em" pr
 "<dezenas>"
@@ -1022,7 +825,6 @@
 "<localidades>"
 	"localidade" n f pl
 "<onde>"
-	"onde" adv itg
 	"onde" rel adv
 "<há>"
 	"há" vblex pri p3 sg
@@ -1036,50 +838,35 @@
 	"envolver" vblex ger
 "<os>"
 	"o" det def m pl
-	"o" prn pro p3 m pl
 "<kachin>"
-	"*kachin"
+	"kachin" n m sg
 "<,>"
 	"," cm
 "<shan>"
-	"*shan"
+	"shan" n m sg
 "<e>"
 	"e" cnjcoo
 "<os>"
 	"o" det def m pl
-	"o" prn pro p3 m pl
 "<palaung>"
-	"*palaung"
+	"palaung" n m sg
 "<.>"
 	"." sent
 
 "<Seja>"
 	"ser" vbser prs p3 sg SELECT:276
-;	"ser" vbser prs p1 sg SELECT:276
-;	"ser" vbser imp p3 sg SELECT:276 REMOVE:292
 "<qual>"
 	"qual" rel adv
-	"qual" prn itg mf sg
 "<for>"
-	"ir" vblex fts p3 sg SELECT:276
 	"ser" vbser fts p3 sg SELECT:276
-;	"ir" vblex fts p1 sg SELECT:276
-;	"ser" vbser fts p1 sg SELECT:276
 "<o>"
-	"o" prn pro p3 m sg
-	"o" prn pro p3 nt
 	"o" det def m sg
-;	"o" detnt REMOVE:146
 "<resultado>"
 	"resultado" n m sg
-	"resultar" vblex pp m sg
 "<,>"
 	"," cm
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<presidente>"
 	"presidente" n m sg
 "<de>"
@@ -1089,21 +876,15 @@
 "<,>"
 	"," cm
 "<Thein>"
-	"*Thein"
+	"Thein" np ant
 "<Sein>"
-	"*Sein"
+	"Sein" np cog
 "<prometeu>"
 	"prometer" vblex ifi p3 sg
 "<respeitar>"
 	"respeitar" vblex inf
-	"respeitar" vblex fts p1 sg
-	"respeitar" vblex fts p3 sg
-	"respeitar" vblex infps p1 sg
-	"respeitar" vblex infps p3 sg
 "<a>"
 	"o" det def f sg SELECT:288
-;	"o" prn pro p3 f sg REMOVE:216
-;	"a" pr SELECT:288
 "<vontade>"
 	"vontade" n f sg
 "<dos>"
@@ -1113,8 +894,6 @@
 	"eleitor" n m pl
 "<expressa>"
 	"expresso" adj f sg
-	"expressar" vblex pri p3 sg
-;	"expressar" vblex imp p2 sg REMOVE:282
 "<nas>"
 	"em" pr
 		"o" det def f pl
@@ -1128,13 +907,9 @@
 "<Aceitaremos>"
 	"aceitar" vblex fti p1 pl
 "<o>"
-	"o" prn pro p3 m sg
-	"o" prn pro p3 nt
 	"o" det def m sg
-;	"o" detnt REMOVE:146
 "<desejo>"
 	"desejo" n m sg
-	"desejar" vblex pri p1 sg
 "<dos>"
 	"de" pr
 		"o" det def m pl
@@ -1143,25 +918,16 @@
 "<,>"
 	"," cm
 "<seja>"
-	"ser" vbser imp p3 sg
-	"ser" vbser prs p1 sg
 	"ser" vbser prs p3 sg
 "<qual>"
 	"qual" rel adv
-	"qual" prn itg mf sg
 "<for>"
-	"ir" vblex fts p1 sg
-	"ir" vblex fts p3 sg
-	"ser" vbser fts p1 sg
 	"ser" vbser fts p3 sg
 "<.>"
 	"." sent
 
 "<O>"
-	"o" prn pro p3 m sg
-	"o" prn pro p3 nt
 	"o" det def m sg
-;	"o" detnt REMOVE:146
 "<mais>"
 	"mais" adv
 "<importante>"
@@ -1170,43 +936,32 @@
 	"para" pr
 "<este>"
 	"este" det dem m sg SELECT:164
-;	"este" prn tn m sg SELECT:164
 "<país>"
 	"país" n m sg
 "<é>"
 	"ser" vbser pri p3 sg
 "<a>"
 	"o" det def f sg SELECT:138
-;	"a" pr SELECT:138
-;	"o" prn pro p3 f sg SELECT:138
 "<estabilidade>"
 	"estabilidade" n f sg
 "<e>"
 	"e" cnjcoo
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<desenvolvimento>"
 	"desenvolvimento" n m sg
 "<”>"
 	"”" rquot
 "<disse>"
 	"dizer" vblex ifi p3 sg SELECT:276
-;	"dizer" vblex ifi p1 sg SELECT:276
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<chefe>"
 	"chefe" n m sg
 "<de>"
 	"de" pr
 "<Estado>"
 	"estado" n m sg
-	"estar" vblex pp m sg
 "<,>"
 	"," cm
 "<no>"
@@ -1217,19 +972,14 @@
 "<em>"
 	"em" pr
 "<que>"
-	"que" cnjsub
-	"que" prn itg mf sg
 	"que" rel an mf sp
 "<votava>"
 	"votar" vblex pii p3 sg SELECT:276
-;	"votar" vblex pii p1 sg SELECT:276
 "<acompanhado>"
 	"acompanhar" vblex pp m sg
 "<pela>"
 	"por" pr
 		"o" det def f sg
-	"pelar" vblex pri p3 sg
-;	"pelar" vblex imp p2 sg REMOVE:282
 "<mulher>"
 	"mulher" n f sg
 "<no>"
@@ -1237,25 +987,22 @@
 		"o" det def m sg
 "<centro>"
 	"centro" n m sg
-	"centrar" vblex pri p1 sg
 "<eleitoral>"
 	"eleitoral" adj mf sg
 "<de>"
 	"de" pr
 "<Naipyido>"
-	"*Naipyido"
+	"Naipyido" np top
 "<.>"
 	"." sent
 
 "<Thein>"
-	"*Thein"
+	"Thein" np ant
 "<Sein>"
-	"*Sein"
+	"Sein" np cog
 "<foi>"
 	"ser" vbser ifi p3 sg SELECT:180
-;	"ir" vblex ifi p3 sg SELECT:180
 "<primeiro>"
-	"primeiro" adv
 	"primeiro" adj m sg
 "<->"
 	"-" guio
@@ -1268,17 +1015,8 @@
 	"último" adj f sg
 "<Junta>"
 	"junta" n f sg
-	"junto" adj f sg
-	"juntar" vblex pri p3 sg
-;	"juntar" vblex imp p2 sg REMOVE:282
 "<Militar>"
-	"militar" vblex inf
 	"militar" adj mf sg
-	"militar" n mf sg
-	"militar" vblex fts p1 sg
-	"militar" vblex fts p3 sg
-	"militar" vblex infps p1 sg
-	"militar" vblex infps p3 sg
 "<e>"
 	"e" cnjcoo
 "<desde>"
@@ -1287,51 +1025,39 @@
 	"2001" num
 "<encabeça>"
 	"encabeçar" vblex pri p3 sg
-;	"encabeçar" vblex imp p2 sg REMOVE:282
 "<um>"
-	"um" num m sp
-	"um" prn tn m sg
 	"um" det ind m sg
 "<governo>"
 	"governo" n m sg
-	"governar" vblex pri p1 sg
 "<civil>"
 	"civil" adj mf sg
 "<que>"
 	"que" rel an mf sp SELECT:295
-;	"que" cnjsub SELECT:295
-;	"que" prn itg mf sg SELECT:295
 "<defende>"
 	"defender" vblex pri p3 sg
-;	"defender" vblex imp p2 sg REMOVE:282
 "<a>"
 	"o" det def f sg SELECT:288
-;	"o" prn pro p3 f sg REMOVE:216
-;	"a" pr SELECT:288
 "<implementação>"
 	"implementação" n f sg
 "<de>"
 	"de" pr
 "<reformas>"
 	"reforma" n f pl
-;	"reformar" vblex pri p2 sg REMOVE:210
 "<no>"
 	"em" pr
 		"o" det def m sg
 "<sentido>"
 	"sentido" n m sg
-	"sentir" vblex pp m sg
 "<de>"
 	"de" pr
 "<uma>"
 	"um" det ind f sg SELECT:164
-;	"um" prn tn f sg SELECT:164
 "<“>"
 	"“" lquot
 "<democracia>"
 	"democracia" n f sg
 "<disciplinada>"
-	"*disciplinada"
+	"disciplinada" adj f sg
 "<”>"
 	"”" rquot
 "<.>"
@@ -1339,19 +1065,12 @@
 
 "<O>"
 	"o" det def m sg SELECT:202
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg SELECT:202
-;	"o" prn pro p3 nt SELECT:202
 "<eleitos>"
-	"eleito" adj m pl
-	"eleger" vblex pp m pl
+	"eleito" n m pl
 "<para>"
 	"para" pr
 "<o>"
 	"o" det def m sg SELECT:164
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg SELECT:164
-;	"o" prn pro p3 nt SELECT:164
 "<Parlamento>"
 	"parlamento" n m sg
 "<nacional>"
@@ -1377,39 +1096,26 @@
 	"," cm
 "<a>"
 	"o" det def f sg SELECT:288
-;	"o" prn pro p3 f sg REMOVE:216
-;	"a" pr SELECT:288
 "<Assembleia>"
 	"assembleia" n f sg
 "<Legislativa>"
 	"legislativo" adj f sg
 "<deve>"
 	"dever" vbmod pri p3 sg
-;	"dever" vbmod imp p2 sg REMOVE:282
 "<eleger>"
 	"eleger" vblex inf SELECT:250
-;	"eleger" vblex fts p1 sg SELECT:250
-;	"eleger" vblex fts p3 sg SELECT:250
-;	"eleger" vblex infps p1 sg SELECT:250
-;	"eleger" vblex infps p3 sg SELECT:250
 "<o>"
 	"o" det def m sg
-;	"o" detnt REMOVE:146
-;	"o" prn pro p3 m sg REMOVE:216
-;	"o" prn pro p3 nt REMOVE:216
 "<chefe>"
 	"chefe" n m sg
 "<de>"
 	"de" pr
 "<Estado>"
 	"estado" n m sg
-	"estar" vblex pp m sg
 "<para>"
 	"para" pr
 "<um>"
 	"um" det ind m sg SELECT:288
-;	"um" num m sp SELECT:288
-;	"um" prn tn m sg SELECT:288
 "<mandato>"
 	"mandato" n m sg
 "<de>"
