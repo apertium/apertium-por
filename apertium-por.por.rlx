@@ -15,6 +15,7 @@ LIST V = vblex ;
 LIST Vbmod = vbmod ;
 LIST A = adj ;
 LIST CS = cnjsub ;
+LIST Num = num ;
 LIST Interj = ij ;
 LIST Pr = pr ;
 LIST Adv = adv ; 
@@ -94,6 +95,7 @@ LIST Ter = "ter" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
 
+LIST Ter/de = "ter# de" ;
 LIST Querer = "querer" ;
 LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
@@ -107,6 +109,8 @@ LIST Uma = "<uma>"i ;
 LIST Sido = "<sido>"i ;
 LIST Sua = "<sua>"i ;
 LIST Vista = "<vista>"i ;
+LIST Pela = "<pela>"i ;
+LIST Pelo = "<pelo>"i ;
 
 LIST Guess/Inf = "\*[a-z]+[aei]r"i ;
 
@@ -135,7 +139,7 @@ SELECT Pr IF (0 Entre) (1C N) ;
 
 SELECT Inf IF (-1C Vai) ;
 
-SELECT Det IF (-1C É) (0 Det OR Prn) (1C N) ;
+SELECT Det + $$Gender IF (-1C É) (0 Det OR Prn) (1C N + $$Gender) ;
 
 SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
 
@@ -247,6 +251,10 @@ SELECT CS IF (-1 Até OR De) (0 Que) ;
 
 SELECT Inf IF (-1C Vbmod) (0C V) ;
 
+SELECT Inf IF (-1C Ter/de) ;
+
+SELECT Inf IF (-1C Vbmod) (0 Ser) ;
+
 SELECT Rel IF (-1C O) ;
 
 SELECT Detnt IF (1C Que) ;
@@ -264,6 +272,20 @@ SELECT Pr IF (0 Pr) (1 Como) (2 Se) (3 Fin) ;
 SELECT Adv IF (0C Adv OR Interj) (NOT -1 Cm) (NOT 1 Cm) (NOT 1* Excl) ;
 
 SELECT Vbmod IF (0 Querer) (1C Inf) ;
+
+SELECT N + $$Gender IF (-1 Det + $$Gender) (0C N OR A) (1 De) ;
+
+SELECT Pr IF (-1 Num) (0 Pr OR Det) (1 Num) ;
+
+SELECT Interr IF (-1 BOS) (0 Como) (1* Fin LINK 1* Quest) ;
+
+SELECT Pr IF (-1 Fin) (0 Pela OR Pelo) (1 N OR A) ;
+
+REMOVE Det IF (1C Prn) ;
+
+REMOVE NotMasc IF (0 Det) (1C Masc) ;
+
+REMOVE NotFem IF (0 Det) (1C Fem) ;
 
 SECTION
 
