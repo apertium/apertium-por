@@ -28414,6 +28414,19 @@
     <e lm="Dezhnev" a="nuboro"><i>Dezhnev</i><par n="Tyers__np"/></e>
     <e lm="Bering" a="nuboro"><i>Bering</i><par n="Tyers__np"/></e>
     <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Tyers__np"/></e>
+    <e lm="Lambsdorff" a="nuboro"><i>Lambsdorff</i><par n="Tyers__np"/></e>
+    <e lm="Tun" a="nuboro"><i>Tun</i><par n="Tyers__np"/></e>
+    <e lm="Thein" a="nuboro"><i>Thein</i><par n="Tyers__np"/></e>
+    <e lm="Gaudi" a="nuboro"><i>Gaudi</i><par n="Tyers__np"/></e>
+    <e lm="Miró" a="nuboro"><i>Miró</i><par n="Tyers__np"/></e>
+    <e lm="Tàpies" a="nuboro"><i>Tàpies</i><par n="Tyers__np"/></e>
+    <e lm="Picasso" a="nuboro"><i>Picasso</i><par n="Tyers__np"/></e>
+    <e lm="Rivera" a="nuboro"><i>Rivera</i><par n="Tyers__np"/></e>
+    <e lm="Berenguer" a="nuboro"><i>Berenguer</i><par n="Tyers__np"/></e>
+    <e lm="Calvo" a="nuboro"><i>Calvo</i><par n="Tyers__np"/></e>
+
+
+
 
 
     <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Abu__np"/></e>
@@ -28424,6 +28437,16 @@
     <e lm="Clyde" a="nuboro"><i>Clyde</i><par n="Abu__np"/></e>
     <e lm="Clifford" a="nuboro"><i>Clifford</i><par n="Abu__np"/></e>
     <e lm="Alfred" a="nuboro"><i>Alfred</i><par n="Abu__np"/></e>
+    <e lm="Than" a="nuboro"><i>Than</i><par n="Abu__np"/></e>
+    <e lm="Sein" a="nuboro"><i>Sein</i><par n="Abu__np"/></e>
+    <e lm="Antoní" a="nuboro"><i>Antoní</i><par n="Abu__np"/></e>
+    <e lm="Franco" a="nuboro"><i>Franco</i><par n="Abu__np"/></e>
+    <e lm="Eurico" a="nuboro"><i>Eurico</i><par n="Abu__np"/></e>
+    <e lm="visigodo" a="nuboro"><i>visigodo</i><par n="Abu__np"/></e>
+    <e lm="Vifredo" a="nuboro"><i>Vifredo</i><par n="Abu__np"/></e>
+    <e lm="Petronila" a="nuboro"><i>Petronila</i><par n="Abu__np"/></e>
+    <e lm="Arão" a="nuboro"><i>Arão</i><par n="Abu__np"/></e>
+
 
 
     <e lm="Bering" a="nuboro"><i>Bering</i><par n="AC__np"/></e>
@@ -28437,6 +28460,36 @@
     <e lm="Mercúrio" a="nuboro"><i>Mercúrio</i><par n="AC__np"/></e>
     <e lm="Encélado" a="nuboro"><i>Encélado</i><par n="AC__np"/></e>
     <e lm="Diomedes" a="nuboro"><i>Diomedes</i><par n="AC__np"/></e>
+    <e lm="Maubin" a="nuboro"><i>Maubin</i><par n="AC__np"/></e>
+    <e lm="kachin" a="nuboro"><i>kachin</i><par n="AC__np"/></e>
+    <e lm="Naipyido" a="nuboro"><i>Naipyido</i><par n="AC__np"/></e>
+    <e lm="Cent" a="nuboro"><i>Cent</i><par n="AC__np"/></e>
+    <e lm="Anjou" a="nuboro"><i>Anjou</i><par n="AC__np"/></e>
+    <e lm="Cardona" a="nuboro"><i>Cardona</i><par n="AC__np"/></e>
+    <e lm="Banyoles" a="nuboro"><i>Banyoles</i><par n="AC__np"/></e>
+    <e lm="Hispânia Citerior" a="nuboro"><i>Hispânia Citerior</i><par n="AC__np"/></e>
+    <e lm="Tarraconense" a="nuboro"><i>Tarraconense</i><par n="AC__np"/></e>
+    <e lm="Tarraco" a="nuboro"><i>Tarraco</i><par n="AC__np"/></e>
+    <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="AC__np"/></e>
+    <e lm="Tolosa" a="nuboro"><i>Tolosa</i><par n="AC__np"/></e>
+    <e lm="Girona" a="nuboro"><i>Girona</i><par n="AC__np"/></e>
+    <e lm="Gerunda" a="nuboro"><i>Gerunda</i><par n="AC__np"/></e>
+    <e lm="Lérida" a="nuboro"><i>Lérida</i><par n="AC__np"/></e>
+    <e lm="Tortosa" a="nuboro"><i>Tortosa</i><par n="AC__np"/></e>
+    <e lm="Baleares" a="nuboro"><i>Baleares</i><par n="AC__np"/></e>
+    <e lm="Minorca" a="nuboro"><i>Minorca</i><par n="AC__np"/></e>
+    <e lm="Sardenha" a="nuboro"><i>Sardenha</i><par n="AC__np"/></e>
+    <e lm="Utrecht" a="nuboro"><i>Utrecht</i><par n="AC__np"/></e>
+    <e lm="Talamanca" a="nuboro"><i>Talamanca</i><par n="AC__np"/></e>
+    <e lm="Pirenéus" a="nuboro"><i>Pirenéus</i><par n="AC__np"/></e>
+    <e lm="Costa Brava" a="nuboro"><i>Costa Brava</i><par n="AC__np"/></e>
+    <e lm="Costa Dourada" a="nuboro"><i>Costa Dourada</i><par n="AC__np"/></e>    
+    <e lm="Castela" a="nuboro"><i>Castela</i><par n="AC__np"/></e>
+    <e lm="Valência" a="nuboro"><i>Valência</i><par n="AC__np"/></e>
+    <e lm="Mediterrâneo" a="nuboro"><i>Mediterrâneo</i><par n="AC__np"/></e>
+    <e lm="Catalunya" a="nuboro"><i>Catalunya</i><par n="AC__np"/></e>
+    <e lm="Baleares" a="nuboro"><i>Baleares</i><par n="AC__np"/></e>
+    <e lm="Ibérica" a="nuboro"><i>Ibérica</i><par n="AC__np"/></e>
 
 
     <e lm="VCO" a="nuboro"><i>VCO</i><par n="ABC__np"/></e>
@@ -28448,6 +28501,16 @@
     <e lm="Climate" a="nuboro"><i>Climate</i><par n="ABC__np"/></e>
     <e lm="Akatsuki" a="nuboro"><i>Akatsuki</i><par n="ABC__np"/></e>
     <e lm="Venus" a="nuboro"><i>Venus</i><par n="ABC__np"/></e>
+    <e lm="Channel" a="nuboro"><i>Channel</i><par n="ABC__np"/></e>
+    <e lm="News" a="nuboro"><i>News</i><par n="ABC__np"/></e>
+    <e lm="Human" a="nuboro"><i>Human</i><par n="ABC__np"/></e>
+    <e lm="Rights" a="nuboro"><i>Rights</i><par n="ABC__np"/></e>
+    <e lm="Watch" a="nuboro"><i>Watch</i><par n="ABC__np"/></e>
+    <e lm="Mancomunitat" a="nuboro"><i>Mancomunitat</i><par n="ABC__np"/></e>
+    <e lm="Sabadell" a="nuboro"><i>Sabadell</i><par n="ABC__np"/></e>    
+    <e lm="La Caixa" a="nuboro"><i>La Caixa</i><par n="ABC__np"/></e>
+    <e lm="Dalí" a="nuboro"><i>Dalí</i><par n="ABC__np"/></e>
+    <e lm="Paleolítico Medio" a="nuboro"><i>Paleolítico Medio</i><par n="ABC__np"/></e>
 
 
 
@@ -28464,6 +28527,32 @@
     <e lm="cauda" a="nuboro"><i>cauda</i><par n="abadia__n"/></e>
     <e lm="arritmia" a="nuboro"><i>arritmia</i><par n="abadia__n"/></e>
     <e lm="amônia" a="nuboro"><i>amônia</i><par n="abadia__n"/></e>
+    <e lm="instauração"><i>instauraç</i><par n="aceitaç/ão__n"/></e>            
+    <e lm="televisão"><i>televis</i><par n="aceitaç/ão__n"/></e>            
+    <e lm="birmanes"><i>birman</i><par n="alban/ês__n"/></e>   
+    <e lm="povoamento" a="nuboro"><i>povoamento</i><par n="livro__n"/></e>       
+    <e lm="romanização"  a="nuboro"><i>romanizaç</i><par n="aceitaç/ão__n"/></e>            
+    <e lm="proclamação"  a="nuboro"><i>proclamaç</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="vila" a="nuboro"><i>vila</i><par n="abadia__n"/></e>
+    <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="livro__n"/></e>
+    <e lm="carolíngio" a="nuboro"><i>carolíngio</i><par n="livro__n"/></e>
+    <e lm="segador" a="nuboro"><i>segador</i><par n="amor__n"/></e>
+    <e lm="catalanismo" a="nuboro"><i>catalanism</i><par n="atletismo__n"/></e>
+    <e lm="bovino" a="nuboro"><i>bovino</i><par n="livro__n"/></e>
+    <e lm="suíno" a="nuboro"><i>suíno</i><par n="livro__n"/></e>
+    <e lm="pecuária" a="nuboro"><i>pecuária</i><par n="abadia__n"/></e>            
+    <e lm="arquiduque" a="nuboro"><i>arquiduque</i><par n="livro__n"/></e>
+    <e lm="totalitário" a="nuboro"><i>totalitário</i><par n="livro__n"/></e>
+    <e lm="Renaixença"><i>Renaixença</i><par n="abadia__n"/></e>            
+    <e lm="espumante" a="nuboro"><i>espumante</i><par n="livro__n"/></e>
+    <e lm="pretendente" a="nuboro"><i>pretendente</i><par n="livro__n"/></e>
+    <e lm="proveniente" a="nuboro"><i>proveniente</i><par n="livro__n"/></e>
+    <e lm="fascista" a="nuboro"><i>fascista</i><par n="accionista__n"/></e>
+    <e lm="Neandertal" a="nuboro"><i>Neanderta</i><par n="anima/l__n"/></e>
+    <e lm="leste"><i>leste</i><par n="atletismo__n"/></e>            
+    <e lm="Mediterrâneo" a="nuboro"><i>Mediterrâneo</i><par n="livro__n"/></e>
+
+
 
 
     <e lm="átomo" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
@@ -28524,6 +28613,20 @@
     <e lm="auditivo" a="nuboro"><i>auditiv</i><par n="abert/o__adj"/></e>
     <e lm="anômalo" a="nuboro"><i>anômal</i><par n="abert/o__adj"/></e>
     <e lm="advindo" a="nuboro"><i>advind</i><par n="abert/o__adj"/></e>
+    <e lm="aranês"><i>aranês</i><par n="alban/ês__adj"><e>            
+    <e lm="rohingyo" a="nuboro"><i>rohingy</i><par n="abert/o__adj"/></e>
+    <e lm="disciplinado" a="nuboro"><i>disciplinad</i><par n="abert/o__adj"/></e>
+    <e lm="ordeiro" a="nuboro"><i>ordeir</i><par n="abert/o__adj"/></e>
+    <e lm="domiciliar" a="nuboro"><i>domiciliar</i><par n="anterior__adj"/></e>
+    <e lm="cartagines"  a="nuboro"><i>cartagin</i><par n="alban/ês__adj"/></e>
+    <e lm="germânico" a="nuboro"><i>germânic</i><par n="abert/o__adj"/></e>
+    <e lm="carolíngio" a="nuboro"><i>carolíngi</i><par n="abert/o__adj"/></e>
+    <e lm="borbónico" a="nuboro"><i>borbónic</i><par n="abert/o__adj"/></e>
+    <e lm="heróico" a="nuboro"><i>heróic</i><par n="abert/o__adj"/></e>
+    <e lm="occitana" a="nuboro"><i>occitana</i><par n="agrícola__adj"/></e>
+    <e lm="românica" a="nuboro"><i>românica</i><par n="agrícola__adj"/></e>
+
+
 
 
     <e lm="vulcanismo" a="nuboro"><i>vulcanismo</i><par n="atletismo__n"/></e>
@@ -28573,33 +28676,6 @@
 
     <e lm="ritual" a="nuboro"><i>ritua</i><par n="anima/l__n"/></e>
 
-    
-<e lm="Lambsdorff" a="nuboro"><i>Lambsdorff</i><par n="Tyers__np"/></e>
-<e lm="Tun" a="nuboro"><i>Tun</i><par n="Tyers__np"/></e>
-<e lm="Thein" a="nuboro"><i>Thein</i><par n="Tyers__np"/></e>
-
-<e lm="Than" a="nuboro"><i>Than</i><par n="Abu__np"/></e>
-<e lm="Sein" a="nuboro"><i>Sein</i><par n="Abu__np"/></e>
-
-<e lm="Maubin" a="nuboro"><i>Maubin</i><par n="AC__np"/></e>
-<e lm="Naipyido" a="nuboro"><i>Naipyido</i><par n="AC__np"/></e>
-
-    
-<e lm="Channel" a="nuboro"><i>Channel</i><par n="ABC__np"/></e>
-<e lm="News" a="nuboro"><i>News</i><par n="ABC__np"/></e>
-<e lm="Human" a="nuboro"><i>Human</i><par n="ABC__np"/></e>
-<e lm="Rights" a="nuboro"><i>Rights</i><par n="ABC__np"/></e>
-<e lm="Watch" a="nuboro"><i>Watch</i><par n="ABC__np"/></e>
-
-<e lm="disciplinado" a="nuboro"><i>disciplinad</i><par n="abert/o__adj"/></e>
-<e lm="ordeiro" a="nuboro"><i>ordeir</i><par n="abert/o__adj"/></e>
-
-<e lm="instauração"><i>instauraç</i><par n="aceitaç/ão__n"/></e>            
-
-<e lm="birmanes"><i>birman</i><par n="alban/ês__n"/></e>   
-
-<e lm="rohinyo" a="nuboro"><p><l>rohiny</l><r>rohingy</r></p><par n="abert/o__adj"/></e>
-<e lm="rohingyo" a="nuboro"><i>rohingy</i><par n="abert/o__adj"/></e>
     
 </section>  
   <section id="final" type="inconditional">            
