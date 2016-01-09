@@ -28613,7 +28613,7 @@
     <e lm="auditivo" a="nuboro"><i>auditiv</i><par n="abert/o__adj"/></e>
     <e lm="anômalo" a="nuboro"><i>anômal</i><par n="abert/o__adj"/></e>
     <e lm="advindo" a="nuboro"><i>advind</i><par n="abert/o__adj"/></e>
-    <e lm="aranês" a="nuboro"><i>aran</i><par n="alban/ês__adj"><e>            
+    <e lm="aranês" a="nuboro"><i>aran</i><par n="alban/ês__adj"/></e>            
     <e lm="rohingyo" a="nuboro"><i>rohingy</i><par n="abert/o__adj"/></e>
     <e lm="disciplinado" a="nuboro"><i>disciplinad</i><par n="abert/o__adj"/></e>
     <e lm="ordeiro" a="nuboro"><i>ordeir</i><par n="abert/o__adj"/></e>
@@ -28623,8 +28623,8 @@
     <e lm="carolíngio" a="nuboro"><i>carolíngi</i><par n="abert/o__adj"/></e>
     <e lm="borbónico" a="nuboro"><i>borbónic</i><par n="abert/o__adj"/></e>
     <e lm="heróico" a="nuboro"><i>heróic</i><par n="abert/o__adj"/></e>
-    <e lm="occitana" a="nuboro"><i>occitana</i><par n="agrícola__adj"/></e>
-    <e lm="românica" a="nuboro"><i>românica</i><par n="agrícola__adj"/></e>
+    <e lm="occitano" a="nuboro"><i>occitan</i><par n="abert/o__adj"/></e>
+    <e lm="românico" a="nuboro"><i>românic</i><par n="abert/o__adj"/></e>
 
 
 
