@@ -1,0 +1,1186 @@
+"<Era>"
+	"era" n f sg
+	"ser" vbser pii p1 sg
+	"ser" vbser pii p3 sg
+"<uma>"
+	"um" det ind f sg SELECT:309
+;	"um" prn tn f sg SELECT:309
+"<vez>"
+	"vez" n f sg
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<velhinha>"
+	"*velhinha"
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<vivia>"
+	"viver" vblex pii p1 sg
+	"viver" vblex pii p3 sg
+"<sozinha>"
+	"sozinho" adj f sg
+"<numa>"
+	"em" pr
+		"um" det ind f sg
+"<pequena>"
+	"pequeno" adj f sg
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg REMOVE:303
+"<junto>"
+	"junto" adj m sg
+	"juntar" vblex pri p1 sg
+"<a>"
+	"a" pr
+;	"o" det def f sg REMOVE:287
+;	"o" prn pro p3 f sg REMOVE:287
+"<um>"
+	"um" det ind m sg SELECT:309
+;	"um" num m sp SELECT:309
+;	"um" prn tn m sg SELECT:309
+"<bosque>"
+	"bosque" n m sg
+"<onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<ela>"
+	"ele" prn tn p3 f sg
+"<gostava>"
+	"gostar" vblex pii p1 sg
+	"gostar" vblex pii p3 sg
+"<muito>"
+	"muito" adv
+	"muito" preadv
+	"muito" adj m sg
+"<de>"
+	"de" pr
+"<passear>"
+	"passear" vblex inf SELECT:133
+;	"passear" vblex fts p1 sg SELECT:133
+;	"passear" vblex fts p3 sg SELECT:133
+;	"passear" vblex infps p1 sg SELECT:133
+;	"passear" vblex infps p3 sg SELECT:133
+"<.>"
+	"." sent
+
+
+
+"<Um>"
+	"um" det ind m sg SELECT:309
+;	"um" num m sp SELECT:309
+;	"um" prn tn m sg SELECT:309
+"<dia>"
+	"dia" n m sg
+"<quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<ia>"
+	"ir" vblex pii p3 sg SELECT:297
+;	"ir" vblex pii p1 sg SELECT:297
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg SELECT:167
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg SELECT:167
+;	"o" prn pro p3 nt SELECT:167
+"<casamento>"
+	"casamento" n m sg
+"<da sua>"
+	"de" pr
+		"o seu" det pos f sg
+"<filha>"
+	"filho" n f sg
+"<teve>"
+	"ter" vblex ifi p3 sg
+;	"ter" vbhaver ifi p3 sg REMOVE:237
+"<que>"
+	"que" cnjsub SELECT:229
+;	"que" prn itg mf sg SELECT:229
+;	"que" rel an mf sp SELECT:229
+"<atravessar>"
+	"atravessar" vblex inf
+	"atravessar" vblex fts p1 sg
+	"atravessar" vblex fts p3 sg
+	"atravessar" vblex infps p1 sg
+	"atravessar" vblex infps p3 sg
+"<todo>"
+	"todo" predet m sg
+"<o>"
+	"o" det def m sg SELECT:195
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg SELECT:195
+;	"o" prn pro p3 nt SELECT:195
+"<bosque>"
+	"bosque" n m sg
+"<a>"
+	"a" pr
+;	"o" prn pro p3 f sg REMOVE:219
+;	"o" det def f sg REMOVE:287
+"<pé>"
+	"pé" n m sg
+"<.>"
+	"." sent
+
+
+
+"<Ia>"
+	"ir" vblex pii p3 sg SELECT:297
+;	"ir" vblex pii p1 sg SELECT:297
+"<ela>"
+	"ele" prn tn p3 f sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<apreciar>"
+	"apreciar" vblex inf SELECT:133
+;	"apreciar" vblex fts p1 sg SELECT:133
+;	"apreciar" vblex fts p3 sg SELECT:133
+;	"apreciar" vblex infps p1 sg SELECT:133
+;	"apreciar" vblex infps p3 sg SELECT:133
+"<o>"
+	"o" prn pro p3 m sg
+	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" detnt REMOVE:149
+"<passeio>"
+	"passeio" n m sg
+	"passear" vblex pri p1 sg
+"<quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<encontrou>"
+	"encontrar" vblex ifi p3 sg
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<raposa>"
+	"*raposa"
+"<,>"
+	"," cm
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<lhe>"
+	"lhe" prn pro p3 mf sg
+"<disse>"
+	"dizer" vblex ifi p1 sg
+	"dizer" vblex ifi p3 sg
+"<:>"
+	":" sent
+
+– 
+"<Vou-te>"
+	"ir" vblex pri p1 sg
+		"te" prn enc p2 mf sg
+"<comer>"
+	"comer" vblex inf
+	"comer" vblex fts p1 sg
+	"comer" vblex fts p3 sg
+	"comer" vblex infps p1 sg
+	"comer" vblex infps p3 sg
+"<velhinha>"
+	"*velhinha"
+
+– 
+"<Não>"
+	"não" adv
+"<faças>"
+	"fazer" vblex prs p2 sg
+"<isso>"
+	"isso" prn tn nt
+"<agora>"
+	"agora" adv
+ – 
+"<respondeu>"
+	"responder" vblex ifi p3 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+ – 
+"<é>"
+	"ser" vbser pri p3 sg
+"<que>"
+	"que" cnjsub SELECT:229
+;	"que" prn itg mf sg SELECT:229
+;	"que" rel an mf sp SELECT:229
+"<eu>"
+	"eu" prn tn p1 mf sg
+"<vou>"
+	"ir" vblex pri p1 sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<casamento>"
+	"casamento" n m sg
+"<da minha>"
+	"de" pr
+		"o meu" det pos f sg
+"<filha>"
+	"filho" n f sg
+"<,>"
+	"," cm
+"<quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<voltar>"
+	"voltar" vblex inf
+	"voltar" vblex fts p1 sg
+	"voltar" vblex fts p3 sg
+	"voltar" vblex infps p1 sg
+	"voltar" vblex infps p3 sg
+"<venho>"
+	"vir" vblex pri p1 sg
+"<mais>"
+	"mais" adv
+"<gordinha>"
+	"*gordinha"
+"<.>"
+	"." sent
+
+
+
+"<E>"
+	"e" cnjcoo
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<raposa>"
+	"*raposa"
+"<deixou-a>"
+	"deixar" vblex ifi p3 sg
+		"o" prn enc p3 f sg
+"<continuar>"
+	"continuar" vblex inf
+	"continuar" vblex fts p1 sg
+	"continuar" vblex fts p3 sg
+	"continuar" vblex infps p1 sg
+	"continuar" vblex infps p3 sg
+"<o seu>"
+	"o seu" det pos m sg
+	"o seu" prn tn pos m sg
+"<caminho>"
+	"caminho" n m sg
+	"caminhar" vblex pri p1 sg
+"<.>"
+	"." sent
+
+
+
+"<Um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<pouco>"
+	"pouco" adv
+	"pouco" adj m sg
+	"pouco" prn tn m sg
+"<mais>"
+	"mais" adv
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<frente>"
+	"frente" adv
+	"frente" n f sg
+"<encontrou>"
+	"encontrar" vblex ifi p3 sg
+"<um>"
+	"um" det ind m sg SELECT:185
+;	"um" num m sp SELECT:185
+;	"um" prn tn m sg SELECT:185
+"<grande>"
+	"grande" adj mf sg
+"<lobo>"
+	"lobo" n m sg
+"<.>"
+	"." sent
+
+– 
+
+"<Não>"
+	"não" adv
+"<passas>"
+	"passa" n f pl
+;	"passar" vblex pri p2 sg REMOVE:303
+"<aqui>"
+	"aqui" adv
+"<sem>"
+	"sem" pr
+"<que>"
+	"que" cnjsub
+	"que" rel an mf sp
+;	"que" prn itg mf sg REMOVE:293
+"<eu>"
+	"eu" prn tn p1 mf sg
+"<te>"
+	"te" prn pro p2 mf sg
+"<coma>"
+	"comer" vblex prs p3 sg
+	"comer" vblex prs p1 sg
+;	"comer" vblex imp p3 sg REMOVE:313
+ – 
+"<disse>"
+	"dizer" vblex ifi p1 sg
+	"dizer" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg REMOVE:219
+;	"o" prn pro p3 nt REMOVE:219
+"<lobo>"
+	"lobo" n m sg
+"<.>"
+	"." sent
+
+
+
+"<A>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<respondeu>"
+	"responder" vblex ifi p3 sg
+"<:>"
+	":" sent
+
+– 
+"<Agora>"
+	"agora" adv
+"<não>"
+	"não" adv
+"<,>"
+	"," cm
+"<eu>"
+	"eu" prn tn p1 mf sg
+"<vou>"
+	"ir" vblex pri p1 sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<casamento>"
+	"casamento" n m sg
+"<da minha>"
+	"de" pr
+		"o meu" det pos f sg
+"<filha>"
+	"filho" n f sg
+"<e>"
+	"e" cnjcoo
+"<vou>"
+	"ir" vblex pri p1 sg
+"<voltar>"
+	"voltar" vblex inf
+	"voltar" vblex fts p1 sg
+	"voltar" vblex fts p3 sg
+	"voltar" vblex infps p1 sg
+	"voltar" vblex infps p3 sg
+"<mais>"
+	"mais" adv
+"<gordinha>"
+	"*gordinha"
+"<.>"
+	"." sent
+
+
+
+"<E>"
+	"e" cnjcoo
+"<o>"
+	"o" det def m sg
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg REMOVE:219
+;	"o" prn pro p3 nt REMOVE:219
+"<lobo>"
+	"lobo" n m sg
+"<também>"
+	"também" adv
+"<a>"
+	"o" prn pro p3 f sg
+;	"a" pr REMOVE:153
+;	"o" det def f sg REMOVE:163
+"<deixou>"
+	"deixar" vblex ifi p3 sg
+"<ir>"
+	"ir" vblex inf
+	"ir" vblex infps p1 sg
+	"ir" vblex infps p3 sg
+"<embora>"
+	"embora" cnjadv
+"<.>"
+	"." sent
+
+
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<casamento>"
+	"casamento" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<filha>"
+	"filho" n f sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<divertiu-se>"
+	"divertir" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<muito>"
+	"muito" adv
+	"muito" preadv
+	"muito" adj m sg
+"<e>"
+	"e" cnjcoo
+"<comeu>"
+	"comer" vblex ifi p3 sg
+"<muito>"
+	"muito" adv
+	"muito" preadv
+	"muito" adj m sg
+"<também>"
+	"também" adv
+"<.>"
+	"." sent
+
+
+
+"<Quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<já>"
+	"já" adv SELECT:273
+;	"já" ij SELECT:273
+"<estava>"
+	"estar" vblex pii p3 sg SELECT:297
+;	"estar" vblex pii p1 sg SELECT:297
+"<para>"
+	"para" pr
+"<ir>"
+	"ir" vblex inf SELECT:133
+;	"ir" vblex infps p1 sg SELECT:133
+;	"ir" vblex infps p3 sg SELECT:133
+"<embora>"
+	"embora" cnjadv
+"<e>"
+	"e" cnjcoo
+"<voltar>"
+	"voltar" vblex inf
+	"voltar" vblex fts p1 sg
+	"voltar" vblex fts p3 sg
+	"voltar" vblex infps p1 sg
+	"voltar" vblex infps p3 sg
+"<para>"
+	"para" pr
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg REMOVE:303
+"<,>"
+	"," cm
+"<lembrou-se>"
+	"lembrar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<do>"
+	"de" pr
+		"o" det def m sg
+;	"de" pr
+;		"o" detnt REMOVE:151
+"<lobo>"
+	"lobo" n m sg
+"<e>"
+	"e" cnjcoo
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<raposa>"
+	"*raposa"
+"<que>"
+	"que" cnjsub
+	"que" prn itg mf sg
+	"que" rel an mf sp
+"<estavam>"
+	"estar" vblex pii p3 pl
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<espera>"
+	"espera" n f sg
+	"esperar" vblex pri p3 sg
+;	"esperar" vblex imp p2 sg REMOVE:303
+"<dela>"
+	"de" pr
+		"ele" prn tn p3 f sg
+"<.>"
+	"." sent
+
+"<Então>"
+	"então" adv
+	"então" cnjadv
+"<contou>"
+	"contar" vblex ifi p3 sg
+"<a>"
+	"o" det def f sg SELECT:309
+;	"o" prn pro p3 f sg REMOVE:219
+;	"a" pr SELECT:309
+"<história>"
+	"história" n f sg
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<filha>"
+	"filho" n f sg
+"<e>"
+	"e" cnjcoo
+"<ficaram>"
+	"ficar" vblex ifi p3 pl SELECT:295
+;	"ficar" vblex pmp p3 pl SELECT:295
+"<as>"
+	"o" det def f pl
+	"o" prn pro p3 f pl
+"<duas>"
+	"dois" num f sp
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<pensar>"
+	"pensar" vblex inf SELECT:133
+;	"pensar" vblex fts p1 sg SELECT:133
+;	"pensar" vblex fts p3 sg SELECT:133
+;	"pensar" vblex infps p1 sg SELECT:133
+;	"pensar" vblex infps p3 sg SELECT:133
+"<numa>"
+	"em" pr
+		"um" det ind f sg
+"<forma>"
+	"forma" n f sg
+	"formar" vblex pri p3 sg
+;	"formar" vblex imp p2 sg REMOVE:303
+"<para>"
+	"para" pr
+"<a>"
+	"o" prn pro p3 f sg
+	"o" det def f sg
+;	"a" pr REMOVE:155
+"<velhinha>"
+	"*velhinha"
+"<voltar>"
+	"voltar" vblex inf
+	"voltar" vblex fts p1 sg
+	"voltar" vblex fts p3 sg
+	"voltar" vblex infps p1 sg
+	"voltar" vblex infps p3 sg
+"<para>"
+	"para" pr
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg REMOVE:303
+"<sem>"
+	"sem" pr
+"<ser>"
+	"ser" vbser inf
+	"ser" n m sg
+	"ser" vbser infps p1 sg
+	"ser" vbser infps p3 sg
+"<vista>"
+	"ver" vblex pp f sg
+	"vista" n f sg
+	"vestir" vblex prs p3 sg
+	"vestir" vblex prs p1 sg
+;	"vestir" vblex imp p3 sg REMOVE:313
+"<.>"
+	"." sent
+
+
+
+"<Foram>"
+	"ir" vblex ifi p3 pl SELECT:295
+	"ser" vbser ifi p3 pl SELECT:295
+;	"ir" vblex pmp p3 pl SELECT:295
+;	"ser" vbser pmp p3 pl SELECT:295
+"<então>"
+	"então" adv
+	"então" cnjadv
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<procura>"
+	"procurar" vblex pri p3 sg
+;	"procurar" vblex imp p2 sg REMOVE:303
+"<de>"
+	"de" pr
+"<alguma>"
+	"algum" det ind f sg SELECT:167
+;	"algum" prn tn f sg SELECT:167
+"<coisa>"
+	"coisa" n f sg
+"<onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<se>"
+	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<pudesse>"
+	"poder" vbmod pis p3 sg SELECT:297
+;	"poder" vbmod pis p1 sg SELECT:297
+"<esconder>"
+	"esconder" vblex inf SELECT:253
+;	"esconder" vblex fts p1 sg SELECT:253
+;	"esconder" vblex fts p3 sg SELECT:253
+;	"esconder" vblex infps p1 sg SELECT:253
+;	"esconder" vblex infps p3 sg SELECT:253
+"<,>"
+	"," cm
+"<experimentaram>"
+	"experimentar" vblex ifi p3 pl SELECT:295
+;	"experimentar" vblex pmp p3 pl SELECT:295
+"<vários>"
+	"vário" det ind m pl
+"<objectos>"
+	"*objectos"
+"<,>"
+	"," cm
+"<panelas>"
+	"*panelas"
+"<,>"
+	"," cm
+"<barris>"
+	"barril" n m pl
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<então>"
+	"então" adv
+	"então" cnjadv
+"<encontraram>"
+	"encontrar" vblex ifi p3 pl SELECT:295
+;	"encontrar" vblex pmp p3 pl SELECT:295
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<grande>"
+	"grande" adj mf sg
+"<cabaça>"
+	"*cabaça"
+"<onde>"
+	"onde" adv itg
+	"onde" rel adv
+"<ela>"
+	"ele" prn tn p3 f sg
+"<cabia>"
+	"caber" vblex pii p3 sg SELECT:297
+;	"caber" vblex pii p1 sg SELECT:297
+"<e>"
+	"e" cnjcoo
+"<conseguia>"
+	"conseguir" vblex pii p3 sg SELECT:297
+;	"conseguir" vblex pii p1 sg SELECT:297
+"<espreitar>"
+	"espreitar" vblex inf
+	"espreitar" vblex fts p1 sg
+	"espreitar" vblex fts p3 sg
+	"espreitar" vblex infps p1 sg
+	"espreitar" vblex infps p3 sg
+"<para>"
+	"para" pr
+"<poder>"
+	"poder" vbmod inf SELECT:179
+	"poder" vbmod infps p1 sg SELECT:179
+	"poder" vbmod infps p3 sg SELECT:179
+;	"poder" n m sg SELECT:179
+"<ver>"
+	"ver" vblex inf SELECT:253
+;	"ver" vblex infps p1 sg SELECT:253
+;	"ver" vblex infps p3 sg SELECT:253
+"<.>"
+	"." sent
+
+
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<caminho>"
+	"caminho" n m sg
+	"caminhar" vblex pri p1 sg
+"<de>"
+	"de" pr
+"<volta>"
+	"volta" n f sg
+;	"voltar" vblex pri p3 sg REMOVE:213
+;	"voltar" vblex imp p2 sg REMOVE:303
+"<para>"
+	"para" pr
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg REMOVE:303
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<ia>"
+	"ir" vblex pii p1 sg
+	"ir" vblex pii p3 sg
+"<rodando>"
+	"rodar" vblex ger
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<cabaça>"
+	"*cabaça"
+"<.>"
+	"." sent
+
+
+
+"<Quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<passou>"
+	"passar" vblex ifi p3 sg
+"<pelo>"
+	"por" pr SELECT:283
+		"o" det def m sg
+;	"pelar" vblex pri p1 sg SELECT:283
+"<lobo>"
+	"lobo" n m sg
+"<eu>"
+	"eu" prn tn p1 mf sg
+"<perguntou>"
+	"perguntar" vblex ifi p3 sg
+"<:>"
+	":" sent
+
+– 
+"<Viste>"
+	"ver" vblex ifi p2 sg
+"<por>"
+	"por" pr
+"<ai>"
+	"ai" ij
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<velhinha>"
+	"*velhinha"
+"<?>"
+	"?" sent
+
+– 
+
+"<Nem>"
+	"nem" cnjcoo
+"<velhinha>"
+	"*velhinha"
+"<nem>"
+	"nem" cnjcoo
+"<velhão>"
+	"*velhão"
+"<,>"
+	"," cm
+"<roda>"
+	"roda" n f sg
+	"rodar" vblex pri p3 sg
+;	"rodar" vblex imp p2 sg REMOVE:303
+"<cabacinha>"
+	"*cabacinha"
+"<,>"
+	"," cm
+"<roda>"
+	"roda" n f sg
+	"rodar" vblex pri p3 sg
+;	"rodar" vblex imp p2 sg REMOVE:303
+"<cabação>"
+	"*cabação"
+ – 
+"<respondeu-lhe>"
+	"responder" vblex ifi p3 sg
+		"lhe" prn enc p3 mf sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<.>"
+	"." sent
+
+
+
+"<E>"
+	"e" cnjcoo
+"<continuo>"
+	"continuar" vblex pri p1 sg
+"<o seu>"
+	"o seu" det pos m sg
+	"o seu" prn tn pos m sg
+"<caminho>"
+	"caminho" n m sg
+	"caminhar" vblex pri p1 sg
+"<escondida>"
+	"esconder" vblex pp f sg
+"<dentro>"
+	"dentro" adv
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<cabaça>"
+	"*cabaça"
+"<.>"
+	"." sent
+
+
+
+"<Já>"
+	"já" adv SELECT:273
+;	"já" ij SELECT:273
+"<ia>"
+	"ir" vblex pii p3 sg SELECT:297
+;	"ir" vblex pii p1 sg SELECT:297
+"<um>"
+	"um" num m sp
+	"um" prn tn m sg
+	"um" det ind m sg
+"<pouco>"
+	"pouco" adv
+	"pouco" adj m sg
+	"pouco" prn tn m sg
+"<mais>"
+	"mais" adv
+"<descansada>"
+	"descansar" vblex pp f sg
+"<por>"
+	"por" pr
+"<ter>"
+	"ter" vbhaver inf SELECT:239
+	"ter" vbhaver infps p1 sg SELECT:239
+	"ter" vbhaver infps p3 sg SELECT:239
+;	"ter" vblex inf SELECT:239
+;	"ter" vblex infps p1 sg SELECT:239
+;	"ter" vblex infps p3 sg SELECT:239
+"<conseguido>"
+	"conseguir" vblex pp m sg
+"<enganar>"
+	"enganar" vblex inf
+	"enganar" vblex fts p1 sg
+	"enganar" vblex fts p3 sg
+	"enganar" vblex infps p1 sg
+	"enganar" vblex infps p3 sg
+"<o>"
+	"o" det def m sg
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg REMOVE:219
+;	"o" prn pro p3 nt REMOVE:219
+"<lobo>"
+	"lobo" n m sg
+"<,>"
+	"," cm
+"<quando>"
+	"quando" adv itg
+	"quando" rel adv
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<raposa>"
+	"*raposa"
+"<se>"
+	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<pôs>"
+	"pôr" vblex ifi p3 sg
+"<no seu>"
+	"em" pr
+		"o seu" det pos m sg
+"<caminho>"
+	"caminho" n m sg
+	"caminhar" vblex pri p1 sg
+"<.>"
+	"." sent
+
+– 
+
+"<Viste>"
+	"ver" vblex ifi p2 sg
+"<por>"
+	"por" pr
+"<ai>"
+	"ai" ij
+"<uma>"
+	"um" prn tn f sg
+	"um" det ind f sg
+"<velhinha>"
+	"*velhinha"
+"<?>"
+	"?" sent
+ – 
+
+"<perguntou-lhe>"
+	"perguntar" vblex ifi p3 sg
+		"lhe" prn enc p3 mf sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<raposa>"
+	"*raposa"
+"<.>"
+	"." sent
+
+
+
+"<A>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<respondeu>"
+	"responder" vblex ifi p3 sg
+"<:>"
+	":" sent
+
+– 
+"<Nem>"
+	"nem" cnjcoo
+"<velhinha>"
+	"*velhinha"
+"<nem>"
+	"nem" cnjcoo
+"<velhão>"
+	"*velhão"
+"<,>"
+	"," cm
+"<roda>"
+	"roda" n f sg
+	"rodar" vblex pri p3 sg
+;	"rodar" vblex imp p2 sg REMOVE:303
+"<cabacinha>"
+	"*cabacinha"
+"<,>"
+	"," cm
+"<roda>"
+	"roda" n f sg
+	"rodar" vblex pri p3 sg
+;	"rodar" vblex imp p2 sg REMOVE:303
+"<cabação>"
+	"*cabação"
+
+
+"<Pouco depois>"
+	"pouco depois" adv
+"<chegou>"
+	"chegar" vblex ifi p3 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<casa>"
+	"casa" n f sg
+	"casar" vblex pri p3 sg
+;	"casar" vblex imp p2 sg REMOVE:303
+"<em>"
+	"em" pr
+"<segurança>"
+	"segurança" n f sg
+	"segurança" n mf sg
+"<,>"
+	"," cm
+"<bateu>"
+	"bater" vblex ifi p3 sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" prn pro p3 f sg
+	"o" det def f sg
+;	"a" pr REMOVE:155
+"<cabaça>"
+	"*cabaça"
+"<numa>"
+	"em" pr
+		"um" det ind f sg
+"<grande>"
+	"grande" adj mf sg
+"<pedra>"
+	"pedra" n f sg
+"<que>"
+	"que" rel an mf sp SELECT:316
+;	"que" cnjsub SELECT:316
+;	"que" prn itg mf sg SELECT:316
+"<estava>"
+	"estar" vblex pii p3 sg SELECT:297
+;	"estar" vblex pii p1 sg SELECT:297
+"<perto>"
+	"perto" adv
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<porta>"
+	"porta" n f sg
+;	"portar" vblex pri p3 sg REMOVE:213
+;	"portar" vblex imp p2 sg REMOVE:303
+"<e>"
+	"e" cnjcoo
+"<saiu>"
+	"sair" vblex ifi p3 sg
+"<de>"
+	"de" pr
+"<lá>"
+	"lá" adv
+"<de>"
+	"de" pr
+"<dentro>"
+	"dentro" adv
+"<.>"
+	"." sent
+
+
+
+"<A>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<continuo>"
+	"continuar" vblex pri p1 sg
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<dar>"
+	"dar" vblex inf SELECT:133
+;	"dar" vblex infps p1 sg SELECT:133
+;	"dar" vblex infps p3 sg SELECT:133
+"<os seus>"
+	"o seu" det pos m pl
+	"o seu" prn tn pos m pl
+"<passeios>"
+	"passeio" n m pl
+"<,>"
+	"," cm
+"<mas>"
+	"mas" cnjcoo
+"<noutro>"
+	"*noutro"
+"<sítio>"
+	"sítio" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+;	"de" pr
+;		"o" detnt REMOVE:151
+"<bosque>"
+	"bosque" n m sg
+"<para>"
+	"para" pr
+"<não>"
+	"não" adv
+"<se>"
+	"se" prn pro ref p3 mf sp SELECT:265
+;	"se" cnjadv SELECT:265
+"<cruzar>"
+	"cruzar" vblex inf
+	"cruzar" vblex fts p1 sg
+	"cruzar" vblex fts p3 sg
+	"cruzar" vblex infps p1 sg
+	"cruzar" vblex infps p3 sg
+"<novamente>"
+	"novamente" adv
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:167
+;	"o" detnt REMOVE:149
+;	"o" prn pro p3 m sg SELECT:167
+;	"o" prn pro p3 nt SELECT:167
+"<lobo>"
+	"lobo" n m sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<raposa>"
+	"*raposa"
+"<e>"
+	"e" cnjcoo
+"<eles>"
+	"ele" prn tn p3 m pl
+"<ainda>"
+	"ainda" adv
+"<hoje>"
+	"hoje" adv
+"<continuam>"
+	"continuar" vblex pri p3 pl
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<espera>"
+	"espera" n f sg
+	"esperar" vblex pri p3 sg
+;	"esperar" vblex imp p2 sg REMOVE:303
+"<que>"
+	"que" cnjsub
+	"que" rel an mf sp
+;	"que" prn itg mf sg REMOVE:293
+"<a>"
+	"a" pr
+	"o" det def f sg
+	"o" prn pro p3 f sg
+"<velhinha>"
+	"*velhinha"
+"<volte>"
+	"voltar" vblex prs p3 sg
+	"voltar" vblex prs p1 sg
+;	"voltar" vblex imp p3 sg REMOVE:313
+"<do>"
+	"de" pr
+		"o" det def m sg
+;	"de" pr
+;		"o" detnt REMOVE:151
+"<casamento>"
+	"casamento" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<filha>"
+	"filho" n f sg
+"<.>"
+	"." sent
+
+"<.>"
+	"." sent
+
+
+
