@@ -4418,6 +4418,3136 @@
 "<.>"
 	"." sent
 
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg SELECT:138
+"<comunidade>"
+	"comunidade" n f sg
+"<autónoma>"
+	"autónomo" adj f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Espanha>"
+	"Espanha" np loc
+"<,>"
+	"," cm
+"<situada>"
+	"situar" vblex pp f sg
+"<a>"
+	"a" pr
+"<nordeste>"
+	"nordeste" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<península>"
+	"península" n f sg
+"<Ibérica>"
+	"ibérico" adj f sg
+"<.>"
+	"." sent
+
+"<Ocupa>"
+	"ocupar" vblex pri p3 sg
+"<um>"
+	"um" det ind m sg SELECT:288
+"<território>"
+	"território" n m sg
+"<de>"
+	"de" pr
+"<cerca de>"
+	"cerca de" pr
+"<32.000>"
+	"32.000" num
+"<km²>"
+	"km²" n m sp
+"<,>"
+	"," cm
+"<limitada>"
+	"limitar" vblex pp f sg
+"<a>"
+	"a" pr
+"<norte>"
+	"norte" n m sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<França>"
+	"França" np loc
+"<e>"
+	"e" cnjcoo
+"<por>"
+	"por" pr
+"<Andorra>"
+	"Andorra" np loc
+"<,>"
+	"," cm
+"<a>"
+	"a" pr REMOVE:150
+"<leste>"
+	"leste" n m sg
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg
+"<Mar>"
+	"mar" n m sg
+"<Mediterrâneo>"
+	"Mediterrâneo" n m sg
+"<,>"
+	"," cm
+"<a>"
+	"a" pr
+"<sul>"
+	"sul" n m sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<Comunidade>"
+	"comunidade" n f sg
+"<Valenciana>"
+	"valenciano" adj f sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"a" pr
+"<oeste>"
+	"oeste" n m sg
+"<com>"
+	"com" pr
+"<Aragão>"
+	"Aragão" np loc
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg SELECT:202
+"<capital>"
+	"capital" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg SELECT:138
+"<cidade>"
+	"cidade" n f sg
+"<de>"
+	"de" pr
+"<Barcelona>"
+	"Barcelona" np loc
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<reconhecida>"
+	"reconhecer" vblex pp f sg
+"<como>"
+	"como" rel adv
+"<uma>"
+	"um" det ind f sg SELECT:288
+"<nacionalidade>"
+	"nacionalidade" n f sg
+"<no seu>"
+	"em" pr
+		"o seu" det pos m sg
+"<Estatuto>"
+	"estatuto" n m sg
+"<de>"
+	"de" pr
+"<Autonomia>"
+	"autonomia" n f sg
+"<,>"
+	"," cm
+"<enquanto>"
+	"enquanto" cnjadv
+"<o>"
+	"o" det def m sg
+"<artigo>"
+	"artigo" n m sg
+"<segundo>"
+	"segundo" pr
+;	"segundo" adj m sg
+;	"segundo" n m sg REMOVE:220
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Constituição>"
+	"constituição" n f sg
+"<Espanhola>"
+	"espanhol" adj f sg
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<refere>"
+	"referir" vblex pri p3 sg
+"<a>"
+	"o" det def f sg SELECT:288
+"<nacionalidade>"
+	"nacionalidade" n f sg
+"<histórica>"
+	"histórico" adj f sg
+"<,>"
+	"," cm
+"<reconhecendo>"
+	"reconhecer" vblex ger
+"<e>"
+	"e" cnjcoo
+"<garantindo>"
+	"garantir" vblex ger
+"<o>"
+	"o" det def m sg
+"<direito>"
+	"direito" n m sg
+"<à sua>"
+	"a" pr
+		"o seu" det pos f sg
+"<autonomia>"
+	"autonomia" n f sg
+"<.>"
+	"." sent
+
+"<De acordo>"
+	"de acordo" adv
+"<com>"
+	"com" pr
+"<dados>"
+	"dado" n m pl
+"<estatísticos>"
+	"estatístico" adj m pl
+"<oficiais>"
+	"oficial" adj mf pl
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg SELECT:288
+"<população>"
+	"população" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<em>"
+	"em" pr
+"<finais>"
+	"final" n m pl
+"<de>"
+	"de" pr
+"<2006>"
+	"2006" num
+"<era>"
+	"ser" vbser pii p3 sg
+"<de>"
+	"de" pr
+"<7.134.697>"
+	"7.134.697" num
+"<habitantes>"
+	"habitante" n mf pl
+"<,>"
+	"," cm
+"<constituindo>"
+	"constituir" vblex ger
+"<16%>"
+	"16%" num percent
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<total>"
+	"total" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<população>"
+	"população" n f sg
+"<de>"
+	"de" pr
+"<Espanha>"
+	"Espanha" np loc
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<2012>"
+	"2012" num
+"<,>"
+	"," cm
+"<segundo>"
+	"segundo" pr SELECT:242
+"<o>"
+	"o" det def m sg
+"<Instituto>"
+	"instituto" n m sg
+"<de>"
+	"de" pr
+"<Estatística>"
+	"estatística" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<(>"
+	"(" lpar
+"<INDESCAT>"
+	"INDESCAT" np al
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg SELECT:288
+"<população>"
+	"população" n f sg
+"<desta>"
+	"de" pr
+		"este" det dem f sg
+"<região>"
+	"região" n f sg
+"<soma>"
+	"somar" vblex pri p3 sg
+"<7.570.908>"
+	"7.570.908" num
+"<habitantes>"
+	"habitante" n mf pl
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:202
+"<dados>"
+	"dado" n m pl SELECT:172
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<mesmo>"
+	"mesmo" adj m sg
+"<ano>"
+	"ano" n m sg
+"<revelam>"
+	"revelar" vblex pri p3 pl
+"<que>"
+	"que" cnjsub SELECT:226
+"<1.443.480>"
+	"1.443.480" num
+"<pessoas>"
+	"pessoa" n f pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<imigrantes>"
+	"imigrante" n mf pl
+"<de>"
+	"de" pr
+"<outras>"
+	"outro" det ind f pl SELECT:186
+"<zonas>"
+	"zona" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<estado>"
+	"estado" n m sg
+"<espanhol>"
+	"espanhol" adj m sg
+"<(>"
+	"(" lpar
+"<sendo>"
+	"ser" vbser ger
+"<a>"
+	"o" det def f sg SELECT:288
+"<maioria>"
+	"maioria" n f sg
+"<de>"
+	"de" pr
+"<Andaluzia>"
+	"Andaluzia" np loc
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<1.342.271>"
+	"1.342.271" num
+"<são>"
+	"ser" vbser pri p3 pl
+"<provenientes>"
+	"proveniente" adj mf pl
+"<de>"
+	"de" pr
+"<outras>"
+	"outro" det ind f pl SELECT:186
+"<zonas>"
+	"zona" n f pl
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Europa>"
+	"Europa" np loc f sg
+"<e>"
+	"e" cnjcoo
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<mundo>"
+	"mundo" n m sg
+"<,>"
+	"," cm
+"<sendo>"
+	"ser" vbser ger
+"<os>"
+	"o" det def m pl
+"<marroquinos>"
+	"marroquino" n m pl
+"<,>"
+	"," cm
+"<romenos>"
+	"romenos" n m pl
+"<e>"
+	"e" cnjcoo
+"<equadorenhos>"
+	"equadorenhos" n m pl
+"<,>"
+	"," cm
+"<por>"
+	"por" pr
+"<esta>"
+	"este" det dem f sg SELECT:164
+"<ordem>"
+	"ordem" n f sg
+"<de>"
+	"de" pr
+"<grandeza>"
+	"grandeza" n f sg
+"<decrescente>"
+	"decrescente" adj mf sg
+"<,>"
+	"," cm
+"<os>"
+	"o" det def m pl
+"<mais>"
+	"mais" adv
+"<representados>"
+	"representar" vblex pp m pl
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg SELECT:202
+"<primeiro>"
+	"primeiro" adj m sg
+"<povoamento>"
+	"povoamento" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<região>"
+	"região" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<datada>"
+	"datar" vblex pp f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<época>"
+	"época" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Paleolítico Medio>"
+	"Paleolítico Medio" n m sg
+
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:202
+"<vestígios>"
+	"vestígio" n m pl
+"<mais>"
+	"mais" adv
+"<antigos>"
+	"antigo" adj m pl
+"<encontrados>"
+	"encontrar" vblex pp m pl
+"<correspondem>"
+	"corresponder" vblex pri p3 pl
+"<à>"
+	"a" pr
+		"o" det def f sg
+"<mandíbula>"
+	"mandíbula" n f sg
+"<de>"
+	"de" pr
+"<um>"
+	"um" det ind m sg
+"<pré>"
+	"pré" adj mf sp
+"<->"
+	"-" guio
+"<Neandertal>"
+	"neandertal" n m sg
+"<encontrada>"
+	"encontrar" vblex pp f sg
+"<em>"
+	"em" pr
+"<Banyoles>"
+	"Banyoles" np loc
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<25.000>"
+	"25.000" num
+"<anos>"
+	"ano" n m pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg SELECT:202
+"<colonização>"
+	"colonização" n f sg
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<idade>"
+	"idade" n f sg
+"<antiga>"
+	"antigo" adj f sg
+"<deu-se>"
+	"dar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<em>"
+	"em" pr
+"<duas>"
+	"dois" num f sp
+"<etapas>"
+	"etapa" n f pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg SELECT:182
+"<primeira>"
+	"primeiro" adj f sg
+"<etapa>"
+	"etapa" n f sg
+"<deu-se>"
+	"dar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<início>"
+	"início" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<colonização>"
+	"colonização" n f sg
+"<pelos>"
+	"por" pr
+		"o" det def m pl
+"<Gregos>"
+	"grego" n m pl
+"<e>"
+	"e" cnjcoo
+"<Cartagineses>"
+	"cartagineses" n m pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg SELECT:182
+"<segunda>"
+	"segundo" adj f sg
+"<etapa>"
+	"etapa" n f sg
+"<corresponde>"
+	"corresponder" vblex pri p3 sg
+"<a>"
+	"a" pr
+"<romanização>"
+	"romanização" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<iniciada>"
+	"iniciar" vblex pp f sg
+"<em>"
+	"em" pr
+"<218>"
+	"218" num
+"<a.C.>"
+	"a.C." abbr
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg SELECT:182
+"<atual>"
+	"atual" adj mf sg
+"<território>"
+	"território" n m sg
+"<catalão>"
+	"catalão" n m sg
+"<foi>"
+	"ser" vbser ifi p3 sg SELECT:180
+"<primeiro>"
+	"primeiro" adj m sg
+"<englobado>"
+	"englobar" vblex pp m sg
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<província>"
+	"província" n f sg
+"<chamada>"
+	"chamar" vblex pp f sg
+"<Hispânia Citerior>"
+	"Hispânia Citerior" np loc
+"<,>"
+	"," cm
+"<para>"
+	"para" pr
+"<formar>"
+	"formar" vblex inf SELECT:128
+"<parte>"
+	"parte" n f sg
+"<desde>"
+	"desde" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<ano>"
+	"ano" n m sg
+"<de>"
+	"de" pr
+"<27>"
+	"27" num
+"<a.C.>"
+	"a.C." abbr
+"<a>"
+	"o" det def f sg
+"<Tarraconense>"
+	"Tarraconense" np loc
+"<,>"
+	"," cm
+"<cuja>"
+	"cujo" rel aa f sg
+"<capital>"
+	"capital" n f sg
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<Tarraco>"
+	"Tarraco" np loc
+"<(>"
+	"(" lpar
+"<atual>"
+	"atual" adj mf sg
+"<Tarragona>"
+	"Tarragona" np loc
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<crise>"
+	"crise" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<III>"
+	"III" num mf sp
+"<que>"
+	"que" rel an mf sp
+"<afetou>"
+	"afetar" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<Império>"
+	"império" n m sg
+"<Romano>"
+	"romano" adj m sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<foi>"
+	"ser" vbser ifi p3 sg SELECT:132
+"<afetada>"
+	"afetar" vblex pp f sg
+"<gravemente>"
+	"gravemente" adv
+"<com>"
+	"com" pr
+"<destruição>"
+	"destruição" n f sg
+"<e>"
+	"e" cnjcoo
+"<abandono>"
+	"abandonar" vblex pri p1 sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<vilas>"
+	"vila" n f pl
+"<romanas>"
+	"romano" adj f pl
+"<.>"
+	"." sent
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<V>"
+	"V" num mf sp
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<invasão>"
+	"invasão" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<povos>"
+	"povo" n m pl
+"<germânicos>"
+	"germânicos" adj m pl
+"<,>"
+	"," cm
+"<os>"
+	"o" det def m pl
+"<Visigodos>"
+	"Visigodos" n m pl 
+"<instalaram-se>"
+	"instalar" vblex ifi p3 pl SELECT:274
+		"se" prn enc ref p3 mf sp
+"<em>"
+	"em" pr
+"<Tarraconense>"
+	"Tarraconense" np loc
+"<e>"
+	"e" cnjcoo
+"<em>"
+	"em" pr
+"<475>"
+	"475" num
+"<o>"
+	"o" det def m sg
+"<rei>"
+	"rei" n m sg
+"<visigodo>"
+	"visigodo" np ant
+"<Eurico>"
+	"Eurico" np ant
+"<formou>"
+	"formar" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<Reino>"
+	"reino" n m sg
+"<Visigodo>"
+	"Visigodo" np loc
+"<de>"
+	"de" pr
+"<Tolosa>"
+	"Tolosa" np loc
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl
+"<Visigodos>"
+	"Visigodos" n m pl
+"<dominaram>"
+	"dominar" vblex ifi p3 pl SELECT:274
+"<a>"
+	"o" det def f sg SELECT:288
+"<região>"
+	"região" n f sg
+"<até>"
+	"até" pr
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<VIII>"
+	"VIII" num mf sp
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<711>"
+	"711" num
+"<,>"
+	"," cm
+"<os>"
+	"o" det def m pl
+"<Árabes>"
+	"árabe" adj mf pl
+"<iniciam>"
+	"iniciar" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<conquista>"
+	"conquista" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Península>"
+	"península" n f sg
+"<Ibérica>"
+	"ibérico" adj f sg
+"<,>"
+	"," cm
+"<algumas>"
+	"algum" det ind f pl SELECT:208
+"<batalhas>"
+	"batalha" n f pl
+"<tomaram>"
+	"tomar" vblex ifi p3 pl SELECT:274
+"<conta>"
+	"conta" n f sg
+"<de>"
+	"de" pr
+"<região>"
+	"região" n f sg
+"<principalmente>"
+	"principalmente" adv
+"<em>"
+	"em" pr
+"<Tarragona>"
+	"Tarragona" np loc
+"<.>"
+	"." sent
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<último>"
+	"último" adj m sg
+"<quarto>"
+	"quarto" adj m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<VIII>"
+	"VIII" num mf sp
+"<veio>"
+	"vir" vblex ifi p3 sg
+"<a>"
+	"o" det def f sg SELECT:288
+"<reacção>"
+	"reacção" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<carolíngios>"
+	"carolíngios" n m pl
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<conseguiram>"
+	"conseguir" vblex ifi p3 pl SELECT:274
+"<o>"
+	"o" det def m sg
+"<domínio>"
+	"domínio" n m sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<actuais>"
+	"actual" adj mf pl
+"<cidades>"
+	"cidade" n f pl
+"<de>"
+	"de" pr
+"<Girona>"
+	"Girona" np loc
+"<e>"
+	"e" cnjcoo
+"<Barcelona>"
+	"Barcelona" np loc
+"<.>"
+	"." sent
+
+"<No final do>"
+	"no final de" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<IX>"
+	"IX" num mf sp
+"<,>"
+	"," cm
+"<Carlos>"
+	"Carlos" np ant
+"<II>"
+	"II" num mf sp
+"<(>"
+	"(" lpar
+"<ou>"
+	"ou" cnjcoo
+"<Carlos>"
+	"Carlos" np ant
+"<,>"
+	"," cm
+"<«>"
+	"«" guio
+"<o>"
+	"o" det def m sg
+"<Calvo>"
+	"calvo" adj m sg
+"<»>"
+	"»" guio
+"<)>"
+	")" rpar
+"<nomeou>"
+	"nomear" vblex ifi p3 sg
+"<Vifredo>"
+	"Vifredo" np ant
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<Veloso>"
+	"veloso" adj m sg
+"<Conde>"
+	"conde" n m sg
+"<de>"
+	"de" pr
+"<Barcelona>"
+	"Barcelona" np loc
+"<e>"
+	"e" cnjcoo
+"<Gerunda>"
+	"Gerunda" np loc
+"<.>"
+	"." sent
+
+"<Somente>"
+	"somente" adv
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<seguinte>"
+	"seguinte" adj mf sg
+"<houve>"
+	"haver" vblex ifi p3 sg SELECT:276
+"<independência>"
+	"independência" n f sg
+"<em>"
+	"em" pr
+"<relação>"
+	"relação" n f sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<poder>"
+	"poder" n m sg
+"<carolíngio>"
+	"carolíngio" adj m sg
+"<.>"
+	"." sent
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<XI>"
+	"XI" num mf sp
+"<desenvolveu-se>"
+	"desenvolver" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<uma>"
+	"um" det ind f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<feudal>"
+	"feudal" adj f sg
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<casamento>"
+	"casamento" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<conde>"
+	"conde" n m sg
+"<Ramón>"
+	"Ramón" np ant
+"<Berenguer>"
+	"Berenguer" np cog
+"<IV>"
+	"IV" num mf sp
+"<(>"
+	"(" lpar
+"<do>"
+	"de" pr
+		"o" det def m sg
+;	"de" pr
+;		"o" detnt REMOVE:148
+"<Condado>"
+	"condado" n m sg
+"<de>"
+	"de" pr
+"<Barcelona>"
+	"Barcelona" np loc
+"<)>"
+	")" rpar
+"<com>"
+	"com" pr
+"<Petronila>"
+	"Petronila" np ant
+"<de>"
+	"de" pr
+"<Aragão>"
+	"Aragão" np loc
+"<(>"
+	"(" lpar
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Reino>"
+	"reino" n m sg
+"<de>"
+	"de" pr
+"<Aragão>"
+	"Aragão" np loc
+"<)>"
+	")" rpar
+"<formou-se>"
+	"formar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<como>"
+	"como" rel adv
+"<confederação>"
+	"confederação" n f sg
+"<a>"
+	"o" det def f sg
+"<Coroa>"
+	"coroa" n f sg
+"<de>"
+	"de" pr
+"<Aragão>"
+	"Aragão" np loc
+"<,>"
+	"," cm
+"<mantendo>"
+	"manter" vblex ger
+"<ambos>"
+	"ambos" prn tn m pl
+"<,>"
+	"," cm
+"<reino>"
+	"reino" n m sg
+"<e>"
+	"e" cnjcoo
+"<condado>"
+	"condado" n m sg
+"<,>"
+	"," cm
+"<suas>"
+	"seu" det pos f pl SELECT:182
+"<próprias>"
+	"próprio" adj f pl
+"<instituições>"
+	"instituição" n f pl
+"<administrativas>"
+	"administrativo" adj f pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg SELECT:202
+"<expansão>"
+	"expansão" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Coroa>"
+	"coroa" n f sg
+"<de>"
+	"de" pr
+"<Aragão>"
+	"Aragão" np loc
+"<,>"
+	"," cm
+"<teve>"
+	"ter" vblex ifi p3 sg
+"<início>"
+	"início" n m sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg
+"<conquista>"
+	"conquista" n f sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<cidades>"
+	"cidade" n f pl
+"<de>"
+	"de" pr
+"<Lérida>"
+	"Lérida" np loc
+"<,>"
+	"," cm
+"<Tortosa>"
+	"Tortosa" np loc
+"<,>"
+	"," cm
+"<Reino>"
+	"reino" n m sg
+"<de>"
+	"de" pr
+"<Maiorca>"
+	"Maiorca" np loc
+"<(>"
+	"(" lpar
+"<nas>"
+	"em" pr
+		"o" det def f pl
+"<Ilhas>"
+	"ilha" n f pl
+"<Baleares>"
+        "Baleares" np loc
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<Reino>"
+	"reino" n m sg
+"<de>"
+	"de" pr
+"<Valência>"
+	"Valência" np loc
+"<(>"
+	"(" lpar
+"<que>"
+	"que" rel an mf sp
+"<permaneceu>"
+	"permanecer" vblex ifi p3 sg
+"<com>"
+	"com" pr
+"<corte>"
+	"corte" n m sg
+"<própria>"
+	"próprio" adj f sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<Coroa>"
+	"coroa" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Sicília>"
+	"Sicília" np loc
+"<,>"
+	"," cm
+"<Minorca>"
+	"Minorca" np loc
+"<(>"
+	"(" lpar
+"<nas>"
+	"em" pr
+		"o" det def f pl
+"<Ilhas>"
+	"ilha" n f pl
+"<Baleares>"
+	"Baleares" np loc
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<Sardenha>"
+	"Sardenha" np loc
+"<(>"
+	"(" lpar
+"<ilha>"
+	"ilha" n f sg
+"<italiana>"
+	"italiano" adj f sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<Até>"
+	"até" pr
+"<às>"
+	"a" pr
+		"o" det def f pl
+"<primeiras>"
+	"primeiro" adj f pl
+"<décadas>"
+	"década" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<XIV>"
+	"XIV" num mf sp
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<coroa>"
+	"coroa" n f sg
+"<teve>"
+	"ter" vblex ifi p3 sg
+"<o seu>"
+	"o seu" det pos m sg
+"<apogeu>"
+	"apogeu" n m sg
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<começou>"
+	"começar" vblex ifi p3 sg
+"<a>"
+	"a" pr
+"<mudar>"
+	"mudar" vblex inf SELECT:128
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<surgimento>"
+	"surgimento" n m sg
+"<de>"
+	"de" pr
+"<catástrofes>"
+	"catástrofe" n f pl
+"<naturais>"
+	"natural" adj mf pl
+"<,>"
+	"," cm
+"<crises>"
+	"crise" n f pl
+"<demográficas>"
+	"demográfico" adj f pl
+"<,>"
+	"," cm
+"<recessão>"
+	"recessão" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<economia>"
+	"economia" n f sg
+"<catalã>"
+	"catalão" n f sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<surgimento>"
+	"surgimento" n m sg
+"<de>"
+	"de" pr
+"<tensões>"
+	"tensão" n f pl
+"<sociais>"
+	"social" adj mf pl
+"<e>"
+	"e" cnjcoo
+"<crise>"
+	"crise" n f sg
+"<sucessora>"
+	"sucessor" n f sg
+"<(>"
+	"(" lpar
+"<o>"
+	"o" det def m sg
+"<Rei>"
+	"rei" n m sg
+"<Martin>"
+	"Martin" np ant
+"<I>"
+	"I" num mf sp
+"<não>"
+	"não" adv
+"<deixou>"
+	"deixar" vblex ifi p3 sg
+"<sucessor>"
+	"sucessor" n m sg
+"<nomeado>"
+	"nomear" vblex pp m sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<1443>"
+	"1443" num
+"<,>"
+	"," cm
+"<após>"
+	"após" pr
+"<a>"
+	"o" det def f sg
+"<conquista>"
+	"conquista" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Reino>"
+	"reino" n m sg
+"<de>"
+	"de" pr
+"<Nápoles>"
+	"Nápoles" np loc
+"<a>"
+	"o" det def f sg SELECT:288
+"<crise>"
+	"crise" n f sg
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<agravou>"
+	"agravar" vblex ifi p3 sg
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<1469>"
+	"1469" num
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<Rei>"
+	"rei" n m sg
+"<Fernando>"
+	"Fernando" np ant
+"<II>"
+	"II" num mf sp
+"<de>"
+	"de" pr
+"<Aragão>"
+	"Aragão" np loc
+"<casou-se>"
+	"casar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<com>"
+	"com" pr
+"<Isabel>"
+	"Isabel" np ant
+"<I>"
+	"I" num mf sp
+"<de>"
+	"de" pr
+"<Castela>"
+	"Castela" np loc
+"<o>"
+	"o" detnt SELECT:254
+"<que>"
+	"que" rel an mf sp SELECT:252
+"<conduziu>"
+	"conduzir" vblex ifi p3 sg
+"<a>"
+	"a" pr SELECT:242
+"<uma>"
+	"um" det ind f sg SELECT:288
+"<união>"
+	"união" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<dois>"
+	"dois" num m sp
+"<reinos>"
+	"reino" n m pl
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"o" det def f sg SELECT:288
+"<formação>"
+	"formação" n f sg
+"<de>"
+	"de" pr
+"<uma>"
+	"um" det ind f sg SELECT:164
+"<monarquia>"
+	"monarquia" n f sg
+"<espanhola>"
+	"espanhol" adj f sg
+"<.>"
+	"." sent
+
+"<Nos>"
+	"em" pr
+		"o" det def m pl
+"<séculos>"
+	"século" n m pl
+"<XVI>"
+	"XVI" num mf sp
+"<e>"
+	"e" cnjcoo
+"<XVII>"
+	"XVII" num mf sp
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<viveu>"
+	"viver" vblex ifi p3 sg
+"<um>"
+	"um" det ind m sg SELECT:288
+"<período>"
+	"período" n m sg
+"<de>"
+	"de" pr
+"<decadência>"
+	"decadência" n f sg
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:202
+"<catalães>"
+	"catalão" n m pl
+"<envolveram-se>"
+	"envolver" vblex ifi p3 pl SELECT:274
+		"se" prn enc ref p3 mf sp
+"<num>"
+	"em" pr
+		"um" det ind m sg
+"<conflito>"
+	"conflito" n m sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg SELECT:288
+"<Guerra>"
+	"guerra" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<Segadores>"
+	"segador" n m pl
+"<,>"
+	"," cm
+"<de>"
+	"de" pr
+"<1640>"
+	"1640" num
+"<até>"
+	"até" pr
+"<1652>"
+	"1652" num
+"<,>"
+	"," cm
+"<contra>"
+	"contra" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<presença>"
+	"presença" n f sg
+"<de>"
+	"de" pr
+"<tropas>"
+	"tropa" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<resto>"
+	"resto" n m sg
+;	"restar" vblex pri p1 sg REMOVE:210
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Espanha>"
+	"Espanha" np loc
+"<em>"
+	"em" pr
+"<território>"
+	"território" n m sg
+"<catalão>"
+	"catalão" n m sg
+"<,>"
+	"," cm
+"<durante>"
+	"durante" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<guerra>"
+	"guerra" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<trinta>"
+	"trinta" num mf sp
+"<anos>"
+	"ano" n m pl
+"<,>"
+	"," cm
+"<o>"
+	"o" detnt SELECT:254
+"<que>"
+	"que" rel an mf sp SELECT:252
+"<acarretou>"
+	"acarretar" vblex ifi p3 sg
+"<a>"
+	"o" det def f sg SELECT:288
+"<incorporação>"
+	"incorporação" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<reino>"
+	"reino" n m sg
+"<francês>"
+	"francês" adj m sg
+"<.>"
+	"." sent
+
+"<Durante>"
+	"durante" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<Guerra>"
+	"guerra" n f sg
+"<de>"
+	"de" pr
+"<Sucessão>"
+	"sucessão" n f sg
+"<Espanhola>"
+	"espanhol" adj f sg
+"<(>"
+	"(" lpar
+"<1701>"
+	"1701" num
+"<–>"
+	"–" guio 
+"<1713>"
+	"1713" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<apoiou>"
+	"apoiar" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<pretendente>"
+	"pretendente" n m sg
+"<austríaco>"
+	"austríaco" adj m sg
+"<(>"
+	"(" lpar
+"<tal>"
+	"tal" adv
+"<como>"
+	"como" rel adv
+"<Inglaterra>"
+	"Inglaterra" np loc f sg
+"<,>"
+	"," cm
+"<os>"
+	"o" det def m pl
+"<Países>"
+	"país" n m pl
+"<Baixos>"
+	"baixo" adj m pl
+"<e>"
+	"e" cnjcoo
+"<Portugal>"
+	"Portugal" np loc
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<assinando-se>"
+	"assinar" vblex ger
+		"se" prn enc ref p3 mf sp
+"<em>"
+	"em" pr
+"<1713>"
+	"1713" num
+"<a>"
+	"o" det def f sg SELECT:288
+"<paz>"
+	"paz" n f sg
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg
+"<Tratado>"
+	"tratado" n m sg
+"<de>"
+	"de" pr
+"<Utrecht>"
+	"Utrecht" np loc
+"<,>"
+	"," cm
+"<deixando>"
+	"deixar" vblex ger
+"<os>"
+	"o" det def m pl
+"<catalães>"
+	"catalão" n m pl
+"<abandonados>"
+	"abandonar" vblex pp m pl
+"<ao seu>"
+	"a" pr
+		"o seu" det pos m sg
+"<destino>"
+	"destino" n m sg
+"<.>"
+	"." sent
+
+"<Apesar>"
+	"apesar" cnjadv
+"<de>"
+	"de" pr
+"<conseguirem>"
+	"conseguir" vblex infps p3 pl
+;	"conseguir" vblex fts p3 pl REMOVE:210
+"<resistir>"
+	"resistir" vblex inf
+"<e>"
+	"e" cnjcoo
+"<inclusive>"
+	"inclusive" adv
+"<vencer>"
+	"vencer" vblex inf
+"<as>"
+	"o" det def f pl
+"<tropas>"
+	"tropa" n f pl
+"<borbónicas>"
+	"borbónico" adj f pl
+"<,>"
+	"," cm
+"<tal>"
+	"tal" adv
+"<como>"
+	"como" rel adv
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<Batalha>"
+	"batalha" n f sg
+"<de>"
+	"de" pr
+"<Talamanca>"
+	"Talamanca" np loc
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<avanço>"
+	"avanço" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<exército>"
+	"exército" n m sg
+"<real>"
+	"real" adj mf sg
+"<continua>"
+	"continuar" vblex pri p3 sg
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg REMOVE:160
+"<cerco>"
+	"cerco" n m sg
+"<de>"
+	"de" pr
+"<Barcelona>"
+	"Barcelona" np loc
+"<culminou>"
+	"culminar" vblex ifi p3 sg
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<Batalha>"
+	"batalha" n f sg
+"<de>"
+	"de" pr
+"<11>"
+	"11" num
+"<de>"
+	"de" pr
+"<Setembro>"
+	"setembro" n m sg
+"<de>"
+	"de" pr
+"<1714>"
+	"1714" num
+"<.>"
+	"." sent
+
+"<Apesar>"
+	"apesar" cnjadv
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<heróico>"
+	"heróico" adj m sg 
+"<combate>"
+	"combate" n m sg
+"<,>"
+	"," cm
+"<acabou>"
+	"acabar" vblex ifi p3 sg
+"<quase>"
+	"quase" adv
+"<completamente>"
+	"completamente" adv
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<oposição>"
+	"oposição" n f sg
+"<catalã>"
+	"catalão" n f sg
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<se>"
+	"se" prn pro ref p3 mf sp SELECT:258
+"<rendeu>"
+	"render" vblex ifi p3 sg
+"<às>"
+	"a" pr
+		"o" det def f pl
+"<tropas>"
+	"tropa" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<pretendente>"
+	"pretendente" n m sg
+"<francês>"
+	"francês" adj m sg
+"<a>"
+	"a" pr
+;	"o" det def f sg
+"<18>"
+	"18" num
+"<de>"
+	"de" pr
+"<Setembro>"
+	"setembro" n m sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<último>"
+	"último" adj m sg
+"<castelo>"
+	"castelo" n m sg
+"<a>"
+	"a" pr
+"<cair>"
+	"cair" vblex inf SELECT:128
+"<,>"
+	"," cm
+"<o>"
+	"o" prn pro p3 m sg
+"<de>"
+	"de" pr
+"<Cardona>"
+	"Cardona" np loc
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg SELECT:182
+"<novo>"
+	"novo" adj m sg
+"<rei>"
+	"rei" n m sg
+"<,>"
+	"," cm
+"<Filipe>"
+	"Filipe" np ant
+"<V>"
+	"V" num mf sp
+"<de>"
+	"de" pr
+"<Espanha>"
+	"Espanha" np loc
+"<(>"
+	"(" lpar
+"<conhecido>"
+	"conhecer" vblex pp m sg
+"<como>"
+	"como" rel adv
+"<Filipe>"
+	"Filipe" np ant
+"<de>"
+	"de" pr
+"<Anjou>"
+	"Anjou" np loc
+"<,>"
+	"," cm
+"<era>"
+	"ser" vbser pii p3 sg
+"<neto>"
+	"neto" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<rei>"
+	"rei" n m sg
+"<francês>"
+	"francês" adj m sg
+"<Luís>"
+	"Luís" np ant
+"<XIV>"
+	"XIV" num mf sp
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<proclamou>"
+	"proclamar" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<Decreto>"
+	"decreto" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Nova>"
+	"novo" adj f sg
+"<Planta>"
+	"planta" n f sg
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<este>"
+	"este" det dem m sg
+"<Decreto>"
+	"decreto" n m sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg SELECT:288
+"<região>"
+	"região" n f sg
+"<,>"
+	"," cm
+"<assim>"
+	"assim" adv
+"<como>"
+	"como" rel adv
+"<todas>"
+	"todo" predet f pl
+"<as>"
+	"o" det def f pl SELECT:192
+"<outras>"
+	"outro" prn tn f pl
+"<que>"
+	"que" rel an mf sp
+"<apoiaram>"
+	"apoiar" vblex ifi p3 pl SELECT:274
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<arquiduque>"
+	"arquiduque" n m sg
+"<Carlos>"
+	"Carlos" np ant
+"<de>"
+	"de" pr
+"<Áustria>"
+	"Áustria" np loc f sg
+"<,>"
+	"," cm
+"<deixou>"
+	"deixar" vblex ifi p3 sg
+"<de>"
+	"de" pr
+"<ter>"
+	"ter" vblex inf
+"<um>"
+	"um" det ind m sg
+"<governo>"
+	"governo" n m sg
+"<próprio>"
+	"próprio" adj m sg
+"<(>"
+	"(" lpar
+"<a>"
+	"o" det def f sg
+"<Generalitat>"
+	"Generalitat" np al
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<Consell>"
+	"Consell" np loc
+"<de>"
+	"de" pr
+"<Cent>"
+	"Cent" np loc
+"<(>"
+	"(" lpar
+"<Conselho>"
+	"conselho" n m sg
+"<de>"
+	"de" pr
+"<Cem>"
+	"cem" num mf sp
+"<)>"
+	")" rpar
+"<e>"
+	"e" cnjcoo
+"<restantes>"
+	"restantes" det ind mf sp REMOVE:240
+"<instituições>"
+	"instituição" n f pl
+"<de>"
+	"de" pr
+"<autogoverno>"
+	"autogoverno" n m sg
+"<catalãs>"
+	"catalão" n f pl
+"<foram>"
+	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
+"<abolidas>"
+	"abolir" vblex pp f pl
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<Nos>"
+	"em" pr
+		"o" det def m pl
+"<finais>"
+	"final" n m pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<XIX>"
+	"XIX" num mf sp
+"<nasceu>"
+	"nascer" vblex ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<movimento>"
+	"movimento" n m sg
+"<chamado>"
+	"chamar" vblex pp m sg
+"<em>"
+	"em" pr
+"<catalão>"
+	"catalão" n m sg
+"<«>"
+	"«" lquot
+"<Renaixença>"
+	"Renaixença" n f sg
+"<»>"
+	"»" rquot
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<o>"
+	"o" det def m sg
+"<início>"
+	"início" n m sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<reivindicações>"
+	"reivindicação" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<catalanismo>"
+	"catalanismo" n m sg
+"<político>"
+	"político" adj m sg
+"<.>"
+	"." sent
+
+"<Um>"
+	"um" det ind m sg
+"<representante>"
+	"representante" n mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<catalanismo>"
+	"catalanismo" n m sg
+"<político>"
+	"político" adj m sg
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<Francesc>"
+	"Francesc" np ant
+"<Cambó>"
+	"Cambó" np cog
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<1914>"
+	"1914" num
+"<,>"
+	"," cm
+"<formou-se>"
+	"formar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<a>"
+	"o" det def f sg
+"<Mancomunitat>"
+	"Mancomunitat" np al
+"<,>"
+	"," cm
+"<primeiro>"
+	"primeiro" adj m sg
+"<organismo>"
+	"organismo" n m sg
+"<administrativo>"
+	"administrativo" adj m sg
+"<de>"
+	"de" pr
+"<Catalunha>"
+	"Catalunha" np loc
+"<reconhecido>"
+	"reconhecer" vblex pp m sg
+"<pelo>"
+	"por" pr
+		"o" det def m sg
+"<Estado>"
+	"estado" n m sg
+"<Espanhol>"
+	"espanhol" adj m sg
+"<desde>"
+	"desde" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<Guerra>"
+	"guerra" n f sg
+"<de>"
+	"de" pr
+"<Sucessão>"
+	"sucessão" n f sg
+"<Espanhola>"
+	"espanhol" adj f sg
+"<.>"
+	"." sent
+
+"<Foi>"
+	"ser" vbser ifi p3 sg SELECT:132
+"<dissolvida>"
+	"dissolver" vblex pp f sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<ditadura>"
+	"ditadura" n f sg
+"<de>"
+	"de" pr
+"<Primo>"
+	"Primo" np ant
+"<de>"
+	"de" pr
+"<Rivera>"
+	"Rivera" np cog
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<ano>"
+	"ano" n m sg
+"<de>"
+	"de" pr
+"<1923>"
+	"1923" num
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<a>"
+	"o" det def f sg
+"<proclamação>"
+	"proclamação" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<II>"
+	"II" num mf sp
+"<República>"
+	"república" n f sg
+"<Espanhola>"
+	"espanhol" adj f sg
+"<,>"
+	"," cm
+"<em>"
+	"em" pr
+"<1931>"
+	"1931" num
+"<,>"
+	"," cm
+"<reconheceu-se>"
+	"reconhecer" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<a>"
+	"o" det def f sg SELECT:288
+"<Comunidade>"
+	"comunidade" n f sg
+"<Autónoma>"
+	"autónomo" adj f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<,>"
+	"," cm
+"<não obstante>"
+	"não obstante" cnjadv
+"<se>"
+	"se" prn pro ref p3 mf sp
+"<ter>"
+;	"ter" vbhaver inf SELECT:236
+	"ter" vbhaver infps p3 sg SELECT:236
+"<chegado>"
+	"chegar" vblex pp m sg
+"<a>"
+	"a" pr
+"<proclamar>"
+	"proclamar" vblex inf SELECT:128
+"<unilateralmente>"
+	"unilateralmente" adv
+"<a>"
+	"o" det def f sg SELECT:288
+"<República>"
+	"república" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<.>"
+	"." sent
+
+"<Depois de>"
+	"depois de" pr
+"<prolongadas>"
+	"prolongar" vblex pp f pl
+"<negociações>"
+	"negociação" n f pl
+"<aprovou-se>"
+	"aprovar" vblex ifi p3 sg
+		"se" prn enc ref p3 mf sp
+"<o seu>"
+	"o seu" det pos m sg SELECT:288
+"<Estatuto>"
+	"estatuto" n m sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<ano>"
+	"ano" n m sg
+"<de>"
+	"de" pr
+"<1932>"
+	"1932" num
+"<,>"
+	"," cm
+"<tendo>"
+	"ter" vbhaver ger SELECT:174
+"<sido>"
+	"ser" vbser pp m sg
+"<eleito>"
+	"eleger" vblex pp m sg SELECT:170
+"<Presidente>"
+	"presidente" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Generalitat>"
+	"Generalitat" np al
+"<Francesc>"
+	"Francesc" np ant
+"<Macià>"
+	"Macià" np cog
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<a>"
+	"o" det def f sg
+"<derrota>"
+	"derrota" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<Republicanos>"
+	"republicano" n m pl
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<Guerra>"
+	"guerra" n f sg
+"<Civil>"
+	"civil" adj mf sg
+"<(>"
+	"(" lpar
+"<1936>"
+	"1936" num
+"<->"
+	"-" guio
+"<1939>"
+	"1939" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<perdeu>"
+	"perder" vblex ifi p3 sg
+"<novamente>"
+	"novamente" adv
+"<a sua>"
+	"o seu" det pos f sg SELECT:288
+"<autonomia>"
+	"autonomia" n f sg
+"<,>"
+	"," cm
+"<todas>"
+	"todo" predet f pl
+"<as>"
+	"o" det def f pl SELECT:192
+"<instituições>"
+	"instituição" n f pl
+"<de>"
+	"de" pr
+"<autogoverno>"
+	"autogoverno" n m sg
+"<catalãs>"
+	"catalão" n f pl
+"<foram>"
+	"ser" vbser ifi p3 pl SELECT:156 SELECT:274
+"<banidas>"
+	"banir" vblex pp f pl
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<sofreu>"
+	"sofrer" vblex ifi p3 sg
+"<uma>"
+	"um" det ind f sg
+"<importante>"
+	"importante" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<pesada>"
+	"pesado" adj f sg SELECT:286
+"<repressão>"
+	"repressão" n f sg
+"<cultural>"
+	"cultural" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<linguística>"
+	"linguístico" adj f sg
+"<(>"
+	"(" lpar
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<abolição>"
+	"abolição" n f sg
+"<e>"
+	"e" cnjcoo
+"<proibição>"
+	"proibição" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<uso>"
+	"uso" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<catalão>"
+	"catalão" n m sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<por>"
+	"por" pr
+"<parte>"
+	"parte" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Estado>"
+	"estado" n m sg
+"<Nacionalista>"
+	"nacionalista" n mf sg
+"<Espanhol>"
+	"espanhol" adj m sg
+"<,>"
+	"," cm
+"<totalitário>"
+	"totalitário" n m sg
+"<e>"
+	"e" cnjcoo
+"<de>"
+	"de" pr
+"<inspiração>"
+	"inspiração" n f sg
+"<fascista>"
+	"fascista" adj f sg
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<1975>"
+	"1975" num
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<a>"
+	"o" det def f sg SELECT:164
+"<morte>"
+	"morte" n f sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<ditador>"
+	"ditador" n m sg
+"<Francisco>"
+	"Francisco" np ant
+"<Franco>"
+	"Franco" np cog 
+"<e>"
+	"e" cnjcoo
+"<o>"
+	"o" det def m sg
+"<fim>"
+	"fim" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<ditadura>"
+	"ditadura" n f sg
+"<,>"
+	"," cm
+"<recuperou>"
+	"recuperar" vblex ifi p3 sg
+"<outra>"
+	"outro" det ind f sg SELECT:288
+"<vez>"
+	"vez" n f sg
+"<a sua>"
+	"o seu" det pos f sg SELECT:288
+"<autonomia>"
+	"autonomia" n f sg
+"<.>"
+	"." sent
+
+"<Atualmente>"
+	"atualmente" adv
+"<a>"
+	"o" det def f sg
+"<Generalitat>"
+	"Generalitat" np al
+"<de>"
+	"de" pr
+"<Catalunya>"
+	"Catalunya" np loc
+"<conta>"
+	"contar" vblex pri p3 sg
+"<com>"
+	"com" pr
+"<delegações>"
+	"delegação" n f pl
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<estrangeiro>"
+	"estrangeiro" adj m sg
+"<e>"
+	"e" cnjcoo
+"<tem>"
+	"ter" vblex pri p3 sg
+"<diversas>"
+	"diverso" adj f pl
+"<competências>"
+	"competência" n f pl
+"<exclusivas>"
+	"exclusivo" adj f pl
+"<como>"
+	"como" rel adv
+"<Segurança>"
+	"segurança" n f sg
+"<e>"
+	"e" cnjcoo
+"<Educação>"
+	"educação" n f sg
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:182
+"<principais>"
+	"principal" adj mf pl
+"<sectores>"
+	"sector" n m pl
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<economia>"
+	"economia" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<são>"
+	"ser" vbser pri p3 pl
+"<o>"
+	"o" det def m sg
+"<turismo>"
+	"turismo" n m sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg SELECT:288
+"<indústria>"
+	"indústria" n f sg
+"<(>"
+	"(" lpar
+"<de>"
+	"de" pr
+"<transformação>"
+	"transformação" n f sg
+"<,>"
+	"," cm
+"<têxtil>"
+	"têxtil" adj mf sg
+"<,>"
+	"," cm
+"<química>"
+	"química" n f sg
+"<,>"
+	"," cm
+"<agroindustrial>"
+	"agroindustrial" adj mf sg
+"<)>"
+	")" rpar
+"<e>"
+	"e" cnjcoo
+"<os>"
+	"o" det def m pl
+"<serviços>"
+	"serviço" n m pl
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:182
+"<principais>"
+	"principal" adj mf pl
+"<produtos>"
+	"produto" n m pl
+"<agrícolas>"
+	"agrícola" adj mf pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<:>"
+	":" sent
+"<azeitonas>"
+	"azeitona" n f pl
+"<,>"
+	"," cm
+"<vinhos>"
+	"vinho" n m pl
+"<e>"
+	"e" cnjcoo
+"<espumantes>"
+	"espumantes" n m pl
+"<(>"
+	"(" lpar
+"<cava>"
+	"cava" n f sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<cereais>"
+	"cereal" n m pl
+"<,>"
+	"," cm
+"<milho>"
+	"milho" n m sg
+"<e>"
+	"e" cnjcoo
+"<fruta>"
+	"fruta" n f sg
+"<doce>"
+	"doce" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<,>"
+	"," cm
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<pecuária>"
+	"pecuária" n f sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<suíno>"
+	"suíno" n m sg
+"<e>"
+	"e" cnjcoo
+"<o>"
+	"o" det def m sg
+"<bovino>"
+	"bovino" n m sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<o>"
+	"o" det def m sg SELECT:182
+"<primeiro>"
+	"primeiro" adj m sg
+"<destino>"
+	"destino" n m sg
+"<turístico>"
+	"turístico" adj m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Espanha>"
+	"Espanha" np loc
+"<.>"
+	"." sent
+
+"<Os>"
+	"o" det def m pl SELECT:182
+"<principais>"
+	"principal" adj mf pl
+"<destinos>"
+	"destino" n m pl
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<são>"
+	"ser" vbser pri p3 pl
+"<:>"
+	":" sent
+"<Barcelona>"
+	"Barcelona" np loc
+"<(>"
+	"(" lpar
+"<que>"
+	"que" rel an mf sp
+"<ganhou>"
+	"ganhar" vblex ifi p3 sg
+"<grande>"
+	"grande" adj mf sg
+"<projecção>"
+	"projecção" n f sg
+"<internacional>"
+	"internacional" adj mf sg
+"<após>"
+	"após" pr
+"<sediar>"
+	"sediar" vblex inf SELECT:128
+"<os>"
+	"o" det def m pl
+"<Jogos>"
+	"jogo" n m pl
+"<Olímpicos>"
+	"olímpico" adj m pl
+"<de>"
+	"de" pr
+"<1992>"
+	"1992" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<as>"
+	"o" det def f pl
+"<praias>"
+	"praia" n f pl
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Costa Brava>"
+	"Costa Brava" np loc                 
+	                      
+"<e>"
+	"e" cnjcoo
+"<Costa Dourada>"
+	"Costa Dourada" np loc
+"<,>"
+	"," cm
+"<estações>"
+	"estação" n f pl
+"<de>"
+	"de" pr
+"<esqui>"
+	"esqui" n m sg
+"<nos>"
+	"em" pr
+		"o" det def m pl
+"<Pirenéus>"
+	"Pirenéus" np loc
+"<e>"
+	"e" cnjcoo
+"<ainda>"
+	"ainda" adv
+"<turismo>"
+	"turismo" n m sg
+"<histórico>"
+	"histórico" adj m sg
+"<(>"
+	"(" lpar
+"<em>"
+	"em" pr
+"<Tarragona>"
+	"Tarragona" np loc
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<monumentos>"
+	"monumento" n m pl
+"<romanos>"
+	"romano" adj m pl
+"<classificados>"
+	"classificar" vblex pp m pl
+"<Património>"
+	"património" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Humanidade>"
+	"humanidade" n f sg
+"<pela>"
+	"por" pr
+		"o" det def f sg
+"<UNESCO>"
+	"UNESCO" n acr f sg
+"<em>"
+	"em" pr
+"<2000>"
+	"2000" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<turismo>"
+	"turismo" n m sg
+"<cultural>"
+	"cultural" adj mf sg
+"<(>"
+	"(" lpar
+"<Figueres>"
+	"Figueres" np loc   
+"<pelo>"
+	"por" pr
+		"o" det def m sg
+"<Teatro>"
+	"teatro" n m sg
+"<->"
+	"-" guio
+"<Museu>"
+	"museu" n m sg
+"<Dalí>"
+	"Dalí" np al
+"<,>"
+	"," cm
+"<Barcelona>"
+	"Barcelona" np loc
+"<pelo>"
+	"por" pr
+		"o" det def m sg
+"<Museu>"
+	"museu" n m sg
+"<Pablo>"
+	"Pablo" np ant
+"<Picasso>"
+	"Picasso" np cog
+"<,>"
+	"," cm
+"<Fundação>"
+	"fundação" n f sg
+"<Joan>"
+	"Joan" np ant
+"<Miró>"
+	"Miró" np cog
+"<e>"
+	"e" cnjcoo
+"<Antoni>"
+	"Antoni" np ant
+"<Tàpies>"
+	"Tàpies" np cog
+"<,>"
+	"," cm
+"<além do>"
+	"além de" pr
+		"o" det def m sg
+"<conjunto>"
+	"conjunto" n m sg
+"<de>"
+	"de" pr
+"<obras>"
+	"obra" n f pl
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<arquitecto>"
+	"arquitecto" n m sg
+"<Antoní>"
+	"Antoní" np ant
+"<Gaudi>"
+	"Gaudi" np cog
+"<.>"
+	"." sent
+
+"<Do>"
+	"de" pr
+		"o" det def m sg
+"<ponto>"
+	"ponto" n m sg
+"<de>"
+	"de" pr
+"<vista>"
+	"vista" n f sg SELECT:214
+"<financeiro>"
+	"financeiro" adj m sg
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<possui>"
+	"possuir" vblex pri p3 sg
+"<instituições>"
+	"instituição" n f pl
+"<com>"
+	"com" pr
+"<grande>"
+	"grande" adj mf sg
+"<poder>"
+	"poder" n m sg
+"<,>"
+	"," cm
+"<como>"
+	"como" rel adv SELECT:190
+"<a>"
+	"o" det def f sg
+"<La Caixa>"
+	"La Caixa" np loc
+"<,>"
+	"," cm
+"<ou>"
+	"ou" cnjcoo
+"<o>"
+	"o" det def m sg
+"<Banco>"
+	"banco" n m sg
+"<Sabadell>"
+	"Sabadell" np loc
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<termos>"
+	"termo" n m pl
+"<industriais>"
+	"industrial" adj mf pl
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg SELECT:138
+"<comunidade>"
+	"comunidade" n f sg
+"<que>"
+	"que" rel an mf sp
+"<tem>"
+	"ter" vblex pri p3 sg
+"<maior>"
+	"maior" adj mf sg
+"<participação>"
+	"participação" n f sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<PIB>"
+	"PIB" n acr m sp
+"<industrial>"
+	"industrial" adj mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<território>"
+	"território" n m sg
+"<espanhol>"
+	"espanhol" adj m sg
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<25%>"
+	"25%" num percent
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg SELECT:202
+"<governo>"
+	"governo" n m sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<é>"
+	"ser" vbser pri p3 sg
+"<conhecido>"
+	"conhecer" vblex pp m sg
+"<como>"
+	"como" rel adv
+"<Generalitat>"
+	"Generalitat" np al
+"<de>"
+	"de" pr
+"<Catalunya>"
+	"Catalunya" np loc
+"<e>"
+	"e" cnjcoo
+"<consiste>"
+	"consistir" vblex pri p3 sg
+"<de>"
+	"de" pr
+"<um>"
+	"um" det ind m sg SELECT:288
+"<parlamento>"
+	"parlamento" n m sg
+"<,>"
+	"," cm
+"<um>"
+	"um" det ind m sg SELECT:288
+"<presidente>"
+	"presidente" n m sg
+"<e>"
+	"e" cnjcoo
+"<um>"
+	"um" det ind m sg SELECT:288
+"<conselho>"
+	"conselho" n m sg
+"<executivo>"
+	"executivo" adj m sg
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg SELECT:202
+"<catalão>"
+	"catalão" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg SELECT:138
+"<língua>"
+	"língua" n f sg
+"<românica>"
+	"românica" adj f sg
+"<falada>"
+	"falar" vblex pp f sg
+"<por>"
+	"por" pr
+"<cerca de>"
+	"cerca de" pr
+"<sete>"
+	"sete" num mf sp
+"<milhões>"
+	"milhão" n m pl
+"<e>"
+	"e" cnjcoo
+"<meio>"
+	"meio" n m sg
+"<de>"
+	"de" pr
+"<pessoas>"
+	"pessoa" n f pl
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<,>"
+	"," cm
+"<Ilhas>"
+	"ilha" n f pl
+"<Baleares>"
+	"Baleares" np loc
+"<e>"
+	"e" cnjcoo
+"<Andorra>"
+	"Andorra" np loc
+"<.>"
+	"." sent
+
+"<De acordo>"
+	"de acordo" adv
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<Estatuto>"
+	"estatuto" n m sg
+"<de>"
+	"de" pr
+"<Autonomia>"
+	"autonomia" n f sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<catalão>"
+	"catalão" n m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+	"o" det def f sg SELECT:138
+"<língua>"
+	"língua" n f sg
+"<oficial>"
+	"oficial" adj mf sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Catalunha>"
+	"Catalunha" np loc
+"<juntamente>"
+	"juntamente" adv
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg SELECT:164
+"<castelhano>"
+	"castelhano" n m sg
+"<,>"
+	"," cm
+"<língua>"
+	"língua" n f sg
+"<oficial>"
+	"oficial" adj mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Reino>"
+	"reino" n m sg
+"<de>"
+	"de" pr
+"<Espanha>"
+	"Espanha" np loc
+"<.>"
+	"." sent
+
+"<O>"
+	"o" det def m sg
+"<Aranês>"
+	"aranês" n m sg
+"<,>"
+	"," cm
+"<variedade>"
+	"variedade" n f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<língua>"
+	"língua" n f sg
+"<occitana>"
+	"occitana" adj f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<própria>"
+	"próprio" adj f sg
+"<e>"
+	"e" cnjcoo
+"<oficial>"
+	"oficial" adj mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Vale>"
+	"vale" n m sg
+"<de>"
+	"de" pr
+"<Arão>"
+	"Arão" np ant
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<Generalitat>"
+	"Generalitat" np al
+"<de>"
+	"de" pr
+"<Catalunya>"
+	"Catalunya" np loc
+"<tem>"
+	"ter" vbhaver pri p3 sg SELECT:236
+"<desenvolvido>"
+	"desenvolver" vblex pp m sg
+"<legislação>"
+	"legislação" n f sg
+"<que>"
+	"que" rel an mf sp
+"<promove>"
+	"promover" vblex pri p3 sg
+"<e>"
+	"e" cnjcoo
+"<protege>"
+	"proteger" vblex pri p3 sg
+"<e>"
+	"e" cnjcoo
+"<impõe>"
+	"impor" vblex pri p3 sg
+"<o>"
+	"o" det def m sg
+"<uso>"
+	"uso" n m sg
+"<social>"
+	"social" adj mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<catalão>"
+	"catalão" n m sg
+"<,>"
+	"," cm
+"<de acordo>"
+	"de acordo" adv
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg
+"<defendido>"
+	"defender" vblex pp m sg
+"<pelo>"
+	"por" pr
+		"o" det def m sg
+"<Estatuto>"
+	"estatuto" n m sg
+"<de>"
+	"de" pr
+"<Autonomia>"
+	"autonomia" n f sg
+"<.>"
+	"." sent
+
 "<Cultura>"
 	"cultura" n f sg
 "<é>"

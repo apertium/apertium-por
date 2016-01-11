@@ -92,6 +92,7 @@ LIST Ponto = "ponto" ;
 LIST Esse = "esse" ;
 LIST Cujo = "cujo" ;
 LIST Ter = "ter" ; 
+LIST Restantes = "restantes" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
 
@@ -239,7 +240,7 @@ SELECT Haver IF (0C Ter) (1C PrfPrc) ;
 
 SELECT Rel IF (-1 De) (-1/* Detnt) ;
 
-REMOVE Det + $$Number IF (1C N) (NOT 1C $$Number) ;
+REMOVE Det + $$Number IF (1C N) (NOT 1C $$Number) (NOT 0 Restantes) ;
 
 SELECT Pr IF (1C Det LINK 1 N) ;
 
@@ -305,7 +306,7 @@ REMOVE Pl2 IF (NOT -1* Pl2) (0 Pl2 OR A) ;
 
 SELECT A IF (0C A OR PrfPrc) (NOT 1 Pr) ;
 
-SELECT Det + $$Gender IF (0 Det OR Pr) (1C N + Sg + $$Gender) ;
+SELECT Det + $$Gender IF (0 Det OR Pr) (1C N + Sg + $$Gender) (NOT 0 Restantes);
 
 SELECT CA IF (0 Se) (1C Interj) ;
 

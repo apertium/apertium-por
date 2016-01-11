@@ -80,8 +80,8 @@
 </sdefs>  
   <pardefs>	  
     <pardef n="numeros">		        
-      <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>		        
-      <e><re>[0-9]+([.,][0-9]+)?%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>    
+      <e><re>[0-9]+([.,][0-9]+)*</re><p><l/><r><s n="num"/></r></p></e>		        
+      <e><re>[0-9]+([.,][0-9]+)*%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>    
     </pardef>
   
     <pardef n="emails">
@@ -104,6 +104,7 @@
     
     <pardef n="guio">          
       <e><p><l>-</l><r>-<s n="guio"/></r></p></e>    
+      <e><p><l>—</l><r>—<s n="guio"/></r></p></e>    
     </pardef>
     
     <pardef n="abbr">          
@@ -13896,6 +13897,10 @@
       <e r="LR"><p><l>à<b/>que</l><r>a<s n="pr"/><j/>o<b/>que<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>		 
       <e r="LR"><p><l>aos<b/>que</l><r>a<s n="pr"/><j/>o<b/>que<s n="rel"/><s n="an"/><s n="m"/><s n="pl"/></r></p></e>		 
       <e r="LR"><p><l>ao<b/>que</l><r>a<s n="pr"/><j/>o<b/>que<s n="rel"/><s n="an"/><s n="m"/><s n="sg"/></r></p></e>-->	 
+    </pardef>
+
+    <pardef n="a.C/.__abbr">
+      <e><p><l>.</l><r>.<s n="abbr"/></r></p></e>
     </pardef>
   
 </pardefs>  
@@ -28592,6 +28597,7 @@
     <e lm="música" a="nuboro"><i>música</i><par n="abadia__n"/></e>
     <e lm="rodapé" a="nuboro"><i>rodapé</i><par n="livro__n"/></e>
     <e lm="meteoroide" a="nuboro"><i>meteoroide</i><par n="livro__n"/></e>
+    <e lm="cerco" a=""><i>cerco</i><par n="livro__n"/></e>
     <e lm="executante" a="nuboro"><i>executante</i><par n="livro__n"/></e>
     <e lm="asteroide" a="nuboro"><i>asteroide</i><par n="livro__n"/></e>
 
@@ -28676,6 +28682,9 @@
 
     <e lm="ritual" a="nuboro"><i>ritua</i><par n="anima/l__n"/></e>
 
+    <!-- SECTION: Abbreviations -->
+
+    <e lm="a.C." a=""><i>a.C</i><par n="a.C/.__abbr"/></e>
     
 </section>  
   <section id="final" type="inconditional">            
@@ -28690,4 +28699,5 @@
     <e lm=""><par n="separ"/></e>      
     <e lm=""><par n="emails"/></e>      
     <e lm=""><par n="urls"/></e>  
-</section></dictionary>
+</section>
+</dictionary>
