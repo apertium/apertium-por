@@ -28573,9 +28573,13 @@
     <e lm="fluido" a="nuboro"><i>fluido</i><par n="livro__n"/></e>
     <e lm="antropólogo" a="nuboro"><i>antropólogo</i><par n="livro__n"/></e>
     <e lm="aglomerado" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
+    <e lm="recado" a="nuboro"><i>recado</i><par n="livro__n"/></e>
 
 
     <e lm="reencontrar" a="nuboro"><i>reencontr</i><par n="abal/ar__vblex"/></e> 
+    <e lm="mancar" a="nuboro"><i>manc</i><par n="abal/ar__vblex"/></e> 
+    <e lm="sarar" a="nuboro"><i>sar</i><par n="abal/ar__vblex"/></e> 
+    <e lm="alvoroçar" a="nuboro"><i>alvoroç</i><par n="abal/ar__vblex"/></e> 
     <e lm="aborreçar" a="nuboro"><i>aborreç</i><par n="abal/ar__vblex"/></e> 
     <e lm="ejetar" a="nuboro"><i>ejet</i><par n="abal/ar__vblex"/></e> 
     <e lm="tripular" a="nuboro"><i>tripul</i><par n="abal/ar__vblex"/></e> 
@@ -28598,6 +28602,7 @@
     <e lm="meteoroide" a="nuboro"><i>meteoroide</i><par n="livro__n"/></e>
     <e lm="executante" a="nuboro"><i>executante</i><par n="livro__n"/></e>
     <e lm="asteroide" a="nuboro"><i>asteroide</i><par n="livro__n"/></e>
+    <e lm="dito" a="nuboro"><i>dito</i><par n="livro__n"/></e>
 
 
     <e lm="exótico" a="nuboro"><i>exótic</i><par n="abert/o__adj"/></e>
