@@ -24,6 +24,7 @@ LIST Det = det ;
 LIST Prn = prn ;
 LIST N = n ;
 LIST Detnt = detnt ;
+LIST Art = (det def) ;
 
 LIST Inf = inf ;
 LIST PrfPrc = pp ;
@@ -112,6 +113,7 @@ LIST Sua = "<sua>"i ;
 LIST Vista = "<vista>"i ;
 LIST Pela = "<pela>"i ;
 LIST Pelo = "<pelo>"i ;
+LIST Ao = "<ao>"i ;
 
 LIST Guess/Inf = "\*[a-z]+[aei]r"i ;
 
@@ -260,6 +262,8 @@ SELECT Rel IF (-1C O) ;
 
 SELECT Detnt IF (1C Que) ;
 
+SELECT SUB:1 Detnt IF (1C Que) ;
+
 REMOVE Fin IF (-1C Det) ;
 
 SELECT Pro IF (-1 Rel OR Não) (0 Se) (1 Fin) ;
@@ -287,6 +291,10 @@ REMOVE Det IF (1C Prn) ;
 REMOVE NotMasc IF (0 Det) (1C Masc) ;
 
 REMOVE NotFem IF (0 Det) (1C Fem) ;
+
+REMOVE Det IF (0 Art + Fem) (1C V) ;
+
+SELECT Rel IF (-1 Ao) ;
 
 SECTION
 
