@@ -4580,8 +4580,6 @@
 	"artigo" n m sg
 "<segundo>"
 	"segundo" pr
-;	"segundo" adj m sg
-;	"segundo" n m sg REMOVE:220
 "<da>"
 	"de" pr
 		"o" det def f sg
@@ -4969,7 +4967,7 @@
 "<e>"
 	"e" cnjcoo
 "<Cartagineses>"
-	"cartagineses" n m pl
+	"cartaginês" n m pl
 "<.>"
 	"." sent
 
@@ -5141,13 +5139,13 @@
 "<povos>"
 	"povo" n m pl
 "<germânicos>"
-	"germânicos" adj m pl
+	"germânico" adj m pl
 "<,>"
 	"," cm
 "<os>"
 	"o" det def m pl
 "<Visigodos>"
-	"Visigodos" n m pl 
+	"Visigodo" n m pl 
 "<instalaram-se>"
 	"instalar" vblex ifi p3 pl SELECT:274
 		"se" prn enc ref p3 mf sp
@@ -5276,7 +5274,7 @@
 	"de" pr
 		"o" det def m pl
 "<carolíngios>"
-	"carolíngios" n m pl
+	"carolíngio" n m pl
 "<,>"
 	"," cm
 "<que>"
@@ -5327,13 +5325,13 @@
 "<,>"
 	"," cm
 "<«>"
-	"«" guio
+	"«" lquot
 "<o>"
 	"o" det def m sg
 "<Calvo>"
 	"calvo" adj m sg
 "<»>"
-	"»" guio
+	"»" rquot
 "<)>"
 	")" rpar
 "<nomeou>"
@@ -5427,8 +5425,6 @@
 "<do>"
 	"de" pr
 		"o" det def m sg
-;	"de" pr
-;		"o" detnt REMOVE:148
 "<Condado>"
 	"condado" n m sg
 "<de>"
@@ -5905,7 +5901,6 @@
 		"o" det def m sg
 "<resto>"
 	"resto" n m sg
-;	"restar" vblex pri p1 sg REMOVE:210
 "<da>"
 	"de" pr
 		"o" det def f sg
@@ -6950,7 +6945,7 @@
 "<e>"
 	"e" cnjcoo
 "<espumantes>"
-	"espumantes" n m pl
+	"espumante" n m pl
 "<(>"
 	"(" lpar
 "<cava>"
@@ -7238,7 +7233,7 @@
 "<a>"
 	"o" det def f sg
 "<La Caixa>"
-	"La Caixa" np loc
+	"La Caixa" np al
 "<,>"
 	"," cm
 "<ou>"
@@ -7248,7 +7243,7 @@
 "<Banco>"
 	"banco" n m sg
 "<Sabadell>"
-	"Sabadell" np loc
+	"Sabadell" np al
 "<.>"
 	"." sent
 
@@ -7360,7 +7355,7 @@
 "<língua>"
 	"língua" n f sg
 "<românica>"
-	"românica" adj f sg
+	"românico" adj f sg
 "<falada>"
 	"falar" vblex pp f sg
 "<por>"

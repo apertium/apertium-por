@@ -80,8 +80,8 @@
 </sdefs>  
   <pardefs>	  
     <pardef n="numeros">		        
-      <e><re>[0-9]+([.,][0-9]+)?</re><p><l/><r><s n="num"/></r></p></e>		        
-      <e><re>[0-9]+([.,][0-9]+)?%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>    
+      <e><re>[0-9]+([.,][0-9]+)*</re><p><l/><r><s n="num"/></r></p></e>		        
+      <e><re>[0-9]+([.,][0-9]+)*%</re><p><l/><r><s n="num"/><s n="percent"/></r></p></e>    
     </pardef>
   
     <pardef n="emails">
@@ -104,6 +104,7 @@
     
     <pardef n="guio">          
       <e><p><l>-</l><r>-<s n="guio"/></r></p></e>    
+      <e><p><l>–</l><r>–<s n="guio"/></r></p></e>    
     </pardef>
     
     <pardef n="abbr">          
@@ -744,6 +745,12 @@
       <e r="LR"><p><l>o<b/>vosso</l><r>o<b/>vosso<s n="det"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>    
     </pardef>
     
+    <pardef n="a.C/.__abbr">            
+      <e><p><l>.</l><r>.<s n="abbr"/></r></p></e>    
+      <e><p><l>.</l><r>.<s n="abbr"/><j/>.<s n="sent"/></r></p></e>    
+    </pardef>
+
+
     <pardef n="o__detnt">            
       <e><p><l/><r><s n="detnt"/></r></p></e>    
     </pardef>
@@ -13859,6 +13866,7 @@
       <e r="LR"><p><l>a</l><r>a<s n="pr"/></r></p></e>		 
       <e r="RL"><p><l><a/>a</l><r>a<s n="pr"/></r></p></e>		 		 
       <e r="LR"><p><l>ao</l><r>a<s n="pr"/><j/>o<s n="det"/><s n="def"/><s n="m"/><s n="sg"/></r></p></e>		 
+      <e r="LR"><p><l>ao</l><r>a<s n="pr"/><j/>o<s n="detnt"/></r></p></e>		 
       <e r="LR"><p><l>aos</l><r>a<s n="pr"/><j/>o<s n="det"/><s n="def"/><s n="m"/><s n="pl"/></r></p></e>		 
       <e r="LR"><p><l>à</l><r>a<s n="pr"/><j/>o<s n="det"/><s n="def"/><s n="f"/><s n="sg"/></r></p></e>		 
       <e r="LR"><p><l>às</l><r>a<s n="pr"/><j/>o<s n="det"/><s n="def"/><s n="f"/><s n="pl"/></r></p></e>		 
@@ -28549,7 +28557,7 @@
     <e lm="pretendente" a="nuboro"><i>pretendente</i><par n="livro__n"/></e>
     <e lm="proveniente" a="nuboro"><i>proveniente</i><par n="livro__n"/></e>
     <e lm="fascista" a="nuboro"><i>fascista</i><par n="accionista__n"/></e>
-    <e lm="Neandertal" a="nuboro"><i>Neanderta</i><par n="anima/l__n"/></e>
+    <e lm="neandertal" a="nuboro"><i>neanderta</i><par n="anima/l__n"/></e>
     <e lm="leste"><i>leste</i><par n="atletismo__n"/></e>            
     <e lm="Mediterrâneo" a="nuboro"><i>Mediterrâneo</i><par n="livro__n"/></e>
     <e lm="ofício" a="nuboro"><i>ofício</i><par n="livro__n"/></e>
@@ -28605,6 +28613,8 @@
     <e lm="salinidade" a="nuboro"><i>salinidade</i><par n="abadia__n"/></e>
     <e lm="órbita" a="nuboro"><i>órbita</i><par n="abadia__n"/></e>
     <e lm="era" a="nuboro"><i>era</i><par n="abadia__n"/></e>
+    <e lm="cava" a=""><i>cava</i><par n="abadia__n"/></e>
+    <e lm="cerco" a="nuboro"><i>cerco</i><par n="livro__n"/></e>
     <e lm="música" a="nuboro"><i>música</i><par n="abadia__n"/></e>
     <e lm="rodapé" a="nuboro"><i>rodapé</i><par n="livro__n"/></e>
     <e lm="meteoroide" a="nuboro"><i>meteoroide</i><par n="livro__n"/></e>
@@ -28695,7 +28705,11 @@
 
     <e lm="ritual" a="nuboro"><i>ritua</i><par n="anima/l__n"/></e>
 
+    <e lm="a.C." a=""><i>a.C</i><par n="a.C/.__abbr"/></e>
     
+    <e lm="eleito" a=""><i>eleito</i><par n="livro__n"/></e>
+    <e lm="seguro" a=""><i>seguro</i><par n="livro__n"/></e>
+
 </section>  
   <section id="final" type="inconditional">            
     <e lm=""><par n="separa"/></e>            
