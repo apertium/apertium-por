@@ -28552,6 +28552,7 @@
     <e lm="Neandertal" a="nuboro"><i>Neanderta</i><par n="anima/l__n"/></e>
     <e lm="leste"><i>leste</i><par n="atletismo__n"/></e>            
     <e lm="Mediterrâneo" a="nuboro"><i>Mediterrâneo</i><par n="livro__n"/></e>
+    <e lm="ofício" a="nuboro"><i>ofício</i><par n="livro__n"/></e>
 
 
 
@@ -28588,10 +28589,12 @@
     <e lm="colapsar" a="nuboro"><i>colaps</i><par n="abal/ar__vblex"/></e> 
     <e lm="aclamar" a="nuboro"><i>aclam</i><par n="abal/ar__vblex"/></e> 
     <e lm="entristecer" a="nuboro"><i>entristec</i><par n="abat/er__vblex"/></e>
-    <e lm="agastar" a="nuboro"><i>agast</i><par n="abal/ar__vblex"/></e>             
+    <e lm="agastar" a="nuboro"><i>agast</i><par n="abal/ar__vblex"/></e>  
 
 
     <e lm="performance" a="nuboro"><i>performance</i><par n="abadia__n"/></e>
+    <e lm="sepultura" a="nuboro"><i>sepultura</i><par n="abadia__n"/></e>
+    <e lm="ermida" a="nuboro"><i>ermida</i><par n="abadia__n"/></e>
     <e lm="timbre" a="nuboro"><i>timbre</i><par n="livro__n"/></e>
     <e lm="extremo" a="nuboro"><i>extremo</i><par n="livro__n"/></e>
     <e lm="salinidade" a="nuboro"><i>salinidade</i><par n="abadia__n"/></e>
@@ -28634,6 +28637,7 @@
     <e lm="heróico" a="nuboro"><i>heróic</i><par n="abert/o__adj"/></e>
     <e lm="occitano" a="nuboro"><i>occitan</i><par n="abert/o__adj"/></e>
     <e lm="românico" a="nuboro"><i>românic</i><par n="abert/o__adj"/></e>
+    <e lm="perseverando" a="nuboro"><i>perseverand</i><par n="abert/o__adj"/></e>
 
 
 
@@ -28649,6 +28653,7 @@
     <e lm="pensante" a="nuboro"><i>pensante</i><par n="agrícola__adj"/></e>
 
     <e lm="supressão" a="nuboro"><i>supress</i><par n="aceitaç/ão__n"/></e> 
+    <e lm="ermitão" a="nuboro"><i>ermit</i><par n="aceitaç/ão__n"/></e> 
     <e lm="recriação" a="nuboro"><i>recriaç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="hierarquização" a="nuboro"><i>hierarquizaç</i><par n="aceitaç/ão__n"/></e> 
     <e lm="glaciação" a="nuboro"><i>glaciaç</i><par n="aceitaç/ão__n"/></e>
