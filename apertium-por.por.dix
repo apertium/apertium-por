@@ -28558,6 +28558,7 @@
 
 
     <e lm="átomo" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
+    <e lm="objecto" a="nuboro"><i>objecto</i><par n="livro__n"/></e>
     <e lm="polo" a="nuboro"><i>polo</i><par n="livro__n"/></e>
     <e lm="subgênero" a="nuboro"><i>subgênero</i><par n="livro__n"/></e>
     <e lm="senso" a="nuboro"><i>senso</i><par n="livro__n"/></e>
@@ -28593,6 +28594,10 @@
 
 
     <e lm="performance" a="nuboro"><i>performance</i><par n="abadia__n"/></e>
+    <e lm="panela" a="nuboro"><i>panela</i><par n="abadia__n"/></e>
+    <e lm="cabaça" a="nuboro"><i>cabaça</i><par n="abadia__n"/></e>
+    <e lm="raposa" a="nuboro"><i>raposa</i><par n="abadia__n"/></e>
+    <e lm="velhinha" a="nuboro"><i>velhinha</i><par n="abadia__n"/></e>
     <e lm="sepultura" a="nuboro"><i>sepultura</i><par n="abadia__n"/></e>
     <e lm="ermida" a="nuboro"><i>ermida</i><par n="abadia__n"/></e>
     <e lm="timbre" a="nuboro"><i>timbre</i><par n="livro__n"/></e>
