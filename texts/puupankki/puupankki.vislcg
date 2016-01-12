@@ -2820,6 +2820,664 @@
 "<.>"
 	"." sent
 
+"<Anfetaminas>"
+	"anfetamina" n f sg n sg pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<substâncias>"
+	"substância" n f pl
+"<simpatomiméticas>"
+	"simpatomimético" adj f pl
+"<que>"
+	"que" rel an mf sp
+"<têm>"
+	"ter" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<estrutura>"
+	"estrutura" n f sg
+"<química>"
+	"químico" adj f sg
+"<básica>"
+	"básico" adj f sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<beta-fenetilamina>"
+	"beta-fenetilamina" n f sg
+"<.>"
+	"." sent
+
+"<Sob>"
+	"sob" pr
+"<esta>"
+	"este" det dem f sg
+"<designação>"
+	"designação" n f sg
+"<,>"
+	"," cm
+"<existem>"
+	"existir" vblex pri p3 pl
+"<três>"
+	"três" num mf sp
+"<categorias>"
+	"categoria" n f pl
+"<de>"
+	"de" pr
+"<drogas>"
+	"droga" n f pl
+"<sintéticas>"
+	"sintético" adj f pl
+"<que>"
+	"que" rel an mf sp
+"<diferem>"
+	"diferir" vblex pri p3 pl
+"<entre>"
+	"entre" pr
+"<si>"
+	"si" prn tn ref p3 mf sp
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<ponto>"
+	"ponto" n m sg
+"<de>"
+	"de" pr
+"<vista>"
+	"vista" n f sg
+"<químico>"
+	"químico" adj m sg
+"<.>"
+	"." sent
+
+"<As>"
+	"o" det def f pl
+"<anfetaminas>"
+	"anfetamina" n f pl
+"<,>"
+	"," cm
+"<propriamente>"
+	"propriamente" adv
+"<ditas>"
+	"dizer" vblex pp f pl
+"<,>"
+	"," cm
+"<são>"
+	"ser" vbser pri p3 pl
+"<a>"
+	"o" det def f sg
+"<dextroanfetamina>"
+	"dextroanfetamina" n f sg
+"<e>"
+	"e" cnjcoo
+"<a>"
+	"o" det def f sg
+"<metanfetamina>"
+	"metanfetamina" n f sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<anfetamina>"
+	"anfetamina" n f sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<uma>"
+	"um" det ind f sg
+"<droga>"
+	"droga" n f sg
+"<estimulante>"
+	"estimulante" adj mf sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<sistema>"
+	"sistema" n m sg
+"<nervoso>"
+	"nervoso" adj m sg
+"<central>"
+	"central" adj mf sg
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<provoca>"
+	"provocar" vblex pri p3 sg
+"<o>"
+	"o" det def m sg
+"<aumento>"
+	"aumento" n m sg
+"<das>"
+	"de" pr
+		"o" det def f pl
+"<capacidades>"
+	"capacidade" n f pl
+"<físicas>"
+	"físico" adj f pl
+"<e>"
+	"e" cnjcoo
+"<psíquicas>"
+	"psíquico" adj f pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<anfetamina>"
+	"anfetamina" n f sg
+"<surgiu>"
+	"surgir" vblex ifi p3 sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<século>"
+	"século" n m sg
+"<XIX>"
+	"XIX" num mf sp
+"<,>"
+	"," cm
+"<tendo>"
+	"ter" vbhaver ger
+"<sido>"
+	"ser" vbser pp m sg
+"<sintetizada>"
+	"sintetizar" vblex pp f sg
+"<pela primeira vez>"
+	"pela primeira vez" adv
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<Alemanha>"
+	"Alemanha" np loc f sg
+"<,>"
+	"," cm
+"<por>"
+	"por" pr
+"<Lazar>"
+	"Lazar" np ant
+"<Edeleanu>"
+	"Edeleanu" np cog
+"<,>"
+	"," cm
+"<em>"
+	"em" pr
+"<1887>"
+	"1887" num
+"<.>"
+	"." sent
+
+"<Cerca de>"
+	"cerca de" pr
+"<40>"
+	"40" num
+"<anos>"
+	"ano" n m pl
+"<depois>"
+	"depois" adv
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<droga>"
+	"droga" n f sg
+"<começou>"
+	"começar" vblex ifi p3 sg
+"<a>"
+	"a" pr
+"<ser>"
+	"ser" vbser inf
+"<usada>"
+	"usar" vblex pp f sg
+"<pelos>"
+	"por" pr
+		"o" det def m pl
+"<médicos>"
+	"médico" n m pl
+"<para>"
+	"para" pr
+"<aliviar>"
+	"aliviar" vblex inf
+"<fadiga>"
+	"fadiga" n f sg
+"<,>"
+	"," cm
+"<alargar>"
+	"alargar" vblex inf
+"<as>"
+	"o" det def f pl
+"<passagens>"
+	"passagem" n f pl
+"<nasais>"
+	"nasal" adj mf pl
+"<e>"
+	"e" cnjcoo
+"<bronquiais>"
+	"bronquial" adj mf pl
+"<e>"
+	"e" cnjcoo
+"<estimular>"
+	"estimular" vblex inf
+"<o>"
+	"o" det def m sg
+"<sistema>"
+	"sistema" n m sg
+"<nervoso>"
+	"nervoso" adj m sg
+"<central>"
+	"central" adj mf sg
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<1932>"
+	"1932" num
+"<,>"
+	"," cm
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<lançada>"
+	"lançar" vblex pp f sg
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<França>"
+	"França" np loc
+"<a>"
+	"o" det def f sg
+"<primeira>"
+	"primeiro" adj f sg
+"<versão>"
+	"versão" n f sg
+"<comercial>"
+	"comercial" adj mf sg
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<droga>"
+	"droga" n f sg
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<o>"
+	"o" det def m sg
+"<nome>"
+	"nome" n m sg
+"<de>"
+	"de" pr
+"<Benzedrine>"
+	"benzedrine" n m sg
+"<,>"
+	"," cm
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<forma>"
+	"forma" n f sg
+"<de>"
+	"de" pr
+"<pó>"
+	"pó" n m sg
+"<para>"
+	"para" pr
+"<inalação>"
+	"inalação" n f sg
+"<.>"
+	"." sent
+
+"<Cinco>"
+	"cinco" num mf sp
+"<anos>"
+	"ano" n m pl
+"<mais tarde>"
+	"mais tarde" adv
+"<,>"
+	"," cm
+"<a>"
+	"o" det def f sg
+"<Benzedrine>"
+	"benzedrine" n f sg
+"<surgiu>"
+	"surgir" vblex ifi p3 sg
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<forma>"
+	"forma" n f sg
+"<de>"
+	"de" pr
+"<pílulas>"
+	"pílula" n f pl
+"<,>"
+	"," cm
+"<que>"
+	"que" rel an mf sp
+"<chegou>"
+	"chegar" vblex ifi p3 sg
+"<a>"
+	"a" pr
+"<ser>"
+	"ser" vbser inf
+"<vendido>"
+	"vender" vblex pp m sg
+"<mais>"
+	"mais" adv
+"<de>"
+	"de" pr
+"<50>"
+	"50" num
+"<milhões>"
+	"milhão" n m pl
+"<de>"
+	"de" pr
+"<unidades>"
+	"unidade" n f pl
+"<nos>"
+	"em" pr
+		"o" det def m pl
+"<três>"
+	"três" num mf sp
+"<primeiros>"
+	"primeiro" adj m pl
+"<anos>"
+	"ano" n m pl
+"<após>"
+	"após" pr
+"<sua>"
+	"seu" det pos f sg
+"<introdução>"
+	"introdução" n f sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<mercado>"
+	"mercado" n m sg
+"<.>"
+	"." sent
+
+"<Atualmente>"
+	"atualmente" adv
+"<,>"
+	"," cm
+"<as>"
+	"o" det def f pl
+"<anfetaminas>"
+	"anfetamina" n f pl
+"<de>"
+	"de" pr
+"<uso>"
+	"uso" n m sg
+"<não>"
+	"não" adv
+"<terapêuticos>"
+	"terapêutico" adj m pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<proibida>"
+	"proibir" vblex pp f sg
+"<em>"
+	"em" pr
+"<vários>"
+	"vário" det ind m pl
+"<países>"
+	"país" n m pl
+"<,>"
+	"," cm
+"<incluindo>"
+	"incluir" vblex ger
+"<o>"
+	"o" det def m sg
+"<Brasil>"
+	"Brasil" np loc m sg
+"<(>"
+	"(" lpar
+"<desde>"
+	"desde" pr
+"<2011>"
+	"2011" num
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<Em>"
+	"em" pr
+"<alguns>"
+	"algum" det ind m pl
+"<países>"
+	"país" n m pl
+"<da>"
+	"de" pr
+		"o" det def f sg
+"<Europa>"
+	"Europa" np loc f sg
+"<a>"
+	"o" det def f sg
+"<substância>"
+	"substância" n f sg
+"<foi>"
+	"ser" vbser ifi p3 sg
+"<totalmente>"
+	"totalmente" adv
+"<proibida>"
+	"proibir" vblex pp f sg
+"<,>"
+	"," cm
+"<sendo>"
+	"ser" vbser ger
+"<encontrada>"
+	"encontrar" vblex pp f sg
+"<somente>"
+	"somente" adv
+"<de>"
+	"de" pr
+"<forma>"
+	"forma" n f sg
+"<clandestina>"
+	"clandestino" adj f sg
+"<,>"
+	"," cm
+"<vinda>"
+	"vir" vblex pp f sg
+"<de>"
+	"de" pr
+"<outros>"
+	"outro" det ind m pl
+"<locais>"
+	"local" n m pl
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<maior>"
+	"maior" adj mf sg
+"<parte>"
+	"parte" n f sg
+"<dos>"
+	"de" pr
+		"o" det def m pl
+"<usuários>"
+	"usuário" n m pl
+"<são>"
+	"ser" vbser pri p3 pl
+"<mulheres>"
+	"mulher" n f pl
+"<que>"
+	"que" rel an mf sp
+"<utilizam>"
+	"utilizar" vblex pri p3 pl
+"<a>"
+	"o" det def f sg
+"<droga>"
+	"droga" n f sg
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg
+"<emagrecimento>"
+	"emagrecimento" n m sg
+"<.>"
+	"." sent
+
+"<A>"
+	"o" det def f sg
+"<lis-dexanfetamina>"
+	"lis-dexanfetamina" n f sg
+"<,>"
+	"," cm
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<apresentação>"
+	"apresentação" n f sg
+"<de>"
+	"de" pr
+"<cápsulas>"
+	"cápsula" n f pl
+"<de>"
+	"de" pr
+"<liberação>"
+	"liberação" n f sg
+"<lenta>"
+	"lento" adj f sg
+"<,>"
+	"," cm
+"<(>"
+	"(" lpar
+"<o>"
+	"o" det def m sg
+"<pró-fármaco>"
+	"pró-fármaco" n m sg
+"<só>"
+	"só" adv
+"<é>"
+	"ser" vbser pri p3 sg
+"<ativado>"
+	"ativar" vblex pp m sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<ser>"
+	"ser" vbser inf
+"<administrado>"
+	"administrar" vblex pp m sg
+"<por>"
+	"por" pr
+"<via>"
+	"via" n f sg
+"<oral>"
+	"oral" adj mf sg
+"<)>"
+	")" rpar
+"<é>"
+	"ser" vbser pri p3 sg
+"<comercializado>"
+	"comercializar" vblex pp m sg
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<Brasil>"
+	"Brasil" np loc m sg
+"<,>"
+	"," cm
+"<sob>"
+	"sob" pr
+"<o>"
+	"o" det def m sg
+"<nome>"
+	"nome" n m sg
+"<comercial>"
+	"comercial" adj mf sg
+"<de>"
+	"de" pr
+"<Venvanse>"
+	"*Venvanse"
+"<,>"
+	"," cm
+"<para>"
+	"para" pr
+"<o>"
+	"o" det def m sg
+"<uso>"
+	"uso" n m sg
+"<adulto>"
+	"adulto" n m sg
+"<e>"
+	"e" cnjcoo
+"<pediátrico>"
+	"*pediátrico"
+"<no>"
+	"em" pr
+		"o" det def m sg
+"<tratamento>"
+	"tratamento" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<TDAH>"
+	"TDAH" n acr m sg
+"<(>"
+	"(" lpar
+"<Transtorno>"
+	"transtorno" n m sg
+"<do>"
+	"de" pr
+		"o" det def m sg
+"<Déficit>"
+	"déficit" n m sg
+"<de>"
+	"de" pr
+"<Atenção>"
+	"atenção" n f sg
+"<e>"
+	"e" cnjcoo
+"<Hiperatividade>"
+	"hiperatividade" n f sg
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+
+"<No>"
+	"em" pr
+		"o" det def m sg
+"<organismo>"
+	"organismo" n m sg
+"<,>"
+	"," cm
+"<o>"
+	"o" det def m sg
+"<medicamento>"
+	"medicamento" n m sg
+"<ao>"
+	"a" pr
+		"o" det def m sg
+"<ser>"
+	"ser" vbser inf
+"<metabolizado>"
+	"metabolizar" vblex pp m sg
+"<,>"
+	"," cm
+"<transforma-se>"
+	"transformar" vblex pri p3 sg
+		"se" prn enc ref p3 mf sp
+"<na>"
+	"em" pr
+		"o" det def f sg
+"<droga>"
+	"droga" n f sg
+"<ativa>"
+	"ativo" adj f sg
+"<:>"
+	":" sent
+"<Dextroanfetamina>"
+	"dextroanfetamina" n f sg
+"<.>"
+	"." sent
+
 "<Este>"
 	"este" det dem m sg
 "<artigo>"
