@@ -100,6 +100,7 @@ LIST Ter = "ter" ;
 LIST Restantes = "restantes" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
+LIST Falar = "falar" ;
 
 LIST Ter/de = "ter# de" ;
 LIST Querer = "querer" ;
@@ -107,6 +108,8 @@ LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
+
+LIST Language = "português" "inglês" "francês" ;
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
@@ -304,6 +307,7 @@ SELECT Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Adv) ;
 
 SELECT A IF (0 Bastante) (1C N) ;
 
+SELECT N IF (-1 Falar) (0 Language) ;
 
 SECTION
 
