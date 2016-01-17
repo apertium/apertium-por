@@ -41,6 +41,9 @@ LIST Masc = m ;
 LIST Fem = f ;
 LIST MascFem = mf ;
 
+LIST Ant = ant ;
+LIST Cog = cog ;
+
 LIST Sg = sg ;
 LIST Pl = pl ;
 LIST SgPl = sp ;
@@ -91,6 +94,7 @@ LIST Um = "um" ;
 LIST Algum = "algum" ;
 LIST Ponto = "ponto" ;
 LIST Esse = "esse" ;
+LIST Bastante = "bastante" ;
 LIST Cujo = "cujo" ;
 LIST Ter = "ter" ; 
 LIST Restantes = "restantes" ;
@@ -296,6 +300,11 @@ REMOVE Det IF (0 Art + Fem) (1C V) ;
 
 SELECT Rel IF (-1 Ao) ;
 
+SELECT Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Adv) ;
+
+SELECT A IF (0 Bastante) (1C N) ;
+
+
 SECTION
 
 REMOVE Interr IF (0 Que) (1* Prs BARRIER Fin) ;
@@ -323,6 +332,7 @@ REMOVE Imper IF (NOT -1* Interj) (NOT 1* Interj) (NOT 1* Excl) (NOT -1 Cm) ;
 
 SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR Se OR Não) ;
 
+#SELECT CS IF (-1C Inf) (0 Que) ;
 
 #REMOVE Interr IF (NOT 1* Quest) ;
 
@@ -332,3 +342,5 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 
 #SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
   ## em saber se 
+
+#REMOVE Cog IF (-1 Art) (0C Ant OR Cog)  ;
