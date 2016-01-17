@@ -28710,6 +28710,12 @@
     <e lm="eleito" a=""><i>eleito</i><par n="livro__n"/></e>
     <e lm="seguro" a=""><i>seguro</i><par n="livro__n"/></e>
 
+    <e lm="Catalunha"><i>Catalunha</i><par n="AC__np"/></e>            
+    <e lm="Aragão"><i>Aragão</i><par n="AC__np"/></e>            
+    <e lm="Andorra"><i>Andorra</i><par n="AC__np"/></e>            
+    <e lm="Tarragona"><i>Tarragona</i><par n="AC__np"/></e>            
+    <e lm="Beríngia"><i>Beríngia</i><par n="AC__np"/></e>            
+
 </section>  
   <section id="final" type="inconditional">            
     <e lm=""><par n="separa"/></e>            

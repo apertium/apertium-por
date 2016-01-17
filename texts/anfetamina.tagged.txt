@@ -1,5 +1,5 @@
 "<Anfetaminas>"
-	"anfetamina" n f sg n sg pl
+	"anfetamina" n f pl
 "<são>"
 	"ser" vbser pri p3 pl
 "<substâncias>"
