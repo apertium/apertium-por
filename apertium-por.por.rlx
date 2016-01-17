@@ -109,7 +109,7 @@ LIST Utilizar = "utilizar" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
 
-LIST Language = "português" "inglês" "francês" ;
+LIST Language = "português" "inglês" "francês" "albanês" "dinamarquês" "escocês" "holandês" "japonês" "libanês" "birmanes" "alemão" "espanhol" "italiano" "catalão" "sueco";
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
