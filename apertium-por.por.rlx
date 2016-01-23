@@ -11,6 +11,7 @@ SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
 LIST BOS = (>>>) sent ;
 LIST EOS = (<<<) sent ;
 
+LIST NP = np ;
 LIST V = vblex ;
 LIST Vbmod = vbmod ;
 LIST A = adj ;
@@ -128,6 +129,13 @@ LIST Quest = "?" ;
 LIST Excl = "!" ;
 LIST Cm = cm ;
 
+
+
+
+SET MascSg = (m sg) OR (m sp) OR (mf sg) OR (mf sp) ;
+SET MascPl = (m pl) OR (m sp) OR (mf pl) OR (mf sp) ;
+SET FemSg = (f sg) OR (f sp) OR (mf sg) OR (mf sp) ;
+
 SET Fin = Pri | Prs | Pii | Pis | Fti | Fts | Ifi ; 
 SET NotMasc = Fem | MascFem ;
 SET NotFem = Masc | MascFem ;
@@ -136,6 +144,8 @@ SET Gender = NotMasc | NotFem ;
 SET NotSg = Pl | SgPl ;
 SET NotPl = Sg | SgPl ;
 SET Number = NotSg | NotPl ;
+SET Barrera_Inicial_Estrict_SN = BOS OR Pr OR CS OR CA OR Rel ;
+
 
 SECTION
 
@@ -348,3 +358,16 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
   ## em saber se 
 
 #REMOVE Cog IF (-1 Art) (0C Ant OR Cog)  ;
+
+
+
+
+#nuboros rules
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
+REMOVE PrfPrc IF (-1 Barrera_Inicial_Estrict_SN) (O N OR PrfPrc + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) ;
+REMOVE PrfPrc IF (-1 Barrera_Inicial_Estrict_SN) (O N OR PrfPrc + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) ;
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$FemSg LINK 0 N OR NP) (1 A OR PrfPrc + $$FemSg) ;
+
+
+
