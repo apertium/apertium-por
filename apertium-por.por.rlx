@@ -135,6 +135,8 @@ LIST Cm = cm ;
 SET MascSg = (m sg) OR (m sp) OR (mf sg) OR (mf sp) ;
 SET MascPl = (m pl) OR (m sp) OR (mf pl) OR (mf sp) ;
 SET FemSg = (f sg) OR (f sp) OR (mf sg) OR (mf sp) ;
+SET FemPl = (f pl) OR (f sp) OR (mf pl) OR (mf sp) ;
+
 
 SET Fin = Pri | Prs | Pii | Pis | Fti | Fts | Ifi ; 
 SET NotMasc = Fem | MascFem ;
@@ -364,10 +366,22 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 
 #nuboros rules
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
+
+##jovem inteligente
+
 REMOVE PrfPrc IF (-1 Barrera_Inicial_Estrict_SN) (O N OR PrfPrc + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
+
+##escrito grande
+
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) ;
-REMOVE PrfPrc IF (-1 Barrera_Inicial_Estrict_SN) (O N OR PrfPrc + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) ;
+
+##velhos inteligentes
+
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$FemSg LINK 0 N OR NP) (1 A OR PrfPrc + $$FemSg) ;
 
+##capital antiga
 
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (O N OR A + $$FemPl LINK 0 N OR NP) (1 A OR PrfPrc + $$FemPl) ;
+
+##velhas bonitas
 
