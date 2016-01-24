@@ -19181,7 +19181,8 @@
     <e lm="outono"><i>outono</i><par n="livro__n"/></e>            
     <e lm="outubro"><i>outubro</i><par n="livro__n"/></e>            
     <e lm="ouvido"><i>ouvido</i><par n="livro__n"/></e>            
-    <e lm="ovelha"><i>ovelha</i><par n="abadia__n"/></e>            
+    <e lm="ovelha"><i>ovelha</i><par n="abadia__n"/></e> 
+    <e lm="velha"><i>velha</i><par n="abadia__n"/></e>                       
     <e lm="ovo"><i>ovo</i><par n="livro__n"/></e>            
     <e lm="oxigênio" v="br"><i>oxigênio</i><par n="livro__n"/></e>            
     <e lm="oxigénio" v="pt"><i>oxigénio</i><par n="livro__n"/></e>            
@@ -28621,6 +28622,7 @@
     <e lm="executante" a="nuboro"><i>executante</i><par n="livro__n"/></e>
     <e lm="asteroide" a="nuboro"><i>asteroide</i><par n="livro__n"/></e>
     <e lm="dito" a="nuboro"><i>dito</i><par n="livro__n"/></e>
+    <e lm="velho" a="nuboro"><i>velho</i><par n="livro__n"/></e>
 
 
     <e lm="exótico" a="nuboro"><i>exótic</i><par n="abert/o__adj"/></e>
