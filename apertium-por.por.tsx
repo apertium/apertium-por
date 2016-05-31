@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tagger name="">
 	<tagset>
+		<def-label name="LQUOT">
+			<tags-item tags="lquot"/>
+		</def-label> 
+		<def-label name="RQUOT">
+			<tags-item tags="rquot"/>
+		</def-label> 
 		<def-label name="VTENERINFPS" closed="true">
 			<tags-item lemma="ter" tags="vblex.infps.*"/>
 		</def-label>
