@@ -14933,7 +14933,7 @@
     <e lm="a contragosto"><i>a<b/>contragosto</i><par n="Op.Cit.__adv"/></e>
     <e lm="a esmo"><i>a<b/>esmo</i><par n="Op.Cit.__adv"/></e>
     <e lm="a granel"><i>a<b/>granel</i><par n="Op.Cit.__adv"/></e>
-    <e lm="a guisa de"><i>a<b/>guisa<b/>de</i><par n="Op.Cit.__adv"/></e>
+    <e lm="a guisa de"><i>a<b/>guisa<b/></i><par n="/de__pr"/></e>
     <e lm="a mais"><i>a<b/>mais</i><par n="Op.Cit.__adv"/></e>
     <e lm="a não ser que"><i>a<b/>não<b/>ser<b/>que</i><par n="Op.Cit.__adv"/></e>
     <e lm="a passo forçado"><i>a<b/>passo<b/>forçado</i><par n="Op.Cit.__adv"/></e>
@@ -14975,6 +14975,7 @@
     <e lm="actualmente" v="pt"><i>actualmente</i><par n="Op.Cit.__adv"/></e>
     <e lm="acústicamente"><i>acústicamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="ademais"><i>ademais</i><par n="Op.Cit.__adv"/></e>
+    <e lm="ademais de"><i>ademais<b/></i><par n="/de__pr"/></e>
     <e lm="adentro"><i>adentro</i><par n="Op.Cit.__adv"/></e>
     <e lm="adequadamente"><i>adequadamente</i><par n="Op.Cit.__adv"/></e>
     <e lm="aderentemente"><i>aderentemente</i><par n="Op.Cit.__adv"/></e>
@@ -15086,7 +15087,7 @@
     <e lm="ao meio"><i>ao<b/>meio</i><par n="Op.Cit.__adv"/></e>
     <e lm="ao mesmo tempo"><i>ao<b/>mesmo<b/>tempo</i><par n="Op.Cit.__adv"/></e>
     <e lm="ao redor"><i>ao<b/>redor</i><par n="Op.Cit.__adv"/></e>
-    <e lm="ao som de"><i>ao<b/>som<b/>de</i><par n="Op.Cit.__adv"/></e>
+    <e lm="ao som de"><i>ao<b/>som<b/></i><par n="/de__pr"/></e>
     <e lm="ao todo"><i>ao<b/>todo</i><par n="Op.Cit.__adv"/></e>
     <e lm="ao vivo"><i>ao<b/>vivo</i><par n="Op.Cit.__adv"/></e>
     <e lm="aonde"><i>aonde</i><par n="aonde__adv"/></e>
@@ -15682,7 +15683,7 @@
     <e lm="em ligeira subida" r="LR"><i>em<b/>ligeira<b/>subida</i><par n="Op.Cit.__adv"/></e>
     <e lm="em longo prazo"><i>em<b/>longo<b/>prazo</i><par n="Op.Cit.__adv"/></e>
     <e lm="em massa"><i>em<b/>massa</i><par n="Op.Cit.__adv"/></e>
-    <e lm="em matéria de"><i>em<b/>matéria<b/>de</i><par n="Op.Cit.__adv"/></e>
+    <e lm="em matéria de"><i>em<b/>matéria<b/></i><par n="/de__pr"/></e>
     <e lm="em media"><i>em<b/>media</i><par n="Op.Cit.__adv"/></e>
     <e lm="em mãos"><i>em<b/>mãos</i><par n="Op.Cit.__adv"/></e>
     <e lm="em médio prazo"><i>em<b/>médio<b/>prazo</i><par n="Op.Cit.__adv"/></e>
