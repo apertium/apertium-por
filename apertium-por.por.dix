@@ -21190,6 +21190,7 @@
     <e lm="presente a"><i>presente<b/></i><par n="/a__pr"/></e>
     <e lm="próximo de"><i>próximo<b/></i><par n="/de__pr"/></e>
     <e lm="segundo"><i>segundo</i><par n="a__pr"/></e>
+    <e lm="segundo"><i>segundo</i><par n="a__pr"/></e>
     <e lm="sem"><i>sem</i><par n="a__pr"/></e>
     <e lm="sob"><i>sob</i><par n="a__pr"/></e>
     <e lm="sobre"><i>sobre</i><par n="a__pr"/></e>
@@ -23057,7 +23058,6 @@
     <e lm="compatibilizar"><i>compatibiliz</i><par n="abal/ar__vblex"/></e>
     <e lm="conclave"><i>conclave</i><par n="livro__n"/></e>
     <e lm="conforme"><i>conforme</i><par n="agrícola__adj"/></e>
-    <e lm="conforme"><i>conforme</i><par n="agora__adv"/></e>
     <e lm="congênito" v="br"><i>congênit</i><par n="abert/o__adj"/></e>
     <e lm="congénito" v="pt"><i>congénit</i><par n="abert/o__adj"/></e>
     <e lm="conhecedor"><i>conhecedor</i><par n="admirador__n"/></e>
@@ -23943,7 +23943,15 @@
     <e lm="cuspir"><i>cusp</i><par n="admit/ir__vblex"/></e>
     <e lm="daninho"><i>daninh</i><par n="abert/o__adj"/></e>
     <e lm="danoso" r="LR"><i>danos</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_primeiro"><i>décimo<b/>primeir</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_segundo"><i>décimo<b/>segund</i><par n="abert/o__adj"/></e>
     <e lm="décimo_terceiro"><i>décimo<b/>terceir</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_quarto"><i>décimo<b/>quart</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_quinto"><i>décimo<b/>quint</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_sexto"><i>décimo<b/>sext</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_sétimo"><i>décimo<b/>sétim</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_oitavo"><i>décimo<b/>oitav</i><par n="abert/o__adj"/></e>
+    <e lm="décimo_nono"><i>décimo<b/>non</i><par n="abert/o__adj"/></e>
     <e lm="declinação"><i>declinaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="deduzir"><i>ded</i><par n="cond/uzir__vblex"/></e>
     <e lm="deformar"><i>deform</i><par n="abal/ar__vblex"/></e>
