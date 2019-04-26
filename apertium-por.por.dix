@@ -521,6 +521,11 @@
       <e><p><l>l</l><r>l<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="responsáve/l__n">
+      <e><p><l>is</l><r>l<s n="n"/><s n="mf"/><s n="pl"/></r></p></e>
+      <e><p><l>l</l><r>l<s n="n"/><s n="mf"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="civi/l__adj">
       <e><p><l>s</l><r>l<s n="adj"/><s n="mf"/><s n="pl"/></r></p></e>
       <e><p><l>l</l><r>l<s n="adj"/><s n="mf"/><s n="sg"/></r></p></e>
@@ -1051,6 +1056,13 @@
       <e><p><l>o</l><r>o<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="alemã/o__adj">
+      <e><p><l>s</l><r>o<s n="adj"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l/><r>o<s n="adj"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>es</l><r>o<s n="adj"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>o</l><r>o<s n="adj"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="afegã/o__n">
       <e><p><l>s</l><r>o<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p><l/><r>o<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1306,6 +1318,7 @@
 
     <pardef n="cinquenta_e_um__num">
       <e><p><l/><r><s n="num"/><s n="m"/><s n="sp"/></r></p></e>
+      <e><p><l>a</l><r><s n="num"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="mil__num">
@@ -7227,6 +7240,170 @@
       <e><p><l>enha</l><r>er<s n="vblex"/><s n="prs"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
       <e><p><l>er</l><r>er<s n="vblex"/><j/></r></p><par n="S__falar"/></e>
       <e><p><l>ê</l><r>er<s n="vblex"/><j/></r></p><par n="S__falá"/></e>
+    </pardef>
+
+    <pardef n="t/er__vbmod">
+      <e><p><l>eríamos</l><r>er<s n="vbmod"/><s n="cni"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>eria</l><r>er<s n="vbmod"/><s n="cni"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>eríeis</l><r>er<s n="vbmod"/><s n="cni"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>erias</l><r>er<s n="vbmod"/><s n="cni"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>eriam</l><r>er<s n="vbmod"/><s n="cni"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>eria</l><r>er<s n="vbmod"/><s n="cni"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>eremos</l><r>er<s n="vbmod"/><s n="fti"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>erei</l><r>er<s n="vbmod"/><s n="fti"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ereis</l><r>er<s n="vbmod"/><s n="fti"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>erás</l><r>er<s n="vbmod"/><s n="fti"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>erão</l><r>er<s n="vbmod"/><s n="fti"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>erá</l><r>er<s n="vbmod"/><s n="fti"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>ivermos</l><r>er<s n="vbmod"/><s n="fts"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ivermo</l><r>er<s n="vbmod"/><s n="fts"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivermos</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iver</l><r>er<s n="vbmod"/><s n="fts"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>iver</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivê</l><r>er<s n="vbmod"/><s n="fts"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>iverdes</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>iverde</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>iverdes</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iveres</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ivere</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>iveres</l><r>er<s n="vbmod"/><s n="fts"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iverem</l><r>er<s n="vbmod"/><s n="fts"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>iverem</l><r>er<s n="vbmod"/><s n="fts"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>iver</l><r>er<s n="vbmod"/><s n="fts"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>iver</l><r>er<s n="vbmod"/><s n="fts"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__cantar"/></e>
+      <e><p><l>ivê</l><r>er<s n="vbmod"/><s n="fts"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>endo</l><r>er<s n="vbmod"/><s n="ger"/></r></p></e>
+      <e><p><l>endo</l><r>er<s n="vbmod"/><s n="ger"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>ivemos</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ivemo</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivemos</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ive</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ive</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>ivestes</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>iveste</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivestes</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iveste</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>iveste</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>iveram</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>iveram</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>eve</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>eve</l><r>er<s n="vbmod"/><s n="ifi"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>enhamos</l><r>er<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>enhamo</l><r>er<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>enhamos</l><r>er<s n="vbmod"/><s n="imp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>em</l><r>er<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>em</l><r>er<s n="vbmod"/><s n="imp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="imp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="inf"/></r></p></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantar"/></e>
+      <e><p><l>ê</l><r>er<s n="vbmod"/><s n="inf"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ermos</l><r>er<s n="vbmod"/><s n="infps"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ermo</l><r>er<s n="vbmod"/><s n="infps"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ermos</l><r>er<s n="vbmod"/><s n="infps"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="infps"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="infps"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>erdes</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>erde</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>erdes</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>eres</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ere</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>eres</l><r>er<s n="vbmod"/><s n="infps"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>erem</l><r>er<s n="vbmod"/><s n="infps"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>erem</l><r>er<s n="vbmod"/><s n="infps"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="infps"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><s n="infps"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>ínhamos</l><r>er<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ínhamo</l><r>er<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ínhamos</l><r>er<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>inha</l><r>er<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>inha</l><r>er<s n="vbmod"/><s n="pii"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>ínheis</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ínhei</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ínheis</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>inhas</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>inha</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>inhas</l><r>er<s n="vbmod"/><s n="pii"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>inham</l><r>er<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>inham</l><r>er<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>inha</l><r>er<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>inha</l><r>er<s n="vbmod"/><s n="pii"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>ivéssemos</l><r>er<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ivéssemo</l><r>er<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivéssemos</l><r>er<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivesse</l><r>er<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ivesse</l><r>er<s n="vbmod"/><s n="pis"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>ivésseis</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ivéssei</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivésseis</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivesses</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ivesse</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivesses</l><r>er<s n="vbmod"/><s n="pis"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivessem</l><r>er<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>ivessem</l><r>er<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>ivesse</l><r>er<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>ivesse</l><r>er<s n="vbmod"/><s n="pis"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e r="LR"><p><l>ivêramos</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>ivéramos</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ivêramo</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e r="LR"><p><l>ivêramos</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivéramo</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivéramos</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivera</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>ivera</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e r="LR"><p><l>ivêreis</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ivéreis</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>ivêrei</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e r="LR"><p><l>ivêreis</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ivérei</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ivéreis</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iveras</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>ivera</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>iveras</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>iveram</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>iveram</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>ivera</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>ivera</l><r>er<s n="vbmod"/><s n="pmp"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__cantar"/></e>
+      <e><p><l>idas</l><r>er<s n="vbmod"/><s n="pp"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>ida</l><r>er<s n="vbmod"/><s n="pp"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>idos</l><r>er<s n="vbmod"/><s n="pp"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ido</l><r>er<s n="vbmod"/><s n="pp"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>emos</l><r>er<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>emo</l><r>er<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>emos</l><r>er<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>enho</l><r>er<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>enho</l><r>er<s n="vbmod"/><s n="pri"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>endes</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>ende</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>endes</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>ens</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>en</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>ens</l><r>er<s n="vbmod"/><s n="pri"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>êm</l><r>er<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>êm</l><r>er<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>em</l><r>er<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>em</l><r>er<s n="vbmod"/><s n="pri"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>enhamos</l><r>er<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/></r></p></e>
+      <e><p><l>enhamo</l><r>er<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>enhamos</l><r>er<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/></r></p></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="prs"/><s n="p1"/><s n="sg"/><j/></r></p><par n="S__cantaste"/></e>
+      <e><p><l>enhais</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/></r></p></e>
+      <e><p><l>enhai</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>enhais</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="pl"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>enhas</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/></r></p></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantá"/></e>
+      <e><p><l>enhas</l><r>er<s n="vbmod"/><s n="prs"/><s n="p2"/><s n="sg"/><j/></r></p><par n="S__cantemos"/></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/></r></p></e>
+      <e><p><l>enham</l><r>er<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="pl"/><j/></r></p><par n="S__cantam"/></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/></r></p></e>
+      <e><p><l>enha</l><r>er<s n="vbmod"/><s n="prs"/><s n="p3"/><s n="sg"/><j/></r></p><par n="S__canta"/></e>
+      <e><p><l>er</l><r>er<s n="vbmod"/><j/></r></p><par n="S__falar"/></e>
+      <e><p><l>ê</l><r>er<s n="vbmod"/><j/></r></p><par n="S__falá"/></e>
     </pardef>
 
     <pardef n="abst/er__vblex">
@@ -14757,6 +14934,7 @@
     <e lm="restrito" v="br"><i>restrit</i><par n="abert/o__adj"/></e>
     <e lm="restricto" v="pt"><i>restrict</i><par n="abert/o__adj"/></e>
     <e lm="responsável"><i>responsáve</i><par n="aceitáve/l__adj"/></e>
+    <e lm="responsável"><i>responsáve</i><par n="responsáve/l__n"/></e>
     <e lm="restante"><i>restante</i><par n="agrícola__adj"/></e>
     <e lm="revolucionário"><i>revolucionári</i><par n="abert/o__adj"/></e>
     <e lm="rico"><i>ric</i><par n="abert/o__adj"/></e>
@@ -17676,6 +17854,7 @@
     <e lm="alegação"><i>alegaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="alegria"><i>alegria</i><par n="abadia__n"/></e>
     <e lm="alemão"><i>alemã</i><par n="alemã/o__n"/></e>
+    <e lm="alemão"><i>alemã</i><par n="alemã/o__adj"/></e>
     <e lm="aliado"><i>aliad</i><par n="adept/o__n"/></e>
     <e lm="aliança"><i>aliança</i><par n="abadia__n"/></e>
     <e lm="alimentação"><i>alimentaç</i><par n="aceitaç/ão__n"/></e>
@@ -18013,6 +18192,7 @@
     <e lm="bolso"><i>bolso</i><par n="livro__n"/></e>
     <e lm="castigo"><i>castigo</i><par n="livro__n"/></e>
     <e lm="catalão"><i>catalã</i><par n="alemã/o__n"/></e>
+    <e lm="catalão"><i>catalã</i><par n="alemã/o__adj"/></e>
     <e lm="catedral"><i>catedra</i><par n="catedra/l__n"/></e>
     <e lm="categoria"><i>categoria</i><par n="abadia__n"/></e>
     <e lm="catástrofe"><i>catástrofe</i><par n="abadia__n"/></e>
@@ -20716,8 +20896,8 @@
     <e lm="Tóquio"><i>Tóquio</i><par n="AC__np"/></e>
     <e lm="Uganda"><i>Uganda</i><par n="AC__np"/></e>
     <e lm="Ulster"><i>Ulster</i><par n="AC__np"/></e>
-    <e lm="Valencia"><i>Valencia</i><par n="AC__np"/></e>
-    <e lm="Valls"><i>Valls</i><par n="AC__np"/></e>
+    <e lm="Valencia"><i>Valencia</i><par n="Cardoso__np"/></e>
+    <e lm="Valls"><i>Valls</i><par n="Cardoso__np"/></e>
     <e lm="Valona"><i>Valona</i><par n="AC__np"/></e>
     <e lm="Vargas"><i>Vargas</i><par n="Abu__np"/></e>
     <e lm="Vaticano"><i>Vaticano</i><par n="AC__np"/></e>
@@ -20960,6 +21140,7 @@
     <e lm="adiante de"><i>adiante<b/></i><par n="/de__pr"/></e>
     <e lm="ante"><i>ante</i><par n="a__pr"/></e>
     <e lm="ao invés de"><i>ao<b/>invés<b/></i><par n="/de__pr"/></e>
+    <e lm="apesar de"><i>apesar<b/></i><par n="/de__pr"/></e>
     <e lm="após"><i>após</i><par n="a__pr"/></e>
     <e lm="até"><i>até</i><par n="a__pr"/></e>
     <e lm="cerca de"><i>cerca<b/></i><par n="/de__pr"/></e>
@@ -22255,6 +22436,9 @@
     <e lm="dever"><i>dev</i><par n="dev/er__vbmod"/></e>
     <e lm="poder"><i>p</i><par n="p/oder__vbmod"/></e>
     <e lm="querer"><i>qu</i><par n="qu/erer__vbmod"/></e>
+    <e lm="dever"><i>dev</i><par n="dev/er__vbmod"/></e>
+    <e lm="ter de"><i>t</i><par n="t/er__vbmod"/><p><l><b/>de</l><r><g><b/>de</g></r></p></e>
+    <e lm="ter que"><i>t</i><par n="t/er__vbmod"/><p><l><b/>que</l><r><g><b/>que</g></r></p></e>
     <e lm="ser"><par n="/ser__vbser"/></e>
     <e lm="além de" r="LR"><p><l>além<b/>de</l><r>além<b/>de</r></p><par n="a__pr"/></e>
     <e lm="além de" r="RL"><p><l>além<b/><a/>de</l><r>além<b/>de</r></p><par n="a__pr"/></e>
@@ -22450,6 +22634,7 @@
     <e lm="fazer_questão_de" r="LR"><i>f</i><par n="f/azer__vblex"/><p><l><b/>questão<b/>de</l><r><g><b/>questão<b/>de</g></r></p></e>
     <e lm="fazer_questão_de" r="RL"><i>f</i><par n="f/azer__vblex"/><p><l><b/>questão<b/><a/>de</l><r><g><b/>questão<b/>de</g></r></p></e>
     <e lm="fazer_qüestão_de" r="LR"><i>f</i><par n="f/azer__vblex"/><p><l><b/>qüestão<b/>de</l><r><g><b/>qüestão<b/>de</g></r></p></e>
+    <e lm="fazer_falta"><i>f</i><par n="f/azer__vblex"/><p><l><b/>falta</l><r><g><b/>falta</g></r></p></e>
     <e lm="fazer_frente"><i>f</i><par n="f/azer__vblex"/><p><l><b/>frente</l><r><g><b/>frente</g></r></p></e>
     <e lm="crer_em" r="LR"><i>cr</i><par n="cr/er__vblex"/><p><l><b/>em</l><r><g><b/>em</g></r></p></e>
     <e lm="crer_em" r="RL"><i>cr</i><par n="cr/er__vblex"/><p><l><b/><a/>em</l><r><g><b/>em</g></r></p></e>
@@ -22604,6 +22789,7 @@
     <e lm="vasco" r="LR"><i>vasc</i><par n="adept/o__n"/></e>
     <e lm="vasconço" r="LR"><i>vasconç</i><par n="adept/o__n"/></e>
     <e lm="vascão"><i>vascã</i><par n="alemã/o__n"/></e>
+    <e lm="vascão"><i>vascã</i><par n="alemã/o__adj"/></e>
     <e lm="web"><i>web</i><par n="abadia__n"/></e>
     <e lm="www"><i>www</i><par n="AFP__n"/></e>
     <e lm="Yahoo"><i>Yahoo</i><par n="ABC__np"/></e>
@@ -22632,6 +22818,7 @@
     <e lm="cessão"><i>cess</i><par n="aceitaç/ão__n"/></e>
     <e lm="cocktail"><i>cocktail</i><par n="livro__n"/></e>
     <e lm="como"><i>como</i><par n="aonde__adv"/></e>
+    <e lm="como"><i>como</i><par n="agora__adv"/></e>
     <e lm="como"><i>como</i><par n="como__rel"/></e>
     <e lm="consulado"><i>consulado</i><par n="livro__n"/></e>
     <e lm="contenção"><i>contenç</i><par n="aceitaç/ão__n"/></e>
@@ -23805,7 +23992,6 @@
     <e lm="detestar"><i>detest</i><par n="abal/ar__vblex"/></e>
     <e lm="deus"><i>deus</i><par n="admirador__n"/></e>
     <e lm="dever"><i>dever</i><par n="amor__n"/></e>
-    <e lm="dever"><i>dev</i><par n="dev/er__vbmod"/></e>
     <e lm="devorar"><i>devor</i><par n="abal/ar__vblex"/></e>
     <e lm="DF"><i>DF</i><par n="AC__np"/></e>
     <e lm="diabo"><i>diabo</i><par n="livro__n"/></e>
@@ -26482,6 +26668,7 @@
     <e a="prompsit" lm="modernizar"><i>moderniz</i><par n="abal/ar__vblex"/></e>
     <e a="prompsit" lm="dinamizar"><i>dinamiz</i><par n="abal/ar__vblex"/></e>
     <e a="prompsit" lm="espelhar"><i>espelh</i><par n="abal/ar__vblex"/></e>
+
 <!--La Caixa-adj-->
     <e a="prompsit" lm="luso"><i>lus</i><par n="abert/o__adj"/></e>
     <e a="prompsit" r="LR" lm="lusitano"><i>lusitan</i><par n="abert/o__adj"/></e>
@@ -28510,6 +28697,9 @@
     <e lm="LANCE!Net" a="prompsit"><i>LANCE!Net</i><par n="ABC__np"/></e>
     <e lm="LANCE!Mobile" a="prompsit"><i>LANCE!Mobile</i><par n="ABC__np"/></e>
     <e lm="Lance" a="prompsit"><i>Lance</i><par n="ABC__np"/></e>
+    <e lm="Europa" a="hector"><i>Europa</i><par n="Maria__np"/></e>
+    <e lm="Ásia" a="hector"><i>Ásia</i><par n="Maria__np"/></e>
+    <e lm="África" a="hector"><i>África</i><par n="Maria__np"/></e>
 
     <e lm="White" a="nuboro"><i>White</i><par n="Tyers__np"/></e>
     <e lm="Varrão" a="nuboro"><i>Varrão</i><par n="Tyers__np"/></e>
