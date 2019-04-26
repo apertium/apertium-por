@@ -28913,15 +28913,15 @@
 
 </section>
   <section id="final" type="inconditional">
-    <e lm=""><par n="separa"/></e>
-    <e lm=""><par n="numeros"/></e>
-    <e lm=""><par n="coma"/></e>
-    <e lm=""><par n="paresq"/></e>
-    <e lm=""><par n="pardret"/></e>
-    <e lm=""><par n="guio"/></e>
-    <e lm=""><par n="quotes"/></e>
-    <e lm=""><par n="abbr"/></e>
-    <e lm=""><par n="separ"/></e>
-    <e lm=""><par n="emails"/></e>
-    <e lm=""><par n="urls"/></e>
+    <e><par n="separa"/></e>
+    <e><par n="numeros"/></e>
+    <e><par n="coma"/></e>
+    <e><par n="paresq"/></e>
+    <e><par n="pardret"/></e>
+    <e><par n="guio"/></e>
+    <e><par n="quotes"/></e>
+    <e><par n="abbr"/></e>
+    <e><par n="separ"/></e>
+    <e><par n="emails"/></e>
+    <e><par n="urls"/></e>
 </section></dictionary>
