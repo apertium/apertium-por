@@ -14648,6 +14648,7 @@
     <e lm="institucional"><i>instituciona</i><par n="aceitáve/l__adj"/></e>
     <e lm="insuficiente"><i>insuficiente</i><par n="agrícola__adj"/></e>
     <e lm="intacto"><i>intact</i><par n="abert/o__adj"/></e>
+    <e lm="intato"><i>intat</i><par n="abert/o__adj"/></e>
     <e lm="integrista"><i>integrista</i><par n="agrícola__adj"/></e>
     <e lm="inteiro"><i>inteir</i><par n="abert/o__adj"/></e>
     <e lm="intelectual"><i>intelectua</i><par n="aceitáve/l__adj"/></e>
@@ -20839,6 +20840,7 @@
     <e lm="Rodríguez"><i>Rodríguez</i><par n="Abu__np"/></e>
     <e lm="Roger"><i>Roger</i><par n="Abu__np"/></e>
     <e lm="Roma"><i>Roma</i><par n="AC__np"/></e>
+    <e lm="Roma"><i>Roma</i><par n="Tyers__np"/></e>
     <e lm="Romano"><i>Romano</i><par n="Abu__np"/></e>
     <e lm="Romário"><i>Romário</i><par n="Abu__np"/></e>
     <e lm="Ronald"><i>Ronald</i><par n="Abu__np"/></e>
