@@ -8,10 +8,11 @@
     <sdef n="detnt"/>
     <sdef n="abbr"/>
     <sdef n="loc"/>
+    <sdef n="top"/>
     <sdef n="ant"/>
+    <sdef n="cog"/>
     <sdef n="lquot"/>
     <sdef n="rquot"/>
-    <sdef n="cog"/>
     <sdef n="guio"/>
     <sdef n="al"/>
     <sdef n="atn"/>
@@ -1189,33 +1190,94 @@
 
     <pardef n="ABC__np">
       <e><p><l/><r><s n="np"/><s n="al"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="Ferrari__np">
       <e><p><l/><r><s n="np"/><s n="al"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l/><r><s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="Marte__np">
       <e><p><l/><r><s n="np"/><s n="al"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l/><r><s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="Tyers__np">
-      <e><p><l/><r><s n="np"/><s n="cog"/></r></p></e>
+      <e><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+      <e r="RL"><p><l/><r><s n="np"/><s n="cog"/></r></p></e>
     </pardef>
 
     <pardef n="Abu__np">
       <e><p><l/><r><s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="Henrique__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Maria__np">
+      <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="Cardoso__np">
       <e><p><l/><r><s n="np"/><s n="ant"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
       <e><p><l/><r><s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="AC__np">
       <e><p><l/><r><s n="np"/><s n="loc"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="mf"/><s n="sp"/></r></p></e>
+    </pardef>
+
+    <pardef n="Brasil__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Argentina__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    </pardef>
+
+    <pardef n="Estados_Unidos__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="Açores__np">
+      <e><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
     </pardef>
 
     <pardef n="zero__num">
@@ -20344,6 +20406,7 @@
     <e lm="Grêmio"><i>Grêmio</i><par n="ABC__np"/></e>
     <e lm="Guevara"><i>Guevara</i><par n="Abu__np"/></e>
     <e lm="Guga"><i>Guga</i><par n="Abu__np"/></e>
+    <e lm="Guillem"><i>Guillem</i><par n="Abu__np"/></e>
     <e lm="Guillermo"><i>Guillermo</i><par n="Abu__np"/></e>
     <e lm="Gustavo"><i>Gustavo</i><par n="Abu__np"/></e>
     <e lm="Guzmán"><i>Guzmán</i><par n="Abu__np"/></e>
@@ -24543,91 +24606,91 @@
     <e lm="armário" a="imaxin|software"><i>armário</i><par n="livro__n"/></e>
     <e lm="arroz" a="imaxin|software"><i>arroz</i><par n="actriz__n"/></e>
     <e lm="perdição" a="imaxin|software"><i>perdiç</i><par n="aceitaç/ão__n"/></e>
-    <e lm="Brasil"><p><l>Brasil</l><r>Brasil<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Asturias"><p><l>Asturias</l><r>Asturias<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
-    <e lm="Astúrias"><p><l>Astúrias</l><r>Astúrias<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
-    <e lm="Afeganistão"><p><l>Afeganistão</l><r>Afeganistão<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="África"><p><l>África</l><r>África<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Alemanha"><p><l>Alemanha</l><r>Alemanha<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="América"><p><l>América</l><r>América<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Argentina"><p><l>Argentina</l><r>Argentina<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Ásia"><p><l>Ásia</l><r>Ásia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Austrália"><p><l>Austrália</l><r>Austrália<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Áustria"><p><l>Áustria</l><r>Áustria<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Bélgica"><p><l>Bélgica</l><r>Bélgica<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Canadá"><p><l>Canadá</l><r>Canadá<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Caribe"><p><l>Caribe</l><r>Caribe<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Caraíbas"><p><l>Caraíbas</l><r>Caraíbas<s n="np"/><s n="loc"/><s n="f"/><s n="pl"/></r></p></e>
-    <e lm="China"><p><l>China</l><r>China<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Chipre" a="imaxin|software"><p><l>Chipre</l><r>Chipre<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Coreia"><p><l>Coreia</l><r>Coreia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Coruña"><p><l>Coruña</l><r>Coruña<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Corunha" a="imaxin|software"><p><l>Corunha</l><r>Corunha<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Croácia"><p><l>Croácia</l><r>Croácia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Dinamarca"><p><l>Dinamarca</l><r>Dinamarca<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Egito" v="br"><p><l>Egito</l><r>Egito<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Egipto" v="pt"><p><l>Egipto</l><r>Egipto<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Escócia"><p><l>Escócia</l><r>Escócia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Eslováquia" a="imaxin|software"><p><l>Eslováquia</l><r>Eslováquia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Eslovénia" v="pt" a="imaxin|software"><p><l>Eslovénia</l><r>Eslovénia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Eslovênia" v="br" a="imaxin|software"><p><l>Eslovênia</l><r>Eslovênia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Estados Unidos"><p><l>Estados<b/>Unidos</l><r>Estados<b/>Unidos<s n="np"/><s n="loc"/><s n="m"/><s n="pl"/></r></p></e>
-    <e lm="Estónia" v="pt"><p><l>Estónia</l><r>Estónia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Estônia" v="br"><p><l>Estônia</l><r>Estônia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Europa"><p><l>Europa</l><r>Europa<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Finlândia" a="imaxin|software"><p><l>Finlândia</l><r>Finlândia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Chuváchia"><p><l>Chuváchia</l><r>Chuváchia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Galícia"><p><l>Galícia</l><r>Galícia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Galiza" a="imaxin|software"><p><l>Galiza</l><r>Galiza<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Grécia"><p><l>Grécia</l><r>Grécia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Gronelândia" v="pt" a="imaxin|software"><p><l>Gronelândia</l><r>Gronelândia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Groenlândia" v="br" a="imaxin|software"><p><l>Groenlândia</l><r>Groenlândia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Guiné"><p><l>Guiné</l><r>Guiné<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Índia"><p><l>Índia</l><r>Índia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Indonésia"><p><l>Indonésia</l><r>Indonésia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Inglaterra"><p><l>Inglaterra</l><r>Inglaterra<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Irã" v="br"><p><l>Irã</l><r>Irã<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Irão" v="pt" a="imaxin|software"><p><l>Irão</l><r>Irão<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Iraque"><p><l>Iraque</l><r>Iraque<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Irlanda"><p><l>Irlanda</l><r>Irlanda<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Islândia" a="imaxin|software"><p><l>Islândia</l><r>Islândia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Itália"><p><l>Itália</l><r>Itália<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Japão"><p><l>Japão</l><r>Japão<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Iugoslávia" v="br"><p><l>Iugoslávia</l><r>Iugoslávia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Jugoslávia" v="pt"><p><l>Jugoslávia</l><r>Jugoslávia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Kosovo"><p><l>Kosovo</l><r>Kosovo<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Kuait"><p><l>Kuait</l><r>Kuait<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Kuwait" a="imaxin|software"><p><l>Kuwait</l><r>Kuwait<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Koweit" a="imaxin|software"><p><l>Koweit</l><r>Koweit<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Letónia" v="pt"><p><l>Letónia</l><r>Letónia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Letônia" v="br"><p><l>Letônia</l><r>Letônia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Lituânia" a="imaxin|software"><p><l>Lituânia</l><r>Lituânia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Moldávia" a="imaxin|software"><p><l>Moldávia</l><r>Moldávia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Nicarágua"><p><l>Nicarágua</l><r>Nicarágua<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Noruega"><p><l>Noruega</l><r>Noruega<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Nigéria"><p><l>Nigéria</l><r>Nigéria<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Oceania"><p><l>Oceania</l><r>Oceania<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Panamá" a="imaxin|software"><p><l>Panamá</l><r>Panamá<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Paquistão"><p><l>Paquistão</l><r>Paquistão<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Polónia" v="pt"><p><l>Polónia</l><r>Polónia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Polônia" v="br"><p><l>Polônia</l><r>Polônia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Porto"><p><l>Porto</l><r>Porto<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Rio de Janeiro"><p><l>Rio<b/>de<b/>Janeiro</l><r>Rio<b/>de<b/>Janeiro<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Romênia"><p><l>Romênia</l><r>Romênia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Rússia"><p><l>Rússia</l><r>Rússia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Sérvia" a="imaxin|software"><p><l>Sérvia</l><r>Sérvia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Sibéria" a="imaxin|software"><p><l>Sibéria</l><r>Sibéria<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Síria" a="imaxin|software"><p><l>Síria</l><r>Síria<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Suécia"><p><l>Suécia</l><r>Suécia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Suíça"><p><l>Suíça</l><r>Suíça<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Brasil"><p><l>Brasil</l><r>Brasil<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Asturias"><p><l>Asturias</l><r>Asturias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="Astúrias"><p><l>Astúrias</l><r>Astúrias<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="Afeganistão"><p><l>Afeganistão</l><r>Afeganistão<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="África"><p><l>África</l><r>África<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Alemanha"><p><l>Alemanha</l><r>Alemanha<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="América"><p><l>América</l><r>América<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Argentina"><p><l>Argentina</l><r>Argentina<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Ásia"><p><l>Ásia</l><r>Ásia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Austrália"><p><l>Austrália</l><r>Austrália<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Áustria"><p><l>Áustria</l><r>Áustria<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Bélgica"><p><l>Bélgica</l><r>Bélgica<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Canadá"><p><l>Canadá</l><r>Canadá<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Caribe"><p><l>Caribe</l><r>Caribe<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Caraíbas"><p><l>Caraíbas</l><r>Caraíbas<s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
+    <e lm="China"><p><l>China</l><r>China<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Chipre" a="imaxin|software"><p><l>Chipre</l><r>Chipre<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Coreia"><p><l>Coreia</l><r>Coreia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Coruña"><p><l>Coruña</l><r>Coruña<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Corunha" a="imaxin|software"><p><l>Corunha</l><r>Corunha<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Croácia"><p><l>Croácia</l><r>Croácia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Dinamarca"><p><l>Dinamarca</l><r>Dinamarca<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Egito" v="br"><p><l>Egito</l><r>Egito<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Egipto" v="pt"><p><l>Egipto</l><r>Egipto<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Escócia"><p><l>Escócia</l><r>Escócia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Eslováquia" a="imaxin|software"><p><l>Eslováquia</l><r>Eslováquia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Eslovénia" v="pt" a="imaxin|software"><p><l>Eslovénia</l><r>Eslovénia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Eslovênia" v="br" a="imaxin|software"><p><l>Eslovênia</l><r>Eslovênia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Estados Unidos"><p><l>Estados<b/>Unidos</l><r>Estados<b/>Unidos<s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
+    <e lm="Estónia" v="pt"><p><l>Estónia</l><r>Estónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Estônia" v="br"><p><l>Estônia</l><r>Estônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Europa"><p><l>Europa</l><r>Europa<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Finlândia" a="imaxin|software"><p><l>Finlândia</l><r>Finlândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Chuváchia"><p><l>Chuváchia</l><r>Chuváchia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Galícia"><p><l>Galícia</l><r>Galícia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Galiza" a="imaxin|software"><p><l>Galiza</l><r>Galiza<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Grécia"><p><l>Grécia</l><r>Grécia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Gronelândia" v="pt" a="imaxin|software"><p><l>Gronelândia</l><r>Gronelândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Groenlândia" v="br" a="imaxin|software"><p><l>Groenlândia</l><r>Groenlândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Guiné"><p><l>Guiné</l><r>Guiné<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Índia"><p><l>Índia</l><r>Índia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Indonésia"><p><l>Indonésia</l><r>Indonésia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Inglaterra"><p><l>Inglaterra</l><r>Inglaterra<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Irã" v="br"><p><l>Irã</l><r>Irã<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Irão" v="pt" a="imaxin|software"><p><l>Irão</l><r>Irão<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Iraque"><p><l>Iraque</l><r>Iraque<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Irlanda"><p><l>Irlanda</l><r>Irlanda<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Islândia" a="imaxin|software"><p><l>Islândia</l><r>Islândia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Itália"><p><l>Itália</l><r>Itália<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Japão"><p><l>Japão</l><r>Japão<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Iugoslávia" v="br"><p><l>Iugoslávia</l><r>Iugoslávia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Jugoslávia" v="pt"><p><l>Jugoslávia</l><r>Jugoslávia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Kosovo"><p><l>Kosovo</l><r>Kosovo<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Kuait"><p><l>Kuait</l><r>Kuait<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Kuwait" a="imaxin|software"><p><l>Kuwait</l><r>Kuwait<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Koweit" a="imaxin|software"><p><l>Koweit</l><r>Koweit<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Letónia" v="pt"><p><l>Letónia</l><r>Letónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Letônia" v="br"><p><l>Letônia</l><r>Letônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Lituânia" a="imaxin|software"><p><l>Lituânia</l><r>Lituânia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Moldávia" a="imaxin|software"><p><l>Moldávia</l><r>Moldávia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Nicarágua"><p><l>Nicarágua</l><r>Nicarágua<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Noruega"><p><l>Noruega</l><r>Noruega<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Nigéria"><p><l>Nigéria</l><r>Nigéria<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Oceania"><p><l>Oceania</l><r>Oceania<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Panamá" a="imaxin|software"><p><l>Panamá</l><r>Panamá<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Paquistão"><p><l>Paquistão</l><r>Paquistão<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Polónia" v="pt"><p><l>Polónia</l><r>Polónia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Polônia" v="br"><p><l>Polônia</l><r>Polônia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Porto"><p><l>Porto</l><r>Porto<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Rio de Janeiro"><p><l>Rio<b/>de<b/>Janeiro</l><r>Rio<b/>de<b/>Janeiro<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Romênia"><p><l>Romênia</l><r>Romênia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Rússia"><p><l>Rússia</l><r>Rússia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Sérvia" a="imaxin|software"><p><l>Sérvia</l><r>Sérvia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Sibéria" a="imaxin|software"><p><l>Sibéria</l><r>Sibéria<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Síria" a="imaxin|software"><p><l>Síria</l><r>Síria<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Suécia"><p><l>Suécia</l><r>Suécia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Suíça"><p><l>Suíça</l><r>Suíça<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
     <e lm="Teerão" v="pt" a="imaxin|software"><i>Teerão</i><par n="AC__np"/></e>
-    <e lm="Tunes" r="LR"><p><l>Tunes</l><r>Tunes<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Tunísia" a="imaxin|software"><p><l>Tunísia</l><r>Tunísia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Turquia"><p><l>Turquia</l><r>Turquia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Ucrânia" a="imaxin|software"><p><l>Ucrânia</l><r>Ucrânia<s n="np"/><s n="loc"/><s n="f"/><s n="sg"/></r></p></e>
-    <e lm="Uruguai"><p><l>Uruguai</l><r>Uruguai<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Vietname" v="pt" a="imaxin|software"><p><l>Vietname</l><r>Vietname<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
-    <e lm="Vietnã" v="br"><p><l>Vietnã</l><r>Vietnã<s n="np"/><s n="loc"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Tunes" r="LR"><p><l>Tunes</l><r>Tunes<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Tunísia" a="imaxin|software"><p><l>Tunísia</l><r>Tunísia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Turquia"><p><l>Turquia</l><r>Turquia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Ucrânia" a="imaxin|software"><p><l>Ucrânia</l><r>Ucrânia<s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
+    <e lm="Uruguai"><p><l>Uruguai</l><r>Uruguai<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Vietname" v="pt" a="imaxin|software"><p><l>Vietname</l><r>Vietname<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
+    <e lm="Vietnã" v="br"><p><l>Vietnã</l><r>Vietnã<s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
     <e lm="bacalhau" a="imaxin|software"><i>bacalhau</i><par n="livro__n"/></e>
     <e lm="batata" a="imaxin|software"><i>batata</i><par n="abadia__n"/></e>
     <e lm="balcão" a="imaxin|software"><i>balc</i><par n="avi/ão__n"/></e>
@@ -28520,7 +28583,7 @@
     <e lm="Mancomunitat" a="nuboro"><i>Mancomunitat</i><par n="ABC__np"/></e>
     <e lm="Sabadell" a="nuboro"><i>Sabadell</i><par n="ABC__np"/></e>
     <e lm="La Caixa" a="nuboro"><i>La Caixa</i><par n="ABC__np"/></e>
-    <e lm="Dalí" a="nuboro"><i>Dalí</i><par n="ABC__np"/></e>
+    <e lm="Dalí" a="nuboro"><i>Dalí</i><par n="Tyers__np"/></e>
     <e lm="Paleolítico Medio" a="nuboro"><i>Paleolítico Medio</i><par n="ABC__np"/></e>
     <e lm="Sua Alteza" a="nuboro"><i>Sua<b/>Alteza</i><par n="ABC__np"/></e>
 
