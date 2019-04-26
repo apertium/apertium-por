@@ -110,8 +110,7 @@
 
     <pardef n="abbr">
       <e><re>[A-Z]</re><p><l>.</l><r>.<s n="abbr"/></r></p></e>
-<!--
-      <e><re>[A-Z]</re><p><l>.</l><r><s n="abbr"/><j/>.<s n="sent"/></r></p></e>-->
+<!-- <e><re>[A-Z]</re><p><l>.</l><r><s n="abbr"/><j/>.<s n="sent"/></r></p></e>-->
     </pardef>
 
     <pardef n="coma">
@@ -13958,8 +13957,7 @@
       <e r="LR"><p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_teu__det"/></e>
       <e r="LR"><p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_vosso__det"/></e>
       <e r="LR"><p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_qual__rel"/></e>
-<!--
-      <e r="LR"><p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_que__rel"/></e>-->
+<!-- <e r="LR"><p><l>n</l><r>em<s n="pr"/><j/></r></p><par n="/o_que__rel"/></e>-->
     </pardef>
 
     <pardef n="/a__pr">
@@ -14958,8 +14956,6 @@
     <e lm="valioso"><i>valios</i><par n="abert/o__adj"/></e>
     <e lm="transsexual"><i>transsexua</i><par n="aceitáve/l__adj"/></e>
     <e lm="sombrio"><i>sombri</i><par n="abert/o__adj"/></e>
-<!--
-    <e lm="iraniano"><i>iranian</i><par n="abert/o__adj"/></e>-->
     <e lm="paramilitar"><i>paramilitar</i><par n="anterior__adj"/></e>
     <e lm="ordinário"><i>ordinári</i><par n="abert/o__adj"/></e>
     <e lm="operativo"><i>operativ</i><par n="abert/o__adj"/></e>
@@ -21085,8 +21081,7 @@
 <!-- entrades "rel" -->
     <e lm="como"><i>como</i><par n="como__rel"/></e>
     <e lm="o_qual"><par n="/o_qual__rel"/></e>
-<!--
-    <e lm="o_que"><par n="/o_que__rel"/></e>-->
+<!-- <e lm="o_que"><par n="/o_que__rel"/></e>-->
     <e lm="onde"><i>onde</i><par n="como__rel"/></e>
     <e lm="qual"><i>qual</i><par n="como__rel"/></e>
     <e lm="quando"><i>quando</i><par n="como__rel"/></e>
@@ -22303,6 +22298,7 @@
     <e lm="próximo de" r="RL"><p><l>próximo<b/><a/>de</l><r>próximo<b/>de</r></p><par n="a__pr"/></e>
     <e lm="à beira de" r="RL"><p><l>à<b/>beira<b/><a/>de</l><r>à<b/>beira<b/>de</r></p><par n="a__pr"/></e>
     <e lm="à moda de" r="RL"><p><l>à<b/>moda<b/><a/>de</l><r>à<b/>moda<b/>de</r></p><par n="a__pr"/></e> -->
+
     <e lm="lhe" r="RL"><p><l><a/>lhe</l><r>lhe</r></p><par n="lhe__prn"/></e>
     <e lm="te" r="RL"><p><l><a/>te</l><r>te</r></p><par n="te__prn"/></e>
     <e lm="vos" r="RL"><p><l><a/>vos</l><r>vos</r></p><par n="vos__prn"/></e>
