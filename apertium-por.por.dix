@@ -20284,7 +20284,7 @@
     <e lm="Aznar"><i>Aznar</i><par n="Abu__np"/></e>
     <e lm="Bagdá"><i>Bagdá</i><par n="AC__np"/></e>
     <e lm="Bangladesh"><i>Bangladesh</i><par n="AC__np"/></e>
-    <e lm="Barcelona"><i>Barcelona</i><par n="AC__np"/></e>
+    <e lm="Barcelona"><i>Barcelona</i><par n="Cardoso__np"/></e>
     <e lm="Barreto"><i>Barreto</i><par n="Abu__np"/></e>
     <e lm="Barça"><i>Barça</i><par n="AC__np"/></e>
     <e lm="Batasuna"><i>Batasuna</i><par n="Abu__np"/></e>
@@ -28580,7 +28580,7 @@
     <e lm="Tarraco" a="nuboro"><i>Tarraco</i><par n="AC__np"/></e>
     <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="AC__np"/></e>
     <e lm="Tolosa" a="nuboro"><i>Tolosa</i><par n="AC__np"/></e>
-    <e lm="Girona" a="nuboro"><i>Girona</i><par n="AC__np"/></e>
+    <e lm="Girona" a="nuboro"><i>Girona</i><par n="Cardoso__np"/></e>
     <e lm="Gerunda" a="nuboro"><i>Gerunda</i><par n="AC__np"/></e>
     <e lm="Lérida" a="nuboro"><i>Lérida</i><par n="AC__np"/></e>
     <e lm="Tortosa" a="nuboro"><i>Tortosa</i><par n="AC__np"/></e>
@@ -28814,7 +28814,7 @@
     <e lm="Catalunha"><i>Catalunha</i><par n="AC__np"/></e>
     <e lm="Aragão"><i>Aragão</i><par n="AC__np"/></e>
     <e lm="Andorra"><i>Andorra</i><par n="AC__np"/></e>
-    <e lm="Tarragona"><i>Tarragona</i><par n="AC__np"/></e>
+    <e lm="Tarragona"><i>Tarragona</i><par n="Cardoso__np"/></e>
     <e lm="Beríngia"><i>Beríngia</i><par n="AC__np"/></e>
 
 <e lm="partidista"><i>partidista</i><par n="agrícola__adj" /></e>
@@ -28910,6 +28910,8 @@
 <e lm="encurralar"><i>encurral</i><par n="abal/ar__vblex" /></e>
 <e lm="ponderar">     <i>ponder</i>      <par n="abal/ar__vblex" /></e>
 <e lm="ao largo de">        <i>ao<b/>largo<b/></i><par n="/de__pr"/></e>
+<e lm="longe de">        <i>longe<b/></i><par n="/de__pr"/></e>
+<e lm="ao largo">        <i>ao<b/>largo</i><par n="agora__adv"/></e>
 
 
 </section>
