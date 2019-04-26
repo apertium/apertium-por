@@ -23058,6 +23058,10 @@
     <e lm="compatibilizar"><i>compatibiliz</i><par n="abal/ar__vblex"/></e>
     <e lm="conclave"><i>conclave</i><par n="livro__n"/></e>
     <e lm="conforme"><i>conforme</i><par n="agrícola__adj"/></e>
+    <e lm="conforme"><i>conforme</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="conforme"><i>conforme</i><par n="a__pr"/></e>
+    <e lm="em conformidade com"><i>em<b/>conformidade<b/>com</i><par n="a__pr"/></e>
+    <e lm="ao abrigo de"><i>ao<b/>abrigo<b/></i><par n="/de__pr"/></e>
     <e lm="congênito" v="br"><i>congênit</i><par n="abert/o__adj"/></e>
     <e lm="congénito" v="pt"><i>congénit</i><par n="abert/o__adj"/></e>
     <e lm="conhecedor"><i>conhecedor</i><par n="admirador__n"/></e>
