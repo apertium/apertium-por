@@ -1585,7 +1585,6 @@
       <e><p><l>o</l><r>o<s n="prn"/><s n="tn"/><s n="pos"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
-<!--
     <pardef n="/o_que__rel">
       <e><p><l>as<b/>que</l><r>o<b/>que<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p><l>a<b/>que</l><r>o<b/>que<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1596,7 +1595,7 @@
       <e r="LR"><p><l>o<b/>que</l><r>o<b/>que<s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r></p></e>
       <e r="RL"><p><l><a/>o<b/>que</l><r>o<b/>que<s n="rel"/><s n="an"/><s n="nt"/><s n="sg"/></r></p></e>
     </pardef>
--->
+
     <pardef n="/o_qual__rel">
       <e><p><l>as<b/>quais</l><r>o<b/>qual<s n="rel"/><s n="an"/><s n="f"/><s n="pl"/></r></p></e>
       <e><p><l>a<b/>qual</l><r>o<b/>qual<s n="rel"/><s n="an"/><s n="f"/><s n="sg"/></r></p></e>
@@ -1611,10 +1610,10 @@
     </pardef>
 
     <pardef n="cuj/o__rel">
-      <e><p><l>as</l><r><s n="rel"/><s n="aa"/><s n="f"/><s n="pl"/></r></p></e>
-      <e><p><l>a</l><r><s n="rel"/><s n="aa"/><s n="f"/><s n="sg"/></r></p></e>
-      <e><p><l>os</l><r><s n="rel"/><s n="aa"/><s n="m"/><s n="pl"/></r></p></e>
-      <e><p><l>o</l><r><s n="rel"/><s n="aa"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>as</l><r>o<s n="rel"/><s n="aa"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>a</l><r>o<s n="rel"/><s n="aa"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>os</l><r>o<s n="rel"/><s n="aa"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>o</l><r>o<s n="rel"/><s n="aa"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
     <pardef n="que__rel">
@@ -14905,6 +14904,7 @@
     <e lm="puro"><i>pur</i><par n="abert/o__adj"/></e>
     <e lm="péssimo"><i>péssim</i><par n="abert/o__adj"/></e>
     <e lm="público"><i>públic</i><par n="abert/o__adj"/></e>
+    <e lm="público"><i>público</i><par n="livro__n"/></e>
     <e lm="quadrado"><i>quadrad</i><par n="abert/o__adj"/></e>
     <e lm="quarto"><i>quart</i><par n="abert/o__adj"/></e>
     <e lm="queniano"><i>quenian</i><par n="abert/o__adj"/></e>
@@ -15617,6 +15617,7 @@
     <e lm="comercializavelmente"><i>comercializavelmente</i><par n="agora__adv"/></e>
     <e lm="comercialmente"><i>comercialmente</i><par n="agora__adv"/></e>
     <e lm="comicamente"><i>comicamente</i><par n="agora__adv"/></e>
+    <e lm="como"><i>como</i><par n="agora__adv"/></e>
     <e lm="como"><i>como</i><par n="aonde__adv"/></e>
     <e lm="como a palma da mão"><i>como<b/>a<b/>palma<b/>da<b/>mão</i><par n="agora__adv"/></e>
     <e lm="como exemplo"><i>como<b/>exemplo</i><par n="agora__adv"/></e>
@@ -17621,6 +17622,23 @@
     <e lm="demasiado"><i>demasiado</i><par n="agora__adv"/></e>
     <e lm="demais" r="RL"><i>demais</i><par n="agora__adv"/></e>
     <e lm="demasiadamente" r="RL"><i>demasiadamente</i><par n="agora__adv"/></e>
+<e lm="ao lado">        <i>ao<b/>lado</i><par n="agora__adv"/></e>
+<e lm="de lado">        <i>de<b/>lado</i><par n="agora__adv"/></e>
+<e lm="de um lado para o outro">        <i>de<b/>um<b/>lado<b/>para<b/>o<b/>outro</i><par n="agora__adv"/></e>
+<e lm="entretanto">        <i>entretanto</i><par n="agora__adv"/></e>
+<e lm="para a direita">        <i>para<b/>a<b/>direita</i><par n="agora__adv"/></e>
+<e lm="para a esquerda">        <i>para<b/>a<b/>esquerda</i><par n="agora__adv"/></e>
+<e lm="para o este">        <i>para<b/>o<b/>este</i><par n="agora__adv"/></e>
+<e lm="para o leste">        <i>para<b/>o<b/>leste</i><par n="agora__adv"/></e>
+<e lm="para o nordeste">        <i>para<b/>o<b/>nordeste</i><par n="agora__adv"/></e>
+<e lm="para o oeste">        <i>para<b/>o<b/>oeste</i><par n="agora__adv"/></e>
+<e lm="para um lado">        <i>para<b/>um<b/>lado</i><par n="agora__adv"/></e>
+<e lm="pelo outro lado">        <i>pelo<b/>outro<b/>lado</i><par n="agora__adv"/></e>
+<e lm="p. ex.">        <i>p.<b/>ex.</i><par n="agora__adv"/></e>
+<e lm="por exemplo">        <i>por<b/>exemplo</i><par n="agora__adv"/></e>
+<e lm="por outro lado">        <i>por<b/>outro<b/>lado</i><par n="agora__adv"/></e>
+<e lm="por um lado">        <i>por<b/>um<b/>lado</i><par n="agora__adv"/></e>
+
 <!-- entrades "cnjadv" -->
     <e lm="a fim de que"><i>a<b/>fim<b/>de<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="a maioria das pessoas"><i>a<b/>maioria<b/>das<b/>pessoas</i><par n="a_fim_de_que__cnjadv"/></e>
@@ -17632,6 +17650,7 @@
     <e lm="aliás"><i>aliás</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="ao invés"><i>ao<b/>invés</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="ao menos"><i>ao<b/>menos</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="ao menos"><i>ao<b/>menos</i><par n="agora__adv"/></e>
     <e lm="ao mesmo tempo em que"><i>ao<b/>mesmo<b/>tempo<b/>em<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="ao passo que" r="LR"><i>ao<b/>passo<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="ao que parece"><i>ao<b/>que<b/>parece</i><par n="a_fim_de_que__cnjadv"/></e>
@@ -17683,6 +17702,7 @@
     <e lm="pelo jeito"><i>pelo<b/>jeito</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="pelo jeito que"><i>pelo<b/>jeito<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="pelo menos"><i>pelo<b/>menos</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="pelo menos"><i>pelo<b/>menos</i><par n="agora__adv"/></e>
     <e lm="pois"><i>pois</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="porquanto"><i>porquanto</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="porque"><i>porque</i><par n="a_fim_de_que__cnjadv"/></e>
@@ -17704,6 +17724,11 @@
     <e lm="à medida que"><i>à<b/>medida<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="à proporção que" r="LR"><i>à<b/>proporção<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="é por isso que"><i>é<b/>por<b/>isso<b/>que</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e a="prompsit" lm="como" r="RL"><i>como</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="contudo"><i>contudo</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="qual"><i>qual</i><par n="a_fim_de_que__cnjadv"/></e>
+    <e lm="pelo qual"><i>pelo<b/>qual</i><par n="a_fim_de_que__cnjadv"/></e>
+
 <!-- entrades "cnjcoo" -->
     <e lm="contudo" r="LR"><i>contudo</i><par n="contudo__cnjcoo"/></e>
     <e lm="e"><i>e</i><par n="contudo__cnjcoo"/></e>
@@ -17711,8 +17736,12 @@
     <e lm="nem"><i>nem</i><par n="contudo__cnjcoo"/></e>
     <e lm="ou"><i>ou</i><par n="contudo__cnjcoo"/></e>
     <e lm="senão"><i>senão</i><par n="contudo__cnjcoo"/></e>
+<e lm="assim como">        <i>assim<b/>como</i><par n="contudo__cnjcoo"/></e>
+<e lm="bem como">        <i>bem<b/>como</i><par n="contudo__cnjcoo"/></e>
+
 <!-- entrades "cnjsub" -->
     <e lm="que"><i>que</i><par n="que__cnjsub"/></e>
+
 <!-- entrades "det" -->
     <e lm="algum"><i>algu</i><par n="algu/m__det"/></e>
     <e lm="aquele"><i>aquel</i><par n="aquel/e__det"/></e>
@@ -21163,6 +21192,7 @@
     <e lm="em decorrência de"><i>em<b/>decorrência<b/></i><par n="/de__pr"/></e>
     <e lm="em frente a"><i>em<b/>frente<b/></i><par n="/a__pr"/></e>
     <e lm="em meados de"><i>em<b/>meados<b/></i><par n="/de__pr"/></e>
+    <e lm="em meio de"><i>em<b/>meio<b/></i><par n="/de__pr"/></e>
     <e lm="em termos de"><i>em<b/>termos<b/></i><par n="/de__pr"/></e>
     <e lm="em torno de"><i>em<b/>torno<b/></i><par n="/de__pr"/></e>
     <e lm="em troca de"><i>em<b/>troca<b/></i><par n="/de__pr"/></e>
@@ -21197,8 +21227,32 @@
     <e lm="trás"><i>trás</i><par n="a__pr"/></e>
     <e lm="à beira de"><i>à<b/>beira<b/></i><par n="/de__pr"/></e>
     <e lm="à moda de"><i>à<b/>moda<b/></i><par n="/de__pr"/></e>
-    <e lm="muito"><i>muito</i><par n="muito__preadv"/></e>
+<e lm="a cabo de">        <i>a<b/>cabo<b/></i><par n="/de__pr"/></e>
+<e lm="antes de">        <i>antes<b/></i><par n="/de__pr"/></e>
+<e lm="ao cabo de">        <i>ao<b/>cabo<b/></i><par n="/de__pr"/></e>
+<e lm="ao lado de">        <i>ao<b/>lado<b/></i><par n="/de__pr"/></e>
+<e lm="ao longo de">        <i>ao<b/>longo<b/></i><par n="/de__pr"/></e>
+<e lm="ao redor de">        <i>ao<b/>redor<b/></i><par n="/de__pr"/></e>
+<e lm="a partir de">        <i>a<b/>partir<b/></i><par n="/de__pr"/></e>
+<e lm="a través de">        <i>a<b/>través<b/></i><par n="/de__pr"/></e>
+<e lm="dentro de">        <i>dentro<b/></i><par n="/de__pr"/></e>
+<e lm="em volta de">        <i>em<b/>volta<b/></i><par n="/de__pr"/></e>
+<e lm="fora de">        <i>fora<b/></i><par n="/de__pr"/></e>
+<e lm="junto con">        <i>junto<b/>con</i><par n="a__pr"/></e>
+
+
     <e lm="todo"><i>tod</i><par n="tod/o__predet"/></e>
+
+    <e lm="bastante"><i>bastante</i><par n="muito__preadv"/></e>
+    <e lm="bem"><i>bem</i><par n="muito__preadv"/></e>
+    <e lm="mais"><i>mais</i><par n="muito__preadv"/></e>
+    <e lm="mau"><i>mau</i><par n="muito__preadv"/></e>
+    <e lm="muito"><i>muito</i><par n="muito__preadv"/></e>
+    <e lm="pouco"><i>pouco</i><par n="muito__preadv"/></e>
+    <e lm="um pouco"><i>um<b/>pouco</i><par n="muito__preadv"/></e>
+    <e lm="quase"><i>quase</i><par n="muito__preadv"/></e>
+    <e lm="tão"><i>tão</i><par n="muito__preadv"/></e>
+
 <!-- entrades "prn" -->
     <e lm="algo"><i>algo</i><par n="algo__prn"/></e>
     <e lm="algum"><i>algu</i><par n="algu/m__prn"/></e>
@@ -21262,19 +21316,23 @@
     <e lm="você"><i>você</i><par n="você__prn"/></e>
     <e lm="vos" r="LR"><i>vos</i><par n="vos__prn"/></e>
     <e lm="vós" r="LR"><i>vós</i><par n="convosco__prn"/></e>
+
 <!-- entrades "rel" -->
     <e lm="como"><i>como</i><par n="como__rel"/></e>
     <e lm="o_qual"><par n="/o_qual__rel"/></e>
-<!-- <e lm="o_que"><par n="/o_que__rel"/></e>-->
+    <e lm="o_que"><par n="/o_que__rel"/></e>
     <e lm="onde"><i>onde</i><par n="como__rel"/></e>
     <e lm="qual"><i>qual</i><par n="como__rel"/></e>
+    <e lm="pelo qual"><i>pelo<b/>qual</i><par n="como__rel"/></e>
     <e lm="quando"><i>quando</i><par n="como__rel"/></e>
-    <e lm="cujoo"><p><l>cuj</l><r>cujo</r></p><par n="cuj/o__rel"/></e>
+    <e lm="cujo"><i>cuj</i><par n="cuj/o__rel"/></e>
     <e lm="que"><i>que</i><par n="que__rel"/></e>
     <e lm="quem"><i>quem</i><par n="quem__rel"/></e>
     <e lm="quanto"><i>quant</i><par n="quant/o__rel"/></e>
+
 <!-- entrades "vbhaber" -->
     <e lm="ter"><i>t</i><par n="t/er__vbhaver"/></e>
+
 <!-- entrades "vblex" -->
     <e lm="abalar" r="LR"><i>abal</i><par n="abal/ar__vblex"/></e>
     <e lm="distinguir"><i>disting</i><par n="disting/uir__vblex"/></e>
@@ -22820,9 +22878,6 @@
     <e lm="caseiro"><i>caseir</i><par n="abert/o__adj"/></e>
     <e lm="cessão"><i>cess</i><par n="aceitaç/ão__n"/></e>
     <e lm="cocktail"><i>cocktail</i><par n="livro__n"/></e>
-    <e lm="como"><i>como</i><par n="aonde__adv"/></e>
-    <e lm="como"><i>como</i><par n="agora__adv"/></e>
-    <e lm="como"><i>como</i><par n="como__rel"/></e>
     <e lm="consulado"><i>consulado</i><par n="livro__n"/></e>
     <e lm="contenção"><i>contenç</i><par n="aceitaç/ão__n"/></e>
     <e lm="convergente"><i>convergente</i><par n="agrícola__adj"/></e>
@@ -26443,7 +26498,6 @@
     <e a="prompsit" lm="posteriormente"><i>posteriormente</i><par n="agora__adv"/></e>
     <e a="prompsit" lm="topologicamente"><i>topologicamente</i><par n="agora__adv"/></e>
     <e a="prompsit" lm="aritmeticamente"><i>aritmeticamente</i><par n="agora__adv"/></e>
-    <e a="prompsit" lm="como" r="RL"><i>como</i><par n="a_fim_de_que__cnjadv"/></e>
     <e lm="delimitar" a="prompsit"><i>delimit</i><par n="abal/ar__vblex"/></e>
     <e lm="espaçar" a="prompsit"><i>espa</i><par n="abra/çar__vblex"/></e>
     <e lm="invalidar" a="prompsit"><i>invalid</i><par n="abal/ar__vblex"/></e>
@@ -29116,6 +29170,7 @@
 <e lm="ao largo de">        <i>ao<b/>largo<b/></i><par n="/de__pr"/></e>
 <e lm="longe de">        <i>longe<b/></i><par n="/de__pr"/></e>
 <e lm="ao largo">        <i>ao<b/>largo</i><par n="agora__adv"/></e>
+<e lm="como" c="cat: com a"><i>como</i><par n="a__pr"/></e>
 
 
 </section>
