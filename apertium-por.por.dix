@@ -16860,6 +16860,15 @@
     <e lm="no duro"><i>no<b/>duro</i><par n="agora__adv"/></e>
     <e lm="no mais tardar"><i>no<b/>mais<b/>tardar</i><par n="agora__adv"/></e>
     <e lm="no meio"><i>no<b/>meio</i><par n="agora__adv"/></e>
+    <e lm="no meio da manhã"><i>no<b/>meio<b/>da<b/>manhã</i><par n="agora__adv"/></e>
+    <e lm="no meio da tarde"><i>no<b/>meio<b/>da<b/>tarde</i><par n="agora__adv"/></e>
+    <e lm="no meio da noite"><i>no<b/>meio<b/>da<b/>noite</i><par n="agora__adv"/></e>
+    <e lm="a meio da manhã"><i>a<b/>meio<b/>da<b/>manhã</i><par n="agora__adv"/></e>
+    <e lm="a meio da tarde"><i>a<b/>meio<b/>da<b/>tarde</i><par n="agora__adv"/></e>
+    <e lm="a meio da noite"><i>a<b/>meio<b/>da<b/>noite</i><par n="agora__adv"/></e>
+    <e lm="ao meio da manhã"><i>ao<b/>meio<b/>da<b/>manhã</i><par n="agora__adv"/></e>
+    <e lm="ao meio da tarde"><i>ao<b/>meio<b/>da<b/>tarde</i><par n="agora__adv"/></e>
+    <e lm="ao meio da noite"><i>ao<b/>meio<b/>da<b/>noite</i><par n="agora__adv"/></e>
     <e lm="no máximo"><i>no<b/>máximo</i><par n="agora__adv"/></e>
     <e lm="no mínimo"><i>no<b/>mínimo</i><par n="agora__adv"/></e>
     <e lm="no ponto"><i>no<b/>ponto</i><par n="agora__adv"/></e>
@@ -21205,6 +21214,7 @@
     <e lm="extra"><i>extra</i><par n="a__pr"/></e>
     <e lm="graças a"><i>graças<b/></i><par n="/a__pr"/></e>
     <e lm="mediante"><i>mediante</i><par n="a__pr"/></e>
+    <e lm="no fim de"><i>no<b/>fim<b/></i><par n="/de__pr"/></e>
     <e lm="no final de"><i>no<b/>final<b/></i><par n="/de__pr"/></e>
     <e lm="no meio de"><i>no<b/>meio<b/></i><par n="/de__pr"/></e>
     <e lm="no que diz respeito a"><i>no<b/>que<b/>diz<b/>respeito<b/></i><par n="/a__pr"/></e>
@@ -21238,7 +21248,9 @@
 <e lm="dentro de">        <i>dentro<b/></i><par n="/de__pr"/></e>
 <e lm="em volta de">        <i>em<b/>volta<b/></i><par n="/de__pr"/></e>
 <e lm="fora de">        <i>fora<b/></i><par n="/de__pr"/></e>
+<e lm="para fora de">   <i>para<b/>fora<b/></i><par n="/de__pr"/></e>
 <e lm="junto con">        <i>junto<b/>con</i><par n="a__pr"/></e>
+<e lm="a començos de">        <i>a<b/>començos<b/></i><par n="/de__pr"/></e>
 
 
     <e lm="todo"><i>tod</i><par n="tod/o__predet"/></e>
@@ -22532,6 +22544,7 @@
     <e lm="em via de" r="RL"><p><l>em<b/>via<b/><a/>de</l><r>em<b/>via<b/>de</r></p><par n="a__pr"/></e>
     <e lm="embaixo de" r="RL"><p><l>embaixo<b/><a/>de</l><r>embaixo<b/>de</r></p><par n="a__pr"/></e>
     <e lm="graças a" r="RL"><p><l>graças<b/><a/>a</l><r>graças<b/>a</r></p><par n="a__pr"/></e>
+    <e lm="no fim de" r="RL"><p><l>no<b/>final<b/><a/>de</l><r>no<b/>final<b/>de</r></p><par n="a__pr"/></e>
     <e lm="no final de" r="RL"><p><l>no<b/>final<b/><a/>de</l><r>no<b/>final<b/>de</r></p><par n="a__pr"/></e>
     <e lm="no meio de" r="RL"><p><l>no<b/>meio<b/><a/>de</l><r>no<b/>meio<b/>de</r></p><par n="a__pr"/></e>
     <e lm="no que diz respeito a" r="RL"><p><l>no<b/>que<b/>diz<b/>respeito<b/><a/>a</l><r>no<b/>que<b/>diz<b/>respeito<b/>a</r></p><par n="a__pr"/></e>
