@@ -1227,32 +1227,6 @@
       <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
-    <pardef n="Ferrari__np">
-      <e><p><l/><r><s n="np"/><s n="al"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l/><r><s n="np"/><s n="ant"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
-
-    <pardef n="Marte__np">
-      <e><p><l/><r><s n="np"/><s n="al"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="al"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l/><r><s n="np"/><s n="loc"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="mf"/><s n="sp"/></r></p></e>
-    </pardef>
-
     <pardef n="Tyers__np">
       <e><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
       <e r="RL"><p><l/><r><s n="np"/><s n="cog"/></r></p></e>
@@ -1271,19 +1245,6 @@
 
     <pardef n="Maria__np">
       <e><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-    </pardef>
-
-    <pardef n="Cardoso__np">
-      <e><p><l/><r><s n="np"/><s n="ant"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="ant"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="cog"/><s n="mf"/><s n="sp"/></r></p></e>
-      <e><p><l/><r><s n="np"/><s n="loc"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="sg"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="m"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="f"/><s n="pl"/></r></p></e>
-      <e r="RL"><p><l></l><r><s n="np"/><s n="top"/><s n="mf"/><s n="sp"/></r></p></e>
     </pardef>
 
     <pardef n="AC__np">
@@ -20454,6 +20415,7 @@
     <e lm="diploma"><i>diploma</i><par n="livro__n"/></e>
     <e lm="recital"><i>recita</i><par n="anima/l__n"/></e>
     <e lm="arbitragem"><i>arbitrage</i><par n="aterrissage/m__n"/></e>
+
 <!-- entrades "np" -->
     <e lm="ABC"><i>ABC</i><par n="ABC__np"/></e>
     <e lm="Voicer Pesquisas"><i>Voicer<b/>Pesquisas</i><par n="ABC__np"/></e>
@@ -20503,7 +20465,7 @@
     <e lm="Aznar"><i>Aznar</i><par n="Abu__np"/></e>
     <e lm="Bagdá"><i>Bagdá</i><par n="AC__np"/></e>
     <e lm="Bangladesh"><i>Bangladesh</i><par n="AC__np"/></e>
-    <e lm="Barcelona"><i>Barcelona</i><par n="Cardoso__np"/></e>
+    <e lm="Barcelona"><i>Barcelona</i><par n="Tyers__np"/></e>
     <e lm="Barreto"><i>Barreto</i><par n="Abu__np"/></e>
     <e lm="Barça"><i>Barça</i><par n="AC__np"/></e>
     <e lm="Batasuna"><i>Batasuna</i><par n="Abu__np"/></e>
@@ -20547,14 +20509,14 @@
     <e lm="Camilla"><i>Camilla</i><par n="Abu__np"/></e>
     <e lm="Campbell"><i>Campbell</i><par n="Abu__np"/></e>
     <e lm="Caracas"><i>Caracas</i><par n="AC__np"/></e>
-    <e lm="Cardoso"><i>Cardoso</i><par n="Cardoso__np"/></e>
-    <e lm="Corleone"><i>Corleone</i><par n="Cardoso__np"/></e>
+    <e lm="Cardoso"><i>Cardoso</i><par n="Tyers__np"/></e>
+    <e lm="Corleone"><i>Corleone</i><par n="Tyers__np"/></e>
     <e lm="Sicília"><i>Sicília</i><par n="AC__np"/></e>
     <e lm="Carlos"><i>Carlos</i><par n="Abu__np"/></e>
     <e lm="Berlusconi"><i>Berlusconi</i><par n="Abu__np"/></e>
     <e lm="Casa Branca"><i>Casa<b/>Branca</i><par n="AC__np"/></e>
     <e lm="Castillo"><i>Castillo</i><par n="Abu__np"/></e>
-    <e lm="Castro"><i>Castro</i><par n="Cardoso__np"/></e>
+    <e lm="Castro"><i>Castro</i><par n="Tyers__np"/></e>
     <e lm="Charles"><i>Charles</i><par n="Abu__np"/></e>
     <e lm="Chechênia"><i>Chechênia</i><par n="AC__np"/></e>
     <e lm="Chelsea"><i>Chelsea</i><par n="Abu__np"/></e>
@@ -20625,7 +20587,8 @@
     <e lm="Felipe"><i>Felipe</i><par n="Abu__np"/></e>
     <e lm="Fernando"><i>Fernando</i><par n="Abu__np"/></e>
     <e lm="Fernández"><i>Fernández</i><par n="Abu__np"/></e>
-    <e lm="Ferrari"><i>Ferrari</i><par n="Ferrari__np"/></e>
+    <e lm="Ferrari"><i>Ferrari</i><par n="Tyers__np"/></e>
+    <e lm="Ferrari"><i>Ferrari</i><par n="ABC__np"/></e>
     <e lm="Fiat"><i>Fiat</i><par n="ABC__np"/></e>
     <e lm="Fidel"><i>Fidel</i><par n="Abu__np"/></e>
     <e lm="Figueres"><i>Figueres</i><par n="AC__np"/></e>
@@ -20729,10 +20692,10 @@
     <e lm="Lee"><i>Lee</i><par n="Abu__np"/></e>
     <e lm="Leonardo"><i>Leonardo</i><par n="Abu__np"/></e>
     <e lm="Lewis"><i>Lewis</i><par n="Abu__np"/></e>
-    <e lm="León"><i>León</i><par n="Cardoso__np"/></e>
+    <e lm="León"><i>León</i><par n="Tyers__np"/></e>
     <e lm="Li"><i>Li</i><par n="Abu__np"/></e>
-    <e lm="Lima"><i>Lima</i><par n="Cardoso__np"/></e>
-    <e lm="Lisboa"><i>Lisboa</i><par n="Cardoso__np"/></e>
+    <e lm="Lima"><i>Lima</i><par n="Tyers__np"/></e>
+    <e lm="Lisboa"><i>Lisboa</i><par n="Tyers__np"/></e>
     <e lm="Liverpool"><i>Liverpool</i><par n="AC__np"/></e>
     <e lm="Lockerbie"><i>Lockerbie</i><par n="AC__np"/></e>
     <e lm="Londres"><i>Londres</i><par n="AC__np"/></e>
@@ -20756,22 +20719,24 @@
     <e lm="Manchester"><i>Manchester</i><par n="AC__np"/></e>
     <e lm="Mandela"><i>Mandela</i><par n="Abu__np"/></e>
     <e lm="Manila"><i>Manila</i><par n="AC__np"/></e>
-    <e lm="Manuel"><i>Manuel</i><par n="Cardoso__np"/></e>
+    <e lm="Manuel"><i>Manuel</i><par n="Henrique__np"/></e>
     <e lm="Mar"><i>Mar</i><par n="Abu__np"/></e>
     <e lm="Maradona"><i>Maradona</i><par n="Abu__np"/></e>
     <e lm="Marc"><i>Marc</i><par n="Abu__np"/></e>
     <e lm="Marcelo"><i>Marcelo</i><par n="Abu__np"/></e>
     <e lm="Marcos"><i>Marcos</i><par n="Abu__np"/></e>
     <e lm="Margarita"><i>Margarita</i><par n="Abu__np"/></e>
-    <e lm="Maria"><i>Maria</i><par n="Cardoso__np"/></e>
+    <e lm="Maria"><i>Maria</i><par n="Maria__np"/></e>
     <e lm="Mario"><i>Mario</i><par n="Abu__np"/></e>
     <e lm="Mark"><i>Mark</i><par n="Abu__np"/></e>
     <e lm="Marques"><i>Marques</i><par n="Abu__np"/></e>
     <e lm="Marrocos"><i>Marrocos</i><par n="AC__np"/></e>
     <e lm="Marselha"><i>Marselha</i><par n="AC__np"/></e>
     <e lm="Marta"><i>Marta</i><par n="Abu__np"/></e>
-    <e lm="Marte"><i>Marte</i><par n="Marte__np"/></e>
-    <e lm="Vénus"><i>Vénus</i><par n="Marte__np"/></e>
+    <e lm="Marte"><i>Marte</i><par n="ABC__np"/></e>
+    <e lm="Marte"><i>Marte</i><par n="AC__np"/></e>
+    <e lm="Vénus"><i>Vénus</i><par n="ABC__np"/></e>
+    <e lm="Vénus"><i>Vénus</i><par n="AC__np"/></e>
     <e lm="Martin"><i>Martin</i><par n="Abu__np"/></e>
     <e lm="Martínez"><i>Martínez</i><par n="Abu__np"/></e>
     <e lm="Mary"><i>Mary</i><par n="Abu__np"/></e>
@@ -20792,14 +20757,14 @@
     <e lm="Mitterrand"><i>Mitterrand</i><par n="Abu__np"/></e>
     <e lm="Mohamed"><i>Mohamed</i><par n="Abu__np"/></e>
     <e lm="Mohammed"><i>Mohammed</i><par n="Abu__np"/></e>
-    <e lm="Montenegro"><i>Montenegro</i><par n="Cardoso__np"/></e>
+    <e lm="Montenegro"><i>Montenegro</i><par n="Tyers__np"/></e>
     <e lm="Montevidéu"><i>Montevidéu</i><par n="AC__np"/></e>
     <e lm="Morris"><i>Morris</i><par n="Abu__np"/></e>
     <e lm="Moscou" v="br"><i>Moscou</i><par n="AC__np"/></e>
     <e lm="Mosul" v="br"><i>Mosul</i><par n="AC__np"/></e>
     <e lm="Mossul" v="pt"><i>Mossul</i><par n="AC__np"/></e>
     <e lm="Moçambique"><i>Moçambique</i><par n="AC__np"/></e>
-    <e lm="Mubarak"><i>Mubarak</i><par n="Cardoso__np"/></e>
+    <e lm="Mubarak"><i>Mubarak</i><par n="Tyers__np"/></e>
     <e lm="Munique"><i>Munique</i><par n="AC__np"/></e>
     <e lm="Márquez"><i>Márquez</i><par n="Abu__np"/></e>
     <e lm="México"><i>México</i><par n="AC__np"/></e>
@@ -20895,8 +20860,8 @@
     <e lm="San"><i>San</i><par n="Abu__np"/></e>
     <e lm="Santa"><i>Santa</i><par n="Abu__np"/></e>
     <e lm="Santa Cruz"><i>Santa<b/>Cruz</i><par n="AC__np"/></e>
-    <e lm="Santiago"><i>Santiago</i><par n="Cardoso__np"/></e>
-    <e lm="Santos"><i>Santos</i><par n="Cardoso__np"/></e>
+    <e lm="Santiago"><i>Santiago</i><par n="Henrique__np"/></e>
+    <e lm="Santos"><i>Santos</i><par n="Tyers__np"/></e>
     <e lm="Sarajevo"><i>Sarajevo</i><par n="AC__np"/></e>
     <e lm="Schumacher"><i>Schumacher</i><par n="Abu__np"/></e>
     <e lm="Segundo"><i>Segundo</i><par n="Abu__np"/></e>
@@ -20907,7 +20872,7 @@
     <e lm="Simpson"><i>Simpson</i><par n="Abu__np"/></e>
     <e lm="Smith"><i>Smith</i><par n="Abu__np"/></e>
     <e lm="Sofia"><i>Sofia</i><par n="Abu__np"/></e>
-    <e lm="Sony"><i>Sony</i><par n="Ferrari__np"/></e>
+    <e lm="Sony"><i>Sony</i><par n="ABC__np"/></e>
     <e lm="Sporting"><i>Sporting</i><par n="ABC__np"/></e>
     <e lm="Sri Lanka"><i>Sri<b/>Lanka</i><par n="AC__np"/></e>
     <e lm="Stone"><i>Stone</i><par n="Abu__np"/></e>
@@ -20936,8 +20901,8 @@
     <e lm="Tóquio"><i>Tóquio</i><par n="AC__np"/></e>
     <e lm="Uganda"><i>Uganda</i><par n="AC__np"/></e>
     <e lm="Ulster"><i>Ulster</i><par n="AC__np"/></e>
-    <e lm="Valencia"><i>Valencia</i><par n="Cardoso__np"/></e>
-    <e lm="Valls"><i>Valls</i><par n="Cardoso__np"/></e>
+    <e lm="Valencia"><i>Valencia</i><par n="Tyers__np"/></e>
+    <e lm="Valls"><i>Valls</i><par n="Tyers__np"/></e>
     <e lm="Valona"><i>Valona</i><par n="AC__np"/></e>
     <e lm="Vargas"><i>Vargas</i><par n="Abu__np"/></e>
     <e lm="Vaticano"><i>Vaticano</i><par n="AC__np"/></e>
@@ -21027,6 +20992,23 @@
     <e lm="Brito"><i>Brito</i><par n="Abu__np"/></e>
     <e lm="Bravo"><i>Bravo</i><par n="Abu__np"/></e>
     <e lm="Benfica"><i>Benfica</i><par n="AC__np"/></e>
+    <e lm="Barcelona"><i>Barcelona</i><par n="Argentina__np"/></e>
+    <e lm="Cardoso"><i>Cardoso</i><par n="Brasil__np"/></e>
+    <e lm="Corleone"><i>Corleone</i><par n="Brasil__np"/></e>
+    <e lm="Castro"><i>Castro</i><par n="Brasil__np"/></e>
+    <e lm="León"><i>León</i><par n="Brasil__np"/></e>
+    <e lm="Lima"><i>Lima</i><par n="Argentina__np"/></e>
+    <e lm="Lisboa"><i>Lisboa</i><par n="Argentina__np"/></e>
+    <e lm="Montenegro"><i>Montenegro</i><par n="Brasil__np"/></e>
+    <e lm="Mubarak"><i>Mubarak</i><par n="Brasil__np"/></e>
+    <e lm="Santiago"><i>Santiago</i><par n="Brasil__np"/></e>
+    <e lm="Santos"><i>Santos</i><par n="Brasil__np"/></e>
+    <e lm="Valencia"><i>Valencia</i><par n="Argentina__np"/></e>
+    <e lm="Valls"><i>Valls</i><par n="Brasil__np"/></e>
+    <e lm="Laguna"><i>Laguna</i><par n="Argentina__np"/></e>
+    <e lm="Girona" a="nuboro"><i>Girona</i><par n="Argentina__np"/></e>
+    <e lm="Tarragona"><i>Tarragona</i><par n="Argentina__np"/></e>
+
 <!-- entrades "num" -->
     <e lm="C"><i>C</i><par n="C__num"/></e>
     <e lm="D"><i>D</i><par n="C__num"/></e>
@@ -24345,7 +24327,7 @@
     <e lm="laborar"><i>labor</i><par n="abal/ar__vblex"/></e>
     <e lm="lacuna" r="LR"><i>lacuna</i><par n="abadia__n"/></e>
     <e lm="lagoa"><i>lagoa</i><par n="abadia__n"/></e>
-    <e lm="Laguna"><i>Laguna</i><par n="Cardoso__np"/></e>
+    <e lm="Laguna"><i>Laguna</i><par n="Tyers__np"/></e>
     <e lm="lamber"><i>lamb</i><par n="abat/er__vblex"/></e>
     <e lm="largura"><i>largura</i><par n="abadia__n"/></e>
     <e lm="lástima"><i>lástima</i><par n="abadia__n"/></e>
@@ -28851,7 +28833,7 @@
     <e lm="Tarraco" a="nuboro"><i>Tarraco</i><par n="AC__np"/></e>
     <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="AC__np"/></e>
     <e lm="Tolosa" a="nuboro"><i>Tolosa</i><par n="AC__np"/></e>
-    <e lm="Girona" a="nuboro"><i>Girona</i><par n="Cardoso__np"/></e>
+    <e lm="Girona" a="nuboro"><i>Girona</i><par n="Tyers__np"/></e>
     <e lm="Gerunda" a="nuboro"><i>Gerunda</i><par n="AC__np"/></e>
     <e lm="Lérida" a="nuboro"><i>Lérida</i><par n="AC__np"/></e>
     <e lm="Tortosa" a="nuboro"><i>Tortosa</i><par n="AC__np"/></e>
@@ -29085,7 +29067,7 @@
     <e lm="Catalunha"><i>Catalunha</i><par n="AC__np"/></e>
     <e lm="Aragão"><i>Aragão</i><par n="AC__np"/></e>
     <e lm="Andorra"><i>Andorra</i><par n="AC__np"/></e>
-    <e lm="Tarragona"><i>Tarragona</i><par n="Cardoso__np"/></e>
+    <e lm="Tarragona"><i>Tarragona</i><par n="Tyers__np"/></e>
     <e lm="Beríngia"><i>Beríngia</i><par n="AC__np"/></e>
 
 <e lm="partidista"><i>partidista</i><par n="agrícola__adj" /></e>
