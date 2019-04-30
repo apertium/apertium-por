@@ -2,7 +2,8 @@
 
 DELIMITERS = "<.>" "<!>" "<?>" "<..>" "<...>" "<¶>" ;
 SOFT-DELIMITERS = "<,>" ;
-OPTIONS += no-inline-sets no-inline-templates ;
+#OPTIONS += no-inline-sets no-inline-templates ;
+OPTIONS += no-inline-templates ;
 
 SUBREADINGS = LTR ; # Alternate, left-to-right (main reading on the left)
 
@@ -25,7 +26,7 @@ LIST Det = det ;
 LIST Prn = prn ;
 LIST N = n ;
 LIST Detnt = detnt ;
-LIST Art = (det def) ;
+LIST ArtDef = (det def) ;
 
 LIST Inf = inf ;
 LIST PrfPrc = pp ;
@@ -44,6 +45,7 @@ LIST MascFem = mf ;
 
 LIST Ant = ant ;
 LIST Cog = cog ;
+LIST Top = top loc ;
 
 LIST Sg = sg ;
 LIST Pl = pl ;
@@ -75,6 +77,7 @@ LIST Haver = vbhaver ;
 LIST Poder = "poder" ;
 LIST Para = "para" ;
 LIST De = "de" ;
+LIST Desde = "desde" ;
 LIST Em = "em" ; 
 LIST Entre = "entre" ;
 LIST Até = "até" ;
@@ -311,7 +314,7 @@ REMOVE NotMasc IF (0 Det) (1C Masc) ;
 
 REMOVE NotFem IF (0 Det) (1C Fem) ;
 
-REMOVE Det IF (0 Art + Fem) (1C V) ;
+REMOVE Det IF (0 ArtDef + Fem) (1C V) ;
 
 SELECT Rel IF (-1 Ao) ;
 
@@ -359,8 +362,9 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 #SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
   ## em saber se 
 
-#REMOVE Cog IF (-1 Art) (0C Ant OR Cog)  ;
-
+REMOVE Cog IF (-1 ArtDef) (0 Ant) (0 Cog)  ;
+REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
+REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
 
 
 
