@@ -28792,10 +28792,6 @@
     <e lm="Berenguer" a="nuboro"><i>Berenguer</i><par n="Tyers__np"/></e>
     <e lm="Calvo" a="nuboro"><i>Calvo</i><par n="Tyers__np"/></e>
 
-
-
-
-
     <e lm="Arnold" a="nuboro"><i>Arnold</i><par n="Abu__np"/></e>
     <e lm="Vitus" a="nuboro"><i>Vitus</i><par n="Abu__np"/></e>
     <e lm="Ralph" a="nuboro"><i>Ralph</i><par n="Abu__np"/></e>
@@ -28813,8 +28809,6 @@
     <e lm="Vifredo" a="nuboro"><i>Vifredo</i><par n="Abu__np"/></e>
     <e lm="Petronila" a="nuboro"><i>Petronila</i><par n="Abu__np"/></e>
     <e lm="Arão" a="nuboro"><i>Arão</i><par n="Abu__np"/></e>
-
-
 
     <e lm="Bering" a="nuboro"><i>Bering</i><par n="AC__np"/></e>
     <e lm="Vênus" a="nuboro"><i>Vênus</i><par n="AC__np"/></e>
@@ -28859,7 +28853,6 @@
     <e lm="Ibérica" a="nuboro"><i>Ibérica</i><par n="Argentina__np"/></e>
     <e lm="Castela-Mancha" a="hector"><i>Castela-Mancha</i><par n="Argentina__np"/></e>
 
-
     <e lm="VCO" a="nuboro"><i>VCO</i><par n="ABC__np"/></e>
     <e lm="PLANET" a="nuboro"><i>PLANET</i><par n="ABC__np"/></e>
     <e lm="RCS" a="nuboro"><i>RCS</i><par n="ABC__np"/></e>
@@ -28880,8 +28873,6 @@
     <e lm="Dalí" a="nuboro"><i>Dalí</i><par n="Tyers__np"/></e>
     <e lm="Paleolítico Medio" a="nuboro"><i>Paleolítico<b/>Medio</i><par n="ABC__np"/></e>
     <e lm="Sua Alteza" a="nuboro"><i>Sua<b/>Alteza</i><par n="ABC__np"/></e>
-
-
 
     <e lm="calota" a="nuboro"><i>calota</i><par n="abadia__n"/></e>
     <e lm="poeira" a="nuboro"><i>poeira</i><par n="abadia__n"/></e>
@@ -28922,9 +28913,6 @@
     <e lm="Mediterrâneo" a="nuboro"><i>Mediterrâneo</i><par n="livro__n"/></e>
     <e lm="ofício" a="nuboro"><i>ofício</i><par n="livro__n"/></e>
 
-
-
-
     <e lm="átomo" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
     <e lm="objecto" a="nuboro"><i>objecto</i><par n="livro__n"/></e>
     <e lm="polo" a="nuboro"><i>polo</i><par n="livro__n"/></e>
@@ -28945,7 +28933,6 @@
     <e lm="aglomerado" a="nuboro"><i>átomo</i><par n="livro__n"/></e>
     <e lm="recado" a="nuboro"><i>recado</i><par n="livro__n"/></e>
 
-
     <e lm="reencontrar" a="nuboro"><i>reencontr</i><par n="abal/ar__vblex"/></e>
     <e lm="mancar" a="nuboro"><i>manc</i><par n="abal/ar__vblex"/></e>
     <e lm="sarar" a="nuboro"><i>sar</i><par n="abal/ar__vblex"/></e>
@@ -28959,7 +28946,6 @@
     <e lm="aclamar" a="nuboro"><i>aclam</i><par n="abal/ar__vblex"/></e>
     <e lm="entristecer" a="nuboro"><i>entristec</i><par n="abat/er__vblex"/></e>
     <e lm="agastar" a="nuboro"><i>agast</i><par n="abal/ar__vblex"/></e>
-
 
     <e lm="performance" a="nuboro"><i>performance</i><par n="abadia__n"/></e>
     <e lm="panela" a="nuboro"><i>panela</i><par n="abadia__n"/></e>
@@ -28982,7 +28968,6 @@
     <e lm="asteroide" a="nuboro"><i>asteroide</i><par n="livro__n"/></e>
     <e lm="dito" a="nuboro"><i>dito</i><par n="livro__n"/></e>
     <e lm="velho" a="nuboro"><i>velho</i><par n="livro__n"/></e>
-
 
     <e lm="exótico" a="nuboro"><i>exótic</i><par n="abert/o__adj"/></e>
     <e lm="erudito" a="nuboro"><i>erudit</i><par n="abert/o__adj"/></e>
@@ -29015,15 +29000,11 @@
     <e lm="românico" a="nuboro"><i>românic</i><par n="abert/o__adj"/></e>
     <e lm="perseverando" a="nuboro"><i>perseverand</i><par n="abert/o__adj"/></e>
 
-
-
-
     <e lm="vulcanismo" a="nuboro"><i>vulcanismo</i><par n="atletismo__n"/></e>
     <e lm="nomadismo" a="nuboro"><i>nomadismo</i><par n="atletismo__n"/></e>
     <e lm="metano" a="nuboro"><i>metano</i><par n="atletismo__n"/></e>
     <e lm="magma" a="nuboro"><i>magma</i><par n="atletismo__n"/></e>
     <e lm="deutério" a="nuboro"><i>deutério</i><par n="atletismo__n"/></e>
-
 
     <e lm="transiente" a="nuboro"><i>transiente</i><par n="agrícola__adj"/></e>
     <e lm="pensante" a="nuboro"><i>pensante</i><par n="agrícola__adj"/></e>
@@ -29041,26 +29022,20 @@
     <e lm="acreção" a="nuboro"><i>acreç</i><par n="aceitaç/ão__n"/></e>
     <e lm="acepção" a="nuboro"><i>acepç</i><par n="aceitaç/ão__n"/></e>
 
-
     <e lm="incolor" a="nuboro"><i>incolor</i><par n="anterior__adj"/></e>
     <e lm="globular" a="nuboro"><i>globular</i><par n="anterior__adj"/></e>
-
 
     <e  lm="sazonal" a="nuboro"><i>sazona</i><par n="aceitáve/l__adj"/></e>
     <e  lm="interglacial" a="nuboro"><i>interglacia</i><par n="aceitáve/l__adj"/></e>
     <e  lm="habitável" a="nuboro"><i>habitáve</i><par n="aceitáve/l__adj"/></e>
 
-
     <e lm="explorador" a="nuboro"><i>explorador</i><par n="admirador__n"/></e>
-
 
     <e lm="gêiser" a="nuboro"><i>gêiser</i><par n="amor__n"/></e>
     <e lm="redor" a="nuboro"><i>redor</i><par n="amor__n"/></e>
     <e lm="aglomerador" a="nuboro"><i>aglomerador</i><par n="amor__n"/></e>
 
-
     <e lm="pelagem" a="nuboro"><i>pelage</i><par n="aterrissage/m__n"/></e>
-
 
     <e lm="provir" a="nuboro"><i>pro</i><par n="dev/ir__vblex"/></e>
 
