@@ -20709,6 +20709,7 @@
     <e lm="Louis"><i>Louis</i><par n="Abu__np"/></e>
     <e lm="Luis"><i>Luis</i><par n="Abu__np"/></e>
     <e lm="Luiz"><i>Luiz</i><par n="Abu__np"/></e>
+    <e lm="Inácio"><i>Inácio</i><par n="Abu__np"/></e>
     <e lm="Lula"><i>Lula</i><par n="Abu__np"/></e>
     <e lm="Luxemburgo"><i>Luxemburgo</i><par n="AC__np"/></e>
     <e lm="Lyon"><i>Lyon</i><par n="AC__np"/></e>
@@ -24376,7 +24377,6 @@
     <e lm="manto"><i>manto</i><par n="livro__n"/></e>
     <e lm="maravilha"><i>maravilha</i><par n="abadia__n"/></e>
     <e lm="marchar"><i>march</i><par n="abal/ar__vblex"/></e>
-    <e lm="Mar"><i>Mar</i><par n="Abu__np"/></e>
     <e lm="marinheiro"><i>marinheiro</i><par n="livro__n"/></e>
     <e lm="martelar"><i>martel</i><par n="abal/ar__vblex"/></e>
     <e lm="martelo"><i>martelo</i><par n="livro__n"/></e>
@@ -27145,6 +27145,7 @@
     <e lm="Otelo" a="prompsit"><i>Otelo</i><par n="Abu__np"/></e>
     <e lm="Olavo" a="prompsit"><i>Olavo</i><par n="Abu__np"/></e>
     <e lm="Dilma" a="prompsit"><i>Dilma</i><par n="Abu__np"/></e>
+    <e lm="Vana"><i>Vana</i><par n="Abu__np"/></e>
     <e lm="Cerqueira" a="prompsit"><i>Cerqueira</i><par n="Abu__np"/></e>
     <e lm="Carneiro" a="prompsit"><i>Carneiro</i><par n="Abu__np"/></e>
     <e lm="Blanka" a="prompsit"><i>Blanka</i><par n="Abu__np"/></e>
