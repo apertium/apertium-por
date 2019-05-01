@@ -20601,6 +20601,9 @@
     <e lm="Evaristo"><i>Evaristo</i><par n="Henrique__np"/></e>
     <e lm="FMI"><i>FMI</i><par n="ABC__np"/></e>
     <e lm="Federico"><i>Federico</i><par n="Henrique__np"/></e>
+    <e lm="Frederic"><i>Frederic</i><par n="Henrique__np"/></e>
+    <e lm="Frederico"><i>Frederico</i><par n="Henrique__np"/></e>
+    <e lm="Felip"><i>Felip</i><par n="Henrique__np"/></e>
     <e lm="Felipe"><i>Felipe</i><par n="Henrique__np"/></e>
     <e lm="Fernando"><i>Fernando</i><par n="Henrique__np"/></e>
     <e lm="Fernández"><i>Fernández</i><par n="Tyers__np"/></e>
@@ -21025,6 +21028,7 @@
     <e lm="Caldas"><i>Caldas</i><par n="Tyers__np"/></e>
     <e lm="Carvalho"><i>Carvalho</i><par n="Tyers__np"/></e>
     <e lm="Barcelos"><i>Barcelos</i><par n="AC__np"/></e>
+    <e lm="Benet"><i>Benet</i><par n="Henrique__np"/></e>
     <e lm="Bento"><i>Bento</i><par n="Henrique__np"/></e>
     <e lm="Rui"><i>Rui</i><par n="Henrique__np"/></e>
     <e lm="Martins"><i>Martins</i><par n="Tyers__np"/></e>
@@ -22987,6 +22991,7 @@
     <e lm="madrileno" v="pt"><i>madrilen</i><par n="abert/o__adj"/></e>
     <e lm="Martín"><i>Martín</i><par n="Tyers__np"/></e>
     <e lm="Martín"><i>Martín</i><par n="Henrique__np"/></e>
+    <e lm="Martí"><i>Martí</i><par n="Henrique__np"/></e>
     <e lm="Montilla"><i>Montilla</i><par n="Tyers__np"/></e>
     <e lm="neto"><i>net</i><par n="abert/o__adj"/></e>
     <e lm="neto"><i>net</i><par n="adept/o__n"/></e>
