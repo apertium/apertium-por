@@ -120,7 +120,8 @@ LIST Language = "português" "inglês" "francês" "albanês" "dinamarquês" "esc
 SET Dignidade = ("presidente") OR ("governador") OR ("imperador") OR ("imperatriz") OR ("rei") OR ("rainha") OR ("príncipe") OR ("princesa") OR ("conde") OR ("visconde") OR ("marquês") OR ("duque") OR ("arquiduque");
 
 LIST unknown = ("\\*.*"r) ;
-LIST unknownMajIni = ("\\*[A-ZÀÁÈÉíÒÓÚÜÇ].*"r) ;
+LIST unknownMajIni = ("\\*[A-ZÀÁÈÉÊÍÒÓÔÚÜÇ].*"r) ;
+LIST unknownMinIni = ("\\*[a-zàáèéêíòóôùúïüç].*"r) ;
 LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
 LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
 LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
@@ -405,6 +406,13 @@ SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 
+# São
+SELECT A IF (0 São) (1 NP);
+SELECT A IF (0 São) (1 unknownMajIni);
+SELECT Ser IF (0 São) (1 unknownMinIni);
+SELECT Ser IF (0 São) (1 A + Pl);
+SELECT Ser IF (0 São) (1 N + Pl);
+SELECT Ser IF (0 São) (1 Adv) (2 A + Pl);
 
 #nuboros rules
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
