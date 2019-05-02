@@ -14031,6 +14031,7 @@
       <e r="LR"><p><l>dessa</l><r>de<s n="pr"/><j/>esse<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>dessas</l><r>de<s n="pr"/><j/>esse<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>daqui</l><r>de<s n="pr"/><j/>aqui<s n="adv"/></r></p></e>
+      <e r="LR"><p><l>dali</l><r>de<s n="pr"/><j/>ali<s n="adv"/></r></p></e>
       <e r="LR"><p><l>daquilo</l><r>de<s n="pr"/><j/>aquilo<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
       <e r="LR"><p><l>disso</l><r>de<s n="pr"/><j/>isso<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
       <e r="LR"><p><l>disto</l><r>de<s n="pr"/><j/>isto<s n="prn"/><s n="tn"/><s n="nt"/></r></p></e>
@@ -14074,6 +14075,10 @@
       <e r="LR"><p><l>nuns</l><r>em<s n="pr"/><j/>um<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>numa</l><r>em<s n="pr"/><j/>um<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>numas</l><r>em<s n="pr"/><j/>um<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>nalgum</l><r>em<s n="pr"/><j/>algum<s n="det"/><s n="ind"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nalguns</l><r>em<s n="pr"/><j/>algum<s n="det"/><s n="ind"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>nalguma</l><r>em<s n="pr"/><j/>algum<s n="det"/><s n="ind"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nalgumas</l><r>em<s n="pr"/><j/>algum<s n="det"/><s n="ind"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>neste</l><r>em<s n="pr"/><j/>este<s n="det"/><s n="dem"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>nestes</l><r>em<s n="pr"/><j/>este<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>nesta</l><r>em<s n="pr"/><j/>este<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
@@ -14086,6 +14091,10 @@
       <e r="LR"><p><l>naqueles</l><r>em<s n="pr"/><j/>aquele<s n="det"/><s n="dem"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>naquela</l><r>em<s n="pr"/><j/>aquele<s n="det"/><s n="dem"/><s n="f"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>naquelas</l><r>em<s n="pr"/><j/>aquele<s n="det"/><s n="dem"/><s n="f"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>nalgum</l><r>em<s n="pr"/><j/>algum<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nalguns</l><r>em<s n="pr"/><j/>algum<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
+      <e r="LR"><p><l>nalguma</l><r>em<s n="pr"/><j/>algum<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
+      <e r="LR"><p><l>nalgumas</l><r>em<s n="pr"/><j/>algum<s n="prn"/><s n="tn"/><s n="f"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>neste</l><r>em<s n="pr"/><j/>este<s n="prn"/><s n="tn"/><s n="m"/><s n="sg"/></r></p></e>
       <e r="LR"><p><l>nestes</l><r>em<s n="pr"/><j/>este<s n="prn"/><s n="tn"/><s n="m"/><s n="pl"/></r></p></e>
       <e r="LR"><p><l>nesta</l><r>em<s n="pr"/><j/>este<s n="prn"/><s n="tn"/><s n="f"/><s n="sg"/></r></p></e>
@@ -16665,6 +16674,7 @@
     <e lm="lutadoramente"><i>lutadoramente</i><par n="agora__adv"/></e>
     <e lm="luxuosamente"><i>luxuosamente</i><par n="agora__adv"/></e>
     <e lm="lá"><i>lá</i><par n="agora__adv"/></e>
+    <e lm="alí"><i>alí</i><par n="agora__adv"/></e>
     <e lm="macabramente"><i>macabramente</i><par n="agora__adv"/></e>
     <e lm="maciamente"><i>maciamente</i><par n="agora__adv"/></e>
     <e lm="madrilenhamente"><i>madrilenhamente</i><par n="agora__adv"/></e>
@@ -19917,6 +19927,7 @@
     <e lm="salão"><i>sal</i><par n="avi/ão__n"/></e>
     <e lm="sangue"><i>sangue</i><par n="livro__n"/></e>
     <e lm="santo"><i>sant</i><par n="adept/o__n"/></e>
+    <e lm="santíssimo"><i>santíssim</i><par n="abert/o__adj"/></e>
     <e lm="sanção"><i>sanç</i><par n="aceitaç/ão__n"/></e>
     <e lm="saque"><i>saque</i><par n="livro__n"/></e>
     <e lm="satisfação"><i>satisfaç</i><par n="aceitaç/ão__n"/></e>
@@ -20781,8 +20792,8 @@
     <e lm="Maastricht"><i>Maastricht</i><par n="AC__np"/></e>
     <e lm="Mac"><i>Mac</i><par n="ABC__np"/></e>
     <e lm="Madeleine"><i>Madeleine</i><par n="Maria__np"/></e>
-    <e lm="Madri"><i>Madri</i><par n="AC__np"/></e>
-    <e lm="Madrid" r="LR"><i>Madrid</i><par n="AC__np"/></e>
+    <e lm="Madri"><i>Madri</i><par n="Brasil__np"/></e>
+    <e lm="Madrid"><i>Madrid</i><par n="Brasil__np"/></e>
     <e lm="Malásia"><i>Malásia</i><par n="Argentina__np"/></e>
     <e lm="Manchester"><i>Manchester</i><par n="AC__np"/></e>
     <e lm="Mandela"><i>Mandela</i><par n="Tyers__np"/></e>
@@ -23040,6 +23051,8 @@
     <e lm="síndrome"><i>síndrome</i><par n="abadia__n"/></e>
     <e lm="Sebastián"><i>Sebastián</i><par n="Tyers__np"/></e>
     <e lm="Sebastián"><i>Sebastián</i><par n="Henrique__np"/></e>
+    <e lm="Sebastià"><i>Sebastià</i><par n="Henrique__np"/></e>
+    <e lm="Sebastião"><i>Sebastião</i><par n="Henrique__np"/></e>
     <e lm="Singh"><i>Singh</i><par n="Tyers__np"/></e>
     <e lm="sucursal"><i>sucursa</i><par n="catedra/l__n"/></e>
     <e lm="telefonia"><i>telefonia</i><par n="abadia__n"/></e>
@@ -24737,7 +24750,7 @@
     <e lm="saliente"><i>saliente</i><par n="agrícola__adj"/></e>
     <e lm="salvação"><i>salvaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="sanar"><i>san</i><par n="abal/ar__vblex"/></e>
-    <e r="RL" lm="são"><i>sã</i><par n="cristã/o__adj"/></e>
+    <e lm="são"><i>sã</i><par n="cristã/o__adj"/></e>
     <e lm="sarcástico"><i>sarcástic</i><par n="abert/o__adj"/></e>
     <e lm="seco"><i>sec</i><par n="abert/o__adj"/></e>
     <e lm="sedento"><i>sedent</i><par n="abert/o__adj"/></e>
@@ -29002,6 +29015,7 @@
     <e lm="Baleares" a="nuboro"><i>Baleares</i><par n="AC__np"/></e>
     <e lm="Ibérica" a="nuboro"><i>Ibérica</i><par n="Argentina__np"/></e>
     <e lm="Castela-Mancha" a="hector"><i>Castela-Mancha</i><par n="Argentina__np"/></e>
+    <e lm="Leão" a="hector"><i>Leão</i><par n="Brasil__np"/></e>
 
     <e lm="VCO" a="nuboro"><i>VCO</i><par n="ABC__np"/></e>
     <e lm="PLANET" a="nuboro"><i>PLANET</i><par n="ABC__np"/></e>
