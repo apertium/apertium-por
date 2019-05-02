@@ -17,11 +17,12 @@ LIST V = vblex ;
 LIST Vbmod = vbmod ;
 LIST A = adj ;
 LIST CS = cnjsub ;
+LIST CA = cnjadv ;
+LIST CC = cnjcoo ;
 LIST Num = num ;
 LIST Interj = ij ;
 LIST Pr = pr ;
 LIST Adv = adv ; 
-LIST CA = cnjadv ;
 LIST Det = det ;
 LIST Prn = prn ;
 LIST N = n ;
@@ -45,6 +46,7 @@ LIST MascFem = mf ;
 
 LIST Ant = ant ;
 LIST Cog = cog ;
+SET Ant_Cog = Ant OR Cog ;
 LIST Top = top loc ;
 
 LIST Sg = sg ;
@@ -93,6 +95,7 @@ LIST Como = "como" ;
 LIST Todo = "todo" ;
 LIST O = "o" ;
 LIST Não = "não" ;
+LIST São = "são" ;
 LIST Seu = "seu" ; 
 LIST Um = "um" ;
 LIST Algum = "algum" ;
@@ -113,7 +116,15 @@ LIST Utilizar = "utilizar" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
 
-LIST Language = "português" "inglês" "francês" "albanês" "dinamarquês" "escocês" "holandês" "japonês" "libanês" "birmanes" "alemão" "espanhol" "italiano" "catalão" "sueco";
+LIST Language = "português" "inglês" "francês" "albanês" "dinamarquês" "escocês" "holandês" "japonês" "birmanês" "alemão" "espanhol" "italiano" "catalão" "sueco";
+SET Dignidade = ("presidente") OR ("governador") OR ("imperador") OR ("imperatriz") OR ("rei") OR ("rainha") OR ("príncipe") OR ("princesa") OR ("conde") OR ("visconde") OR ("marquês") OR ("duque") OR ("arquiduque");
+
+LIST unknown = ("\\*.*"r) ;
+LIST unknownMajIni = ("\\*[A-ZÀÁÈÉíÒÓÚÜÇ].*"r) ;
+LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
+LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
+LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
+LIST segles_num_romans = ("[IVX][IVX]*"r) ;
 
 LIST Foi = "<foi>"i ;
 LIST Vai = "<vai>"i ;
@@ -362,10 +373,37 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 #SELECT Pro IF (-2 Pr) (-1 Inf) (0 Se) ;
   ## em saber se 
 
+# NP
+
 REMOVE Cog IF (-1 ArtDef) (0 Ant) (0 Cog)  ;
 REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
 REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
 
+SELECT Ant IF (0 Ant) (1C Ant) ;
+        # Rosa Maria
+SELECT Cog IF (0 Cog OR Ant) (-1C Ant) ;
+SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) ;
+SELECT Ant IF (0 Ant) (0 Cog) (1 ("de")) (2 Top) ;
+	# Afonso de Portugal
+SELECT Top IF (-2 Ant) (-1 ("de")) (0 Ant OR Cog OR Top) ;
+	# Hiparc de Nicea
+SELECT Top IF (-3 Ant) (-2 segles_num_romans) (-1 ("de")) (0 Ant OR Cog OR Top) ;
+	# Joan II de Castella
+SELECT Top IF (-2 ("concili") OR ("parlament") OR ("estatut") OR ("constitució") OR ("tractat") OR ("declaració"))
+	(-1 ("de")) (0 Ant OR Cog OR Top) ;
+	# concili de Nicea
+SELECT Top IF (-2 ("coroa") OR ("reino") OR ("condado") OR ("ducado")) (-1 ("de")) (0 Cog OR Top) ;
+	# regne de Castella
+SELECT Top IF (-2 Dignidade) (-1 ("de")) (0 Ant OR Cog OR Top) ;
+	# príncep de Viana
+SELECT Top IF (-2 ("ir") OR ("viajar")) (-1 ("a")) (0 Ant OR Cog OR Top) ;
+REMOVE Top IF (NOT -2 ("ir") OR ("viajar")) (-1 ("a")) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0 Ant OR Cog OR Top) ;
+REMOVE Top IF (NOT -3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0C Ant OR Cog OR Top) ;
+SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
+
+SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
+SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 
 
 #nuboros rules
