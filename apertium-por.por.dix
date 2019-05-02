@@ -1159,6 +1159,20 @@
       <e><p><l>ês</l><r>ês<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
     </pardef>
 
+    <pardef n="conde__n">
+      <e><p><l/><r><s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+      <e><p><l>s</l><r><s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ssa</l><r><s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ssas</l><r><s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+    </pardef>
+
+    <pardef n="bar/ão__n">
+      <e><p><l>onesas</l><r>ão<s n="n"/><s n="f"/><s n="pl"/></r></p></e>
+      <e><p><l>onesa</l><r>ão<s n="n"/><s n="f"/><s n="sg"/></r></p></e>
+      <e><p><l>ões</l><r>ão<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
+      <e><p><l>ão</l><r>ão<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
+    </pardef>
+
     <pardef n="m/ês__n">
       <e><p><l>eses</l><r>ês<s n="n"/><s n="m"/><s n="pl"/></r></p></e>
       <e><p><l>ês</l><r>ês<s n="n"/><s n="m"/><s n="sg"/></r></p></e>
@@ -18339,8 +18353,15 @@
     <e lm="conclusão"><i>conclus</i><par n="aceitaç/ão__n"/></e>
     <e lm="concorrência"><i>concorrência</i><par n="abadia__n"/></e>
     <e lm="concurso"><i>concurso</i><par n="livro__n"/></e>
+    <e lm="ducado"><i>ducado</i><par n="livro__n"/></e>
     <e lm="condado"><i>condado</i><par n="livro__n"/></e>
-    <e lm="conde"><i>conde</i><par n="livro__n"/></e>
+    <e lm="conde"><i>conde</i><par n="conde__n"/></e>
+    <e lm="viscondado"><i>viscondado</i><par n="livro__n"/></e>
+    <e lm="visconde"><i>visconde</i><par n="conde__n"/></e>
+    <e lm="marquesado"><i>marquesado</i><par n="livro__n"/></e>
+    <e lm="marquês"><i>dinamarqu</i><par n="alban/ês__n"/></e>
+    <e lm="baronia"><i>baronia</i><par n="abadia__n"/></e>
+    <e lm="barão"><i>bar</i><par n="bar/ão__n"/></e>
     <e lm="condenação"><i>condenaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="condição"><i>condiç</i><par n="aceitaç/ão__n"/></e>
     <e lm="conduta"><i>conduta</i><par n="abadia__n"/></e>
@@ -19698,6 +19719,7 @@
     <e lm="prática"><i>prática</i><par n="abadia__n"/></e>
     <e lm="prédio" r="LR"><i>prédio</i><par n="livro__n"/></e>
     <e lm="prémio"><i>pr</i><par n="pr/émio__n"/></e>
+    <e lm="principado"><i>principado</i><par n="livro__n"/></e>
     <e lm="príncipe"><i>príncipe</i><par n="livro__n"/></e>
     <e lm="próximo"><i>próxim</i><par n="adept/o__n"/></e>
     <e lm="publicação"><i>publicaç</i><par n="aceitaç/ão__n"/></e>
@@ -22936,6 +22958,7 @@
     <e lm="castelhano"><i>castelhan</i><par n="adept/o__n"/></e>
     <e lm="cela"><i>cela</i><par n="abadia__n"/></e>
     <e lm="galego"><i>galeg</i><par n="abert/o__adj"/></e>
+    <e lm="galego"><i>galeg</i><par n="adept/o__n"/></e>
     <e lm="poético"><i>poétic</i><par n="abert/o__adj"/></e>
     <e lm="prosa"><i>prosa</i><par n="abadia__n"/></e>
     <e lm="romantismo"><i>romantismo</i><par n="livro__n"/></e>
@@ -24714,7 +24737,7 @@
     <e lm="saliente"><i>saliente</i><par n="agrícola__adj"/></e>
     <e lm="salvação"><i>salvaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="sanar"><i>san</i><par n="abal/ar__vblex"/></e>
-    <e lm="são" r="RL"><i>sã</i><par n="cristã/o__adj"/></e>
+    <e r="RL" lm="são"><i>sã</i><par n="cristã/o__adj"/></e>
     <e lm="sarcástico"><i>sarcástic</i><par n="abert/o__adj"/></e>
     <e lm="seco"><i>sec</i><par n="abert/o__adj"/></e>
     <e lm="sedento"><i>sedent</i><par n="abert/o__adj"/></e>
@@ -29016,7 +29039,8 @@
     <e lm="amônia" a="nuboro"><i>amônia</i><par n="abadia__n"/></e>
     <e lm="instauração"><i>instauraç</i><par n="aceitaç/ão__n"/></e>
     <e lm="televisão"><i>televis</i><par n="aceitaç/ão__n"/></e>
-    <e lm="birmanes"><i>birman</i><par n="alban/ês__n"/></e>
+    <e lm="birmanês"><i>birman</i><par n="alban/ês__n"/></e>
+    <e lm="birmanês"><i>birman</i><par n="alban/ês__adj"/></e>
     <e lm="povoamento" a="nuboro"><i>povoamento</i><par n="livro__n"/></e>
     <e lm="romanização"  a="nuboro"><i>romanizaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="proclamação"  a="nuboro"><i>proclamaç</i><par n="aceitaç/ão__n"/></e>
@@ -29174,7 +29198,7 @@
     <e lm="seguro" a=""><i>seguro</i><par n="livro__n"/></e>
 
     <e lm="Catalunha"><i>Catalunha</i><par n="Argentina__np"/></e>
-    <e lm="Aragão"><i>Aragão</i><par n="AC__np"/></e>
+    <e lm="Aragão"><i>Aragão</i><par n="Brasil__np"/></e>
     <e lm="Andorra"><i>Andorra</i><par n="Argentina__np"/></e>
     <e lm="Tarragona"><i>Tarragona</i><par n="Tyers__np"/></e>
     <e lm="Beríngia"><i>Beríngia</i><par n="Argentina__np"/></e>
