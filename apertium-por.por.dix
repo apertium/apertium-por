@@ -21716,6 +21716,7 @@
     <e lm="conter"><i>cont</i><par n="abst/er__vblex"/></e>
     <e lm="contestar"><i>contest</i><par n="abal/ar__vblex"/></e>
     <e lm="continuar"><i>continu</i><par n="abal/ar__vblex"/></e>
+    <e lm="continuar a seguir"><i>continu</i><par n="abal/ar__vblex"/><p><l><b/>a<b/>seguir</l><r><j/>a<s n="pr"/><j/>seguir<s n="vblex"/><s n="inf"/></r></p></e>
     <e lm="contradizer"><i>contrad</i><par n="contrad/izer__vblex"/></e>
     <e lm="contrair"><i>contra</i><par n="atra/ir__vblex"/></e>
     <e lm="contrariar"><i>contrari</i><par n="abal/ar__vblex"/></e>
@@ -21931,6 +21932,7 @@
     <e lm="estacionar"><i>estacion</i><par n="abal/ar__vblex"/></e>
     <e lm="estancar"><i>estan</i><par n="abdi/car__vblex"/></e>
     <e lm="estar"><i>est</i><par n="est/ar__vblex"/></e>
+    <e lm="estar a seguir"><i>est</i><par n="est/ar__vblex"/><p><l><b/>a<b/>seguir</l><r><j/>a<s n="pr"/><j/>seguir<s n="vblex"/><s n="inf"/></r></p></e>
     <e lm="estender"><i>estend</i><par n="abat/er__vblex"/></e>
     <e lm="estimar"><i>estim</i><par n="abal/ar__vblex"/></e>
     <e lm="estimular"><i>estimul</i><par n="abal/ar__vblex"/></e>
