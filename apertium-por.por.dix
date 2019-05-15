@@ -15977,6 +15977,7 @@
     <e lm="enganosamente"><i>enganosamente</i><par n="agora__adv"/></e>
     <e lm="enormemente"><i>enormemente</i><par n="agora__adv"/></e>
     <e lm="enquanto"><i>enquanto</i><par n="agora__adv"/></e>
+    <e lm="enquanto isso"><i>enquanto<b/>isso</i><par n="agora__adv"/></e>
     <e lm="entre as refeições"><i>entre<b/>as<b/>refeições</i><par n="agora__adv"/></e>
     <e lm="então"><i>então</i><par n="agora__adv"/></e>
     <e lm="envolventemente"><i>envolventemente</i><par n="agora__adv"/></e>
@@ -17431,6 +17432,7 @@
     <e lm="taciturnamente"><i>taciturnamente</i><par n="agora__adv"/></e>
     <e lm="tactilmente"><i>tactilmente</i><par n="agora__adv"/></e>
     <e lm="tal"><i>tal</i><par n="agora__adv"/></e>
+    <e lm="tal"><i>ta</i><par n="aceitáve/l__adj"/></e>
     <e lm="talvez"><i>talvez</i><par n="agora__adv"/></e>
     <e lm="também"><i>também</i><par n="agora__adv"/></e>
     <e lm="também não"><i>também<b/>não</i><par n="agora__adv"/></e>
@@ -20889,6 +20891,7 @@
     <e lm="Pascal"><i>Pascal</i><par n="Tyers__np"/></e>
     <e lm="Pascal"><i>Pascal</i><par n="Henrique__np"/></e>
     <e lm="Patrick"><i>Patrick</i><par n="Henrique__np"/></e>
+    <e lm="Pau"><i>Pau</i><par n="Henrique__np"/></e>
     <e lm="Paul"><i>Paul</i><par n="Tyers__np"/></e>
     <e lm="Paul"><i>Paul</i><par n="Henrique__np"/></e>
     <e lm="Paula"><i>Paula</i><par n="Maria__np"/></e>
@@ -23063,6 +23066,7 @@
     <e lm="tributário"><i>tributári</i><par n="abert/o__adj"/></e>
     <e lm="tributo"><i>tributo</i><par n="livro__n"/></e>
     <e lm="Almunia"><i>Almunia</i><par n="Tyers__np"/></e>
+    <e lm="abdominal"><i>abdomina</i><par n="aceitáve/l__adj"/></e>
     <e lm="antiviral"><i>antivira</i><par n="aceitáve/l__adj"/></e>
     <e lm="Bargalló"><i>Bargalló</i><par n="Tyers__np"/></e>
     <e lm="Barroso"><i>Barroso</i><par n="Tyers__np"/></e>
@@ -28970,7 +28974,6 @@
     <e lm="Bahamonde"><i>Bahamonde</i><par n="Tyers__np"/></e>
     <e lm="Franco" a="nuboro"><i>Franco</i><par n="Henrique__np"/></e>
     <e lm="Eurico" a="nuboro"><i>Eurico</i><par n="Henrique__np"/></e>
-    <e lm="visigodo" a="nuboro"><i>visigodo</i><par n="Abu__np"/></e>
     <e lm="Vifredo" a="nuboro"><i>Vifredo</i><par n="Henrique__np"/></e>
     <e lm="Petronila" a="nuboro"><i>Petronila</i><par n="Maria__np"/></e>
     <e lm="Arão" a="nuboro"><i>Arão</i><par n="Abu__np"/></e>
@@ -28996,7 +28999,6 @@
     <e lm="Hispânia Citerior" a="nuboro"><i>Hispânia<b/>Citerior</i><par n="Argentina__np"/></e>
     <e lm="Tarraconense" a="nuboro"><i>Tarraconense</i><par n="Argentina__np"/></e>
     <e lm="Tarraco" a="nuboro"><i>Tarraco</i><par n="AC__np"/></e>
-    <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="AC__np"/></e>
     <e lm="Tolosa" a="nuboro"><i>Tolosa</i><par n="Argentina__np"/></e>
     <e lm="Girona" a="nuboro"><i>Girona</i><par n="Tyers__np"/></e>
     <e lm="Gerunda" a="nuboro"><i>Gerunda</i><par n="Argentina__np"/></e>
@@ -29061,7 +29063,6 @@
     <e lm="romanização"  a="nuboro"><i>romanizaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="proclamação"  a="nuboro"><i>proclamaç</i><par n="aceitaç/ão__n"/></e>
     <e lm="vila" a="nuboro"><i>vila</i><par n="abadia__n"/></e>
-    <e lm="Visigodo" a="nuboro"><i>Visigodo</i><par n="livro__n"/></e>
     <e lm="carolíngio" a="nuboro"><i>carolíngio</i><par n="livro__n"/></e>
     <e lm="segador" a="nuboro"><i>segador</i><par n="amor__n"/></e>
     <e lm="catalanismo" a="nuboro"><i>catalanism</i><par n="atletismo__n"/></e>
@@ -29324,6 +29325,13 @@
 <e lm="longe de">        <i>longe<b/></i><par n="/de__pr"/></e>
 <e lm="ao largo">        <i>ao<b/>largo</i><par n="agora__adv"/></e>
 <e lm="como" c="cat: com a"><i>como</i><par n="a__pr"/></e>
+
+    <e lm="godo" a="hector"><i>god</i><par n="abert/o__adj"/></e>
+    <e lm="godo" a="hector"><i>god</i><par n="adept/o__n"/></e>
+    <e lm="visigodo" a="hector"><i>visigod</i><par n="abert/o__adj"/></e>
+    <e lm="visigodo" a="hector"><i>visigod</i><par n="adept/o__n"/></e>
+    <e lm="ostrogodo" a="hector"><i>ostrogod</i><par n="abert/o__adj"/></e>
+    <e lm="ostrogodo" a="hector"><i>ostrogod</i><par n="adept/o__n"/></e>
 
 <e lm="Aarab"><i>Aarab</i><par n="Tyers__np"/></e>
 <e lm="Abad"><i>Abad</i><par n="Tyers__np"/></e>
@@ -43192,6 +43200,18 @@
 <e lm="Țurcanu"><i>Țurcanu</i><par n="Tyers__np"/></e>
 <e lm="Țuțea"><i>Țuțea</i><par n="Tyers__np"/></e>
 <e lm="Țăranu"><i>Țăranu</i><par n="Tyers__np"/></e>
+
+<e lm="desmaterialização" a="jaumeortola"><i>desmaterializaç</i><par n="aceitaç/ão__n"/></e>
+<e lm="imaterial" a="jaumeortola">       <i>imateria</i><par n="anima/l__n"/></e>
+<e lm="imaterialidade" a="jaumeortola">  <i>imaterialidade</i><par n="abadia__n"/></e>
+<e lm="imaterialismo" a="jaumeortola">   <i>imaterialismo</i><par n="livro__n"/></e>
+<e lm="imaterialista" a="jaumeortola">   <i>imaterialista</i><par n="accionista__n"/></e>
+<e lm="material" a="jaumeortola">        <i>materia</i><par n="anima/l__n"/></e>
+<e lm="materialeira" a="jaumeortola">    <i>materialeira</i><par n="abadia__n"/></e>
+<e lm="materialidade" a="jaumeortola">   <i>materialidade</i><par n="abadia__n"/></e>
+<e lm="materialismo" a="jaumeortola">    <i>materialismo</i><par n="livro__n"/></e>
+<e lm="materialista" a="jaumeortola">    <i>materialista</i><par n="accionista__n"/></e>
+<e lm="materialização" a="jaumeortola">  <i>materializaç</i><par n="aceitaç/ão__n"/></e>
 
 </section>
   <section id="final" type="inconditional">
