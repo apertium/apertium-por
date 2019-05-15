@@ -23,6 +23,7 @@ LIST Num = num ;
 LIST Interj = ij ;
 LIST Pr = pr ;
 LIST Adv = adv ; 
+LIST PreAdv = preadv ; 
 LIST Det = det ;
 LIST Prn = prn ;
 LIST N = n ;
@@ -330,9 +331,13 @@ REMOVE Det IF (0 ArtDef + Fem) (1C V) ;
 
 SELECT Rel IF (-1 Ao) ;
 
-SELECT Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Adv) ;
-
+SELECT PreAdv OR Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Adv) ;
 SELECT A IF (0 Bastante) (1C N) ;
+SELECT PreAdv IF (0 Bastante) (1C A) ;
+SELECT PreAdv IF (-1 N + MascSg) (0 Bastante) (1 A + MascSg) ;
+SELECT PreAdv IF (-1 N + FemSg) (0 Bastante) (1 A + FemSg) ;
+SELECT PreAdv IF (-1 N + MascPl) (0 Bastante) (1 A + MascPl) ;
+SELECT PreAdv IF (-1 N + FemPl) (0 Bastante) (1 A + FemPl) ;
 
 SELECT N IF (-1 Falar) (0 Language) ;
 
