@@ -332,6 +332,7 @@ SELECT N + $$Gender IF (-1 Det + $$Gender) (0C N OR A) (1 De) ;
 SELECT Pr IF (-1 Num) (0 Pr OR Det) (1 Num) ;
 
 SELECT Interr IF (-1 BOS) (0 Como) (1* Fin LINK 1* Quest) ;
+SELECT Interr IF (-1 BOS) (0 Que) (1* Quest) ;
 
 SELECT Pr IF (-1 Fin) (0 Pela OR Pelo) (1 N OR A) ;
 
