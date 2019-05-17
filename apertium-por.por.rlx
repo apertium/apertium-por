@@ -222,6 +222,10 @@ SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
 
 SELECT Ser IF (0C Ser OR Ir) (1* A OR N BARRIER (*) - Adv) ;
 
+SELECT Ir IF (0C Ser OR Ir) (1 Para) (2 Det) (3 Top);
+SELECT Ir IF (0C Ser OR Ir) (1 Para) (2 Top) (NOT 2 Ant);
+  ## foi para a França
+
 SELECT Det IF (0 Det OR Prn) (1 A LINK 1 N) ;
 
 SELECT N IF (-1 Det) (0 Ser) (1 Humano) ;
