@@ -94,6 +94,9 @@ LIST Ir = "ir" ;
 LIST Humano = "humano" ;
 LIST Como = "como" ;
 LIST Todo = "todo" ;
+LIST Tao = "tão" ;
+LIST Tanto = "tanto" ;
+LIST Quanto = "quanto" ;
 LIST O = "o" ;
 LIST Não = "não" ;
 LIST São = "são" ;
@@ -228,6 +231,13 @@ SELECT Det IF (-1 Pr) (0 Outro) (1 N OR A) ;
 REMOVE Det IF (0 Outro) (-1 Det) ;
 
 SELECT Rel IF (-1 Cm) (0 Como) ;
+
+SELECT Adv IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
+REMOVE Interr IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
+REMOVE Rel IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
+
+SELECT Adv IF (-1 Tanto) (0 Quanto) ;
+REMOVE Interr IF (-1 Tanto) (0 Quanto) ;
 
 SELECT Det IF (-1 Todo) (0 O) ;
 
