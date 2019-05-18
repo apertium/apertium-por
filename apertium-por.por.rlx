@@ -146,6 +146,7 @@ LIST Guess/Inf = "\*[a-z]+[aei]r"i ;
 
 LIST Quest = "?" ;
 LIST Excl = "!" ;
+LIST DP = ":" ;
 LIST Cm = cm ;
 
 
@@ -433,6 +434,7 @@ SELECT Ser IF (0 São) (1 unknownMinIni);
 SELECT Ser IF (0 São) (1 A + Pl);
 SELECT Ser IF (0 São) (1 N + Pl);
 SELECT Ser IF (0 São) (1 Adv) (2 A + Pl);
+SELECT Ser IF (0 São) (1 DP);
 
 #nuboros rules
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
