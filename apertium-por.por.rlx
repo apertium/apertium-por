@@ -92,6 +92,8 @@ LIST Estar = "estar" ;
 LIST Forma = "forma" ; 
 LIST Ir = "ir" ; 
 LIST Humano = "humano" ;
+LIST Próximo = "próximo" ;
+LIST Amar = "amar" ;
 LIST Como = "como" ;
 LIST Todo = "todo" ;
 LIST Tao = "tão" ;
@@ -230,6 +232,9 @@ SELECT Ir IF (0C Ser OR Ir) (1 Para) (2 Top) (NOT 2 Ant);
 SELECT Det IF (0 Det OR Prn) (1 A LINK 1 N) ;
 
 SELECT N IF (-1 Det) (0 Ser) (1 Humano) ;
+
+SELECT N IF (-2 Amar) (-1 Det) (0 Próximo) ;
+SELECT A IF (NOT -2 Amar) (0 Próximo) ;
 
 SELECT Det IF (-1 Pr) (0 Outro) (1 N OR A) ;
 
