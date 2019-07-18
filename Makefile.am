@@ -9,15 +9,18 @@ BASENAME=apertium-$(LANG1)
 
 VAR1=#deixar en blanc
 VAR2=_bra
+VAR3=_pt_pre1990
 
 TARGETS_COMMON =				\
 	$(LANG1)$(VAR1).automorf.bin		\
 	$(LANG1)$(VAR1).automorf.att.gz		\
 	$(LANG1)$(VAR1).autogen.bin		\
 	$(LANG1)$(VAR2).autogen.bin		\
+	$(LANG1)$(VAR3).autogen.bin		\
 	$(LANG1)$(VAR1).autogen.att.gz		\
 	$(LANG1)$(VAR1).autopgen.bin		\
 	$(LANG1)$(VAR2).autopgen.bin		\
+	$(LANG1)$(VAR3).autopgen.bin		\
 	$(LANG1)$(VAR1).rlx.bin
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
@@ -31,6 +34,10 @@ TARGETS_COMMON =				\
 	apertium-validate-dictionary $<
 	python genvdix.py pt $< >$@
 
+.deps/$(BASENAME).$(LANG1).pt_pre1990.dix: $(BASENAME).$(LANG1).dix .deps/.d
+	apertium-validate-dictionary $<
+	python genvdix.py pt_pre1990 $< >$@
+
 .deps/$(BASENAME).$(LANG1).br.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
 	python genvdix.py br $< >$@
@@ -38,6 +45,10 @@ TARGETS_COMMON =				\
 $(LANG1)$(VAR1).autogen.bin: .deps/$(BASENAME).$(LANG1).pt.dix
 	apertium-validate-dictionary $<
 	lt-comp -v pt rl $< $@ $(BASENAME).$(LANG1).acx
+
+$(LANG1)$(VAR3).autogen.bin: .deps/$(BASENAME).$(LANG1).pt_pre1990.dix 
+	apertium-validate-dictionary $<
+	lt-comp -v pt_pre1990 rl $< $@ $(BASENAME).$(LANG1).acx
 
 $(LANG1)$(VAR2).autogen.bin: .deps/$(BASENAME).$(LANG1).br.dix 
 	apertium-validate-dictionary $<
@@ -56,6 +67,9 @@ $(LANG1)$(VAR1).automorf.att.gz: $(LANG1).automorf.bin
 
 $(LANG1)$(VAR1).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	lt-comp -a pt lr $< $@
+
+$(LANG1)$(VAR3).autopgen.bin: $(BASENAME).post-$(LANG1).dix
+	lt-comp -a pt_pre1990 lr $< $@
 
 $(LANG1)$(VAR2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	lt-comp -a br lr $< $@
