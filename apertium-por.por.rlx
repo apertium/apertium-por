@@ -15,6 +15,9 @@ LIST EOS = (<<<) sent ;
 LIST NP = np ;
 LIST V = vblex ;
 LIST Vbmod = vbmod ;
+LIST Ser = vbser ;
+LIST Haver = vbhaver ;
+LIST Vall = vblex vbmod vbser vbhaver ;
 LIST A = adj ;
 LIST CS = cnjsub ;
 LIST CA = cnjadv ;
@@ -67,6 +70,9 @@ LIST Imper = imp ;
 
 LIST Interr = itg ;
 
+LIST P1 = p1 ;
+LIST P2 = p2 ;
+LIST P3 = p3 ;
 LIST Sg1 = (p1 sg) ;
 LIST Sg2 = (p2 sg) ;
 LIST Sg3 = (p3 sg) ;
@@ -74,10 +80,8 @@ LIST Pl1 = (p1 pl) ;
 LIST Pl2 = (p2 pl) ;
 LIST Pl3 = (p3 pl) ;
 
-LIST Ser = vbser ;
-LIST Haver = vbhaver ;
-
 LIST Poder = "poder" ;
+LIST Dever = "dever" ;
 LIST Para = "para" ;
 LIST De = "de" ;
 LIST Desde = "desde" ;
@@ -107,23 +111,27 @@ LIST Um = "um" ;
 LIST Algum = "algum" ;
 LIST Ponto = "ponto" ;
 LIST Esse = "esse" ;
+LIST Este = "este" ;
+LIST Aquele = "aquele" ;
 LIST Bastante = "bastante" ;
 LIST Cujo = "cujo" ;
 LIST Ter = "ter" ; 
+LIST Ter/de = "ter# de" ;
 LIST Restantes = "restantes" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
 LIST Falar = "falar" ;
-
-LIST Ter/de = "ter# de" ;
 LIST Querer = "querer" ;
 LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
+LIST Segundo = "segundo" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
 
 LIST Language = "português" "inglês" "francês" "albanês" "dinamarquês" "escocês" "holandês" "japonês" "birmanês" "alemão" "espanhol" "italiano" "catalão" "sueco";
 SET Dignidade = ("presidente") OR ("governador") OR ("imperador") OR ("imperatriz") OR ("rei") OR ("rainha") OR ("príncipe") OR ("princesa") OR ("conde") OR ("visconde") OR ("marquês") OR ("duque") OR ("arquiduque");
+SET Ordinal = ("primeiro") OR ("segundo") OR ("terceiro") OR ("quarto") OR ("quinto") OR ("sexto") OR ("sétimo") OR ("oitavo") OR ("nono") OR ("último");
+SET DemDetPrn = ("algum") OR ("este") OR ("esse") OR ("aquele") ;
 
 LIST unknown = ("\\*.*"r) ;
 LIST unknownMajIni = ("\\*[A-ZÀÁÈÉÊÍÒÓÔÚÜÇ].*"r) ;
@@ -151,16 +159,13 @@ LIST Excl = "!" ;
 LIST DP = ":" ;
 LIST Cm = cm ;
 
-
-
+SET Fin = Pri | Prs | Pii | Pis | Fti | Fts | Ifi ; 
 
 SET MascSg = (m sg) OR (m sp) OR (mf sg) OR (mf sp) ;
 SET MascPl = (m pl) OR (m sp) OR (mf pl) OR (mf sp) ;
 SET FemSg = (f sg) OR (f sp) OR (mf sg) OR (mf sp) ;
 SET FemPl = (f pl) OR (f sp) OR (mf pl) OR (mf sp) ;
 
-
-SET Fin = Pri | Prs | Pii | Pis | Fti | Fts | Ifi ; 
 SET NotMasc = Fem | MascFem ;
 SET NotFem = Masc | MascFem ;
 SET Gender = NotMasc | NotFem ;
@@ -168,8 +173,11 @@ SET Gender = NotMasc | NotFem ;
 SET NotSg = Pl | SgPl ;
 SET NotPl = Sg | SgPl ;
 SET Number = NotSg | NotPl ;
-SET Barrera_Inicial_Estrict_SN = BOS OR Pr OR CS OR CA OR Rel ;
 
+SET GenderNumber = MascSg | MascPl | FemSg | FemPl ;
+
+SET Barrera_Inicial_Estrict_SN = BOS OR Pr OR CS OR CA OR Rel ;
+SET Barrera_Final_Estrict_SN = BOS OR Pr OR Det OR CS OR CA OR Rel OR Pro ;
 
 SECTION
 
@@ -183,7 +191,7 @@ SELECT Pr IF (0 Entre) (1C N) ;
 
 SELECT Inf IF (-1C Vai) ;
 
-SELECT Det + $$Gender IF (-1C É) (0 Det OR Prn) (1C N + $$Gender) ;
+SELECT Det + &&Gender IF (-1C É) (0 Det OR Prn) (1C N + &&Gender) ;
 
 SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
 
@@ -211,15 +219,17 @@ SELECT Det IF (-1C Pr) (0C Det OR Prn) (1C N OR A);
 
 REMOVE Imper IF (-1C Se) ;
 
-SELECT N IF (-1C Det) (1 N OR Inf) ;
+REMOVE Inf IF (-1C Det) (0 N OR Inf) ;
 
 SELECT PrfPrc IF (-1 Ser) (0C A OR PrfPrc) ;
 
-SELECT N + $$Gender IF (-1C Det + $$Gender) (0C N OR V) ;
+SELECT N + &&Gender IF (-1C Det + &&Gender) (0C N OR V) ;
 
 SELECT Haver IF (1C Sido) ;
 
 SELECT Vbmod IF (0 Poder) (1 Inf) ;
+SELECT Vbmod IF (0 Querer) (1C Inf) ;
+SELECT Vbmod IF (0 Dever) (1 Inf) ;
 
 SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
 
@@ -265,7 +275,18 @@ SELECT Det IF (0 O) (1 Poder) ;
 
 SELECT N IF (-1 O) (0 Poder) ;
 
-SELECT Det IF (0 Algum OR Esse) (1C N) ;
+SELECT Det IF (0 ("o")) (1 unknown) ;
+
+SELECT Det IF (0 DemDetPrn) (1C N OR unknown) ;
+
+SELECT Det OR Prn IF (0 DemDetPrn) (-1C Barrera_Inicial_Estrict_SN OR V) ;
+
+SELECT Prn IF (0 DemDetPrn + &&Number) (-1C Barrera_Inicial_Estrict_SN) (1 Ser + P3 + &&Number) ;
+SELECT Ser IF (-1 DemDetPrn + &&Number) (0 Ser + P3 + &&Number) (NOT 0 Ir + P3 + &&Number) ;
+
+SELECT Prn IF (0 Este) (1C V) (NOT -2 Det + MascSg) (NOT -1 N + MascSg) ;
+
+SELECT Pr IF (0 Segundo) (-1C Barrera_Inicial_Estrict_SN) ;
 
 REMOVE Fin IF (-1 De) (NOT -1/* Prn) (0 Fin OR N) ;
 
@@ -287,9 +308,9 @@ SELECT CS IF (-1C Fin) (0 Que) ;
 
 SELECT CS IF (-1C Ger) (0 Que) ;
 
-SELECT Det + $$Gender IF (0 Qualquer) (1 N + $$Gender) ;
+SELECT Det + &&Gender IF (0 Qualquer) (1 N + &&Gender) ;
 
-SELECT Det + $$Gender IF (0 Nenhum) (1 N + $$Gender) ;
+SELECT Det + &&Gender IF (0 Nenhum) (1 N + &&Gender) ;
 
 REMOVE Haver IF (NOT 1* PrfPrc) ;
 
@@ -297,7 +318,7 @@ SELECT Haver IF (0C Ter) (1C PrfPrc) ;
 
 SELECT Rel IF (-1 De) (-1/* Detnt) ;
 
-REMOVE Det + $$Number IF (1C N) (NOT 1C $$Number) (NOT 0 Restantes) ;
+REMOVE Det + &&Number IF (1C N) (NOT 1C &&Number) (NOT 0 Restantes) ;
 
 SELECT Pr IF (1C Det LINK 1 N) ;
 
@@ -309,9 +330,9 @@ SELECT CS IF (-1 Até OR De) (0 Que) ;
 
 SELECT Inf IF (-1C Vbmod) (0C V) ;
 
-SELECT Inf IF (-1C Ter/de) ;
-
 SELECT Inf IF (-1C Vbmod) (0 Ser) ;
+
+SELECT Inf IF (-1C Ter/de) ;
 
 SELECT Rel IF (-1C O) ;
 
@@ -331,9 +352,7 @@ SELECT Pr IF (0 Pr) (1 Como) (2 Se) (3 Fin) ;
 
 SELECT Adv IF (0C Adv OR Interj) (NOT -1 Cm) (NOT 1 Cm) (NOT 1* Excl) ;
 
-SELECT Vbmod IF (0 Querer) (1C Inf) ;
-
-SELECT N + $$Gender IF (-1 Det + $$Gender) (0C N OR A) (1 De) ;
+SELECT N + &&Gender IF (-1 Det + &&Gender) (0C N OR A) (1 De) ;
 
 SELECT Pr IF (-1 Num) (0 Pr OR Det) (1 Num) ;
 
@@ -355,10 +374,9 @@ SELECT Rel IF (-1 Ao) ;
 SELECT PreAdv OR Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Adv) ;
 SELECT A IF (0 Bastante) (1C N) ;
 SELECT PreAdv IF (0 Bastante) (1C A) ;
-SELECT PreAdv IF (-1 N + MascSg) (0 Bastante) (1 A + MascSg) ;
-SELECT PreAdv IF (-1 N + FemSg) (0 Bastante) (1 A + FemSg) ;
-SELECT PreAdv IF (-1 N + MascPl) (0 Bastante) (1 A + MascPl) ;
-SELECT PreAdv IF (-1 N + FemPl) (0 Bastante) (1 A + FemPl) ;
+SELECT PreAdv IF (-1 N + &&Gender) (0 Bastante) (1 A + &&Gender) ;
+
+SELECT A + &&GenderNumber IF (0 Ordinal + &&GenderNumber) (0 N) (1 N + &&GenderNumber) ;
 
 SELECT N IF (-1 Falar) (0 Language) ;
 
@@ -380,7 +398,7 @@ REMOVE Pl2 IF (NOT -1* Pl2) (0 Pl2 OR A) ;
 
 SELECT A IF (0C A OR PrfPrc) (NOT 1 Pr) ;
 
-SELECT Det + $$Gender IF (0 Det OR Pr) (1C N + Sg + $$Gender) (NOT 0 Restantes);
+SELECT Det + &&Gender IF (0 Det OR Pr) (1C N + Sg + &&Gender) (NOT 0 Restantes);
 
 SELECT CA IF (0 Se) (1C Interj) ;
 
@@ -442,23 +460,17 @@ SELECT Ser IF (0 São) (1 Adv) (2 A + Pl);
 SELECT Ser IF (0 São) (1 DP);
 
 #nuboros rules
-REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
-
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) (NOT 0 Ordinal) ;
 ##jovem inteligente
 
 REMOVE PrfPrc IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR PrfPrc + $$MascSg LINK 0 N OR NP) (1 A OR PrfPrc + $$MascSg) ;
-
 ##escrito grande
 
-REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) ;
-
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascPl LINK 0 N OR NP) (1 A OR PrfPrc + $$MascPl) (NOT 0 Ordinal) ;
 ##velhos inteligentes
 
-REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$FemSg LINK 0 N OR NP) (1 A OR PrfPrc + $$FemSg) ;
-
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$FemSg LINK 0 N OR NP) (1 A OR PrfPrc + $$FemSg) (NOT 0 Ordinal) ;
 ##capital antiga
 
-REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$FemPl LINK 0 N OR NP) (1 A OR PrfPrc + $$FemPl) ;
-
+REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$FemPl LINK 0 N OR NP) (1 A OR PrfPrc + $$FemPl) (NOT 0 Ordinal) ;
 ##velhas bonitas
-
