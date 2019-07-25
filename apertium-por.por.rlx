@@ -392,6 +392,9 @@ SELECT PreAdv IF (-1 N + &&Gender) (0 Bastante) (1 A + &&Gender) ;
 
 SELECT A + &&GenderNumber IF (0 Ordinal + &&GenderNumber) (0 N) (1 N + &&GenderNumber) ;
 
+SELECT A + &&GenderNumber IF (-1/* Det + &&GenderNumber) (0 ("grande") + &&GenderNumber) (1 N + &&GenderNumber) ;
+SELECT N + &&GenderNumber IF (-2/* Det + &&GenderNumber) (-1 ("grande") + &&GenderNumber) (0 N + &&GenderNumber) ;
+
 SELECT N IF (-1 Falar) (0 Language) ;
 
 # Palavras especiais
