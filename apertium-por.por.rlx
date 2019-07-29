@@ -581,6 +581,9 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 REMOVE Cog IF (-1 ArtDef) (0 Ant) (0 Cog)  ;
 REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
 REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
+REMOVE Ant IF (-1 ArtDef) (0 Top) (0 Ant)  ;
+REMOVE Cog IF (-1 ArtDef) (0 Top) (0 Cog)  ;
+SELECT ArtDef IF (0 ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) ;	# o Algarve
 
 SELECT Ant IF (0 Ant) (1C Ant) ;
         # Rosa Maria
