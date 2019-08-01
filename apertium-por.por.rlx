@@ -33,6 +33,7 @@ LIST N = n ;
 LIST Rel = rel ;
 LIST Detnt = detnt ;
 LIST ArtDef = (det def) ;
+LIST ArtPos = (det pos) ;
 
 LIST Inf = inf ;
 LIST PP = pp ;
@@ -251,7 +252,7 @@ SELECT Ir IF (0C Ser OR Ir) (1 Para) (2 Det) (3 Top);
 SELECT Ir IF (0C Ser OR Ir) (1 Para) (2 Top) (NOT 2 Ant);
   ## foi para a França
 
-SELECT Det IF (0 Det OR Prn) (1 A LINK 1 N) ;
+REMOVE Prn IF (0 Det OR Prn) (1 A LINK 1 N) ;
 
 SELECT N IF (-1 Det) (0 Ser) (1 Humano) ;
 
@@ -397,6 +398,9 @@ SELECT N + &&GenderNumber IF (-2/* Det + &&GenderNumber) (-1 ("grande") + &&Gend
 
 SELECT N IF (-1 Falar) (0 Language) ;
 
+SELECT ArtPos IF (0 ArtPos + &&GenderNumber) (1 N + &&GenderNumber) ;
+SELECT ArtPos IF (0 ArtPos + &&GenderNumber) (1 A + &&GenderNumber) (2 N + &&GenderNumber) ;
+
 # Palavras especiais
 
 SELECT N IF (0 ("este") + MascSg) (-1 ("o") + MascSg);
@@ -422,6 +426,8 @@ SELECT V IF (0 ("chamar"i)) (-1 Rel);
 SELECT V IF (0 ("chamar"i) + PP + &&GenderNumber) (-1 Det + &&GenderNumber) (1 Noun_Adj + &&GenderNumber) ; # a chamada medida velha
 
 SELECT V IF (0 ("pasante"i)) (1 ("por"i)); 
+
+SELECT V IF (0 ("voltar"i)) (1 ("a"i)) (2 Inf); 	# Carlos volta a gravar
 
 # ADJ NOM
 
@@ -583,12 +589,14 @@ REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
 REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
 REMOVE Ant IF (-1 ArtDef) (0 Top) (0 Ant)  ;
 REMOVE Cog IF (-1 ArtDef) (0 Top) (0 Cog)  ;
-SELECT ArtDef IF (0 ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) ;	# o Algarve
+SELECT ArtDef IF (0 ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 ArtDef + FemSg);	# o Algarve, chamar a Roma
+SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (NOT -1 V) (NOT -2 V) ;
+SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (-2 V) (-1 Adv OR Pro) ;
 
 SELECT Ant IF (0 Ant) (1C Ant) ;
         # Rosa Maria
 SELECT Cog IF (0 Cog OR Ant) (-1C Ant) ;
-SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) ;
+SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) (NOT 0 ("papa") OR ("principe"));
 SELECT Ant IF (0 Ant) (0 Cog) (1 ("de")) (2 Top) ;
 	# Afonso de Portugal
 SELECT Top IF (-2 Ant) (-1 ("de")) (0 Ant OR Cog OR Top) ;
