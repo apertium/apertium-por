@@ -423,7 +423,7 @@ REMOVE Ir IF (-1 ("este")) (0 Ser) (0 Ir); # más probable: este fue (=ser)
 SELECT V IF (0 ("chamar"i)) (1/* ("a"i)); 
 SELECT V IF (0 ("chamar"i)) (1 Adv) (2/* ("a"i)); 
 SELECT V IF (0 ("chamar"i)) (-1 Rel); 
-SELECT V IF (0 ("chamar"i) + PP + &&GenderNumber) (-1 Det + &&GenderNumber) (1 Noun_Adj + &&GenderNumber) ; # a chamada medida velha
+SELECT V IF (0 ("chamar"i) + PP + &&GenderNumber) (-1/* Det + &&GenderNumber) (1 Noun_Adj + &&GenderNumber) ; # a chamada medida velha
 
 SELECT V IF (0 ("pasante"i)) (1 ("por"i)); 
 
