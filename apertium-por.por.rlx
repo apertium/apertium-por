@@ -396,6 +396,10 @@ SELECT A + &&GenderNumber IF (0 Ordinal + &&GenderNumber) (0 N) (1 N + &&GenderN
 SELECT A + &&GenderNumber IF (-1/* Det + &&GenderNumber) (0 ("grande") + &&GenderNumber) (1 N + &&GenderNumber) ;
 SELECT N + &&GenderNumber IF (-2/* Det + &&GenderNumber) (-1 ("grande") + &&GenderNumber) (0 N + &&GenderNumber) ;
 
+SELECT A + &&GenderNumber IF (-1/* Det + &&GenderNumber) (0 ("médio") + &&GenderNumber) (1 N + &&GenderNumber) ;
+SELECT A + &&GenderNumber IF (0 ("médio") + &&GenderNumber) (1C N + &&GenderNumber) ;
+SELECT A + &&GenderNumber IF (0 ("médio") + &&GenderNumber) (1C Top + &&GenderNumber) ;
+
 SELECT N IF (-1 Falar) (0 Language) ;
 
 SELECT ArtPos IF (0 ArtPos + &&GenderNumber) (1 N + &&GenderNumber) ;
