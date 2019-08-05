@@ -435,6 +435,9 @@ SELECT V IF (0 ("voltar"i)) (1 ("a"i)) (2 Inf); 	# Carlos volta a gravar
 
 SELECT Rel IF (-1 Pr) (0 ("que"i)) ;		# em que
 
+SELECT Interr IF (0 ("qual"i)) (1 Ser); 
+SELECT Interr IF (-1C V) (0 ("qual"i)); 
+
 # ADJ NOM
 
 # elimina la opción "adjetivo" de aquellos adjetivos que sólo pueden anteceder un nombre ("buen", "mal", etc.) y no están delante de uno
