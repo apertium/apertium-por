@@ -433,6 +433,8 @@ SELECT V IF (0 ("pasante"i)) (1 ("por"i));
 
 SELECT V IF (0 ("voltar"i)) (1 ("a"i)) (2 Inf); 	# Carlos volta a gravar
 
+SELECT Rel IF (-1 Pr) (0 ("que"i)) ;		# em que
+
 # ADJ NOM
 
 # elimina la opción "adjetivo" de aquellos adjetivos que sólo pueden anteceder un nombre ("buen", "mal", etc.) y no están delante de uno
@@ -626,9 +628,12 @@ SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 
-REMOVE N IF (-1 Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 N) ;	# a Síria
-REMOVE A IF (-1 Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 A) ;	# a Síria
-SELECT Det IF (-1 Barrera_Inicial_Estrict_SN) (0 Det + &&GenderNumber) (1 Top + &&GenderNumber) ;	# fugir para a Dinamarca
+REMOVE N IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 N) ;	# a Síria
+REMOVE A IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 A) ;	# a Síria
+SELECT Det IF (-1 Barrera_Inicial_Estrict_SN) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) ;	# fugir para a Dinamarca
+SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) ;	# pela Armênia / nos Estados Unidos
+#SELECT Det IF (0/* Det ) (1 Top ) ;	# fugir para a Dinamarca / nos Estados Unidos
+#SELECT Det IF (0/* Det ) ;	# fugir para a Dinamarca / nos Estados Unidos
 
 # São
 SELECT A IF (0 São) (1 NP);
