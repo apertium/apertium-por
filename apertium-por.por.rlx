@@ -87,6 +87,7 @@ SET Pers = (p1) OR (p2) OR (p3) ;
 SET Cnj_Rel = CC OR CS OR CA OR Rel ;
 
 SET CM = (cm) OR (lpar) OR (rpar) OR ("<;>") ;
+SET Guio = (guio) ;
 
 LIST Poder = "poder" ;
 LIST Dever = "dever" ;
@@ -610,6 +611,9 @@ SELECT Cog IF (0 Cog OR Ant) (-1C Ant) ;
 SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) (NOT 0 ("papa") OR ("principe"));
 SELECT Ant IF (0 Ant) (0 Cog) (1 ("de")) (2 Top) ;
 	# Afonso de Portugal
+SELECT Cog IF (0 Cog) (1 Guio) (2 Cog) ;
+SELECT Cog IF (-2 Cog) (-1 Guio) (0 Cog) ;
+        # Ocasio-Cortez
 SELECT Top IF (-2 Ant) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 	# Hiparc de Nicea
 SELECT Top IF (-3 Ant) (-2 segles_num_romans) (-1 ("de")) (0 Ant OR Cog OR Top) ;
