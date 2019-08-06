@@ -634,7 +634,7 @@ SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 REMOVE N IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 N) ;	# a Síria
 REMOVE A IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 A) ;	# a Síria
 SELECT Det IF (-1 Barrera_Inicial_Estrict_SN) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) ;	# fugir para a Dinamarca
-SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) ;	# pela Armênia / nos Estados Unidos
+SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 ("a"));	# pela Armênia / nos Estados Unidos / a Guatemala
 #SELECT Det IF (0/* Det ) (1 Top ) ;	# fugir para a Dinamarca / nos Estados Unidos
 #SELECT Det IF (0/* Det ) ;	# fugir para a Dinamarca / nos Estados Unidos
 
