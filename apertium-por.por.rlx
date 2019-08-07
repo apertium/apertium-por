@@ -209,6 +209,8 @@ SELECT Det + &&Gender IF (-1C É) (0 Det OR Prn) (1C N + &&Gender) ;
 
 SELECT Det IF (0 Uma) (1 Outro LINK 1 N) ;
 
+SELECT Det IF (0 ("o")) (1 ("mais")) (2 A OR Adv) ;	# o mais rapidamente possível
+
 SELECT Pro IF (-1 Pr) (0 Se) (1 Inf) ;
 
 REMOVE Detnt IF (NOT 1 Que) ;
