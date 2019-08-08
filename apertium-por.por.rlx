@@ -441,6 +441,8 @@ SELECT Rel IF (-1 Pr) (0 ("que"i)) ;		# em que
 SELECT Interr IF (0 ("qual"i)) (1 Ser); 
 SELECT Interr IF (-1C V) (0 ("qual"i)); 
 
+SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
+
 # ADJ NOM
 
 # elimina la opción "adjetivo" de aquellos adjetivos que sólo pueden anteceder un nombre ("buen", "mal", etc.) y no están delante de uno
