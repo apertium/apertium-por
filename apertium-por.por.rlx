@@ -607,6 +607,9 @@ SELECT ArtDef IF (0 ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 Art
 SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (NOT -1 V) (NOT -2 V) ;
 SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (-2 V) (-1 Adv OR Pro) ;
 
+SELECT Ant_Cog IF (1 unknownMajIni) ;	# Marcos XXXX
+SELECT Ant_Cog IF (-1 unknownMajIni) ;	# XXXX Luz
+
 SELECT Ant IF (0 Ant) (1C Ant) ;
         # Rosa Maria
 SELECT Cog IF (0 Cog OR Ant) (-1C Ant) ;
