@@ -605,12 +605,15 @@ REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
 REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
 REMOVE Ant IF (-1 ArtDef) (0 Top) (0 Ant)  ;
 REMOVE Cog IF (-1 ArtDef) (0 Top) (0 Cog)  ;
-SELECT ArtDef IF (0 ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 ArtDef + FemSg);	# o Algarve, chamar a Roma
-SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (NOT -1 V) (NOT -2 V) ;
-SELECT ArtDef IF (0 ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (-2 V) (-1 Adv OR Pro) ;
+SELECT ArtDef IF (0/* ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 ArtDef + FemSg);	# o Algarve, chamar a Roma
+SELECT ArtDef IF (0/* ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (NOT -1 V) (NOT -2 V) ;
+SELECT ArtDef IF (0/* ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (-2 V) (-1 Adv OR Pro) ;
+SELECT Top IF (-1/* ArtDef + &&GenderNumber) (0 Top + &&GenderNumber) ;
 
 SELECT Ant_Cog IF (1 unknownMajIni) ;	# Marcos XXXX
 SELECT Ant_Cog IF (-1 unknownMajIni) ;	# XXXX Luz
+
+SELECT Ant IF (-1 ("apóstolo") OR ("são") OR ("santo")) ;
 
 SELECT Ant IF (0 Ant) (1C Ant) ;
         # Rosa Maria
@@ -638,6 +641,7 @@ REMOVE Top IF (NOT -2 ("ir") OR ("viajar")) (-1 ("a")) (0C Ant OR Cog OR Top) ;
 SELECT Top IF (-3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0 Ant OR Cog OR Top) ;
 REMOVE Top IF (NOT -3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0C Ant OR Cog OR Top) ;
 SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
+
 
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
