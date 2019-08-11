@@ -613,12 +613,13 @@ SELECT Top IF (-1/* ArtDef + &&GenderNumber) (0 Top + &&GenderNumber) ;
 SELECT Ant_Cog IF (1 unknownMajIni) ;	# Marcos XXXX
 SELECT Ant_Cog IF (-1 unknownMajIni) ;	# XXXX Luz
 
-SELECT Ant IF (-1 ("apóstolo") OR ("são") OR ("santo")) ;
+SELECT Ant IF (-1 ("apóstolo") OR ("são") OR ("santo") OR ("rei") OR ("rainha") OR ("papa") OR ("príncipe") OR ("princesa") OR ("infante") OR ("conde") OR ("visconde") OR ("duque") OR ("arquiduque") OR ("marquês") OR ("barão")) ;
+SELECT Ant IF (1 segles_num_romans) ;
 
 SELECT Ant IF (0 Ant) (1C Ant) ;
         # Rosa Maria
 SELECT Cog IF (0 Cog OR Ant) (-1C Ant) ;
-SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) (NOT 0 ("papa") OR ("principe"));
+SELECT Ant_Cog IF (0 Cog OR Ant) (1C Cog) (NOT 0 ("papa") OR ("príncipe"));
 SELECT Ant IF (0 Ant) (0 Cog) (1 ("de")) (2 Top) ;
 	# Afonso de Portugal
 SELECT Cog IF (0 Cog) (1 Guio) (2 Cog) ;
