@@ -452,6 +452,8 @@ SELECT Interr IF (-1C V) (0 ("qual"i));
 
 SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
 
+SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
+
 # ADJ NOM
 
 # elimina la opción "adjetivo" de aquellos adjetivos que sólo pueden anteceder un nombre ("buen", "mal", etc.) y no están delante de uno
