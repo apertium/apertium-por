@@ -432,6 +432,9 @@ SELECT V IF (0 ("chamar"i)) (1 Adv) (2/* ("a"i));
 SELECT V IF (0 ("chamar"i)) (-1 Rel); 
 SELECT V IF (0 ("chamar"i) + PP + &&GenderNumber) (-1/* Det + &&GenderNumber) (1 Noun_Adj + &&GenderNumber) ; # a chamada medida velha
 
+SELECT V IF (0 ("contar"i)) (1 ("con"i)); 
+SELECT V IF (0 ("contar"i)) (1 Adv) (2 ("con"i)); 
+
 SELECT V IF (0 ("pasante"i)) (1 ("por"i)); 
 
 SELECT V IF (0 ("voltar"i)) (1 ("a"i)) (2 Inf); 	# Carlos volta a gravar
