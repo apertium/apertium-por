@@ -246,6 +246,12 @@ SELECT Haver IF (1C Sido) ;
 SELECT Vbmod IF (0 Poder) (1 Inf) ;
 SELECT Vbmod IF (0 Querer) (1C Inf) ;
 SELECT Vbmod IF (0 Dever) (1 Inf) ;
+SELECT Vbmod IF (0 Poder) (1 Enc) (2 Inf) ;
+SELECT Vbmod IF (0 Querer) (1 Enc) (2C Inf) ;
+SELECT Vbmod IF (0 Dever) (1 Enc) (2 Inf) ;
+
+SELECT V IF (0 Dever) (1 ("a")) ;
+SELECT V IF (0 Dever) (1 Enc) (2 ("a")) ;
 
 SELECT Det IF (-1 Pr) (0 Sua) (1 N) ;
 
@@ -432,8 +438,8 @@ SELECT V IF (0 ("chamar"i)) (1 Adv) (2/* ("a"i));
 SELECT V IF (0 ("chamar"i)) (-1 Rel); 
 SELECT V IF (0 ("chamar"i) + PP + &&GenderNumber) (-1/* Det + &&GenderNumber) (1 Noun_Adj + &&GenderNumber) ; # a chamada medida velha
 
-SELECT V IF (0 ("contar"i)) (1 ("con"i)); 
-SELECT V IF (0 ("contar"i)) (1 Adv) (2 ("con"i)); 
+SELECT V IF (0 ("contar"i)) (1 ("com"i)); 
+SELECT V IF (0 ("contar"i)) (1 Adv) (2 ("com"i)); 
 
 SELECT V IF (0 ("pasante"i)) (1 ("por"i)); 
 
