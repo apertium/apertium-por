@@ -127,6 +127,7 @@ LIST Bastante = "bastante" ;
 LIST Cujo = "cujo" ;
 LIST Ter = "ter" ; 
 LIST Ter/de = "ter# de" ;
+LIST Tender = "tender" ; 
 LIST Restantes = "restantes" ;
 LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
@@ -339,6 +340,8 @@ SELECT Det + &&Gender IF (0 Nenhum) (1 N + &&Gender) ;
 REMOVE Haver IF (NOT 1* PP) ;
 
 SELECT Haver IF (0C Ter) (1C PP) ;
+
+REMOVE Tender IF (0 Ter) (1 PP);		# tendo alterado
 
 SELECT Rel IF (-1 De) (-1/* Detnt) ;
 
