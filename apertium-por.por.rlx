@@ -152,6 +152,7 @@ LIST unknownMinIni = ("\\*[a-zàáèéêíòóôùúïüç].*"r) ;
 LIST MajIni = ("<[A-ZÀÁÈÉíÒÓÚÜÇ].*>"r) ;
 LIST MinIni = ("<[a-zàáèéìíòóùúçñ].*>"r) ;
 LIST MajIni2 = ("<[A-ZÀÁÈÉÍÌÒÓÚÜÇ][a-zàáèéìíòóùúïüçñ·]+.*>"r) ;
+LIST TotMaj = ("<[A-ZÀÁÈÉíÒÓÚÜÇ][A-ZÀÁÈÉíÒÓÚÜÇ]*>"r) ;
 LIST segles_num_romans = ("[IVX][IVX]*"r) ;
 
 LIST Foi = "<foi>"i ;
@@ -655,9 +656,12 @@ SELECT Top IF (-3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0 Ant OR Cog OR 
 REMOVE Top IF (NOT -3 ("ir") OR ("viajar")) (-2 ("a")) (-1 ArtDef) (0C Ant OR Cog OR Top) ;
 SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 
-
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
+
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 TotMaj) (NOT 0 ("Sol") OR ("Lua") OR ("Filho") OR ("Natal") OR ("Santo") OR ("Santa") OR ("Papa") OR ("Deus") OR ("Cruz") OR ("Conceição") OR ("Guerra") OR ("Civil") OR ("Casa") OR ("Justícia") OR ("Batalha") OR ("Grande") OR ("Novo") OR ("Ponte") OR ("Volta") OR ("Janeiro") OR ("Abril") OR ("Maio") OR ("Real") OR ("Romano") OR ("Mundo") OR ("Branco") OR ("Conde") OR ("Duque") OR ("Marquês") OR ("Principe")) ;
+	# Exceptuem paraules que, per una raó o altra, es posen en majúscules sense ser NP
+
 
 REMOVE N IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 N) ;	# a Síria
 REMOVE A IF (-1/* Det + &&GenderNumber) (0 Top + &&GenderNumber) (0 A) ;	# a Síria
@@ -666,6 +670,8 @@ SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 (
 SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Al + &&GenderNumber) (NOT 0 ("a"));	# nos Jogos Olímpicos
 #SELECT Det IF (0/* Det ) (1 Top ) ;	# fugir para a Dinamarca / nos Estados Unidos
 #SELECT Det IF (0/* Det ) ;	# fugir para a Dinamarca / nos Estados Unidos
+
+REMOVE Prn IF (0 Det + &&GenderNumber) (1 NP + &&GenderNumber) ;	# o João / o Sri Lanka
 
 # São
 SELECT A IF (0 São) (1 NP);
