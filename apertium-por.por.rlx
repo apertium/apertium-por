@@ -457,6 +457,8 @@ SELECT Interr IF (-1C V) (0 ("qual"i));
 
 SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
 
+SELECT N IF (0 ("capital")) (1 ("de"));
+
 SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
 
 # ADJ NOM
@@ -662,7 +664,7 @@ SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 
-SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 TotMaj) (NOT 0 ("Sol") OR ("Lua") OR ("Filho") OR ("Natal") OR ("Santo") OR ("Santa") OR ("Papa") OR ("Deus") OR ("Cruz") OR ("Conceição") OR ("Guerra") OR ("Civil") OR ("Casa") OR ("Justícia") OR ("Batalha") OR ("Grande") OR ("Novo") OR ("Ponte") OR ("Volta") OR ("Janeiro") OR ("Abril") OR ("Maio") OR ("Real") OR ("Romano") OR ("Mundo") OR ("Branco") OR ("Conde") OR ("Duque") OR ("Marquês") OR ("Principe")) ;
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 TotMaj) (NOT 0 ("Sol") OR ("Lua") OR ("Filho") OR ("Natal") OR ("Santo") OR ("Santa") OR ("Papa") OR ("Deus") OR ("Cruz") OR ("Conceição") OR ("Guerra") OR ("Civil") OR ("Casa") OR ("Justícia") OR ("Batalha") OR ("Grande") OR ("Novo") OR ("Ponte") OR ("Volta") OR ("Janeiro") OR ("Abril") OR ("Maio") OR ("Real") OR ("Romano") OR ("Mundo") OR ("Branco") OR ("Conde") OR ("Duque") OR ("Marquês") OR ("Principe") OR ("Câmara")) ;
 	# Exceptuem paraules que, per una raó o altra, es posen en majúscules sense ser NP
 
 
