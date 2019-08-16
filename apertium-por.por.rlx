@@ -616,6 +616,9 @@ SELECT Rel IF (-1 A OR N LINK -1 N OR A OR Pr) (NOT -1 Forma) (0 Que) (1 Fin OR 
 
 SELECT N IF (0 N + &&GenderNumber) (-1 Cujo + &&GenderNumber) (1 Verb) ;
 
+REMOVE Interj IF (0 ("obrigado")) (-1 Ser OR Haver OR Estar OR Adv OR CM) ;
+REMOVE Interj IF (0 ("obrigado")) (-2 Ser OR Haver OR Estar) (-1 Adv) ;
+
 # NP
 
 REMOVE Cog IF (-1 ArtDef) (0 Ant) (0 Cog)  ;
