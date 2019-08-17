@@ -463,6 +463,12 @@ SELECT N IF (0 ("capital")) (1 ("de"));
 
 SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
 
+#SELECT CC IF (0 ("quer")) (1 V + Pers) (NOT 1 V + Inf) ;
+SELECT CC IF (0 ("quer")) (1* ("quer")) ;
+SELECT CC IF (0 ("quer")) (-1* ("quer")) ;
+SELECT P3 OR Pis IF (-1C ("quer") + CC) (0 V + Pers) ;
+SELECT Prs OR Pis IF (-1C ("quer") + CC) (0 V + Pers) ;
+
 # ADJ NOM
 
 # elimina la opción "adjetivo" de aquellos adjetivos que sólo pueden anteceder un nombre ("buen", "mal", etc.) y no están delante de uno
