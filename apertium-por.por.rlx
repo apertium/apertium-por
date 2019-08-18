@@ -423,6 +423,7 @@ SELECT N IF (-1 Falar) (0 Language) ;
 
 SELECT ArtPos IF (0 ArtPos + &&GenderNumber) (1 N + &&GenderNumber) ;
 SELECT ArtPos IF (0 ArtPos + &&GenderNumber) (1 A + &&GenderNumber) (2 N + &&GenderNumber) ;
+SELECT ArtPos IF (1 unknown) ;
 
 # Palavras especiais
 
