@@ -332,6 +332,8 @@ REMOVE SUB:1 Prn IF (0 De OR Em) (1 N) ;
 
 SELECT Rel IF (-1 N) (0 Que) (1 Se LINK 1 Fin) ;
 
+SELECT Rel IF (-1C Pr) (0 Que) ;
+
 SELECT CS IF (-1C Fin) (0 Que) ;
 
 SELECT CS IF (-1C Ger) (0 Que) ;
