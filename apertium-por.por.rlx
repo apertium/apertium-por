@@ -133,6 +133,7 @@ LIST Qualquer = "qualquer" ;
 LIST Nenhum = "nenhum" ;
 LIST Falar = "falar" ;
 LIST Querer = "querer" ;
+LIST Parte = "parte" ;
 LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
 LIST Segundo = "segundo" ;
@@ -460,6 +461,11 @@ SELECT Interr IF (-1C V) (0 ("qual"i));
 SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
 
 SELECT N IF (0 ("capital")) (1 ("de"));
+
+SELECT Fem IF (0 Parte) (NOT -1 Gender) (NOT 1 Gender);
+SELECT Fem IF (0 Parte) (NOT -1 Gender) (1 NotMasc);
+SELECT Fem IF (0 Parte) (-1 NotMasc) (NOT 1 Gender);
+SELECT Fem IF (0 Parte) (-1 NotMasc) (NOT 1 NotMasc);
 
 SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
 
