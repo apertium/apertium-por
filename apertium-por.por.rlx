@@ -460,12 +460,16 @@ SELECT Interr IF (-1C V) (0 ("qual"i));
 
 SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
 
+REMOVE V IF (0 ("logo")) ;	# logo após
+
 SELECT N IF (0 ("capital")) (1 ("de"));
 
-SELECT Fem IF (0 Parte) (NOT -1 Gender) (NOT 1 Gender);
-SELECT Fem IF (0 Parte) (NOT -1 Gender) (1 NotMasc);
-SELECT Fem IF (0 Parte) (-1 NotMasc) (NOT 1 Gender);
-SELECT Fem IF (0 Parte) (-1 NotMasc) (NOT 1 NotMasc);
+REMOVE Masc IF (0 Parte) (NOT -1 Gender) (NOT 1 Gender);
+REMOVE Masc IF (0 Parte) (NOT -1 Gender) (1 NotMasc);
+REMOVE Masc IF (0 Parte) (-1 NotMasc) (NOT 1 Gender);
+REMOVE Masc IF (0 Parte) (-1 NotMasc) (NOT 1 NotMasc);
+REMOVE Masc IF (-1 Em) (0 Parte) ;
+SELECT Fem IF (-1 Ser OR ("formar")) (0 Parte) ;
 
 SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
 
