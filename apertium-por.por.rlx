@@ -394,6 +394,10 @@ SELECT Interr IF (-1 BOS) (0 Que) (1* Quest) ;
 SELECT Pr IF (-1 Fin) (0 Pela OR Pelo) (1 N OR A) ;
 SELECT Pr IF (-1 PP) (0 Pela OR Pelo) ;
 SELECT Pr IF (0 Pela OR Pelo) (1 unknown) ;
+SELECT Pr IF (0 ("pelo") + &&GenderNumber) (NOT -1/* Det + &&GenderNumber); 
+SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ("outro") + &&GenderNumber);
+SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ArtDef + &&GenderNumber) (2 ("outro") + &&GenderNumber);
+
 
 REMOVE Det IF (1C Prn) ;
 
