@@ -28,6 +28,7 @@ LIST Pr = pr ;
 LIST Adv = adv ; 
 LIST PreAdv = preadv ; 
 LIST Det = det ;
+LIST PreDet = predet ;
 LIST Prn = prn ;
 LIST N = n ;
 LIST Rel = rel ;
@@ -193,7 +194,7 @@ SET Number = NotSg | NotPl ;
 SET GenderNumber = MascSg | MascPl | FemSg | FemPl ;
 
 SET Barrera_Inicial_Estrict_SN = BOS OR Pr OR CS OR CA OR Rel ;
-SET Barrera_Final_Estrict_SN = BOS OR Pr OR Det OR CS OR CA OR Rel OR Pro ;
+SET Barrera_Final_Estrict_SN = EOS OR Pr OR Det OR CS OR CA OR Rel OR Pro ;
 SET Barrera_Final_SN = EOS OR Pr OR Det OR CS OR CA OR Verb OR Rel OR Pro ;	# Verb és perillós per la ambigüitat, però en general, prolífic
 SET Barrera_Inicial_SN = BOS OR Pr OR CS OR CA OR Verb OR Rel ;	# Verb és perillós per la ambigüitat, però en general, prolífic
 
@@ -413,6 +414,13 @@ SELECT PreAdv OR Adv IF (0 Bastante) (1C A LINK NEGATE 1* N BARRIER (*) - A - Ad
 SELECT A IF (0 Bastante) (1C N) ;
 SELECT PreAdv IF (0 Bastante) (1C A) ;
 SELECT PreAdv IF (-1 N + &&Gender) (0 Bastante) (1 A + &&Gender) ;
+
+SELECT PreDet IF (0 Todo + &&GenderNumber) (1 Det + &&GenderNumber) (2 N + &&GenderNumber) ;
+REMOVE PreDet IF (0 Todo + &&GenderNumber) (NOT 1 Det + &&GenderNumber) ;
+REMOVE A IF (0 Todo + &&GenderNumber) (NOT -1 N + &&GenderNumber) ;
+REMOVE Det IF (0 Todo) (1C Barrera_Final_SN OR Adv) ;
+SELECT Prn IF (0 Todo + MascPl) (1 ("junto") + MascPl) ;
+SELECT Prn IF (0 Todo + FemPl) (1 ("junto") + FemPl) ;
 
 SELECT A + &&GenderNumber IF (0 Ordinal + &&GenderNumber) (0 N) (1 N + &&GenderNumber) ;
 
