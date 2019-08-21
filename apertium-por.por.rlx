@@ -626,6 +626,8 @@ SELECT Imper IF (-2 ("por favor") OR ("faz favor")) ;
 
 SELECT Prs IF (-1* Não BARRIER (*) - Pro) (0 Sg2 LINK 1* Excl) ;
 
+REMOVE Prs IF (0 Pri) (NOT -1* ("se") OR ("que") OR ("ainda que") OR ("embora") OR ("sem bem que")) (NOT 1* ("se") OR ("que") OR ("ainda que") OR ("embora") OR ("sem bem que"));
+
 REMOVE Sg2 IF (NOT -1* Sg2) (0 Sg2 OR A) ;
 
 REMOVE Pl2 IF (NOT -1* Pl2) (0 Pl2 OR A) ;
