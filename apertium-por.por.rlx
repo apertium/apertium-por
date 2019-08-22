@@ -402,6 +402,7 @@ SELECT Pr IF (0 ("pelo") + &&GenderNumber) (NOT -1/* Det + &&GenderNumber);
 SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ("outro") + &&GenderNumber);
 SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ArtDef + &&GenderNumber) (2 ("outro") + &&GenderNumber);
 
+REMOVE N IF (-1 ("ficar") + &&Number) (0 A + &&Number) ;
 
 REMOVE Det IF (1C Prn) ;
 
@@ -677,6 +678,9 @@ SELECT ArtDef IF (0/* ArtDef + &&GenderNumber) (1 Top + &&GenderNumber) (NOT 0 A
 SELECT ArtDef IF (0/* ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (NOT -1 V) (NOT -2 V) ;
 SELECT ArtDef IF (0/* ArtDef + FemSg) (1 Top + FemSg) (NOT 0 ArtDef + FemSg) (-2 V) (-1 Adv OR Pro) ;
 SELECT Top IF (-1/* ArtDef + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Soviética")) ;
+SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Europeia")) ;
+SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Européia")) ;
 
 SELECT Ant_Cog IF (1 unknownMajIni) ;	# Marcos XXXX
 SELECT Ant_Cog IF (-1 unknownMajIni) ;	# XXXX Luz
