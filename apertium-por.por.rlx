@@ -111,6 +111,7 @@ LIST Próximo = "próximo" ;
 LIST Amar = "amar" ;
 LIST Como = "como" ;
 LIST Todo = "todo" ;
+LIST Tal = "tal" ;
 LIST Tao = "tão" ;
 LIST Tanto = "tanto" ;
 LIST Quanto = "quanto" ;
@@ -283,6 +284,7 @@ SELECT Rel IF (-1 Cm) (0 Como) ;
 SELECT Adv IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
 REMOVE Interr IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
 REMOVE Rel IF (-2 Tao) (-1 A OR Adv) (0 Como) ;
+SELECT Adv IF (-1 Tal) (0 Como) ;
 
 SELECT Adv IF (-1 Tanto) (0 Quanto) ;
 REMOVE Interr IF (-1 Tanto) (0 Quanto) ;
