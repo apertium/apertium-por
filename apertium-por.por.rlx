@@ -138,6 +138,7 @@ LIST Parte = "parte" ;
 LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
 LIST Segundo = "segundo" ;
+LIST Guia = "guia" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
 
@@ -478,6 +479,7 @@ SELECT N IF (0 ("<rio>")) (1 unknownMajIni); 	# rio XXXX
 REMOVE V IF (0 ("logo")) ;	# logo após
 
 SELECT N IF (0 ("capital")) (1 ("de"));
+SELECT N IF (0 ("capital")) (-1/* Det);
 
 SELECT A IF (0 ("quarto")) (1 ("a"));		# o quarto a ocupar a cadeira
 
