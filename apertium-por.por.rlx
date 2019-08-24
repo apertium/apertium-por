@@ -404,6 +404,9 @@ SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ArtDe
 
 REMOVE N IF (-1 ("ficar") + &&Number) (0 A + &&Number) ;
 
+SELECT (m) IF (-1 ("em")) (0 (ré)) ;
+SELECT (m) IF (0 (ré)) (1 ("maior") OR ("menor")) ;
+
 REMOVE Det IF (1C Prn) ;
 
 REMOVE NotMasc IF (0 Det) (1C Masc) ;
