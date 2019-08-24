@@ -404,8 +404,10 @@ SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ArtDe
 
 REMOVE N IF (-1 ("ficar") + &&Number) (0 A + &&Number) ;
 
-SELECT (m) IF (-1 ("em")) (0 (ré)) ;
-SELECT (m) IF (0 (ré)) (1 ("maior") OR ("menor")) ;
+SELECT Masc IF (-1 ("em")) (0 ("ré")) ;
+SELECT Masc IF (0 ("ré")) (1 ("maior") OR ("menor")) ;
+
+REMOVE N IF (0 ("pouco")) (NOT -1 Det) ;
 
 REMOVE Det IF (1C Prn) ;
 
@@ -721,7 +723,7 @@ SELECT Top IF (-2 NP) (-1 ("de")) (0 Ant OR Cog OR Top) ;
 SELECT Top IF (-2C Top) (-1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 SELECT Top IF (2 Top) (1 Cm OR CC) (0 Top) (0 Cog OR Ant);
 
-SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 TotMaj) (NOT 0 ("Sol") OR ("Lua") OR ("Filho") OR ("Natal") OR ("Santo") OR ("Santa") OR ("Papa") OR ("Deus") OR ("Cruz") OR ("Conceição") OR ("Guerra") OR ("Civil") OR ("Casa") OR ("Justícia") OR ("Batalha") OR ("Grande") OR ("Novo") OR ("Ponte") OR ("Volta") OR ("Janeiro") OR ("Abril") OR ("Maio") OR ("Real") OR ("Romano") OR ("Mundo") OR ("Branco") OR ("Conde") OR ("Duque") OR ("Marquês") OR ("Principe") OR ("Câmara") OR ("Golfo") OR ("Paz")) ;
+SELECT NP IF (0 NP) (NOT -1 BOS) (NOT 0 TotMaj) (NOT 0 ("Sol") OR ("Lua") OR ("Filho") OR ("Natal") OR ("Santo") OR ("Santa") OR ("Papa") OR ("Deus") OR ("Cruz") OR ("Conceição") OR ("Guerra") OR ("Civil") OR ("Casa") OR ("Justícia") OR ("Batalha") OR ("Grande") OR ("Novo") OR ("Ponte") OR ("Volta") OR ("Janeiro") OR ("Abril") OR ("Maio") OR ("Real") OR ("Romano") OR ("Mundo") OR ("Branco") OR ("Conde") OR ("Duque") OR ("Marquês") OR ("Principe") OR ("Câmara") OR ("Golfo") OR ("Paz") OR ("Maior")) ;
 	# Exceptuem paraules que, per una raó o altra, es posen en majúscules sense ser NP
 
 
