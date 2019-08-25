@@ -140,6 +140,7 @@ LIST Permitir = "permitir" ;
 LIST Utilizar = "utilizar" ;
 LIST Segundo = "segundo" ;
 LIST Guia = "guia" ;
+LIST Grama = "grama" ;
 
 LIST Verb/CS = "indicar" "demostrar" "mostrar" ;
 
@@ -404,9 +405,6 @@ SELECT Pr IF (0 ("pelo") + &&GenderNumber) (-1 ("um") + &&GenderNumber) (1 ArtDe
 
 REMOVE N IF (-1 ("ficar") + &&Number) (0 A + &&Number) ;
 
-SELECT Masc IF (-1 ("em")) (0 ("ré")) ;
-SELECT Masc IF (0 ("ré")) (1 ("maior") OR ("menor")) ;
-
 REMOVE N IF (0 ("pouco")) (NOT -1 Det) ;
 
 REMOVE Det IF (1C Prn) ;
@@ -499,6 +497,17 @@ REMOVE Masc IF (-1 Em) (0 Parte) ;
 SELECT Fem IF (-1 Ser OR ("formar")) (0 Parte) ;
 
 SELECT Prn IF (0 ("consigo")) (1 ("proprio"));
+
+SELECT Masc IF (-1 ("em")) (0 ("ré")) ;
+SELECT Masc IF (0 ("ré")) (1 ("maior") OR ("menor")) ;
+
+SELECT Masc IF (-1 Num) (0 Grama) ;
+SELECT Masc IF (-2 (".*ésim[ao][s]*"r)) (-1 De) (0 Grama) ;
+SELECT Fem IF (NOT -2 (".*ésim[ao][s]*"r)) (-1 De) (0 Grama) ;
+
+LIST unknownMajIni = ("\\*[A-ZÀÁÈÉÊÍÒÓÔÚÜÇ].*"r) ;
+
+SELECT Masc IF (0 ("ré")) (1 ("maior") OR ("menor")) ;
 
 #SELECT CC IF (0 ("quer")) (1 V + Pers) (NOT 1 V + Inf) ;
 SELECT CC IF (0 ("quer")) (1* ("quer")) ;
