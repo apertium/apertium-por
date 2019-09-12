@@ -2,8 +2,6 @@
 ## Makefile for apertium-por
 ###############################################################################
 
-RELEASE=0.2
-VERSION=0.2.0
 LANG1=por
 BASENAME=apertium-$(LANG1)
 
@@ -32,25 +30,25 @@ TARGETS_COMMON =				\
 
 .deps/$(BASENAME).$(LANG1).pt.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
-	python genvdix.py pt $< >$@
+	apertium-genvdix pt $< >$@
 
 .deps/$(BASENAME).$(LANG1).pt_pre1990.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
-	python genvdix.py pt_pre1990 $< >$@
+	apertium-genvdix pt_pre1990 $< >$@
 
 .deps/$(BASENAME).$(LANG1).br.dix: $(BASENAME).$(LANG1).dix .deps/.d
 	apertium-validate-dictionary $<
-	python genvdix.py br $< >$@
+	apertium-genvdix br $< >$@
 
 $(LANG1)$(VAR1).autogen.bin: .deps/$(BASENAME).$(LANG1).pt.dix
 	apertium-validate-dictionary $<
 	lt-comp -v pt rl $< $@ $(BASENAME).$(LANG1).acx
 
-$(LANG1)$(VAR3).autogen.bin: .deps/$(BASENAME).$(LANG1).pt_pre1990.dix 
+$(LANG1)$(VAR3).autogen.bin: .deps/$(BASENAME).$(LANG1).pt_pre1990.dix
 	apertium-validate-dictionary $<
 	lt-comp -v pt_pre1990 rl $< $@ $(BASENAME).$(LANG1).acx
 
-$(LANG1)$(VAR2).autogen.bin: .deps/$(BASENAME).$(LANG1).br.dix 
+$(LANG1)$(VAR2).autogen.bin: .deps/$(BASENAME).$(LANG1).br.dix
 	apertium-validate-dictionary $<
 	lt-comp -v br rl $< $@ $(BASENAME).$(LANG1).acx
 
@@ -78,8 +76,8 @@ $(LANG1)$(VAR2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 ## Disambiguation rules
 ###############################################################################
 
-$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx $(CGCOMP)
-	$(CGCOMP) $< $@
+$(LANG1).rlx.bin: $(BASENAME).$(LANG1).rlx
+	cg-comp $< $@
 
 ###############################################################################
 ## Distribution
@@ -133,4 +131,3 @@ test: all
 	@echo "TODO test analysis results" > .test-ref
 	@diff .test-ref .test-mt
 	@rm .test-ref .test-mt
-
