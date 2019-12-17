@@ -1,0 +1,1701 @@
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<,>"
+	"," cm
+"<oficialmente>"
+	"oficialmente" adv
+"<República>"
+	"república" n f sg
+"<Portuguesa>"
+	"português" adj f sg
+;	"português" n f sg
+"<,>"
+	"," cm
+"<é>"
+	"ser" vbser pri p3 sg
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<país>"
+	"país" n m sg
+"<soberano>"
+	"soberano" adj m sg
+;	"soberano" n m sg
+"<unitário>"
+	"unitário" adj m sg
+"<localizado>"
+	"localizado" adj m sg
+;	"localizar" vblex pp m sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<sudoeste>"
+;	"sudoeste" adj mf sp
+	"sudoeste" n m sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Europa>"
+;	"Europa" np ant f sg
+	"Europa" np top f sg
+"<,>"
+	"," cm
+"<cujo>"
+	"cujo" rel aa m sg
+"<território>"
+	"território" n m sg
+"<se>"
+;	"se" cnjadv
+	"se" prn pro ref p3 mf sp
+"<situa>"
+;	"situar" vblex imp p2 sg
+	"situar" vblex pri p3 sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<zona>"
+	"zona" n f sg
+"<ocidental>"
+	"ocidental" adj mf sg
+;	"ocidental" n mf sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Península>"
+	"península" n f sg
+"<Ibérica>"
+;	"ibérico" adj f sg
+;	"ibérico" n f sg
+	"Ibérica" np top f sg
+"<e>"
+	"e" cnjcoo
+"<em>"
+	"em" pr
+"<arquipélagos>"
+	"arquipélago" n m pl
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<Atlântico>"
+;	"atlântico" adj m sg
+	"Atlântico" np top m sg
+"<Norte>"
+	"Norte" np loc
+;	"norte" adj mf sp
+;	"norte" n m sg
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<território>"
+	"território" n m sg
+"<português>"
+	"português" adj m sg
+;	"português" n m sg
+"<tem>"
+;	"ter" vbhaver imp p2 sg
+	"ter" vbhaver pri p3 sg
+;	"ter" vblex imp p2 sg
+;	"ter" vblex pri p3 sg
+"<uma>"
+;	"um" num f sp
+;	"um" prn tn f sg
+	"um" det ind f sg
+"<área>"
+	"área" n f sg
+"<total>"
+	"total" adj mf sg
+;	"total" n m sg
+"<de>"
+	"de" pr
+"<92>"
+	"92" num
+"<090>"
+	"090" num
+"<km>"
+;	"km" n m sp
+	"km" n acr m sp
+²
+"<,>"
+	"," cm
+"<sendo>"
+	"ser" vbser ger
+"<delimitado>"
+;	"delimitado" adj m sg
+	"delimitar" vblex pp m sg
+"<a norte>"
+	"a norte" adv
+"<e>"
+	"e" cnjcoo
+"<leste>"
+;	"ler" vblex ifi p2 sg
+;	"leste" adj mf sp
+	"leste" n m sg
+"<por>"
+	"por" pr
+"<Espanha>"
+	"Espanha" np top f sg
+"<e>"
+	"e" cnjcoo
+"<a sul>"
+	"a sul" adv
+"<e>"
+	"e" cnjcoo
+"<oeste>"
+;	"oeste" adj mf sp
+	"oeste" n m sg
+"<pelo>"
+;	"pelo" n m sg
+;	"pelar" vblex pri p1 sg
+	"o" det def m sg
+		"por" pr
+"<oceano>"
+	"oceano" n m sg
+"<Atlântico>"
+;	"atlântico" adj m sg
+	"Atlântico" np top m sg
+"<,>"
+	"," cm
+"<compreendendo>"
+	"compreender" vblex ger
+"<uma>"
+;	"um" num f sp
+;	"um" prn tn f sg
+	"um" det ind f sg
+"<parte>"
+;	"parte" n m sg
+	"parte" n f sg
+;	"partir" vblex imp p2 sg
+;	"partir" vblex pri p3 sg
+"<continental>"
+	"continental" adj mf sg
+"<e>"
+	"e" cnjcoo
+"<duas>"
+	"dois" num f sp
+"<regiões>"
+	"região" n f pl
+"<autónomas>"
+	"autónomo" adj f pl
+"<:>"
+	":" sent
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<arquipélagos>"
+	"arquipélago" n m pl
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<Açores>"
+	"Açores" np top f pl
+"<e>"
+	"e" cnjcoo
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Madeira>"
+;	"madeira" n f sg
+;	"Madeira" np cog mf sp
+	"Madeira" np top f sg
+"<.>"
+	"." sent
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<nação>"
+	"nação" n f sg
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<a>"
+	"a" pr
+;	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<ocidente>"
+	"ocidente" n m sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<continente>"
+;	"continente" adj mf sg
+	"continente" n m sg
+"<europeu>"
+	"europeu" adj m sg
+;	"europeu" n m sg
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<nome>"
+	"nome" n m sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<país>"
+	"país" n m sg
+"<provém>"
+;	"provir" vblex imp p2 sg
+	"provir" vblex pri p3 sg
+"<da sua>"
+	"o seu" det pos f sg
+		"de" pr
+"<segunda>"
+	"segundo" adj f sg
+"<maior>"
+	"maior" adj mf sg
+"<cidade>"
+	"cidade" n f sg
+"<,>"
+	"," cm
+"<Porto>"
+;	"porto" n m sg
+;	"Porto" np cog mf sp
+	"Porto" np top m sg
+;	"portar" vblex pri p1 sg
+"<,>"
+	"," cm
+"<cujo>"
+	"cujo" rel aa m sg
+"<nome>"
+	"nome" n m sg
+"<latino>"
+	"latino" adj m sg
+;	"latino" n m sg
+"<->"
+	"-" guio
+"<celta>"
+	"celta" adj mf sg
+;	"celta" n mf sg
+"<era>"
+;	"era" n f sg
+;	"ser" vbser pii p1 sg
+	"ser" vbser pii p3 sg
+"<Portus>"
+	"Portus" np top sg
+"<Cale>"
+;	"calar" vblex imp p3 sg
+;	"calar" vblex prs p1 sg
+;	"calar" vblex prs p3 sg
+	"Cale" np top sg
+"<.>"
+	"." sent
+
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<território>"
+	"território" n m sg
+"<dentro das>"
+	"o" det def f pl
+		"dentro de" pr
+"<fronteiras>"
+	"fronteira" n f pl
+;	"fronteiro" adj f pl
+"<atuais>"
+	"atual" adj mf pl
+;	"atuar" vblex pri p2 pl
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<República>"
+	"república" n f sg
+"<Portuguesa>"
+	"português" adj f sg
+;	"português" n f sg
+"<tem>"
+;	"ter" vbhaver imp p2 sg
+;	"ter" vbhaver pri p3 sg
+;	"ter" vblex imp p2 sg
+	"ter" vblex pri p3 sg
+"<sido>"
+	"ser" vbser pp m sg
+"<continuamente>"
+	"continuamente" adv
+"<povoado>"
+;	"povoado" adj m sg
+	"povoar" vblex pp m sg
+"<desde>"
+	"desde" pr
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<tempos>"
+	"tempo" n m pl
+"<pré-históricos>"
+	"pré-histórico" adj m pl
+"<:>"
+	":" sent
+"<ocupado>"
+;	"ocupado" adj m sg
+	"ocupar" vblex pp m sg
+"<por>"
+	"por" pr
+"<celtas>"
+	"celta" adj mf pl
+	"celta" n mf pl
+"<,>"
+	"," cm
+"<como>"
+	"como" adv
+;	"como" pr
+;	"como" adv itg
+;	"como" rel adv
+;	"comer" vblex pri p1 sg
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<galaicos>"
+	"galaico" adj m pl
+"<e>"
+	"e" cnjcoo
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<lusitanos>"
+;	"lusitano" adj m pl
+	"lusitano" n m pl
+"<,>"
+	"," cm
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<integrado>"
+;	"integrado" adj m sg
+	"integrar" vblex pp m sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<República>"
+	"república" n f sg
+"<Romana>"
+	"romano" adj f sg
+;	"romano" n f sg
+"<e>"
+	"e" cnjcoo
+"<mais tarde>"
+	"mais tarde" adv
+"<colonizado>"
+;	"colonizado" adj m sg
+	"colonizar" vblex pp m sg
+"<por>"
+	"por" pr
+"<povos>"
+	"povo" n m pl
+"<germânicos>"
+	"germânico" adj m pl
+"<,>"
+	"," cm
+"<como>"
+	"como" adv
+;	"como" pr
+;	"como" adv itg
+;	"como" rel adv
+;	"comer" vblex pri p1 sg
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<suevos>"
+	"suevos" n m pl
+"<e>"
+	"e" cnjcoo
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<visigodos>"
+;	"visigodo" adj m pl
+	"visigodo" n m pl
+"<.>"
+	"." sent
+"<No>"
+	"o" det def m sg
+		"em" pr
+"<século>"
+	"século" n m sg
+"<VIII>"
+	"VIII" num mf sp
+"<,>"
+	"," cm
+"<as>"
+	"o" det def f pl
+;	"o" prn pro p3 f pl
+"<terras>"
+	"terra" n f pl
+"<foram>"
+;	"ir" vblex ifi p3 pl
+;	"ir" vblex pmp p3 pl
+	"ser" vbser ifi p3 pl
+;	"ser" vbser pmp p3 pl
+"<conquistadas>"
+;	"conquistado" adj f pl
+	"conquistar" vblex pp f pl
+"<pelos>"
+;	"pelo" n m pl
+	"o" det def m pl
+		"por" pr
+"<mouros>"
+;	"mouro" adj m pl
+	"mouro" n m pl
+"<.>"
+	"." sent
+"<Durante>"
+	"durante" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Reconquista>"
+	"reconquista" n f sg
+"<cristã>"
+	"cristão" adj f sg
+;	"cristão" n f sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<formado>"
+;	"formado" adj m sg
+	"formar" vblex pp m sg
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<Condado>"
+	"condado" n m sg
+"<Portucalense>"
+	"portucalense" adj mf sg
+"<,>"
+	"," cm
+"<estabelecido>"
+;	"estabelecido" adj m sg
+	"estabelecer" vblex pp m sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<século>"
+	"século" n m sg
+"<IX>"
+	"IX" num mf sp
+"<por>"
+	"por" pr
+"<Vímara>"
+	"Vímara" np ant m sg
+"<Peres>"
+	"Peres" np cog mf sp
+"<,>"
+	"," cm
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<vassalo>"
+;	"vassalo" adj m sg
+	"vassalo" n m sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<rei>"
+	"rei" n m sg
+"<das>"
+	"o" det def f pl
+		"de" pr
+"<Astúrias>"
+	"Astúrias" np top f pl
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<condado>"
+	"condado" n m sg
+"<tornou-se>"
+	"se" prn enc ref p3 mf sp
+		"tornar" vblex ifi p3 sg
+"<parte>"
+;	"parte" n m sg
+	"parte" n f sg
+;	"partir" vblex imp p2 sg
+;	"partir" vblex pri p3 sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<Reino>"
+	"reino" n m sg
+;	"reinar" vblex pri p1 sg
+"<de>"
+	"de" pr
+"<Leão>"
+;	"leão" n m sg
+;	"Leão" np cog mf sp
+;	"Leão" np ant m sg
+	"Leão" np top m sg
+"<em>"
+	"em" pr
+"<1097>"
+	"1097" num
+"<,>"
+	"," cm
+"<e>"
+	"e" cnjcoo
+"<os>"
+	"o" det def m pl
+;	"o" prn pro p3 m pl
+"<condes>"
+	"conde" n m pl
+"<de>"
+	"de" pr
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<estabeleceram-se>"
+	"se" prn enc ref p3 mf sp
+		"estabelecer" vblex ifi p3 pl
+;	"se" prn enc ref p3 mf sp
+;		"estabelecer" vblex pmp p3 pl
+"<como>"
+;	"como" adv
+;	"como" pr
+;	"como" adv itg
+	"como" rel adv
+;	"comer" vblex pri p1 sg
+"<governantes>"
+	"governante" n mf pl
+"<independentes>"
+	"independente" adj mf pl
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<reino>"
+	"reino" n m sg
+;	"reinar" vblex pri p1 sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<século>"
+	"século" n m sg
+"<XII>"
+	"XII" num mf sp
+"<,>"
+	"," cm
+"<após>"
+;	"após" adv
+	"após" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<batalha>"
+	"batalha" n f sg
+"<de>"
+	"de" pr
+"<São>"
+	"são" adj m sg
+;	"ser" vbser pri p3 pl
+"<Mamede>"
+	"Mamede" np cog mf sp
+"<.>"
+	"." sent
+"<Com>"
+	"com" pr
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<estabelecimento>"
+	"estabelecimento" n m sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<Reino>"
+	"reino" n m sg
+;	"reinar" vblex pri p1 sg
+"<de>"
+	"de" pr
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<em>"
+	"em" pr
+"<1139>"
+	"1139" num
+"<,>"
+	"," cm
+"<cuja>"
+	"cujo" rel aa f sg
+"<independência>"
+	"independência" n f sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<reconhecida>"
+;	"reconhecido" adj f sg
+	"reconhecer" vblex pp f sg
+"<em>"
+	"em" pr
+"<1143>"
+	"1143" num
+"<.>"
+	"." sent
+"<Em>"
+	"em" pr
+"<1297>"
+	"1297" num
+"<foram>"
+;	"ir" vblex ifi p3 pl
+;	"ir" vblex pmp p3 pl
+	"ser" vbser ifi p3 pl
+;	"ser" vbser pmp p3 pl
+"<definidas>"
+;	"definido" adj f pl
+	"definir" vblex pp f pl
+"<as>"
+	"o" det def f pl
+;	"o" prn pro p3 f pl
+"<fronteiras>"
+	"fronteira" n f pl
+;	"fronteiro" adj f pl
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<tratado>"
+;	"tratado" adj m sg
+	"tratado" n m sg
+;	"tratar" vblex pp m sg
+"<de>"
+	"de" pr
+"<Alcanizes>"
+	"Alcanizes" np top mf sp
+"<,>"
+	"," cm
+"<tornando>"
+	"tornar" vblex ger
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<no>"
+	"o" det def m sg
+		"em" pr
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<antigo>"
+	"antigo" adj m sg
+;	"antigo" n m sg
+"<Estado>"
+	"estado" n m sg
+;	"estar" vblex pp m sg
+"<->"
+	"-" guio
+"<nação>"
+	"nação" n f sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Europa>"
+;	"Europa" np ant f sg
+	"Europa" np top f sg
+"<.>"
+	"." sent
+"<Nos>"
+;	"nos" prn pro p1 mf pl
+	"o" det def m pl
+		"em" pr
+"<séculos>"
+	"século" n m pl
+"<XV>"
+	"XV" num mf sp
+"<e>"
+	"e" cnjcoo
+"<XVI>"
+	"XVI" num mf sp
+"<,>"
+	"," cm
+"<como>"
+;	"como" adv
+;	"como" pr
+;	"como" adv itg
+	"como" rel adv
+;	"comer" vblex pri p1 sg
+"<resultado>"
+;	"resultado" n m sg
+	"resultar" vblex pp m sg
+"<de>"
+	"de" pr
+"<pioneirismo>"
+	"pioneirismo" n mf sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<Era>"
+	"era" n f sg
+;	"ser" vbser pii p1 sg
+;	"ser" vbser pii p3 sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<Descobrimentos>"
+	"descobrimento" n m pl
+"<(>"
+	"(" lpar
+"<ver>"
+	"ver" vblex inf
+;	"ver" vblex infps p1 sg
+;	"ver" vblex infps p3 sg
+"<:>"
+	":" sent
+"<descobrimentos>"
+	"descobrimento" n m pl
+"<portugueses>"
+	"português" adj m pl
+;	"português" n m pl
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<expandiu>"
+	"expandir" vblex ifi p3 sg
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<influência>"
+	"influência" n f sg
+"<ocidental>"
+	"ocidental" adj mf sg
+;	"ocidental" n mf sg
+"<e>"
+	"e" cnjcoo
+"<estabeleceu>"
+	"estabelecer" vblex ifi p3 sg
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<império>"
+	"império" n m sg
+"<que>"
+	"que" cnjsub
+;	"que" prn itg mf sg
+;	"que" rel an mf sp
+"<incluía>"
+;	"incluir" vblex pii p1 sg
+	"incluir" vblex pii p3 sg
+"<possessões>"
+	"possessão" n f pl
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<África>"
+;	"áfrico" adj f sg
+;	"África" np ant f sg
+	"África" np top f sg
+"<,>"
+	"," cm
+"<Ásia>"
+;	"Ásia" np ant f sg
+	"Ásia" np top f sg
+"<,>"
+	"," cm
+"<Oceânia>"
+	"Oceânia" np top f sg
+"<e>"
+	"e" cnjcoo
+"<América do Sul>"
+	"América do Sul" np top f sg
+"<,>"
+	"," cm
+"<tornando-se>"
+	"se" prn enc ref p3 mf sp
+		"tornar" vblex ger
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<potência>"
+	"potência" n f sg
+"<económica>"
+	"económico" adj f sg
+"<,>"
+	"," cm
+"<política>"
+	"político" adj f sg
+;	"político" n f sg
+"<e>"
+	"e" cnjcoo
+"<militar>"
+;	"militar" vblex inf
+	"militar" adj mf sg
+;	"militar" n mf sg
+;	"militar" vblex fts p1 sg
+;	"militar" vblex fts p3 sg
+;	"militar" vblex infps p1 sg
+;	"militar" vblex infps p3 sg
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<importante>"
+	"importante" adj mf sg
+"<de>"
+	"de" pr
+"<todo o mundo>"
+	"todo o mundo" prn tn nt
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<Império>"
+	"império" n m sg
+"<Português>"
+	"português" adj m sg
+;	"português" n m sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<primeiro>"
+;	"primeiro" adv
+	"primeiro" adj m sg
+"<império>"
+	"império" n m sg
+"<global>"
+	"global" adj mf sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<História>"
+	"história" n f sg
+"<e>"
+	"e" cnjcoo
+"<também>"
+	"também" adv
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<duradouro>"
+	"duradouro" adj m sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<impérios>"
+	"império" n m pl
+"<coloniais>"
+	"colonial" adj mf pl
+"<europeus>"
+	"europeu" adj m pl
+;	"europeu" n m pl
+"<,>"
+	"," cm
+"<abrangendo>"
+	"abranger" vblex ger
+"<quase>"
+	"quase" adv
+;	"quase" preadv
+"<600>"
+	"600" num
+"<anos>"
+	"ano" n m pl
+"<de>"
+	"de" pr
+"<existência>"
+	"existência" n f sg
+"<,>"
+	"," cm
+"<desde>"
+	"desde" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<conquista>"
+	"conquista" n f sg
+;	"conquistar" vblex imp p2 sg
+;	"conquistar" vblex pri p3 sg
+"<de>"
+	"de" pr
+"<Ceuta>"
+	"Ceuta" np top f sg
+"<em>"
+	"em" pr
+"<1415>"
+	"1415" num
+"<,>"
+	"," cm
+"<até>"
+	"até" adv
+	"até" pr
+"<à>"
+	"o" det def f sg
+		"a" pr
+"<transferência>"
+	"transferência" n f sg
+"<de>"
+	"de" pr
+"<soberania>"
+	"soberania" n f sg
+"<de>"
+	"de" pr
+"<Macau>"
+	"Macau" np top m sg
+"<para>"
+	"para" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<China>"
+	"China" np top f sg
+"<em>"
+	"em" pr
+"<1999>"
+	"1999" num
+"<.>"
+	"." sent
+"<No entanto>"
+	"no entanto" cnjadv
+"<,>"
+	"," cm
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<importância>"
+	"importância" n f sg
+"<internacional>"
+	"internacional" adj mf sg
+;	"internacional" n mf sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<país>"
+	"país" n m sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<bastante>"
+	"bastante" adv
+;	"bastante" preadv
+;	"bastante" adj mf sg
+"<reduzida>"
+	"reduzido" adj f sg
+;	"reduzir" vblex pp f sg
+"<durante>"
+	"durante" pr
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<século>"
+	"século" n m sg
+"<XIX>"
+	"XIX" num mf sp
+"<,>"
+	"," cm
+"<especialmente>"
+	"especialmente" adv
+"<após>"
+;	"após" adv
+	"após" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<independência>"
+	"independência" n f sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<Brasil>"
+;	"Brasil" np cog mf sp
+	"Brasil" np top m sg
+"<,>"
+	"," cm
+"<a sua>"
+	"o seu" det pos f sg
+;	"o seu" prn tn pos f sg
+"<maior>"
+	"maior" adj mf sg
+"<colónia>"
+	"colónia" n f sg
+"<.>"
+	"." sent
+
+"<Com>"
+	"com" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Revolução>"
+	"revolução" n f sg
+"<de>"
+	"de" pr
+"<1910>"
+	"1910" num
+"<,>"
+	"," cm
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<monarquia>"
+	"monarquia" n f sg
+"<terminou>"
+	"terminar" vblex ifi p3 sg
+"<,>"
+	"," cm
+"<tendo>"
+;	"ter" vbhaver ger
+	"ter" vblex ger
+;	"tender" vblex pri p1 sg
+"<desde>"
+	"desde" pr
+"<1139>"
+	"1139" num
+"<até>"
+;	"até" adv
+	"até" pr
+"<1910>"
+	"1910" num
+"<,>"
+	"," cm
+"<34>"
+	"34" num
+"<monarcas>"
+	"monarca" n m pl
+"<.>"
+	"." sent
+"<A>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Primeira>"
+	"primeiro" adj f sg
+"<República>"
+	"república" n f sg
+"<Portuguesa>"
+	"português" adj f sg
+;	"português" n f sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<muito>"
+	"muito" adv
+;	"muito" preadv
+;	"muito" adj m sg
+"<instável>"
+	"instável" adj mf sg
+"<,>"
+	"," cm
+"<devido ao>"
+;	"o" detnt
+;		"devido a" pr
+	"o" det def m sg
+		"devido a" pr
+"<elevado>"
+	"elevado" adj m sg
+;	"elevar" vblex pp m sg
+"<parlamentarismo>"
+	"parlamentarismo" n m sg
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<regime>"
+	"regime" n m sg
+"<deu>"
+	"dar" vblex ifi p3 sg
+"<lugar>"
+	"lugar" n m sg
+"<à>"
+	"o" det def f sg
+		"a" pr
+"<ditadura>"
+	"ditadura" n f sg
+"<militar>"
+;	"militar" vblex inf
+	"militar" adj mf sg
+;	"militar" n mf sg
+;	"militar" vblex fts p1 sg
+;	"militar" vblex fts p3 sg
+;	"militar" vblex infps p1 sg
+;	"militar" vblex infps p3 sg
+"<devido a>"
+	"devido a" pr
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<levantamento>"
+	"levantamento" n m sg
+"<em>"
+	"em" pr
+"<28>"
+	"28" num
+"<de>"
+	"de" pr
+"<maio>"
+	"maio" n m sg
+"<de>"
+	"de" pr
+"<1926>"
+	"1926" num
+"<.>"
+	"." sent
+"<Em>"
+	"em" pr
+"<1933>"
+	"1933" num
+"<,>"
+	"," cm
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<novo>"
+	"novo" adj m sg
+"<regime>"
+	"regime" n m sg
+"<autoritário>"
+	"autoritário" adj m sg
+"<,>"
+	"," cm
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<Estado>"
+	"estado" n m sg
+;	"estar" vblex pp m sg
+"<Novo>"
+	"novo" adj m sg
+;	"Novo" np cog mf sp
+"<,>"
+	"," cm
+"<presidido>"
+;	"presidido" adj m sg
+	"presidir" vblex pp m sg
+"<por>"
+	"por" pr
+"<Salazar>"
+	"Salazar" np cog mf sp
+"<até>"
+;	"até" adv
+	"até" pr
+"<1968>"
+	"1968" num
+"<,>"
+	"," cm
+"<geriu>"
+	"gerir" vblex ifi p3 sg
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<país>"
+	"país" n m sg
+"<até>"
+;	"até" adv
+	"até" pr
+"<25>"
+	"25" num
+"<de>"
+	"de" pr
+"<abril>"
+	"abril" n m sg
+"<de>"
+	"de" pr
+"<1974>"
+	"1974" num
+"<.>"
+	"." sent
+"<A>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<democracia>"
+	"democracia" n f sg
+"<representativa>"
+	"representativo" adj f sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<instaurada>"
+;	"instaurado" adj f sg
+	"instaurar" vblex pp f sg
+"<após>"
+;	"após" adv
+	"após" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Revolução>"
+	"revolução" n f sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<Cravos>"
+	"cravo" n m pl
+"<,>"
+	"," cm
+"<em>"
+	"em" pr
+"<1974>"
+	"1974" num
+"<,>"
+	"," cm
+"<que>"
+	"que" cnjsub
+;	"que" prn itg mf sg
+;	"que" rel an mf sp
+"<terminou>"
+	"terminar" vblex ifi p3 sg
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Guerra>"
+	"guerra" n f sg
+;	"Guerra" np cog mf sp
+"<Colonial>"
+	"colonial" adj mf sg
+"<Portuguesa>"
+	"português" adj f sg
+;	"português" n f sg
+"<.>"
+	"." sent
+"<As>"
+	"o" det def f pl
+;	"o" prn pro p3 f pl
+"<províncias>"
+	"província" n f pl
+"<ultramarinas>"
+	"ultramarino" adj f pl
+"<de>"
+	"de" pr
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<tornaram-se>"
+	"se" prn enc ref p3 mf sp
+		"tornar" vblex ifi p3 pl
+;	"se" prn enc ref p3 mf sp
+;		"tornar" vblex pmp p3 pl
+"<independentes>"
+	"independente" adj mf pl
+"<,>"
+	"," cm
+"<sendo>"
+	"ser" vbser ger
+"<as>"
+	"o" det def f pl
+;	"o" prn pro p3 f pl
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<proeminentes>"
+	"proeminente" adj mf pl
+"<Angola>"
+	"Angola" np top f sg
+"<e>"
+	"e" cnjcoo
+"<Moçambique>"
+	"Moçambique" np top m sg
+"<.>"
+	"." sent
+
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<é>"
+	"ser" vbser pri p3 sg
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<país>"
+	"país" n m sg
+"<desenvolvido>"
+	"desenvolvido" adj m sg
+;	"desenvolver" vblex pp m sg
+"<,>"
+	"," cm
+"<com>"
+	"com" pr
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<Índice>"
+	"índice" n m sg
+"<de>"
+	"de" pr
+"<Desenvolvimento>"
+	"desenvolvimento" n m sg
+"<Humano>"
+	"humano" adj m sg
+;	"humano" n m sg
+"<(>"
+	"(" lpar
+"<IDH>"
+	"IDH" n acr m sg
+"<)>"
+	")" rpar
+"<considerado>"
+;	"considerado" adj m sg
+	"considerar" vblex pp m sg
+"<como>"
+;	"como" adv
+;	"como" pr
+;	"como" adv itg
+	"como" rel adv
+;	"comer" vblex pri p1 sg
+"<muito>"
+	"muito" adv
+;	"muito" preadv
+;	"muito" adj m sg
+"<elevado>"
+	"elevado" adj m sg
+;	"elevar" vblex pp m sg
+"<.>"
+	"." sent
+"<O>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<país>"
+	"país" n m sg
+"<foi>"
+;	"ir" vblex ifi p3 sg
+	"ser" vbser ifi p3 sg
+"<classificado>"
+;	"classificado" adj m sg
+	"classificar" vblex pp m sg
+"<na>"
+	"o" det def f sg
+		"em" pr
+"<19.ª>"
+	"19.ª" adj ord f sg
+"<posição>"
+	"posição" n f sg
+"<em>"
+	"em" pr
+"<qualidade>"
+	"qualidade" n f sg
+"<de>"
+	"de" pr
+"<vida>"
+	"vida" n f sg
+"<(>"
+	"(" lpar
+"<em>"
+	"em" pr
+"<2005>"
+	"2005" num
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<tem>"
+;	"ter" vbhaver imp p2 sg
+;	"ter" vbhaver pri p3 sg
+;	"ter" vblex imp p2 sg
+	"ter" vblex pri p3 sg
+"<um>"
+;	"um" num m sp
+;	"um" prn tn m sg
+	"um" det ind m sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<melhores>"
+	"melhor" adj mf pl
+;	"melhorar" vblex prs p2 sg
+"<sistemas>"
+	"sistema" n m pl
+"<de>"
+	"de" pr
+"<saúde>"
+	"saúde" n f sg
+;	"saudar" vblex imp p3 sg
+;	"saudar" vblex prs p1 sg
+;	"saudar" vblex prs p3 sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<planeta>"
+	"planeta" n m sg
+"<e>"
+	"e" cnjcoo
+"<é>"
+	"ser" vbser pri p3 sg
+"<,>"
+	"," cm
+"<também>"
+	"também" adv
+"<,>"
+	"," cm
+"<uma>"
+;	"um" num f sp
+;	"um" prn tn f sg
+	"um" det ind f sg
+"<das>"
+	"o" det def f pl
+		"de" pr
+"<nações>"
+	"nação" n f pl
+"<mais>"
+	"mais" adv
+;	"mais" preadv
+"<globalizadas>"
+	"globalizado" adj f pl
+;	"globalizar" vblex pp f pl
+"<e>"
+	"e" cnjcoo
+"<pacíficas>"
+	"pacífico" adj f pl
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<mundo>"
+	"mundo" n m sg
+"<.>"
+	"." sent
+"<É>"
+	"ser" vbser pri p3 sg
+"<membro>"
+	"membro" n m sg
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Organização>"
+	"organização" n f sg
+"<das>"
+	"o" det def f pl
+		"de" pr
+"<Nações>"
+	"nação" n f pl
+"<Unidas>"
+	"unido" adj f pl
+;	"unir" vblex pp f pl
+"<(>"
+	"(" lpar
+"<ONU>"
+	"ONU" n acr f sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<União Europeia>"
+	"União Europeia" np top f sg
+"<(>"
+	"(" lpar
+"<incluindo>"
+	"incluir" vblex ger
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Zona>"
+	"zona" n f sg
+"<Euro>"
+	"euro" n m sg
+"<e>"
+	"e" cnjcoo
+"<o>"
+;	"o" detnt
+;	"o" prn pro p3 nt
+	"o" det def m sg
+;	"o" prn pro p3 m sg
+"<Espaço>"
+	"espaço" n m sg
+;	"espaçar" vblex pri p1 sg
+"<Schengen>"
+	"Schengen" np top mf sg
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Organização>"
+	"organização" n f sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<Tratado>"
+;	"tratado" adj m sg
+	"tratado" n m sg
+;	"tratar" vblex pp m sg
+"<do>"
+;	"o" detnt
+;		"de" pr
+	"o" det def m sg
+		"de" pr
+"<Atlântico>"
+;	"atlântico" adj m sg
+	"Atlântico" np top m sg
+"<Norte>"
+	"Norte" np loc
+	"norte" adj mf sp
+;	"norte" n m sg
+"<(>"
+	"(" lpar
+"<NATO>"
+	"NATO" np al
+"<)>"
+	")" rpar
+"<,>"
+	"," cm
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Organização>"
+	"organização" n f sg
+"<para>"
+	"para" pr
+"<a>"
+;	"a" pr
+	"o" det def f sg
+;	"o" prn pro p3 f sg
+"<Cooperação>"
+	"cooperação" n f sg
+"<e>"
+	"e" cnjcoo
+"<Desenvolvimento>"
+	"desenvolvimento" n m sg
+"<Económico>"
+	"económico" adj m sg
+"<(>"
+	"(" lpar
+"<OCDE>"
+	"OCDE" np al
+;	"OCDE" n acr f sg
+"<)>"
+	")" rpar
+"<e>"
+	"e" cnjcoo
+"<da>"
+	"o" det def f sg
+		"de" pr
+"<Comunidade>"
+	"comunidade" n f sg
+"<dos>"
+	"o" det def m pl
+		"de" pr
+"<Países>"
+	"país" n m pl
+"<de>"
+	"de" pr
+"<Língua>"
+	"língua" n f sg
+"<Portuguesa>"
+	"português" adj f sg
+;	"português" n f sg
+"<(>"
+	"(" lpar
+"<CPLP>"
+	"CPLP" np al
+"<)>"
+	")" rpar
+"<.>"
+	"." sent
+"<Portugal>"
+;	"Portugal" np cog mf sp
+	"Portugal" np top m sg
+"<também>"
+	"também" adv
+"<participa>"
+;	"participar" vblex imp p2 sg
+	"participar" vblex pri p3 sg
+"<em>"
+	"em" pr
+"<diversas>"
+	"diverso" adj f pl
+"<missões>"
+	"missão" n f pl
+"<de>"
+	"de" pr
+"<manutenção>"
+	"manutenção" n f sg
+"<de>"
+	"de" pr
+"<paz>"
+	"paz" n f sg
+"<das>"
+	"o" det def f pl
+		"de" pr
+"<Nações>"
+	"nação" n f pl
+"<Unidas>"
+	"unido" adj f pl
+;	"unir" vblex pp f pl
+"<..>"
+	".." sent
