@@ -6,8 +6,8 @@ LANG1=por
 BASENAME=apertium-$(LANG1)
 
 VAR1=#deixar en blanc
-VAR2=_bra
-VAR3=_pt_pre1990
+VAR2=_BR
+VAR3=_PTpre1990
 
 TARGETS_COMMON =				\
 	$(LANG1)$(VAR1).automorf.bin		\
