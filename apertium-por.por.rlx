@@ -84,6 +84,7 @@ LIST Pl3 = (p3 pl) ;
 SET Noun_Adj = N OR A ;
 SET Noun_Adj_PP = N OR A OR PP ;
 SET Adj_PP = A OR PP ;
+SET Adv_PreAdv = Adv OR PreAdv ;
 
 SET Pers = (p1) OR (p2) OR (p3) ;
 SET Cnj_Rel = CC OR CS OR CA OR Rel ;
@@ -747,13 +748,16 @@ SELECT Pr IF (0 Pr) (0/* Det + &&GenderNumber) (1 Al + &&GenderNumber) (NOT 0 ("
 REMOVE Prn IF (0 Det + &&GenderNumber) (1 NP + &&GenderNumber) ;	# o João / o Sri Lanka
 
 # São
+SELECT Ser IF (0 São + MinIni) (-1 Noun_Adj_PP + Pl);
+SELECT Ser IF (0 São + MinIni) (-2 Noun_Adj_PP + Pl) (-1 Adv);
+SELECT Ser IF (0 São + MinIni) (-3 Noun_Adj_PP + Pl) (-2 Pr) (-1 NP);	# A maioria dos dinossauros em Portugal são do Jurássico Superior
+SELECT Ser IF (0 São ) (1 Noun_Adj_PP + Pl);
+SELECT Ser IF (0 São) (1 Adv_PreAdv) (2 A + Pl);
+SELECT Ser IF (0 São) (1 Num);
+SELECT Ser IF (0 São) (1 DP);
 SELECT A IF (0 São) (1 NP);
 SELECT A IF (0 São) (1 unknownMajIni);
 SELECT Ser IF (0 São) (1 unknownMinIni);
-SELECT Ser IF (0 São) (1 A + Pl);
-SELECT Ser IF (0 São) (1 N + Pl);
-SELECT Ser IF (0 São) (1 Adv) (2 A + Pl);
-SELECT Ser IF (0 São) (1 DP);
 
 #nuboros rules
 REMOVE A IF (-1 Barrera_Inicial_Estrict_SN) (0 N OR A + $$MascSg LINK 0 N OR NP) (1 A OR PP + $$MascSg) (NOT 0 Ordinal) ;
