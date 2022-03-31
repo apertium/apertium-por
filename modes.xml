@@ -9,10 +9,26 @@
     </pipeline>
   </mode>
 
-  <mode name="por-gener" install="yes">
+  <mode name="por_PT-gener" install="yes">
     <pipeline>
       <program name="lt-proc -g">
         <file name="por.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+  
+  <mode name="por_BR-gener" install="yes">
+    <pipeline>
+      <program name="lt-proc -g">
+        <file name="por_BR.autogen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="por_PTpre1990-gener" install="yes">
+    <pipeline>
+      <program name="lt-proc -g">
+        <file name="por_PTpre1990.autogen.bin"/>
       </program>
     </pipeline>
   </mode>
