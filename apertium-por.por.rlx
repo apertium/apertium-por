@@ -698,6 +698,12 @@ SELECT Top IF (-1/* ArtDef + &&GenderNumber) (0 Top + &&GenderNumber) ;
 SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Soviética")) ;
 SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Europeia")) ;
 SELECT ArtDef IF (0 ArtDef + FemSg) (1 ("União Européia")) ;
+SELECT Top IF (-1 ("alto") + MajIni + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT Top IF (-1 ("baixo") + MajIni + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT Top IF (1 ("oriental") + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT Top IF (1 ("occidental") + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT Top IF (1 ("<do>")) (2 ("norte") + MajIni + &&GenderNumber) (0 Top + &&GenderNumber) ;
+SELECT Top IF (1 ("<do>")) (2 ("sul") + MajIni + &&GenderNumber) (0 Top + &&GenderNumber) ;
 
 SELECT Ant_Cog IF (1 unknownMajIni) ;	# Marcos XXXX
 SELECT Ant_Cog IF (-1 unknownMajIni) ;	# XXXX Luz
