@@ -684,6 +684,8 @@ REMOVE Interj IF (0 ("obrigado")) (-2 Ser OR Haver OR Estar) (-1 Adv) ;
 
 # NP
 
+REMOVE NP IF (-1 BOS) (0 ("Nela")) ;
+
 REMOVE Cog IF (-1 ArtDef) (0 Ant) (0 Cog)  ;
 REMOVE Cog IF (-1 Em OR Desde) (0 Top) (0 Cog)  ;
 REMOVE Ant IF (-1 Em OR Desde) (0 Top) (0 Ant)  ;
