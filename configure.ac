@@ -1,6 +1,6 @@
 AC_PREREQ(2.52)
 
-AC_INIT([apertium-por], [0.3.0], [francis.tyers@uit.no])
+AC_INIT([apertium-por], [0.3.1], [francis.tyers@uit.no])
 AM_INIT_AUTOMAKE
 
 PKG_CHECK_MODULES(APERTIUM, apertium >= 3.6.0)
