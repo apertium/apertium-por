@@ -1,0 +1,24 @@
+[-jdw5cA2s17R#0] ^Meu/meu<adj><pos><m><sg>/meu<det><pos><m><sg>$ ^amigo/amigo<n><m><sg>/amigar<vblex><pri><p1><sg>$ ^escreve/escrever<vblex><imp><p2><sg>/escrever<vblex><pri><p3><sg>$ ^cartas/carta<n><f><pl>$ ^todos/todo<adj><m><pl>/todo<predet><m><pl>/todo<prn><tn><m><pl>/todo<det><ind><m><pl>$ ^os/o<det><def><m><pl>/o<prn><pro><p3><m><pl>$ ^dias/dia<n><m><pl>$^./.<sent>$
+[/-jdw5cA2s17R]
+[7se3Jq_q7gOm#0] ^O/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^cão/cão<n><m><sg>$ ^corre/correr<vblex><imp><p2><sg>/correr<vblex><pri><p3><sg>$ ^rapidamente/rapidamente<adv>$ ^e/e<cnjcoo>$ ^salta/saltar<vblex><imp><p2><sg>/saltar<vblex><pri><p3><sg>$ ^alto/alto<adj><m><sg>$^./.<sent>$
+[/7se3Jq_q7gOm]
+[B92GK6DT2tsW#0] ^LinkedIn/*LinkedIn$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<num><f><sp>/um<prn><tn><f><sg>/um<det><ind><f><sg>$ ^rede/rede<n><f><sg>$ ^social/social<adj><mf><sg>$^./.<sent>$
+[/B92GK6DT2tsW]
+[C83ILZLrpJ4c#0] ^A/a<pr>/o<det><def><f><sg>/o<prn><pro><p3><f><sg>$ ^amiga/amigo<n><f><sg>/amigar<vblex><imp><p2><sg>/amigar<vblex><pri><p3><sg>$ ^de/de<pr>$ ^Maria/maria<n><f><sg>/Maria<np><cog><mf><sp>/Maria<np><ant><f><sg>$ ^se/se<cnjadv>/se<prn><pro><ref><p3><mf><sp>$ ^chama/chama<n><f><sg>/chamar<vblex><imp><p2><sg>/chamar<vblex><pri><p3><sg>$ ^Ana/Ana<np><ant><f><sg>$ ^e/e<cnjcoo>$ ^vive/viver<vblex><imp><p2><sg>/viver<vblex><pri><p3><sg>$ ^em/em<pr>$ ^Madrid/Madrid<np><cog><mf><sp>/Madrid<np><top><m><sg>$^./.<sent>$
+[/C83ILZLrpJ4c]
+[E5ujaGkIfll6#0] ^A/a<pr>/o<det><def><f><sg>/o<prn><pro><p3><f><sg>$ ^OMS/OMS<n><acr><f><sg>/Oms<np><cog><mf><sp>$ ^lançou/lançar<vblex><ifi><p3><sg>$ ^uma/um<num><f><sp>/um<prn><tn><f><sg>/um<det><ind><f><sg>$ ^nova/novo<adj><f><sg>$ ^campanha/campanha<n><f><sg>$^./.<sent>$
+[/E5ujaGkIfll6]
+[MPcFk4ruiPvc#0] ^A/a<pr>/o<det><def><f><sg>/o<prn><pro><p3><f><sg>$ ^casa/casa<n><f><sg>/casar<vblex><imp><p2><sg>/casar<vblex><pri><p3><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$ ^e/e<cnjcoo>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
+[/MPcFk4ruiPvc]
+[UKmKnT3ia106#0] ^iPhone/iPhone<np><al>$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$ ^dispositivo/dispositivo<adj><m><sg>/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
+[/UKmKnT3ia106]
+[ZxOleCXuydym#0] ^YouTube/YouTube<np><al>$ ^permite/permitir<vblex><imp><p2><sg>/permitir<vblex><pri><p3><sg>$ ^compartilhar/compartilhar<vblex><inf>/compartilhar<vblex><fts><p1><sg>/compartilhar<vblex><fts><p3><sg>/compartilhar<vblex><infps><p1><sg>/compartilhar<vblex><infps><p3><sg>$ ^vídeos/vídeo<n><m><pl>$^./.<sent>$
+[/ZxOleCXuydym]
+[bGTqajdJonv8#0] ^Com/com<pr>$ ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$ ^jardim/jardim<n><m><sg>$ ^bonito/bonito<adj><m><sg>$ ^que/que<cnjsub>/que<prn><itg><mf><sg>/que<rel><an><mf><sp>$ ^tem/ter<vbhaver><imp><p2><sg>/ter<vbhaver><pri><p3><sg>/ter<vblex><imp><p2><sg>/ter<vblex><pri><p3><sg>$ ^muitas/muito<adj><f><pl>$ ^flores/flor<n><f><pl>$ ^e/e<cnjcoo>$ ^árvores/árvore<n><f><pl>$ ^altas/alto<adj><f><pl>$^./.<sent>$
+[/bGTqajdJonv8]
+[bariewe_wor5#0] ^PayPal/*PayPal$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<num><f><sp>/um<prn><tn><f><sg>/um<det><ind><f><sg>$ ^plataforma/plataforma<n><f><sg>$ ^de/de<pr>$ ^pagamentos/pagamento<n><m><pl>$^./.<sent>$
+[/bariewe_wor5]
+[fA11wuWSWOTA#0] ^Apple/Apple<np><al><f><sg>/Apple<np><cog><mf><sp>$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<num><f><sp>/um<prn><tn><f><sg>/um<det><ind><f><sg>$ ^empresa/empresa<n><f><sg>$ ^de/de<pr>$ ^tecnologia/tecnologia<n><f><sg>$^./.<sent>$
+[/fA11wuWSWOTA]
+[hlqSnyWzgUEy#0] ^LaTeX/*LaTeX$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$ ^sistema/sistema<n><m><sg>$ ^de/de<pr>$ ^composição/composição<n><f><sg>$ ^de/de<pr>$ ^textos/texto<n><m><pl>$^./.<sent>$
+[/hlqSnyWzgUEy]

@@ -19,7 +19,8 @@ TARGETS_COMMON =				\
 	$(LANG1)$(VAR1).autopgen.bin		\
 	$(LANG1)$(VAR2).autopgen.bin		\
 	$(LANG1)$(VAR3).autopgen.bin		\
-	$(LANG1)$(VAR1).rlx.bin
+	$(LANG1)$(VAR1).rlx.bin			\
+	$(LANG1).crx.bin 
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
 @ap_include@
@@ -71,6 +72,10 @@ $(LANG1)$(VAR3).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 
 $(LANG1)$(VAR2).autopgen.bin: $(BASENAME).post-$(LANG1).dix
 	lt-comp -a br lr $< $@
+
+$(LANG1).crx.bin: $(BASENAME).$(LANG1).crx
+	apertium-validate-crx $<
+	apertium-compile-caps $< $@
 
 ###############################################################################
 ## Disambiguation rules

@@ -1,0 +1,24 @@
+[-jdw5cA2s17R#0] ^Meu/meu<det><pos><m><sg>$ ^amigo/amigo<n><m><sg>$ ^escreve/escrever<vblex><pri><p3><sg>$ ^cartas/carta<n><f><pl>$ ^todos/todo<adj><m><pl>$ ^os/o<det><def><m><pl>$ ^dias/dia<n><m><pl>$^./.<sent>$
+[/-jdw5cA2s17R]
+[7se3Jq_q7gOm#0] ^O/o<det><def><m><sg>$ ^cão/cão<n><m><sg>$ ^corre/correr<vblex><pri><p3><sg>$ ^rapidamente/rapidamente<adv>$ ^e/e<cnjcoo>$ ^salta/saltar<vblex><pri><p3><sg>$ ^alto/alto<adj><m><sg>$^./.<sent>$
+[/7se3Jq_q7gOm]
+[B92GK6DT2tsW#0] ^LinkedIn/*LinkedIn$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^rede/rede<n><f><sg>$ ^social/social<adj><mf><sg>$^./.<sent>$
+[/B92GK6DT2tsW]
+[C83ILZLrpJ4c#0] ^A/o<det><def><f><sg>$ ^amiga/amigo<n><f><sg>$ ^de/de<pr>$ ^Maria/maria<n><f><sg>$ ^se/se<prn><pro><ref><p3><mf><sp>$ ^chama/chamar<vblex><pri><p3><sg>$ ^Ana/Ana<np><ant><f><sg>$ ^e/e<cnjcoo>$ ^vive/viver<vblex><pri><p3><sg>$ ^em/em<pr>$ ^Madrid/Madrid<np><cog><mf><sp>$^./.<sent>$
+[/C83ILZLrpJ4c]
+[E5ujaGkIfll6#0] ^A/o<det><def><f><sg>$ ^OMS/OMS<n><acr><f><sg>$ ^lançou/lançar<vblex><ifi><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^nova/novo<adj><f><sg>$ ^campanha/campanha<n><f><sg>$^./.<sent>$
+[/E5ujaGkIfll6]
+[MPcFk4ruiPvc#0] ^A/o<det><def><f><sg>$ ^casa/casa<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$ ^e/e<cnjcoo>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
+[/MPcFk4ruiPvc]
+[UKmKnT3ia106#0] ^iPhone/iPhone<np><al>$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^dispositivo/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
+[/UKmKnT3ia106]
+[ZxOleCXuydym#0] ^YouTube/YouTube<np><al>$ ^permite/permitir<vblex><pri><p3><sg>$ ^compartilhar/compartilhar<vblex><inf>$ ^vídeos/vídeo<n><m><pl>$^./.<sent>$
+[/ZxOleCXuydym]
+[bGTqajdJonv8#0] ^Com/com<pr>$ ^um/um<det><ind><m><sg>$ ^jardim/jardim<n><m><sg>$ ^bonito/bonito<adj><m><sg>$ ^que/que<rel><an><mf><sp>$ ^tem/ter<vblex><pri><p3><sg>$ ^muitas/muito<adj><f><pl>$ ^flores/flor<n><f><pl>$ ^e/e<cnjcoo>$ ^árvores/árvore<n><f><pl>$ ^altas/alto<adj><f><pl>$^./.<sent>$
+[/bGTqajdJonv8]
+[bariewe_wor5#0] ^PayPal/*PayPal$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^plataforma/plataforma<n><f><sg>$ ^de/de<pr>$ ^pagamentos/pagamento<n><m><pl>$^./.<sent>$
+[/bariewe_wor5]
+[fA11wuWSWOTA#0] ^Apple/Apple<np><al><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^empresa/empresa<n><f><sg>$ ^de/de<pr>$ ^tecnologia/tecnologia<n><f><sg>$^./.<sent>$
+[/fA11wuWSWOTA]
+[hlqSnyWzgUEy#0] ^LaTeX/*LaTeX$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^sistema/sistema<n><m><sg>$ ^de/de<pr>$ ^composição/composição<n><f><sg>$ ^de/de<pr>$ ^textos/texto<n><m><pl>$^./.<sent>$
+[/hlqSnyWzgUEy]

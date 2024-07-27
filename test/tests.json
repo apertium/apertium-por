@@ -2,5 +2,9 @@
     "analysis": {
         "input": "analysis-input.txt",
         "mode": "por-morph"
+    },
+    "por-caps": {
+        "input": "por-caps-input.txt",
+        "mode": "por-caps"
     }
 }
