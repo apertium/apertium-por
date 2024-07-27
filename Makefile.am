@@ -20,7 +20,7 @@ TARGETS_COMMON =				\
 	$(LANG1)$(VAR2).autopgen.bin		\
 	$(LANG1)$(VAR3).autopgen.bin		\
 	$(LANG1)$(VAR1).rlx.bin			\
-	$(LANG1).crx.bin 
+	$(LANG1)$(VAR1).crx.bin 
 
 # Use this goal for creating .deps, otherwise make -j2 will give problems:
 @ap_include@

@@ -32,18 +32,12 @@
 [/MPcFk4ruiPvc]
 [N8K2mvA8CFHG#0] [[c:Aa/aa]]^ele<prn><tn><p3><f><sg>$ [[c:aa/aa]]^viajar<vblex><pri><p3><sg>$ [[c:aa/aa]]^para<pr>$ [[c:aa/aa]]^novo<adj><m><pl>$ [[c:aa/aa]]^lugar<n><m><pl>$ [[c:aa/aa]]^frequentemente<adv>$[[c:aa/aa]]^.<sent>$
 [/N8K2mvA8CFHG]
-[ORHGgjAcDyBy#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^escola<n><f><sg>$ [[c:aa/aa]]^ficar<vblex><pri><p3><sg>$ [[c:aa/aa]]^próximo<adj><f><sg>$ [[c:aa/aa]]^a<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^parque<n><m><sg>$[[c:aa/aa]]^.<sent>$
-[/ORHGgjAcDyBy]
 [SB2tNVBW5q-3#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^pintura<n><f><sg>$ [[c:aa/aa]]^em<pr>+o<det><def><f><sg>$ [[c:aa/aa]]^parede<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^bonito<adj><f><sg>$[[c:aa/aa]]^.<sent>$
 [/SB2tNVBW5q-3]
-[SPORSgmuMxsP#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^filme<n><m><sg>$ [[c:aa/aa]]^em<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^cinema<n><m><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^engraçado<adj><m><sg>$[[c:aa/aa]]^.<sent>$
-[/SPORSgmuMxsP]
 [UKmKnT3ia106#0] [[c:aa/aa]]^iPhone<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^um<det><ind><m><sg>$ [[c:aa/aa]]^dispositivo<n><m><sg>$ [[c:aa/aa]]^popular<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/UKmKnT3ia106]
 [W9zUkQkK8qPl#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^jogo<n><m><sg>$ [[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^futebol<n><m><sg>$ [[c:aa/aa]]^ser<vbser><ifi><p3><sg>$ [[c:aa/aa]]^emocionante<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/W9zUkQkK8qPl]
-[WuokTt0EpYgr#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^sol<n><m><sg>$ [[c:aa/aa]]^brilhar<vblex><pri><p3><sg>$ [[c:aa/aa]]^forte<adv>$ [[c:aa/aa]]^em<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^verão<n><m><sg>$[[c:aa/aa]]^.<sent>$
-[/WuokTt0EpYgr]
 [ZxOleCXuydym#0] [[c:Aa/Aa]]^YouTube<np><al>$ [[c:aa/aa]]^permitir<vblex><pri><p3><sg>$ [[c:aa/aa]]^compartilhar<vblex><inf>$ [[c:aa/aa]]^vídeo<n><m><pl>$[[c:aa/aa]]^.<sent>$
 [/ZxOleCXuydym]
 [bGTqajdJonv8#0] [[c:Aa/aa]]^com<pr>$ [[c:aa/aa]]^um<det><ind><m><sg>$ [[c:aa/aa]]^jardim<n><m><sg>$ [[c:aa/aa]]^bonito<adj><m><sg>$ [[c:aa/aa]]^que<rel><an><mf><sp>$ [[c:aa/aa]]^ter<vblex><pri><p3><sg>$ [[c:aa/aa]]^muito<adj><f><pl>$ [[c:aa/aa]]^flor<n><f><pl>$ [[c:aa/aa]]^e<cnjcoo>$ [[c:aa/aa]]^árvore<n><f><pl>$ [[c:aa/aa]]^alto<adj><f><pl>$[[c:aa/aa]]^.<sent>$

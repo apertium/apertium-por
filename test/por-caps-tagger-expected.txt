@@ -32,18 +32,12 @@
 [/MPcFk4ruiPvc]
 [N8K2mvA8CFHG#0] ^Ela/ele<prn><tn><p3><f><sg>$ ^viaja/viajar<vblex><pri><p3><sg>$ ^para/para<pr>$ ^novos/novo<adj><m><pl>$ ^lugares/lugar<n><m><pl>$ ^frequentemente/frequentemente<adv>$^./.<sent>$
 [/N8K2mvA8CFHG]
-[ORHGgjAcDyBy#0] ^A/o<det><def><f><sg>$ ^escola/escola<n><f><sg>$ ^fica/ficar<vblex><pri><p3><sg>$ ^próxima/próximo<adj><f><sg>$ ^ao/a<pr>+o<det><def><m><sg>$ ^parque/parque<n><m><sg>$^./.<sent>$
-[/ORHGgjAcDyBy]
 [SB2tNVBW5q-3#0] ^A/o<det><def><f><sg>$ ^pintura/pintura<n><f><sg>$ ^na/em<pr>+o<det><def><f><sg>$ ^parede/parede<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
 [/SB2tNVBW5q-3]
-[SPORSgmuMxsP#0] ^O/o<det><def><m><sg>$ ^filme/filme<n><m><sg>$ ^no/em<pr>+o<det><def><m><sg>$ ^cinema/cinema<n><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^engraçado/engraçado<adj><m><sg>$^./.<sent>$
-[/SPORSgmuMxsP]
 [UKmKnT3ia106#0] ^iPhone/iPhone<np><al>$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^dispositivo/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
 [/UKmKnT3ia106]
 [W9zUkQkK8qPl#0] ^O/o<det><def><m><sg>$ ^jogo/jogo<n><m><sg>$ ^de/de<pr>$ ^futebol/futebol<n><m><sg>$ ^foi/ser<vbser><ifi><p3><sg>$ ^emocionante/emocionante<adj><mf><sg>$^./.<sent>$
 [/W9zUkQkK8qPl]
-[WuokTt0EpYgr#0] ^O/o<det><def><m><sg>$ ^sol/sol<n><m><sg>$ ^brilha/brilhar<vblex><pri><p3><sg>$ ^forte/forte<adv>$ ^no/em<pr>+o<det><def><m><sg>$ ^verão/verão<n><m><sg>$^./.<sent>$
-[/WuokTt0EpYgr]
 [ZxOleCXuydym#0] ^YouTube/YouTube<np><al>$ ^permite/permitir<vblex><pri><p3><sg>$ ^compartilhar/compartilhar<vblex><inf>$ ^vídeos/vídeo<n><m><pl>$^./.<sent>$
 [/ZxOleCXuydym]
 [bGTqajdJonv8#0] ^Com/com<pr>$ ^um/um<det><ind><m><sg>$ ^jardim/jardim<n><m><sg>$ ^bonito/bonito<adj><m><sg>$ ^que/que<rel><an><mf><sp>$ ^tem/ter<vblex><pri><p3><sg>$ ^muitas/muito<adj><f><pl>$ ^flores/flor<n><f><pl>$ ^e/e<cnjcoo>$ ^árvores/árvore<n><f><pl>$ ^altas/alto<adj><f><pl>$^./.<sent>$

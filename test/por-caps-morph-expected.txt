@@ -32,18 +32,12 @@
 [/MPcFk4ruiPvc]
 [N8K2mvA8CFHG#0] ^Ela/ele<prn><tn><p3><f><sg>$ ^viaja/viajar<vblex><imp><p2><sg>/viajar<vblex><pri><p3><sg>$ ^para/para<pr>$ ^novos/novo<adj><m><pl>$ ^lugares/lugar<n><m><pl>$ ^frequentemente/frequentemente<adv>$^./.<sent>$
 [/N8K2mvA8CFHG]
-[ORHGgjAcDyBy#0] ^A/a<pr>/o<det><def><f><sg>/o<prn><pro><p3><f><sg>$ ^escola/escola<n><f><sg>$ ^fica/ficar<vblex><imp><p2><sg>/ficar<vblex><pri><p3><sg>$ ^próxima/próximo<adj><f><sg>$ ^ao/a<pr>+o<detnt>/a<pr>+o<det><def><m><sg>$ ^parque/parque<n><m><sg>$^./.<sent>$
-[/ORHGgjAcDyBy]
 [SB2tNVBW5q-3#0] ^A/a<pr>/o<det><def><f><sg>/o<prn><pro><p3><f><sg>$ ^pintura/pintura<n><f><sg>$ ^na/em<pr>+o<det><def><f><sg>$ ^parede/parede<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
 [/SB2tNVBW5q-3]
-[SPORSgmuMxsP#0] ^O/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^filme/filme<n><m><sg>/filmar<vblex><imp><p3><sg>/filmar<vblex><prs><p1><sg>/filmar<vblex><prs><p3><sg>$ ^no/em<pr>+o<det><def><m><sg>$ ^cinema/cinema<n><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^engraçado/engraçado<adj><m><sg>$^./.<sent>$
-[/SPORSgmuMxsP]
 [UKmKnT3ia106#0] ^iPhone/iPhone<np><al>$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$ ^dispositivo/dispositivo<adj><m><sg>/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
 [/UKmKnT3ia106]
 [W9zUkQkK8qPl#0] ^O/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^jogo/jogo<n><m><sg>/jogar<vblex><pri><p1><sg>$ ^de/de<pr>$ ^futebol/futebol<n><m><sg>$ ^foi/ir<vblex><ifi><p3><sg>/ser<vbser><ifi><p3><sg>$ ^emocionante/emocionante<adj><mf><sg>$^./.<sent>$
 [/W9zUkQkK8qPl]
-[WuokTt0EpYgr#0] ^O/o<detnt>/o<prn><pro><p3><nt>/o<det><def><m><sg>/o<prn><pro><p3><m><sg>$ ^sol/sol<n><m><sg>$ ^brilha/brilhar<vblex><imp><p2><sg>/brilhar<vblex><pri><p3><sg>$ ^forte/forte<adv>/forte<adj><mf><sg>$ ^no/em<pr>+o<det><def><m><sg>$ ^verão/ver<vblex><fti><p3><pl>/verão<n><m><sg>$^./.<sent>$
-[/WuokTt0EpYgr]
 [ZxOleCXuydym#0] ^YouTube/YouTube<np><al>$ ^permite/permitir<vblex><imp><p2><sg>/permitir<vblex><pri><p3><sg>$ ^compartilhar/compartilhar<vblex><inf>/compartilhar<vblex><fts><p1><sg>/compartilhar<vblex><fts><p3><sg>/compartilhar<vblex><infps><p1><sg>/compartilhar<vblex><infps><p3><sg>$ ^vídeos/vídeo<n><m><pl>$^./.<sent>$
 [/ZxOleCXuydym]
 [bGTqajdJonv8#0] ^Com/com<pr>$ ^um/um<num><m><sp>/um<prn><tn><m><sg>/um<det><ind><m><sg>$ ^jardim/jardim<n><m><sg>$ ^bonito/bonito<adj><m><sg>$ ^que/que<cnjsub>/que<prn><itg><mf><sg>/que<rel><an><mf><sp>$ ^tem/ter<vbhaver><imp><p2><sg>/ter<vbhaver><pri><p3><sg>/ter<vblex><imp><p2><sg>/ter<vblex><pri><p3><sg>$ ^muitas/muito<adj><f><pl>$ ^flores/flor<n><f><pl>$ ^e/e<cnjcoo>$ ^árvores/árvore<n><f><pl>$ ^altas/alto<adj><f><pl>$^./.<sent>$
