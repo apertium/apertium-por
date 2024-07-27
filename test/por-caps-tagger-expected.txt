@@ -1,17 +1,49 @@
 [-jdw5cA2s17R#0] ^Meu/meu<det><pos><m><sg>$ ^amigo/amigo<n><m><sg>$ ^escreve/escrever<vblex><pri><p3><sg>$ ^cartas/carta<n><f><pl>$ ^todos/todo<adj><m><pl>$ ^os/o<det><def><m><pl>$ ^dias/dia<n><m><pl>$^./.<sent>$
 [/-jdw5cA2s17R]
+[1MMxi7H_gnK7#0] ^Ela/ele<prn><tn><p3><f><sg>$ ^gosta/gostar<vblex><pri><p3><sg>$ ^de/de<pr>$ ^comer/comer<vblex><inf>$ ^chocolate/chocolate<n><m><sg>$^./.<sent>$
+[/1MMxi7H_gnK7]
+[33BNUncRdU8i#0] ^Ele/ele<prn><tn><p3><m><sg>$ ^lê/ler<vblex><pri><p3><sg>$ ^livros/livro<n><m><pl>$ ^todas/todo<adj><f><pl>$ ^as/o<det><def><f><pl>$ ^noites/noite<n><f><pl>$^./.<sent>$
+[/33BNUncRdU8i]
+[3OemLrZYcvUK#0] ^O/o<det><def><m><sg>$ ^livro/livro<n><m><sg>$ ^na/em<pr>+o<det><def><f><sg>$ ^estante/estante<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^interessante/interessante<adj><mf><sg>$^./.<sent>$
+[/3OemLrZYcvUK]
 [7se3Jq_q7gOm#0] ^O/o<det><def><m><sg>$ ^cão/cão<n><m><sg>$ ^corre/correr<vblex><pri><p3><sg>$ ^rapidamente/rapidamente<adv>$ ^e/e<cnjcoo>$ ^salta/saltar<vblex><pri><p3><sg>$ ^alto/alto<adj><m><sg>$^./.<sent>$
 [/7se3Jq_q7gOm]
+[AB1_2fvi6Ypw#0] ^Ela/ele<prn><tn><p3><f><sg>$ ^tem/ter<vblex><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^cachorro/cachorro<n><m><sg>$ ^chamado/chamado<adj><m><sg>$ ^Rex/Rex<np><ant><m><sg>$^./.<sent>$
+[/AB1_2fvi6Ypw]
+[AuJQMvTY55nL#0] ^O/o<det><def><m><sg>$ ^carro/carro<n><m><sg>$ ^novo/novo<adj><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^muito/muito<preadv>$ ^rápido/rápido<adj><m><sg>$^./.<sent>$
+[/AuJQMvTY55nL]
 [B92GK6DT2tsW#0] ^LinkedIn/*LinkedIn$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^rede/rede<n><f><sg>$ ^social/social<adj><mf><sg>$^./.<sent>$
 [/B92GK6DT2tsW]
 [C83ILZLrpJ4c#0] ^A/o<det><def><f><sg>$ ^amiga/amigo<n><f><sg>$ ^de/de<pr>$ ^Maria/maria<n><f><sg>$ ^se/se<prn><pro><ref><p3><mf><sp>$ ^chama/chamar<vblex><pri><p3><sg>$ ^Ana/Ana<np><ant><f><sg>$ ^e/e<cnjcoo>$ ^vive/viver<vblex><pri><p3><sg>$ ^em/em<pr>$ ^Madrid/Madrid<np><cog><mf><sp>$^./.<sent>$
 [/C83ILZLrpJ4c]
+[ClL6iwMeFpqQ#0] ^O/o<det><def><m><sg>$ ^mercado/mercado<n><m><sg>$ ^vende/vender<vblex><pri><p3><sg>$ ^frutas/fruta<n><f><pl>$ ^frescas/fresco<adj><f><pl>$^./.<sent>$
+[/ClL6iwMeFpqQ]
 [E5ujaGkIfll6#0] ^A/o<det><def><f><sg>$ ^OMS/OMS<n><acr><f><sg>$ ^lançou/lançar<vblex><ifi><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^nova/novo<adj><f><sg>$ ^campanha/campanha<n><f><sg>$^./.<sent>$
 [/E5ujaGkIfll6]
+[F-eGYabTdfqn#0] ^Ele/ele<prn><tn><p3><m><sg>$ ^estuda/estudar<vblex><pri><p3><sg>$ ^para/para<pr>$ ^os/o<det><def><m><pl>$ ^exames/exame<n><m><pl>$ ^todos/todo<adj><m><pl>$ ^os/o<det><def><m><pl>$ ^dias/dia<n><m><pl>$^./.<sent>$
+[/F-eGYabTdfqn]
+[H-mFRmVCGEJQ#0] ^A/o<det><def><f><sg>$ ^música/música<n><f><sg>$ ^tocando/tocar<vblex><ger>$ ^no/em<pr>+o<det><def><m><sg>$ ^rádio/rádio<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^agradável/agradável<adj><mf><sg>$^./.<sent>$
+[/H-mFRmVCGEJQ]
+[HzmJNtxB_GCg#0] ^O/o<det><def><m><sg>$ ^gato/gato<n><m><sg>$ ^dorme/dormir<vblex><pri><p3><sg>$ ^embaixo da/embaixo de<pr>+o<det><def><f><sg>$ ^mesa/mesa<n><f><sg>$^./.<sent>$
+[/HzmJNtxB_GCg]
+[Ilf-dA6wnk7s#0] ^Ele/ele<prn><tn><p3><m><sg>$ ^toca/tocar<vblex><pri><p3><sg>$ ^piano/piano<adv>$ ^muito/muito<adv>$ ^bem/bem<n><m><sg>$^./.<sent>$
+[/Ilf-dA6wnk7s]
 [MPcFk4ruiPvc#0] ^A/o<det><def><f><sg>$ ^casa/casa<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^grande/grande<adj><mf><sg>$ ^e/e<cnjcoo>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
 [/MPcFk4ruiPvc]
+[N8K2mvA8CFHG#0] ^Ela/ele<prn><tn><p3><f><sg>$ ^viaja/viajar<vblex><pri><p3><sg>$ ^para/para<pr>$ ^novos/novo<adj><m><pl>$ ^lugares/lugar<n><m><pl>$ ^frequentemente/frequentemente<adv>$^./.<sent>$
+[/N8K2mvA8CFHG]
+[ORHGgjAcDyBy#0] ^A/o<det><def><f><sg>$ ^escola/escola<n><f><sg>$ ^fica/ficar<vblex><pri><p3><sg>$ ^próxima/próximo<adj><f><sg>$ ^ao/a<pr>+o<det><def><m><sg>$ ^parque/parque<n><m><sg>$^./.<sent>$
+[/ORHGgjAcDyBy]
+[SB2tNVBW5q-3#0] ^A/o<det><def><f><sg>$ ^pintura/pintura<n><f><sg>$ ^na/em<pr>+o<det><def><f><sg>$ ^parede/parede<n><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^bonita/bonito<adj><f><sg>$^./.<sent>$
+[/SB2tNVBW5q-3]
+[SPORSgmuMxsP#0] ^O/o<det><def><m><sg>$ ^filme/filme<n><m><sg>$ ^no/em<pr>+o<det><def><m><sg>$ ^cinema/cinema<n><m><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^engraçado/engraçado<adj><m><sg>$^./.<sent>$
+[/SPORSgmuMxsP]
 [UKmKnT3ia106#0] ^iPhone/iPhone<np><al>$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^dispositivo/dispositivo<n><m><sg>$ ^popular/popular<adj><mf><sg>$^./.<sent>$
 [/UKmKnT3ia106]
+[W9zUkQkK8qPl#0] ^O/o<det><def><m><sg>$ ^jogo/jogo<n><m><sg>$ ^de/de<pr>$ ^futebol/futebol<n><m><sg>$ ^foi/ser<vbser><ifi><p3><sg>$ ^emocionante/emocionante<adj><mf><sg>$^./.<sent>$
+[/W9zUkQkK8qPl]
+[WuokTt0EpYgr#0] ^O/o<det><def><m><sg>$ ^sol/sol<n><m><sg>$ ^brilha/brilhar<vblex><pri><p3><sg>$ ^forte/forte<adv>$ ^no/em<pr>+o<det><def><m><sg>$ ^verão/verão<n><m><sg>$^./.<sent>$
+[/WuokTt0EpYgr]
 [ZxOleCXuydym#0] ^YouTube/YouTube<np><al>$ ^permite/permitir<vblex><pri><p3><sg>$ ^compartilhar/compartilhar<vblex><inf>$ ^vídeos/vídeo<n><m><pl>$^./.<sent>$
 [/ZxOleCXuydym]
 [bGTqajdJonv8#0] ^Com/com<pr>$ ^um/um<det><ind><m><sg>$ ^jardim/jardim<n><m><sg>$ ^bonito/bonito<adj><m><sg>$ ^que/que<rel><an><mf><sp>$ ^tem/ter<vblex><pri><p3><sg>$ ^muitas/muito<adj><f><pl>$ ^flores/flor<n><f><pl>$ ^e/e<cnjcoo>$ ^árvores/árvore<n><f><pl>$ ^altas/alto<adj><f><pl>$^./.<sent>$
@@ -20,5 +52,9 @@
 [/bariewe_wor5]
 [fA11wuWSWOTA#0] ^Apple/Apple<np><al><f><sg>$ ^é/ser<vbser><pri><p3><sg>$ ^uma/um<det><ind><f><sg>$ ^empresa/empresa<n><f><sg>$ ^de/de<pr>$ ^tecnologia/tecnologia<n><f><sg>$^./.<sent>$
 [/fA11wuWSWOTA]
+[hLzoH0vZb_Qx#0] ^A/o<det><def><f><sg>$ ^festa/festa<n><f><sg>$ ^de/de<pr>$ ^aniversário/aniversário<n><m><sg>$ ^foi/ser<vbser><ifi><p3><sg>$ ^divertida/divertir<vblex><pp><f><sg>$^./.<sent>$
+[/hLzoH0vZb_Qx]
 [hlqSnyWzgUEy#0] ^LaTeX/*LaTeX$ ^é/ser<vbser><pri><p3><sg>$ ^um/um<det><ind><m><sg>$ ^sistema/sistema<n><m><sg>$ ^de/de<pr>$ ^composição/composição<n><f><sg>$ ^de/de<pr>$ ^textos/texto<n><m><pl>$^./.<sent>$
 [/hlqSnyWzgUEy]
+[piQHkXnneyMO#0] ^O/o<det><def><m><sg>$ ^professor/professor<n><m><sg>$ ^explica/explicar<vblex><pri><p3><sg>$ ^a/o<det><def><f><sg>$ ^lição/lição<n><f><sg>$ ^com/com<pr>$ ^clareza/clareza<n><f><sg>$^./.<sent>$
+[/piQHkXnneyMO]

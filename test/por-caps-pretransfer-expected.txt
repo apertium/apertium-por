@@ -4,7 +4,7 @@
 [/1MMxi7H_gnK7]
 [33BNUncRdU8i#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>$ [[c:aa/aa]]^ler<vblex><pri><p3><sg>$ [[c:aa/aa]]^livro<n><m><pl>$ [[c:aa/aa]]^todo<adj><f><pl>$ [[c:aa/aa]]^o<det><def><f><pl>$ [[c:aa/aa]]^noite<n><f><pl>$[[c:aa/aa]]^.<sent>$
 [/33BNUncRdU8i]
-[3OemLrZYcvUK#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^livro<n><m><sg>$ [[c:aa/aa]]^em<pr>+o<det><def><f><sg>$ [[c:aa/aa]]^estante<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^interessante<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
+[3OemLrZYcvUK#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^livro<n><m><sg>$ [[c:aa/aa]]^em<pr>$ [[c:aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^estante<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^interessante<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/3OemLrZYcvUK]
 [7se3Jq_q7gOm#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^cão<n><m><sg>$ [[c:aa/aa]]^correr<vblex><pri><p3><sg>$ [[c:aa/aa]]^rapidamente<adv>$ [[c:aa/aa]]^e<cnjcoo>$ [[c:aa/aa]]^saltar<vblex><pri><p3><sg>$ [[c:aa/aa]]^alto<adj><m><sg>$[[c:aa/aa]]^.<sent>$
 [/7se3Jq_q7gOm]
@@ -22,9 +22,9 @@
 [/E5ujaGkIfll6]
 [F-eGYabTdfqn#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>$ [[c:aa/aa]]^estudar<vblex><pri><p3><sg>$ [[c:aa/aa]]^para<pr>$ [[c:aa/aa]]^o<det><def><m><pl>$ [[c:aa/aa]]^exame<n><m><pl>$ [[c:aa/aa]]^todo<adj><m><pl>$ [[c:aa/aa]]^o<det><def><m><pl>$ [[c:aa/aa]]^dia<n><m><pl>$[[c:aa/aa]]^.<sent>$
 [/F-eGYabTdfqn]
-[H-mFRmVCGEJQ#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^música<n><f><sg>$ [[c:aa/aa]]^tocar<vblex><ger>$ [[c:aa/aa]]^em<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^rádio<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^agradável<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
+[H-mFRmVCGEJQ#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^música<n><f><sg>$ [[c:aa/aa]]^tocar<vblex><ger>$ [[c:aa/aa]]^em<pr>$ [[c:aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^rádio<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^agradável<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/H-mFRmVCGEJQ]
-[HzmJNtxB_GCg#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^gato<n><m><sg>$ [[c:aa/aa]]^dormir<vblex><pri><p3><sg>$ [[c:aa/aa]]^embaixo de<pr>+o<det><def><f><sg>$ [[c:aa/aa]]^mesa<n><f><sg>$[[c:aa/aa]]^.<sent>$
+[HzmJNtxB_GCg#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^gato<n><m><sg>$ [[c:aa/aa]]^dormir<vblex><pri><p3><sg>$ [[c:aa/aa]]^embaixo de<pr>$ [[c:aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^mesa<n><f><sg>$[[c:aa/aa]]^.<sent>$
 [/HzmJNtxB_GCg]
 [Ilf-dA6wnk7s#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>$ [[c:aa/aa]]^tocar<vblex><pri><p3><sg>$ [[c:aa/aa]]^piano<adv>$ [[c:aa/aa]]^muito<adv>$ [[c:aa/aa]]^bem<n><m><sg>$[[c:aa/aa]]^.<sent>$
 [/Ilf-dA6wnk7s]
@@ -32,17 +32,17 @@
 [/MPcFk4ruiPvc]
 [N8K2mvA8CFHG#0] [[c:Aa/aa]]^ele<prn><tn><p3><f><sg>$ [[c:aa/aa]]^viajar<vblex><pri><p3><sg>$ [[c:aa/aa]]^para<pr>$ [[c:aa/aa]]^novo<adj><m><pl>$ [[c:aa/aa]]^lugar<n><m><pl>$ [[c:aa/aa]]^frequentemente<adv>$[[c:aa/aa]]^.<sent>$
 [/N8K2mvA8CFHG]
-[ORHGgjAcDyBy#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^escola<n><f><sg>$ [[c:aa/aa]]^ficar<vblex><pri><p3><sg>$ [[c:aa/aa]]^próximo<adj><f><sg>$ [[c:aa/aa]]^a<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^parque<n><m><sg>$[[c:aa/aa]]^.<sent>$
+[ORHGgjAcDyBy#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^escola<n><f><sg>$ [[c:aa/aa]]^ficar<vblex><pri><p3><sg>$ [[c:aa/aa]]^próximo<adj><f><sg>$ [[c:aa/aa]]^a<pr>$ [[c:aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^parque<n><m><sg>$[[c:aa/aa]]^.<sent>$
 [/ORHGgjAcDyBy]
-[SB2tNVBW5q-3#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^pintura<n><f><sg>$ [[c:aa/aa]]^em<pr>+o<det><def><f><sg>$ [[c:aa/aa]]^parede<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^bonito<adj><f><sg>$[[c:aa/aa]]^.<sent>$
+[SB2tNVBW5q-3#0] [[c:Aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^pintura<n><f><sg>$ [[c:aa/aa]]^em<pr>$ [[c:aa/aa]]^o<det><def><f><sg>$ [[c:aa/aa]]^parede<n><f><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^bonito<adj><f><sg>$[[c:aa/aa]]^.<sent>$
 [/SB2tNVBW5q-3]
-[SPORSgmuMxsP#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^filme<n><m><sg>$ [[c:aa/aa]]^em<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^cinema<n><m><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^engraçado<adj><m><sg>$[[c:aa/aa]]^.<sent>$
+[SPORSgmuMxsP#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^filme<n><m><sg>$ [[c:aa/aa]]^em<pr>$ [[c:aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^cinema<n><m><sg>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^engraçado<adj><m><sg>$[[c:aa/aa]]^.<sent>$
 [/SPORSgmuMxsP]
 [UKmKnT3ia106#0] [[c:aa/aa]]^iPhone<np><al>$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>$ [[c:aa/aa]]^um<det><ind><m><sg>$ [[c:aa/aa]]^dispositivo<n><m><sg>$ [[c:aa/aa]]^popular<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/UKmKnT3ia106]
 [W9zUkQkK8qPl#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^jogo<n><m><sg>$ [[c:aa/aa]]^de<pr>$ [[c:aa/aa]]^futebol<n><m><sg>$ [[c:aa/aa]]^ser<vbser><ifi><p3><sg>$ [[c:aa/aa]]^emocionante<adj><mf><sg>$[[c:aa/aa]]^.<sent>$
 [/W9zUkQkK8qPl]
-[WuokTt0EpYgr#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^sol<n><m><sg>$ [[c:aa/aa]]^brilhar<vblex><pri><p3><sg>$ [[c:aa/aa]]^forte<adv>$ [[c:aa/aa]]^em<pr>+o<det><def><m><sg>$ [[c:aa/aa]]^verão<n><m><sg>$[[c:aa/aa]]^.<sent>$
+[WuokTt0EpYgr#0] [[c:Aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^sol<n><m><sg>$ [[c:aa/aa]]^brilhar<vblex><pri><p3><sg>$ [[c:aa/aa]]^forte<adv>$ [[c:aa/aa]]^em<pr>$ [[c:aa/aa]]^o<det><def><m><sg>$ [[c:aa/aa]]^verão<n><m><sg>$[[c:aa/aa]]^.<sent>$
 [/WuokTt0EpYgr]
 [ZxOleCXuydym#0] [[c:Aa/Aa]]^YouTube<np><al>$ [[c:aa/aa]]^permitir<vblex><pri><p3><sg>$ [[c:aa/aa]]^compartilhar<vblex><inf>$ [[c:aa/aa]]^vídeo<n><m><pl>$[[c:aa/aa]]^.<sent>$
 [/ZxOleCXuydym]

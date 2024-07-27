@@ -68,6 +68,7 @@
         <file name="por.prob"/>
       </program>
       <program name="apertium-extract-caps"/>
+      <program name="apertium-pretransfer"/>
       <program name="lt-proc -b">
         <file name="por.autogen.bin"/>
       </program>

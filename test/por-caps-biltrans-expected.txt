@@ -1,17 +1,49 @@
 [-jdw5cA2s17R#0] [[c:Aa/aa]]^meu<det><pos><m><sg>/meu$ [[c:aa/aa]]^amigo<n><m><sg>/amigo$ [[c:aa/aa]]^escrever<vblex><pri><p3><sg>/escreve$ [[c:aa/aa]]^carta<n><f><pl>/cartas$ [[c:aa/aa]]^todo<adj><m><pl>/todos$ [[c:aa/aa]]^o<det><def><m><pl>/~os$ [[c:aa/aa]]^dia<n><m><pl>/dias$[[c:aa/aa]]^.<sent>/.$
 [/-jdw5cA2s17R]
+[1MMxi7H_gnK7#0] [[c:Aa/aa]]^ele<prn><tn><p3><f><sg>/ela$ [[c:aa/aa]]^gostar<vblex><pri><p3><sg>/gosta$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^comer<vblex><inf>/comer$ [[c:aa/aa]]^chocolate<n><m><sg>/chocolate$[[c:aa/aa]]^.<sent>/.$
+[/1MMxi7H_gnK7]
+[33BNUncRdU8i#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>/ele$ [[c:aa/aa]]^ler<vblex><pri><p3><sg>/lê$ [[c:aa/aa]]^livro<n><m><pl>/livros$ [[c:aa/aa]]^todo<adj><f><pl>/todas$ [[c:aa/aa]]^o<det><def><f><pl>/as$ [[c:aa/aa]]^noite<n><f><pl>/noites$[[c:aa/aa]]^.<sent>/.$
+[/33BNUncRdU8i]
+[3OemLrZYcvUK#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^livro<n><m><sg>/livro$ [[c:aa/aa]]^em<pr>/~em$ [[c:aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^estante<n><f><sg>/estante$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^interessante<adj><mf><sg>/interessante$[[c:aa/aa]]^.<sent>/.$
+[/3OemLrZYcvUK]
 [7se3Jq_q7gOm#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^cão<n><m><sg>/cão$ [[c:aa/aa]]^correr<vblex><pri><p3><sg>/corre$ [[c:aa/aa]]^rapidamente<adv>/rapidamente$ [[c:aa/aa]]^e<cnjcoo>/e$ [[c:aa/aa]]^saltar<vblex><pri><p3><sg>/salta$ [[c:aa/aa]]^alto<adj><m><sg>/alto$[[c:aa/aa]]^.<sent>/.$
 [/7se3Jq_q7gOm]
+[AB1_2fvi6Ypw#0] [[c:Aa/aa]]^ele<prn><tn><p3><f><sg>/ela$ [[c:aa/aa]]^ter<vblex><pri><p3><sg>/tem$ [[c:aa/aa]]^um<det><ind><m><sg>/um$ [[c:aa/aa]]^cachorro<n><m><sg>/cachorro$ [[c:aa/aa]]^chamado<adj><m><sg>/chamado$ [[c:Aa/Aa]]^Rex<np><ant><m><sg>/Rex$[[c:aa/aa]]^.<sent>/.$
+[/AB1_2fvi6Ypw]
+[AuJQMvTY55nL#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^carro<n><m><sg>/carro$ [[c:aa/aa]]^novo<adj><m><sg>/novo$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^muito<preadv>/muito$ [[c:aa/aa]]^rápido<adj><m><sg>/rápido$[[c:aa/aa]]^.<sent>/.$
+[/AuJQMvTY55nL]
 [B92GK6DT2tsW#0] [[c:Aa/aa]]^*LinkedIn/*LinkedIn$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^um<det><ind><f><sg>/uma$ [[c:aa/aa]]^rede<n><f><sg>/rede$ [[c:aa/aa]]^social<adj><mf><sg>/social$[[c:aa/aa]]^.<sent>/.$
 [/B92GK6DT2tsW]
 [C83ILZLrpJ4c#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^amigo<n><f><sg>/amiga$ [[c:aa/aa]]^de<pr>/~de$ [[c:Aa/aa]]^maria<n><f><sg>/maria$ [[c:aa/aa]]^se<prn><pro><ref><p3><mf><sp>/se$ [[c:aa/aa]]^chamar<vblex><pri><p3><sg>/chama$ [[c:Aa/Aa]]^Ana<np><ant><f><sg>/Ana$ [[c:aa/aa]]^e<cnjcoo>/e$ [[c:aa/aa]]^viver<vblex><pri><p3><sg>/vive$ [[c:aa/aa]]^em<pr>/~em$ [[c:Aa/Aa]]^Madrid<np><cog><mf><sp>/Madrid$[[c:aa/aa]]^.<sent>/.$
 [/C83ILZLrpJ4c]
+[ClL6iwMeFpqQ#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^mercado<n><m><sg>/mercado$ [[c:aa/aa]]^vender<vblex><pri><p3><sg>/vende$ [[c:aa/aa]]^fruta<n><f><pl>/frutas$ [[c:aa/aa]]^fresco<adj><f><pl>/frescas$[[c:aa/aa]]^.<sent>/.$
+[/ClL6iwMeFpqQ]
 [E5ujaGkIfll6#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:AA/AA]]^OMS<n><acr><f><sg>/OMS$ [[c:aa/aa]]^lançar<vblex><ifi><p3><sg>/lançou$ [[c:aa/aa]]^um<det><ind><f><sg>/uma$ [[c:aa/aa]]^novo<adj><f><sg>/nova$ [[c:aa/aa]]^campanha<n><f><sg>/campanha$[[c:aa/aa]]^.<sent>/.$
 [/E5ujaGkIfll6]
+[F-eGYabTdfqn#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>/ele$ [[c:aa/aa]]^estudar<vblex><pri><p3><sg>/estuda$ [[c:aa/aa]]^para<pr>/para$ [[c:aa/aa]]^o<det><def><m><pl>/~os$ [[c:aa/aa]]^exame<n><m><pl>/exames$ [[c:aa/aa]]^todo<adj><m><pl>/todos$ [[c:aa/aa]]^o<det><def><m><pl>/~os$ [[c:aa/aa]]^dia<n><m><pl>/dias$[[c:aa/aa]]^.<sent>/.$
+[/F-eGYabTdfqn]
+[H-mFRmVCGEJQ#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^música<n><f><sg>/música$ [[c:aa/aa]]^tocar<vblex><ger>/tocando$ [[c:aa/aa]]^em<pr>/~em$ [[c:aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^rádio<n><f><sg>/rádio$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^agradável<adj><mf><sg>/agradável$[[c:aa/aa]]^.<sent>/.$
+[/H-mFRmVCGEJQ]
+[HzmJNtxB_GCg#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^gato<n><m><sg>/gato$ [[c:aa/aa]]^dormir<vblex><pri><p3><sg>/dorme$ [[c:aa/aa]]^embaixo de<pr>/embaixo ~de$ [[c:aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^mesa<n><f><sg>/mesa$[[c:aa/aa]]^.<sent>/.$
+[/HzmJNtxB_GCg]
+[Ilf-dA6wnk7s#0] [[c:Aa/aa]]^ele<prn><tn><p3><m><sg>/ele$ [[c:aa/aa]]^tocar<vblex><pri><p3><sg>/toca$ [[c:aa/aa]]^piano<adv>/piano$ [[c:aa/aa]]^muito<adv>/muito$ [[c:aa/aa]]^bem<n><m><sg>/bem$[[c:aa/aa]]^.<sent>/.$
+[/Ilf-dA6wnk7s]
 [MPcFk4ruiPvc#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^casa<n><f><sg>/casa$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^grande<adj><mf><sg>/grande$ [[c:aa/aa]]^e<cnjcoo>/e$ [[c:aa/aa]]^bonito<adj><f><sg>/bonita$[[c:aa/aa]]^.<sent>/.$
 [/MPcFk4ruiPvc]
+[N8K2mvA8CFHG#0] [[c:Aa/aa]]^ele<prn><tn><p3><f><sg>/ela$ [[c:aa/aa]]^viajar<vblex><pri><p3><sg>/viaja$ [[c:aa/aa]]^para<pr>/para$ [[c:aa/aa]]^novo<adj><m><pl>/novos$ [[c:aa/aa]]^lugar<n><m><pl>/lugares$ [[c:aa/aa]]^frequentemente<adv>/frequentemente$[[c:aa/aa]]^.<sent>/.$
+[/N8K2mvA8CFHG]
+[ORHGgjAcDyBy#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^escola<n><f><sg>/escola$ [[c:aa/aa]]^ficar<vblex><pri><p3><sg>/fica$ [[c:aa/aa]]^próximo<adj><f><sg>/próxima$ [[c:aa/aa]]^a<pr>/~a$ [[c:aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^parque<n><m><sg>/parque$[[c:aa/aa]]^.<sent>/.$
+[/ORHGgjAcDyBy]
+[SB2tNVBW5q-3#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^pintura<n><f><sg>/pintura$ [[c:aa/aa]]^em<pr>/~em$ [[c:aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^parede<n><f><sg>/parede$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^bonito<adj><f><sg>/bonita$[[c:aa/aa]]^.<sent>/.$
+[/SB2tNVBW5q-3]
+[SPORSgmuMxsP#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^filme<n><m><sg>/filme$ [[c:aa/aa]]^em<pr>/~em$ [[c:aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^cinema<n><m><sg>/cinema$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^engraçado<adj><m><sg>/engraçado$[[c:aa/aa]]^.<sent>/.$
+[/SPORSgmuMxsP]
 [UKmKnT3ia106#0] [[c:aa/aa]]^iPhone<np><al>/iPhone$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^um<det><ind><m><sg>/um$ [[c:aa/aa]]^dispositivo<n><m><sg>/dispositivo$ [[c:aa/aa]]^popular<adj><mf><sg>/popular$[[c:aa/aa]]^.<sent>/.$
 [/UKmKnT3ia106]
+[W9zUkQkK8qPl#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^jogo<n><m><sg>/jogo$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^futebol<n><m><sg>/futebol$ [[c:aa/aa]]^ser<vbser><ifi><p3><sg>/foi$ [[c:aa/aa]]^emocionante<adj><mf><sg>/emocionante$[[c:aa/aa]]^.<sent>/.$
+[/W9zUkQkK8qPl]
+[WuokTt0EpYgr#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^sol<n><m><sg>/sol$ [[c:aa/aa]]^brilhar<vblex><pri><p3><sg>/brilha$ [[c:aa/aa]]^forte<adv>/forte$ [[c:aa/aa]]^em<pr>/~em$ [[c:aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^verão<n><m><sg>/verão$[[c:aa/aa]]^.<sent>/.$
+[/WuokTt0EpYgr]
 [ZxOleCXuydym#0] [[c:Aa/Aa]]^YouTube<np><al>/YouTube$ [[c:aa/aa]]^permitir<vblex><pri><p3><sg>/permite$ [[c:aa/aa]]^compartilhar<vblex><inf>/compartilhar$ [[c:aa/aa]]^vídeo<n><m><pl>/vídeos$[[c:aa/aa]]^.<sent>/.$
 [/ZxOleCXuydym]
 [bGTqajdJonv8#0] [[c:Aa/aa]]^com<pr>/com$ [[c:aa/aa]]^um<det><ind><m><sg>/um$ [[c:aa/aa]]^jardim<n><m><sg>/jardim$ [[c:aa/aa]]^bonito<adj><m><sg>/bonito$ [[c:aa/aa]]^que<rel><an><mf><sp>/que$ [[c:aa/aa]]^ter<vblex><pri><p3><sg>/tem$ [[c:aa/aa]]^muito<adj><f><pl>/muitas$ [[c:aa/aa]]^flor<n><f><pl>/flores$ [[c:aa/aa]]^e<cnjcoo>/e$ [[c:aa/aa]]^árvore<n><f><pl>/árvores$ [[c:aa/aa]]^alto<adj><f><pl>/altas$[[c:aa/aa]]^.<sent>/.$
@@ -20,5 +52,9 @@
 [/bariewe_wor5]
 [fA11wuWSWOTA#0] [[c:Aa/Aa]]^Apple<np><al><f><sg>/Apple$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^um<det><ind><f><sg>/uma$ [[c:aa/aa]]^empresa<n><f><sg>/empresa$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^tecnologia<n><f><sg>/tecnologia$[[c:aa/aa]]^.<sent>/.$
 [/fA11wuWSWOTA]
+[hLzoH0vZb_Qx#0] [[c:Aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^festa<n><f><sg>/festa$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^aniversário<n><m><sg>/aniversário$ [[c:aa/aa]]^ser<vbser><ifi><p3><sg>/foi$ [[c:aa/aa]]^divertir<vblex><pp><f><sg>/divertida$[[c:aa/aa]]^.<sent>/.$
+[/hLzoH0vZb_Qx]
 [hlqSnyWzgUEy#0] [[c:AA/aa]]^*LaTeX/*LaTeX$ [[c:aa/aa]]^ser<vbser><pri><p3><sg>/é$ [[c:aa/aa]]^um<det><ind><m><sg>/um$ [[c:aa/aa]]^sistema<n><m><sg>/sistema$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^composição<n><f><sg>/composição$ [[c:aa/aa]]^de<pr>/~de$ [[c:aa/aa]]^texto<n><m><pl>/textos$[[c:aa/aa]]^.<sent>/.$
 [/hlqSnyWzgUEy]
+[piQHkXnneyMO#0] [[c:Aa/aa]]^o<det><def><m><sg>/~o$ [[c:aa/aa]]^professor<n><m><sg>/professor$ [[c:aa/aa]]^explicar<vblex><pri><p3><sg>/explica$ [[c:aa/aa]]^o<det><def><f><sg>/a$ [[c:aa/aa]]^lição<n><f><sg>/lição$ [[c:aa/aa]]^com<pr>/com$ [[c:aa/aa]]^clareza<n><f><sg>/clareza$[[c:aa/aa]]^.<sent>/.$
+[/piQHkXnneyMO]
